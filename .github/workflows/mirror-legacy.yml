@@ -41,7 +41,7 @@ jobs:
       - name: Mirror derived compatibility files
         run: |
           node tools/mirror-legacy.mjs legacy-repo
-          if git -C legacy-repo diff --quiet -- generated/index.json data/profiles; then
+          if test -z "$(git -C legacy-repo status --porcelain -- generated/index.json data/profiles)"; then
             echo "Legacy mirror already current."
             exit 0
           fi

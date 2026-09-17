@@ -1,0 +1,41 @@
+name: Mirror legacy compatibility artifacts
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: legacy-mirror
+  cancel-in-progress: true
+
+jobs:
+  mirror:
+    if: github.repository == 'Bbrizly/Adaptive-Profiles-Registry'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node tools/build-index.mjs
+      - run: node tools/validate.mjs --check-index
+      - uses: actions/checkout@v4
+        with:
+          repository: Bbrizly/Adaptive-Profiles
+          token: ${{ secrets.LEGACY_MIRROR_TOKEN }}
+          path: legacy-repo
+      - name: Mirror derived compatibility files
+        run: |
+          node tools/mirror-legacy.mjs legacy-repo
+          if git -C legacy-repo diff --quiet -- generated/index.json data/profiles; then
+            echo "Legacy mirror already current."
+            exit 0
+          fi
+          git -C legacy-repo config user.name "adaptive-profiles-mirror[bot]"
+          git -C legacy-repo config user.email "adaptive-profiles-mirror@users.noreply.github.com"
+          git -C legacy-repo add generated/index.json data/profiles
+          git -C legacy-repo commit -m "chore: mirror canonical registry compatibility artifacts"
+          git -C legacy-repo push origin HEAD:main

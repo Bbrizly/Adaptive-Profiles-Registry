@@ -1,0 +1,10 @@
+{
+  "name": "adaptive-profiles-registry",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "build:index": "node tools/build-index.mjs",
+    "check": "npm run build:index && npm run validate -- --check-index"
+  }
+}

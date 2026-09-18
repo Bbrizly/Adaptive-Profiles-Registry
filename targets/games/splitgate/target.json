@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "splitgate",
+  "kind": "game",
+  "name": "Splitgate",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ItLzZubgqt3t6Ja4H-4V9bJZCM0SmG_7CZmFojoBrsA/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Splitgate (betatest) x360"
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677620/header.jpg",
+    "source": "https://store.steampowered.com/app/677620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 677620,
+      "name": "Splitgate",
+      "url": "https://store.steampowered.com/app/677620/",
+      "description": "Splitgate is a free-to-play, fast-paced multiplayer shooter that features player-controlled portals. This sci-fi shooter takes the FPS genre to a new dimension with its portal mechanics, delivering high-flying, multi-dimensional combat.",
+      "releaseDate": "May 24, 2019",
+      "genres": [
+        "Action",
+        "Free To Play",
+        "Indie"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "rating": {
+        "score": 91.39,
+        "positive": 100945,
+        "negative": 9511,
+        "total": 110456
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "counter-strike-2",
+  "kind": "game",
+  "name": "Counter-Strike 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/Counterstrikev2"
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+    "source": "https://store.steampowered.com/app/730/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 730,
+      "name": "Counter-Strike 2",
+      "url": "https://store.steampowered.com/app/730/",
+      "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+      "releaseDate": "Aug 21, 2012",
+      "genres": [
+        "Action",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "rating": {
+        "score": 85.87,
+        "positive": 8470996,
+        "negative": 1394214,
+        "total": 9865210
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  }
+}

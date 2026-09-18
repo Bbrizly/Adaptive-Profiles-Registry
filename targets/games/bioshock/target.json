@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "id": "bioshock",
+  "kind": "game",
+  "name": "BioShock",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1IzWBk_Au7t5DmvdXl1SgmRYHl1rlfQxRobcTsKi-lVM/edit",
+    "title": "QuadStick public configuration catalog — BioShock1"
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg",
+    "source": "https://store.steampowered.com/app/7670/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 7670,
+      "name": "BioShock™",
+      "url": "https://store.steampowered.com/app/7670/",
+      "description": "BioShock is a shooter unlike any you've ever played, loaded with weapons and tactics never seen. You'll have a complete arsenal at your disposal from simple revolvers to grenade launchers and chemical throwers, but you'll also be forced to genetically modify your DNA to create an even more deadly weapon: you.",
+      "releaseDate": "Aug 21, 2007",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 93.97,
+        "positive": 30277,
+        "negative": 1943,
+        "total": 32220
+      },
+      "metacritic": 96,
+      "fetchedAt": "2026-09-18"
+    }
+  }
+}

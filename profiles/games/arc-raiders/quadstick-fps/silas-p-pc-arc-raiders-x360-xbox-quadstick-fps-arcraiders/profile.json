@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-arc-raiders-x360-xbox-quadstick-fps-arcraiders",
+  "title": "ARC Raiders — ARCRaiders",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "arc-raiders"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ca13cc0fdfb36e4fe2ccd71ace032e02ecaf506ad0a68858a7e42543a96d4e0a"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

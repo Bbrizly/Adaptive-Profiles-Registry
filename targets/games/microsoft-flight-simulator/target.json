@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "microsoft-flight-simulator",
+  "kind": "game",
+  "name": "Microsoft Flight Simulator",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Copy of Flight Simulator 20"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/microsoft-flight-simulator.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/microsoft-flight-simulator.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

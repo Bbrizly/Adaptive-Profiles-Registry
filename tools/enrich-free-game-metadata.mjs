@@ -40,7 +40,7 @@ for (const file of files) {
     if (match) { const metadata = await enrichSteam(match); if (metadata) { target.metadata = { ...(target.metadata || {}), steam: metadata }; target.artwork = { kind: 'steam', url: `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${match.id}/header.jpg`, source: metadata.url, attribution: 'Steam store artwork', license: 'third-party' }; matched += 1; } }
     else unresolved += 1;
   } catch (error) { console.error(`${target.name}: ${error.message}`); unresolved += 1; }
-  if (!target.artwork) { const relative = path.join('artwork', 'games', `${target.id}.svg`); const full = path.join(ROOT, relative); fs.mkdirSync(path.dirname(full), { recursive: true }); fs.writeFileSync(full, artworkSvg(target)); target.artwork = { kind: 'generated', path: relative, url: `https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/${relative}`, attribution: 'Adaptive Profiles', license: 'MIT' }; }
+  if (!target.artwork || target.artwork.kind === 'generated') { const relative = path.join('artwork', 'games', `${target.id}.svg`); const full = path.join(ROOT, relative); fs.mkdirSync(path.dirname(full), { recursive: true }); fs.writeFileSync(full, artworkSvg(target)); target.artwork = { kind: 'generated', path: relative, url: `https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/${relative}`, attribution: 'Adaptive Profiles', license: 'MIT' }; }
   fs.writeFileSync(file, `${JSON.stringify(target, null, 2)}\n`);
   await sleep(250);
 }

@@ -109,10 +109,10 @@
         "linux"
       ],
       "rating": {
-        "score": 93.84,
-        "positive": 516332,
-        "negative": 33906,
-        "total": 550238
+        "score": 93.83,
+        "positive": 516418,
+        "negative": 33933,
+        "total": 550351
       },
       "metacritic": 89,
       "fetchedAt": "2026-09-18"

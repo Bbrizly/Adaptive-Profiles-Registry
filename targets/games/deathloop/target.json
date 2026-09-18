@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "deathloop",
+  "kind": "game",
+  "name": "Deathloop",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1cDHb5PUQRLySYwuJM0OFSyCAZQixkV6qcYpWDyxY1Uw/edit",
+    "title": "QuadStick public configuration catalog — Deathloop KBM"
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg",
+    "source": "https://store.steampowered.com/app/1252330/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1252330,
+      "name": "DEATHLOOP",
+      "url": "https://store.steampowered.com/app/1252330/",
+      "description": "DEATHLOOP is a next-gen FPS from Arkane Lyon, the award-winning studio behind Dishonored. In DEATHLOOP, two rival assassins are trapped in a mysterious timeloop on the island of Blackreef, doomed to repeat the same day for eternity.",
+      "releaseDate": "Sep 13, 2021",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 76.04,
+        "positive": 23178,
+        "negative": 7302,
+        "total": 30480
+      },
+      "metacritic": 87,
+      "fetchedAt": "2026-09-18"
+    }
+  }
+}

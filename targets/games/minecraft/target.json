@@ -220,8 +220,8 @@
   "artwork": {
     "kind": "generated",
     "path": "artwork/games/minecraft.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg",
     "attribution": "Adaptive Profiles",
-    "license": "MIT",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg"
+    "license": "MIT"
   }
 }

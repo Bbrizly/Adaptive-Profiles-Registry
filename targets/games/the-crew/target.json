@@ -30,8 +30,8 @@
   "artwork": {
     "kind": "generated",
     "path": "artwork/games/the-crew.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg",
     "attribution": "Adaptive Profiles",
-    "license": "MIT",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg"
+    "license": "MIT"
   }
 }

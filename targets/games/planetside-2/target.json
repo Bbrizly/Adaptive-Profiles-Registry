@@ -48,9 +48,9 @@
       ],
       "rating": {
         "score": 80.37,
-        "positive": 60175,
+        "positive": 60173,
         "negative": 14699,
-        "total": 74874
+        "total": 74872
       },
       "metacritic": 84,
       "fetchedAt": "2026-09-18"

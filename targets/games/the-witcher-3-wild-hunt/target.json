@@ -36,8 +36,8 @@
   "artwork": {
     "kind": "generated",
     "path": "artwork/games/the-witcher-3-wild-hunt.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-witcher-3-wild-hunt.svg",
     "attribution": "Adaptive Profiles",
-    "license": "MIT",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-witcher-3-wild-hunt.svg"
+    "license": "MIT"
   }
 }

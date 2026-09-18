@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "grand-theft-auto-v",
+  "kind": "game",
+  "name": "Grand Theft Auto V",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
+    "title": "QuadStick public configuration catalog — GTA V Cheat codes"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/grand-theft-auto-v.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-v.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

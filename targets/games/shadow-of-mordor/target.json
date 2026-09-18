@@ -18,8 +18,8 @@
   "artwork": {
     "kind": "generated",
     "path": "artwork/games/shadow-of-mordor.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg",
     "attribution": "Adaptive Profiles",
-    "license": "MIT",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg"
+    "license": "MIT"
   }
 }

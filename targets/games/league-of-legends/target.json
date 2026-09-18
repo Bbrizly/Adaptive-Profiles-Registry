@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "league-of-legends",
+  "kind": "game",
+  "name": "League of Legends",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/Copy of LOL"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/league-of-legends.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/league-of-legends.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

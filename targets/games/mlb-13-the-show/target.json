@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "mlb-13-the-show",
+  "kind": "game",
+  "name": "MLB 13: The Show",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1LOEaUmdGfa-eQUuc7vLhCQkXRDZFXIo0JcKPCm4MEYY/edit",
+    "title": "QuadStick public configuration catalog — MLB13"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/mlb-13-the-show.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mlb-13-the-show.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

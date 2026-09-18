@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "battlefield-2042",
+  "kind": "game",
+  "name": "Battlefield 2042",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1DtlwQonmFcQA_j6mVQnJzG-UjQln7MwbYq4s7AQBiVw/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Battlefield 2042 QMP4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q106686950",
+    "url": "https://www.wikidata.org/entity/Q106686950",
+    "name": "Battlefield 2042",
+    "description": "2021 first-person shooter video game developed by EA DICE",
+    "releaseDate": "2021-11-19",
+    "genres": [
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1517290,
+      "name": "Battlefield™ 2042",
+      "url": "https://store.steampowered.com/app/1517290/",
+      "description": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise.",
+      "releaseDate": "Nov 19, 2021",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 47.17,
+        "positive": 153620,
+        "negative": 172077,
+        "total": 325697
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg",
+    "source": "https://store.steampowered.com/app/1517290/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

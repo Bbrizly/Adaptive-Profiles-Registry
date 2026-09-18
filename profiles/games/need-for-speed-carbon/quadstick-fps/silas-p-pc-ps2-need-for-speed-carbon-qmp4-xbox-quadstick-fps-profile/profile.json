@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-ps2-need-for-speed-carbon-qmp4-xbox-quadstick-fps-profile",
+  "title": "Need for Speed: Carbon — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "need-for-speed-carbon"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "6d5ef30eab27c755dd650f9db5b64777c08f0a74d223cb3c0ca2a28f84f6f2c5"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

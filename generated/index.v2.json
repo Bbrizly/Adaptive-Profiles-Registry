@@ -3,9 +3,9 @@
   "targets": [
     {
       "schemaVersion": 2,
-      "id": "007-first-light-x360",
+      "id": "007-first-light",
       "kind": "game",
-      "name": "007 - First Light x360",
+      "name": "007 First Light",
       "aliases": [],
       "categories": [
         "gaming"
@@ -19,11 +19,36 @@
         "title": "QuadStick public configuration catalog — Silas P. (PC)/007 - First Light x360"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/007-first-light-x360.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/007-first-light-x360.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+        "source": "https://store.steampowered.com/app/3768760/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 3768760,
+          "name": "007 First Light",
+          "url": "https://store.steampowered.com/app/3768760/",
+          "description": "Earn the Number. 007 First Light is a thrilling espionage action-adventure game from IO Interactive. Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training programme, and discover an origin story of the world’s most famous spy.",
+          "releaseDate": "May 26, 2026",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 91.26,
+            "positive": 42261,
+            "negative": 4047,
+            "total": 46308
+          },
+          "metacritic": 84,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -46,9 +71,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/a-plague-tale-1-2.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/a-plague-tale-1-2.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/a-plague-tale-1-2.svg"
+        "license": "MIT"
       }
     },
     {
@@ -96,9 +121,9 @@
           ],
           "rating": {
             "score": 87.93,
-            "positive": 90543,
-            "negative": 12428,
-            "total": 102971
+            "positive": 90550,
+            "negative": 12432,
+            "total": 102982
           },
           "metacritic": 78,
           "fetchedAt": "2026-09-18"
@@ -132,9 +157,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/alan-wake-ii.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/alan-wake-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/alan-wake-ii.svg"
+        "license": "MIT"
       }
     },
     {
@@ -190,9 +215,9 @@
           ],
           "rating": {
             "score": 67.77,
-            "positive": 724896,
-            "negative": 344688,
-            "total": 1069584
+            "positive": 724907,
+            "negative": 344701,
+            "total": 1069608
           },
           "metacritic": 88,
           "fetchedAt": "2026-09-18"
@@ -208,9 +233,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "arc-raiders-x360",
+      "id": "arc-raiders",
       "kind": "game",
-      "name": "ARC Raiders x360",
+      "name": "ARC Raiders",
       "aliases": [],
       "categories": [
         "gaming"
@@ -224,11 +249,35 @@
         "title": "QuadStick public configuration catalog — Silas P. (PC)/ARC Raiders x360"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/arc-raiders-x360.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/arc-raiders-x360.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
+        "source": "https://store.steampowered.com/app/1808500/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 1808500,
+          "name": "ARC Raiders",
+          "url": "https://store.steampowered.com/app/1808500/",
+          "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+          "releaseDate": "Oct 30, 2025",
+          "genres": [
+            "Action"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 81.86,
+            "positive": 340742,
+            "negative": 75526,
+            "total": 416268
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -272,9 +321,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/assassin-s-creed.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed.svg"
+        "license": "MIT"
       }
     },
     {
@@ -297,9 +346,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed-iv-black-flag-resynced.svg"
+        "license": "MIT"
       }
     },
     {
@@ -351,9 +400,9 @@
           ],
           "rating": {
             "score": 77.75,
-            "positive": 66651,
-            "negative": 19073,
-            "total": 85724
+            "positive": 66653,
+            "negative": 19072,
+            "total": 85725
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -387,9 +436,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/avatar-frontiers-of-pandora.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/avatar-frontiers-of-pandora.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/avatar-frontiers-of-pandora.svg"
+        "license": "MIT"
       }
     },
     {
@@ -428,9 +477,9 @@
           ],
           "rating": {
             "score": 96.79,
-            "positive": 830473,
-            "negative": 27572,
-            "total": 858045
+            "positive": 830496,
+            "negative": 27575,
+            "total": 858071
           },
           "metacritic": 96,
           "fetchedAt": "2026-09-18"
@@ -464,9 +513,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/batman-arkham-city.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-city.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-city.svg"
+        "license": "MIT"
       }
     },
     {
@@ -489,9 +538,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/batman-arkham-knight-v.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight-v.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight-v.svg"
+        "license": "MIT"
       }
     },
     {
@@ -544,9 +593,9 @@
           ],
           "rating": {
             "score": 81.47,
-            "positive": 119258,
+            "positive": 119257,
             "negative": 27119,
-            "total": 146377
+            "total": 146376
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -596,16 +645,16 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/battlefield.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield.svg"
+        "license": "MIT"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "battlefield-2042-qmp4",
+      "id": "battlefield-2042",
       "kind": "game",
-      "name": "Battlefield 2042 QMP4",
+      "name": "Battlefield 2042",
       "aliases": [],
       "categories": [
         "gaming"
@@ -633,21 +682,45 @@
           "Microsoft Windows",
           "Xbox Series X and Series S"
         ],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 1517290,
+          "name": "Battlefield™ 2042",
+          "url": "https://store.steampowered.com/app/1517290/",
+          "description": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise.",
+          "releaseDate": "Nov 19, 2021",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Casual"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 47.17,
+            "positive": 153620,
+            "negative": 172077,
+            "total": 325697
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/battlefield-2042-qmp4.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield-2042-qmp4.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg",
+        "source": "https://store.steampowered.com/app/1517290/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "battlefield-6-x360",
+      "id": "battlefield-6",
       "kind": "game",
-      "name": "Battlefield 6 x360",
+      "name": "Battlefield 6",
       "aliases": [],
       "categories": [
         "gaming"
@@ -661,11 +734,35 @@
         "title": "QuadStick public configuration catalog — Silas P. (PC)/Battlefield 6 x360"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/battlefield-6-x360.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield-6-x360.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+        "source": "https://store.steampowered.com/app/2807960/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 2807960,
+          "name": "Battlefield™ 6",
+          "url": "https://store.steampowered.com/app/2807960/",
+          "description": "The ultimate all-out warfare experience. In a war of tanks, fighter jets, and massive combat arsenals, your squad is the deadliest weapon.",
+          "releaseDate": "Oct 10, 2025",
+          "genres": [
+            "Action"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 63.81,
+            "positive": 235201,
+            "negative": 133399,
+            "total": 368600
+          },
+          "metacritic": 82,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -716,9 +813,9 @@
           ],
           "rating": {
             "score": 70.61,
-            "positive": 190693,
-            "negative": 79366,
-            "total": 270059
+            "positive": 190695,
+            "negative": 79371,
+            "total": 270066
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -734,9 +831,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "bioshock1",
+      "id": "bioshock",
       "kind": "game",
-      "name": "BioShock1",
+      "name": "BioShock",
       "aliases": [],
       "categories": [
         "gaming"
@@ -750,11 +847,36 @@
         "title": "QuadStick public configuration catalog — BioShock1"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/bioshock1.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/bioshock1.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg",
+        "source": "https://store.steampowered.com/app/7670/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 7670,
+          "name": "BioShock™",
+          "url": "https://store.steampowered.com/app/7670/",
+          "description": "BioShock is a shooter unlike any you've ever played, loaded with weapons and tactics never seen. You'll have a complete arsenal at your disposal from simple revolvers to grenade launchers and chemical throwers, but you'll also be forced to genetically modify your DNA to create an even more deadly weapon: you.",
+          "releaseDate": "Aug 21, 2007",
+          "genres": [
+            "Action",
+            "RPG"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 93.97,
+            "positive": 30277,
+            "negative": 1943,
+            "total": 32220
+          },
+          "metacritic": 96,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -844,9 +966,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/borderlands.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/borderlands.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/borderlands.svg"
+        "license": "MIT"
       }
     },
     {
@@ -892,9 +1014,9 @@
           ],
           "rating": {
             "score": 58.55,
-            "positive": 457725,
-            "negative": 324083,
-            "total": 781808
+            "positive": 457740,
+            "negative": 324092,
+            "total": 781832
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -929,9 +1051,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/call-of-duty-advanced-warfare.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-advanced-warfare.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-advanced-warfare.svg"
+        "license": "MIT"
       }
     },
     {
@@ -968,8 +1090,8 @@
           "rating": {
             "score": 45.08,
             "positive": 7320,
-            "negative": 8918,
-            "total": 16238
+            "negative": 8917,
+            "total": 16237
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1016,9 +1138,9 @@
           ],
           "rating": {
             "score": 79.38,
-            "positive": 18699,
+            "positive": 18703,
             "negative": 4857,
-            "total": 23556
+            "total": 23560
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1074,10 +1196,10 @@
             "windows"
           ],
           "rating": {
-            "score": 78.98,
-            "positive": 35921,
-            "negative": 9562,
-            "total": 45483
+            "score": 78.97,
+            "positive": 35924,
+            "negative": 9564,
+            "total": 45488
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1124,9 +1246,9 @@
           ],
           "rating": {
             "score": 46.59,
-            "positive": 13869,
-            "negative": 15902,
-            "total": 29771
+            "positive": 13873,
+            "negative": 15905,
+            "total": 29778
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1188,9 +1310,9 @@
           ],
           "rating": {
             "score": 47.27,
-            "positive": 10838,
+            "positive": 10839,
             "negative": 12089,
-            "total": 22927
+            "total": 22928
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1240,9 +1362,9 @@
           ],
           "rating": {
             "score": 89.67,
-            "positive": 57603,
-            "negative": 6634,
-            "total": 64237
+            "positive": 57604,
+            "negative": 6636,
+            "total": 64240
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1290,9 +1412,9 @@
           ],
           "rating": {
             "score": 80.74,
-            "positive": 11812,
+            "positive": 11811,
             "negative": 2818,
-            "total": 14630
+            "total": 14629
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1338,9 +1460,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/control.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/control.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/control.svg"
+        "license": "MIT"
       }
     },
     {
@@ -1410,84 +1532,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "copy-of-flight-simulator-20",
+      "id": "counter-strike-2",
       "kind": "game",
-      "name": "Copy of Flight Simulator 20",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Copy of Flight Simulator 20"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/copy-of-flight-simulator-20.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/copy-of-flight-simulator-20.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "copy-of-lol",
-      "kind": "game",
-      "name": "Copy of LOL",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "switch"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Copy of LOL"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/copy-of-lol.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/copy-of-lol.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "copy-of-world-of-warcraft",
-      "kind": "game",
-      "name": "Copy of World of Warcraft",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Copy of World of Warcraft"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/copy-of-world-of-warcraft.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/copy-of-world-of-warcraft.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "counterstrikev2",
-      "kind": "game",
-      "name": "Counterstrikev2",
+      "name": "Counter-Strike 2",
       "aliases": [],
       "categories": [
         "gaming"
@@ -1501,11 +1548,37 @@
         "title": "QuadStick public configuration catalog — Dan NH/Counterstrikev2"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/counterstrikev2.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/counterstrikev2.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+        "source": "https://store.steampowered.com/app/730/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 730,
+          "name": "Counter-Strike 2",
+          "url": "https://store.steampowered.com/app/730/",
+          "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+          "releaseDate": "Aug 21, 2012",
+          "genres": [
+            "Action",
+            "Free To Play"
+          ],
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "rating": {
+            "score": 85.87,
+            "positive": 8470996,
+            "negative": 1394214,
+            "total": 9865210
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -1559,9 +1632,9 @@
           ],
           "rating": {
             "score": 86.9,
-            "positive": 852107,
+            "positive": 852147,
             "negative": 128483,
-            "total": 980590
+            "total": 980630
           },
           "metacritic": 86,
           "fetchedAt": "2026-09-18"
@@ -1577,46 +1650,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "dead-space-rem",
+      "id": "dead-space",
       "kind": "game",
-      "name": "Dead Space Rem",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1hebQa5_ULEVIKfTU9nYBg9kMwSZL1WlGGaSgWhe-X-4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Dead Space Rem PC"
-      },
-      "metadata": {
-        "provider": "wikidata",
-        "license": "CC0",
-        "id": "Q117100765",
-        "url": "https://www.wikidata.org/entity/Q117100765",
-        "name": "Dead Space",
-        "description": "2021 novel by Kali Wallace",
-        "releaseDate": null,
-        "genres": [],
-        "platforms": [],
-        "fetchedAt": "2026-09-18"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/dead-space-rem.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dead-space-rem.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "dead-space-rem-x360-qmp4",
-      "kind": "game",
-      "name": "Dead Space Rem x360 (QMP4)",
+      "name": "Dead Space",
       "aliases": [],
       "categories": [
         "gaming"
@@ -1639,21 +1675,44 @@
         "releaseDate": null,
         "genres": [],
         "platforms": [],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 1693980,
+          "name": "Dead Space",
+          "url": "https://store.steampowered.com/app/1693980/",
+          "description": "The sci-fi survival-horror classic returns, completely rebuilt to offer an even more immersive experience — including visual, audio, and gameplay improvements — while staying faithful to the original game’s thrilling vision.",
+          "releaseDate": "Jan 27, 2023",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 90.51,
+            "positive": 64288,
+            "negative": 6740,
+            "total": 71028
+          },
+          "metacritic": 87,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/dead-space-rem-x360-qmp4.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dead-space-rem-x360-qmp4.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+        "source": "https://store.steampowered.com/app/1693980/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "deathloop-kbm",
+      "id": "deathloop",
       "kind": "game",
-      "name": "Deathloop KBM",
+      "name": "Deathloop",
       "aliases": [],
       "categories": [
         "gaming"
@@ -1667,11 +1726,35 @@
         "title": "QuadStick public configuration catalog — Deathloop KBM"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/deathloop-kbm.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/deathloop-kbm.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg",
+        "source": "https://store.steampowered.com/app/1252330/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 1252330,
+          "name": "DEATHLOOP",
+          "url": "https://store.steampowered.com/app/1252330/",
+          "description": "DEATHLOOP is a next-gen FPS from Arkane Lyon, the award-winning studio behind Dishonored. In DEATHLOOP, two rival assassins are trapped in a mysterious timeloop on the island of Blackreef, doomed to repeat the same day for eternity.",
+          "releaseDate": "Sep 13, 2021",
+          "genres": [
+            "Action"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 76.04,
+            "positive": 23178,
+            "negative": 7302,
+            "total": 30480
+          },
+          "metacritic": 87,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -1707,9 +1790,9 @@
           ],
           "rating": {
             "score": 86.24,
-            "positive": 41646,
+            "positive": 41648,
             "negative": 6647,
-            "total": 48293
+            "total": 48295
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -1743,9 +1826,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/deeprock.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/deeprock.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/deeprock.svg"
+        "license": "MIT"
       }
     },
     {
@@ -1848,9 +1931,9 @@
           ],
           "rating": {
             "score": 98.31,
-            "positive": 3430,
+            "positive": 3431,
             "negative": 59,
-            "total": 3489
+            "total": 3490
           },
           "metacritic": 88,
           "fetchedAt": "2026-09-18"
@@ -1896,9 +1979,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/destiny.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/destiny.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/destiny.svg"
+        "license": "MIT"
       }
     },
     {
@@ -1933,9 +2016,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/devil-may-cry.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/devil-may-cry.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/devil-may-cry.svg"
+        "license": "MIT"
       }
     },
     {
@@ -1958,9 +2041,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/divinity-original-sin-ii.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/divinity-original-sin-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/divinity-original-sin-ii.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2006,9 +2089,9 @@
           ],
           "rating": {
             "score": 95.52,
-            "positive": 211763,
-            "negative": 9934,
-            "total": 221697
+            "positive": 211767,
+            "negative": 9935,
+            "total": 221702
           },
           "metacritic": 85,
           "fetchedAt": "2026-09-18"
@@ -2042,34 +2125,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/dragon-quest-xi.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dragon-quest-xi.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dragon-quest-xi.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "dual-ultrastiks",
-      "kind": "game",
-      "name": "Dual UltraStiks",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1Husu2QRmFEE7v2UbgeJNGO2qoz4ooa0x2nHSqYJtRu8/edit",
-        "title": "QuadStick public configuration catalog — Dual UltraStiks"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/dual-ultrastiks.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dual-ultrastiks.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2129,9 +2187,9 @@
           ],
           "rating": {
             "score": 77.29,
-            "positive": 83231,
-            "negative": 24451,
-            "total": 107682
+            "positive": 83233,
+            "negative": 24452,
+            "total": 107685
           },
           "metacritic": 80,
           "fetchedAt": "2026-09-18"
@@ -2198,9 +2256,9 @@
           ],
           "rating": {
             "score": 85.79,
-            "positive": 90669,
-            "negative": 15023,
-            "total": 105692
+            "positive": 90675,
+            "negative": 15025,
+            "total": 105700
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -2250,9 +2308,9 @@
           ],
           "rating": {
             "score": 97.44,
-            "positive": 919156,
-            "negative": 24132,
-            "total": 943288
+            "positive": 919211,
+            "negative": 24131,
+            "total": 943342
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -2316,9 +2374,9 @@
           ],
           "rating": {
             "score": 87.79,
-            "positive": 117324,
-            "negative": 16312,
-            "total": 133636
+            "positive": 117331,
+            "negative": 16315,
+            "total": 133646
           },
           "metacritic": 88,
           "fetchedAt": "2026-09-18"
@@ -2383,9 +2441,9 @@
           ],
           "rating": {
             "score": 84.65,
-            "positive": 62545,
-            "negative": 11342,
-            "total": 73887
+            "positive": 62553,
+            "negative": 11344,
+            "total": 73897
           },
           "metacritic": 80,
           "fetchedAt": "2026-09-18"
@@ -2449,9 +2507,9 @@
           ],
           "rating": {
             "score": 81.07,
-            "positive": 153359,
-            "negative": 35799,
-            "total": 189158
+            "positive": 153366,
+            "negative": 35800,
+            "total": 189166
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -2514,10 +2572,10 @@
             "windows"
           ],
           "rating": {
-            "score": 71.24,
-            "positive": 25435,
-            "negative": 10269,
-            "total": 35704
+            "score": 71.23,
+            "positive": 25439,
+            "negative": 10277,
+            "total": 35716
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -2616,9 +2674,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/fishing-planet-kb.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet-kb.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet-kb.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2641,9 +2699,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/flight-simulator-24.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/flight-simulator-24.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/flight-simulator-24.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2741,9 +2799,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/fortnite.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fortnite.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fortnite.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2766,9 +2824,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/forza-horizon-4.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-horizon-4.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-horizon-4.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2791,9 +2849,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/forza-motorsports-5.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsports-5.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsports-5.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2882,34 +2940,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/fsx-p3d.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fsx-p3d.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fsx-p3d.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "gardians-of-the-galaxy-beta",
-      "kind": "game",
-      "name": "Gardians of the Galaxy BETA",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Gardians of the Galaxy BETA"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/gardians-of-the-galaxy-beta.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gardians-of-the-galaxy-beta.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2932,9 +2965,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/ghost-recon-wildlands.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghost-recon-wildlands.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghost-recon-wildlands.svg"
+        "license": "MIT"
       }
     },
     {
@@ -2969,9 +3002,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/ghostbusters.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghostbusters.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghostbusters.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3017,9 +3050,9 @@
           ],
           "rating": {
             "score": 91.2,
-            "positive": 60940,
+            "positive": 60941,
             "negative": 5883,
-            "total": 66823
+            "total": 66824
           },
           "metacritic": 81,
           "fetchedAt": "2026-09-18"
@@ -3065,9 +3098,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/ghosts.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghosts.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghosts.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3105,9 +3138,9 @@
           ],
           "rating": {
             "score": 97.81,
-            "positive": 15610,
+            "positive": 15614,
             "negative": 350,
-            "total": 15960
+            "total": 15964
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -3155,9 +3188,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/gran-turismo-sport.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gran-turismo-sport.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gran-turismo-sport.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3192,9 +3225,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/grand-theft-auto.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3217,9 +3250,34 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/grand-theft-auto-5.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-5.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-5.svg"
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "grand-theft-auto-v",
+      "kind": "game",
+      "name": "Grand Theft Auto V",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "playstation"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
+        "title": "QuadStick public configuration catalog — GTA V Cheat codes"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/grand-theft-auto-v.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-v.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
       }
     },
     {
@@ -3242,9 +3300,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/gta-iv.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-iv.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-iv.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3267,34 +3325,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/gta-v.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "gta-v-cheat-codes",
-      "kind": "game",
-      "name": "GTA V Cheat codes",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
-        "title": "QuadStick public configuration catalog — GTA V Cheat codes"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/gta-v-cheat-codes.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-cheat-codes.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3317,9 +3350,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/gta-v-fivem-2.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-fivem-2.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-fivem-2.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3342,9 +3375,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/gta-v-redone-fivem-optimized.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-redone-fivem-optimized.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-redone-fivem-optimized.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3382,9 +3415,9 @@
           ],
           "rating": {
             "score": 96.49,
-            "positive": 158411,
+            "positive": 158418,
             "negative": 5755,
-            "total": 164166
+            "total": 164173
           },
           "metacritic": 96,
           "fetchedAt": "2026-09-18"
@@ -3434,8 +3467,8 @@
           "rating": {
             "score": 69.3,
             "positive": 125567,
-            "negative": 55627,
-            "total": 181194
+            "negative": 55628,
+            "total": 181195
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -3469,9 +3502,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/helldivers-ii.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/helldivers-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/helldivers-ii.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3520,9 +3553,9 @@
           ],
           "rating": {
             "score": 89.01,
-            "positive": 22902,
-            "negative": 2828,
-            "total": 25730
+            "positive": 22903,
+            "negative": 2829,
+            "total": 25732
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -3571,9 +3604,9 @@
           ],
           "rating": {
             "score": 89.75,
-            "positive": 335287,
-            "negative": 38281,
-            "total": 373568
+            "positive": 335294,
+            "negative": 38283,
+            "total": 373577
           },
           "metacritic": 83,
           "fetchedAt": "2026-09-18"
@@ -3607,9 +3640,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/horizon-zero-dawn.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/horizon-zero-dawn.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/horizon-zero-dawn.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3632,9 +3665,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/hunt-showdown.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hunt-showdown.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hunt-showdown.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3677,9 +3710,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/hytale.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hytale.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hytale.svg"
+        "license": "MIT"
       }
     },
     {
@@ -3731,9 +3764,9 @@
           ],
           "rating": {
             "score": 90.13,
-            "positive": 18654,
+            "positive": 18656,
             "negative": 2043,
-            "total": 20697
+            "total": 20699
           },
           "metacritic": 87,
           "fetchedAt": "2026-09-18"
@@ -3780,10 +3813,10 @@
             "windows"
           ],
           "rating": {
-            "score": 95.44,
-            "positive": 257552,
-            "negative": 12319,
-            "total": 269871
+            "score": 95.43,
+            "positive": 257557,
+            "negative": 12322,
+            "total": 269879
           },
           "metacritic": 89,
           "fetchedAt": "2026-09-18"
@@ -3841,9 +3874,9 @@
           ],
           "rating": {
             "score": 94.07,
-            "positive": 36277,
+            "positive": 36280,
             "negative": 2287,
-            "total": 38564
+            "total": 38567
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -3906,9 +3939,9 @@
           ],
           "rating": {
             "score": 90.54,
-            "positive": 46718,
+            "positive": 46717,
             "negative": 4879,
-            "total": 51597
+            "total": 51596
           },
           "metacritic": 84,
           "fetchedAt": "2026-09-18"
@@ -3957,9 +3990,9 @@
           ],
           "rating": {
             "score": 93.92,
-            "positive": 183821,
+            "positive": 183836,
             "negative": 11902,
-            "total": 195723
+            "total": 195738
           },
           "metacritic": 89,
           "fetchedAt": "2026-09-18"
@@ -3971,6 +4004,31 @@
         "source": "https://store.steampowered.com/app/1771300/",
         "attribution": "Steam store artwork",
         "license": "third-party"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "league-of-legends",
+      "kind": "game",
+      "name": "League of Legends",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
+        "title": "QuadStick public configuration catalog — Dan NH/Copy of LOL"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/league-of-legends.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/league-of-legends.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
       }
     },
     {
@@ -3993,9 +4051,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/lego-fortnite.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lego-fortnite.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lego-fortnite.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4034,9 +4092,9 @@
           ],
           "rating": {
             "score": 96.96,
-            "positive": 495389,
+            "positive": 495401,
             "negative": 15531,
-            "total": 510920
+            "total": 510932
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -4082,9 +4140,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/little-big-planet.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/little-big-planet.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/little-big-planet.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4121,9 +4179,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/lol.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lol.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lol.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4158,9 +4216,59 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/madden.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden.svg"
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "marvel-s-guardians-of-the-galaxy",
+      "kind": "game",
+      "name": "Marvel's Guardians of the Galaxy",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
+        "title": "QuadStick public configuration catalog — Silas P. (PC)/Gardians of the Galaxy BETA"
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/header.jpg",
+        "source": "https://store.steampowered.com/app/1088850/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 1088850,
+          "name": "Marvel's Guardians of the Galaxy",
+          "url": "https://store.steampowered.com/app/1088850/",
+          "description": "Fire up a wild ride across the cosmos with a fresh take on Marvel’s Guardians of the Galaxy. In this action-adventure game, you are Star-Lord leading the unpredictable Guardians from one explosion of chaos to the next. You got this. Probably.",
+          "releaseDate": "Oct 26, 2021",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 93.77,
+            "positive": 42543,
+            "negative": 2827,
+            "total": 45370
+          },
+          "metacritic": 78,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -4183,9 +4291,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/matt-victor-cod-black-ops-3.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-cod-black-ops-3.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-cod-black-ops-3.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4208,9 +4316,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/matt-victor-codmw.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-codmw.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-codmw.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4233,9 +4341,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/matt-victor-doom.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-doom.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-doom.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4258,9 +4366,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/matt-victor-madden-18.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-madden-18.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-madden-18.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4283,34 +4391,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/matt-victor-tomb-raider.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-tomb-raider.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-tomb-raider.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "maus2-tv",
-      "kind": "game",
-      "name": "Maus2 TV",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/13_iRbQCq1OY5RUsQrQBYYcvTyc7oJKJg6gwBDATuWAE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Maus2 TV"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/maus2-tv.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/maus2-tv.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4399,9 +4482,34 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/metal-gear-snake-eater.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/metal-gear-snake-eater.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/metal-gear-snake-eater.svg"
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "microsoft-flight-simulator",
+      "kind": "game",
+      "name": "Microsoft Flight Simulator",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
+        "title": "QuadStick public configuration catalog — Silas P. (PC)/Copy of Flight Simulator 20"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/microsoft-flight-simulator.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/microsoft-flight-simulator.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
       }
     },
     {
@@ -4626,16 +4734,16 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/minecraft.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg"
+        "license": "MIT"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "mlb13",
+      "id": "mlb-13-the-show",
       "kind": "game",
-      "name": "MLB13",
+      "name": "MLB 13: The Show",
       "aliases": [],
       "categories": [
         "gaming"
@@ -4650,42 +4758,17 @@
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/mlb13.svg",
+        "path": "artwork/games/mlb-13-the-show.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mlb-13-the-show.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mlb13.svg"
+        "license": "MIT"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "monitor-control-samsung-g8",
+      "id": "mx-vs-atv-supercross-encore",
       "kind": "game",
-      "name": "Monitor Control - Samsung G8",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1kWsQQjk93BiFt9BsLWQNXfh4rHizI9rZ3ZB0wOrxG-U/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Monitor Control - Samsung G8"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/monitor-control-samsung-g8.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/monitor-control-samsung-g8.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "mx-vs-atv-supercross-encore-steam",
-      "kind": "game",
-      "name": "MX vs ATV Supercross Encore - Steam",
+      "name": "MX vs ATV Supercross Encore",
       "aliases": [],
       "categories": [
         "gaming"
@@ -4699,18 +4782,44 @@
         "title": "QuadStick public configuration catalog — MX vs ATV Supercross Encore - Steam"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/mx-vs-atv-supercross-encore-steam.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mx-vs-atv-supercross-encore-steam.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg",
+        "source": "https://store.steampowered.com/app/282050/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 282050,
+          "name": "MX vs. ATV Supercross Encore",
+          "url": "https://store.steampowered.com/app/282050/",
+          "description": "Rip, jump and scrub your way to victory with over 35 tracks in this vastly extended version! Only the Encore edition features the brand new Rhythm Racing mode, extra outdoor Nationals tracks, and exclusive Waypoint races in open world maps.",
+          "releaseDate": "Oct 27, 2015",
+          "genres": [
+            "Racing",
+            "Simulation",
+            "Sports"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 63.79,
+            "positive": 532,
+            "negative": 302,
+            "total": 834
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
       "schemaVersion": 2,
-      "id": "mx-vs-atv-unleashed-steam",
+      "id": "mx-vs-atv-unleashed",
       "kind": "game",
-      "name": "MX vs ATV Unleashed - Steam",
+      "name": "MX vs ATV Unleashed",
       "aliases": [],
       "categories": [
         "gaming"
@@ -4724,36 +4833,36 @@
         "title": "QuadStick public configuration catalog — MX vs ATV Unleashed - Steam"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/mx-vs-atv-unleashed-steam.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mx-vs-atv-unleashed-steam.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "my-current-preferences",
-      "kind": "game",
-      "name": "My Current Preferences",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1MMtLV2dhDcJFaNgSqx3WrDznnNhxiBLoLcj2GIKkeVw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/My Current Preferences"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg",
+        "source": "https://store.steampowered.com/app/359220/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/my-current-preferences.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/my-current-preferences.svg"
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 359220,
+          "name": "MX vs. ATV Unleashed",
+          "url": "https://store.steampowered.com/app/359220/",
+          "description": "Take on the racing world in an attempt to knock off motocross and ATV riders in over 50 technical supercross and rugged outdoor tracks.",
+          "releaseDate": "Apr 16, 2015",
+          "genres": [
+            "Racing",
+            "Simulation"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 73.39,
+            "positive": 513,
+            "negative": 186,
+            "total": 699
+          },
+          "metacritic": 71,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -4788,16 +4897,16 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/nba-2k.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k.svg"
+        "license": "MIT"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "nba2k15",
+      "id": "nba-2k15",
       "kind": "game",
-      "name": "NBA2k15",
+      "name": "NBA 2K15",
       "aliases": [],
       "categories": [
         "gaming"
@@ -4812,10 +4921,10 @@
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/nba2k15.svg",
+        "path": "artwork/games/nba-2k15.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k15.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba2k15.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4838,9 +4947,34 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/need-for-speed-heat.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-heat.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-heat.svg"
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "need-for-speed-carbon",
+      "kind": "game",
+      "name": "Need for Speed: Carbon",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
+        "title": "QuadStick public configuration catalog — Silas P. (PC)/PS2 Need for Speed Carbon (QMP4)"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/need-for-speed-carbon.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-carbon.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
       }
     },
     {
@@ -4863,9 +4997,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/ori-and-the-blind-forest.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest.svg"
+        "license": "MIT"
       }
     },
     {
@@ -4888,16 +5022,16 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/ori-and-the-blind-forest-steam.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest-steam.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest-steam.svg"
+        "license": "MIT"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "path-of-exile-ii-x360",
+      "id": "path-of-exile-2",
       "kind": "game",
-      "name": "Path of Exile II x360",
+      "name": "Path of Exile 2",
       "aliases": [],
       "categories": [
         "gaming"
@@ -4911,11 +5045,39 @@
         "title": "QuadStick public configuration catalog — Silas P. (PC)/Path of Exile II x360"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/path-of-exile-ii-x360.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/path-of-exile-ii-x360.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+        "source": "https://store.steampowered.com/app/2694490/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 2694490,
+          "name": "Path of Exile 2",
+          "url": "https://store.steampowered.com/app/2694490/",
+          "description": "Path of Exile 2 is a next generation Action RPG from Grinding Gear Games, featuring co-op for up to six players. Set years after the original Path of Exile, you will return to the dark world of Wraeclast and seek to end the corruption that is spreading.",
+          "releaseDate": "Dec 6, 2024",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Early Access"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 74.97,
+            "positive": 169674,
+            "negative": 56652,
+            "total": 226326
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -4968,9 +5130,9 @@
           ],
           "rating": {
             "score": 89.35,
-            "positive": 602913,
-            "negative": 71845,
-            "total": 674758
+            "positive": 602920,
+            "negative": 71843,
+            "total": 674763
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -5034,9 +5196,9 @@
           ],
           "rating": {
             "score": 45.79,
-            "positive": 30075,
+            "positive": 30078,
             "negative": 35611,
-            "total": 65686
+            "total": 65689
           },
           "metacritic": 66,
           "fetchedAt": "2026-09-18"
@@ -5100,9 +5262,9 @@
           ],
           "rating": {
             "score": 80.37,
-            "positive": 60175,
+            "positive": 60173,
             "negative": 14699,
-            "total": 74874
+            "total": 74872
           },
           "metacritic": 84,
           "fetchedAt": "2026-09-18"
@@ -5163,10 +5325,10 @@
             "windows"
           ],
           "rating": {
-            "score": 74.55,
-            "positive": 17177,
-            "negative": 5865,
-            "total": 23042
+            "score": 74.54,
+            "positive": 17178,
+            "negative": 5866,
+            "total": 23044
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -5215,9 +5377,9 @@
           ],
           "rating": {
             "score": 98.7,
-            "positive": 460824,
-            "negative": 6048,
-            "total": 466872
+            "positive": 460837,
+            "negative": 6047,
+            "total": 466884
           },
           "metacritic": 95,
           "fetchedAt": "2026-09-18"
@@ -5251,9 +5413,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/portal2-for.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/portal2-for.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/portal2-for.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5276,34 +5438,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/project-cars.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "ps2-need-for-speed-carbon-qmp4",
-      "kind": "game",
-      "name": "PS2 Need for Speed Carbon (QMP4)",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/PS2 Need for Speed Carbon (QMP4)"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/ps2-need-for-speed-carbon-qmp4.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ps2-need-for-speed-carbon-qmp4.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5351,9 +5488,9 @@
           ],
           "rating": {
             "score": 92.99,
-            "positive": 352141,
+            "positive": 352146,
             "negative": 26539,
-            "total": 378680
+            "total": 378685
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -5416,9 +5553,9 @@
           ],
           "rating": {
             "score": 92.43,
-            "positive": 20085,
+            "positive": 20086,
             "negative": 1646,
-            "total": 21731
+            "total": 21732
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -5452,9 +5589,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/red-dead-redemption-no-fishing.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-no-fishing.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-no-fishing.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5506,9 +5643,9 @@
           ],
           "rating": {
             "score": 92.48,
-            "positive": 850520,
-            "negative": 69124,
-            "total": 919644
+            "positive": 850589,
+            "negative": 69127,
+            "total": 919716
           },
           "metacritic": 93,
           "fetchedAt": "2026-09-18"
@@ -5542,9 +5679,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/red-dead-redemption-ii-redm.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-ii-redm.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-ii-redm.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5599,9 +5736,9 @@
           ],
           "rating": {
             "score": 96.69,
-            "positive": 34052,
+            "positive": 34053,
             "negative": 1165,
-            "total": 35217
+            "total": 35218
           },
           "metacritic": 89,
           "fetchedAt": "2026-09-18"
@@ -5617,9 +5754,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "rocket-league-x360ce",
+      "id": "rocket-league",
       "kind": "game",
-      "name": "Rocket League X360CE",
+      "name": "Rocket League",
       "aliases": [],
       "categories": [
         "gaming"
@@ -5634,10 +5771,10 @@
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/rocket-league-x360ce.svg",
+        "path": "artwork/games/rocket-league.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rocket-league.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rocket-league-x360ce.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5660,9 +5797,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/rockynohands-fortnite.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rockynohands-fortnite.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rockynohands-fortnite.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5685,9 +5822,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/rockynohands-pubg.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rockynohands-pubg.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rockynohands-pubg.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5725,10 +5862,10 @@
             "windows"
           ],
           "rating": {
-            "score": 97.26,
-            "positive": 271911,
-            "negative": 7646,
-            "total": 279557
+            "score": 97.27,
+            "positive": 271922,
+            "negative": 7645,
+            "total": 279567
           },
           "metacritic": 91,
           "fetchedAt": "2026-09-18"
@@ -5779,9 +5916,9 @@
           ],
           "rating": {
             "score": 97.78,
-            "positive": 309255,
-            "negative": 7016,
-            "total": 316271
+            "positive": 309258,
+            "negative": 7015,
+            "total": 316273
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -5827,9 +5964,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/sea-of-thieves.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sea-of-thieves.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sea-of-thieves.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5852,9 +5989,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/shadow-of-mordor.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5894,9 +6031,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/shadow-warrior-3.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-warrior-3.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-warrior-3.svg"
+        "license": "MIT"
       }
     },
     {
@@ -5919,9 +6056,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/shatterlinepc.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shatterlinepc.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shatterlinepc.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6019,10 +6156,10 @@
             "windows"
           ],
           "rating": {
-            "score": 69.51,
-            "positive": 62347,
-            "negative": 27342,
-            "total": 89689
+            "score": 69.52,
+            "positive": 62358,
+            "negative": 27344,
+            "total": 89702
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6068,9 +6205,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/sleeping.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sleeping.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sleeping.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6107,9 +6244,9 @@
           ],
           "rating": {
             "score": 82.06,
-            "positive": 23330,
-            "negative": 5101,
-            "total": 28431
+            "positive": 23331,
+            "negative": 5102,
+            "total": 28433
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6174,9 +6311,9 @@
           ],
           "rating": {
             "score": 91.28,
-            "positive": 57666,
-            "negative": 5510,
-            "total": 63176
+            "positive": 57670,
+            "negative": 5511,
+            "total": 63181
           },
           "metacritic": 78,
           "fetchedAt": "2026-09-18"
@@ -6242,9 +6379,9 @@
           ],
           "rating": {
             "score": 83.74,
-            "positive": 25603,
-            "negative": 4971,
-            "total": 30574
+            "positive": 25608,
+            "negative": 4973,
+            "total": 30581
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -6291,9 +6428,9 @@
           ],
           "rating": {
             "score": 75.84,
-            "positive": 14242,
+            "positive": 14241,
             "negative": 4537,
-            "total": 18779
+            "total": 18778
           },
           "metacritic": 52,
           "fetchedAt": "2026-09-18"
@@ -6420,9 +6557,9 @@
           ],
           "rating": {
             "score": 96.92,
-            "positive": 123052,
-            "negative": 3911,
-            "total": 126963
+            "positive": 123069,
+            "negative": 3913,
+            "total": 126982
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6438,9 +6575,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "splitgate-betatest-x360",
+      "id": "splitgate",
       "kind": "game",
-      "name": "Splitgate (betatest) x360",
+      "name": "Splitgate",
       "aliases": [],
       "categories": [
         "gaming"
@@ -6454,11 +6591,38 @@
         "title": "QuadStick public configuration catalog — Silas P. (PC)/Splitgate (betatest) x360"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/splitgate-betatest-x360.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/splitgate-betatest-x360.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677620/header.jpg",
+        "source": "https://store.steampowered.com/app/677620/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 677620,
+          "name": "Splitgate",
+          "url": "https://store.steampowered.com/app/677620/",
+          "description": "Splitgate is a free-to-play, fast-paced multiplayer shooter that features player-controlled portals. This sci-fi shooter takes the FPS genre to a new dimension with its portal mechanics, delivering high-flying, multi-dimensional combat.",
+          "releaseDate": "May 24, 2019",
+          "genres": [
+            "Action",
+            "Free To Play",
+            "Indie"
+          ],
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "rating": {
+            "score": 91.39,
+            "positive": 100945,
+            "negative": 9511,
+            "total": 110456
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -6513,9 +6677,9 @@
           ],
           "rating": {
             "score": 79,
-            "positive": 4651,
+            "positive": 4650,
             "negative": 1236,
-            "total": 5887
+            "total": 5886
           },
           "metacritic": 76,
           "fetchedAt": "2026-09-18"
@@ -6659,8 +6823,8 @@
           "rating": {
             "score": 88.43,
             "positive": 155121,
-            "negative": 20299,
-            "total": 175420
+            "negative": 20301,
+            "total": 175422
           },
           "metacritic": 81,
           "fetchedAt": "2026-09-18"
@@ -6694,9 +6858,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/starcitizen.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcitizen.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcitizen.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6719,9 +6883,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/starcraft-2-rtsv3.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-2-rtsv3.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-2-rtsv3.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6767,9 +6931,9 @@
           ],
           "rating": {
             "score": 56.9,
-            "positive": 99806,
-            "negative": 75596,
-            "total": 175402
+            "positive": 99807,
+            "negative": 75597,
+            "total": 175404
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6803,16 +6967,16 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/steam-lego.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/steam-lego.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/steam-lego.svg"
+        "license": "MIT"
       }
     },
     {
       "schemaVersion": 2,
-      "id": "super-mario-odyssey-nintendo",
+      "id": "super-mario-odyssey",
       "kind": "game",
-      "name": "Super Mario Odyssey Nintendo",
+      "name": "Super Mario Odyssey",
       "aliases": [],
       "categories": [
         "gaming"
@@ -6827,10 +6991,10 @@
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/super-mario-odyssey-nintendo.svg",
+        "path": "artwork/games/super-mario-odyssey.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/super-mario-odyssey.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/super-mario-odyssey-nintendo.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6865,9 +7029,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/the-crew.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6904,9 +7068,9 @@
           ],
           "rating": {
             "score": 78.22,
-            "positive": 216204,
-            "negative": 60197,
-            "total": 276401
+            "positive": 216207,
+            "negative": 60203,
+            "total": 276410
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6952,9 +7116,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/the-last-of-us.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us.svg"
+        "license": "MIT"
       }
     },
     {
@@ -6989,9 +7153,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/the-last-of-us-part-ii.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-part-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-part-ii.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7014,9 +7178,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/the-last-of-us-ps3.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-ps3.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-ps3.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7057,9 +7221,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/the-legend-of-zelda-breath-of-the-wild.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-legend-of-zelda-breath-of-the-wild.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-legend-of-zelda-breath-of-the-wild.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7100,9 +7264,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/the-witcher-3-wild-hunt.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-witcher-3-wild-hunt.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-witcher-3-wild-hunt.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7140,9 +7304,9 @@
           ],
           "rating": {
             "score": 89.08,
-            "positive": 180864,
+            "positive": 180868,
             "negative": 22171,
-            "total": 203035
+            "total": 203039
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7208,9 +7372,9 @@
           ],
           "rating": {
             "score": 70.58,
-            "positive": 17470,
+            "positive": 17472,
             "negative": 7282,
-            "total": 24752
+            "total": 24754
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7272,9 +7436,9 @@
           ],
           "rating": {
             "score": 95.65,
-            "positive": 273871,
+            "positive": 273876,
             "negative": 12458,
-            "total": 286329
+            "total": 286334
           },
           "metacritic": 86,
           "fetchedAt": "2026-09-18"
@@ -7308,9 +7472,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/tomb-raider-1.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-1.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-1.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7333,9 +7497,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7358,9 +7522,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7395,9 +7559,9 @@
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/tony-hawk.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tony-hawk.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tony-hawk.svg"
+        "license": "MIT"
       }
     },
     {
@@ -7435,8 +7599,8 @@
           "rating": {
             "score": 92.76,
             "positive": 18146,
-            "negative": 1416,
-            "total": 19562
+            "negative": 1417,
+            "total": 19563
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -7623,10 +7787,10 @@
             "linux"
           ],
           "rating": {
-            "score": 93.84,
-            "positive": 516332,
-            "negative": 33906,
-            "total": 550238
+            "score": 93.83,
+            "positive": 516418,
+            "negative": 33933,
+            "total": 550351
           },
           "metacritic": 89,
           "fetchedAt": "2026-09-18"
@@ -7674,10 +7838,10 @@
             "windows"
           ],
           "rating": {
-            "score": 71.76,
-            "positive": 99689,
-            "negative": 39230,
-            "total": 138919
+            "score": 71.75,
+            "positive": 99691,
+            "negative": 39246,
+            "total": 138937
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7726,9 +7890,9 @@
           ],
           "rating": {
             "score": 84,
-            "positive": 189761,
-            "negative": 36149,
-            "total": 225910
+            "positive": 189785,
+            "negative": 36152,
+            "total": 225937
           },
           "metacritic": 82,
           "fetchedAt": "2026-09-18"
@@ -7857,9 +8021,9 @@
             "windows"
           ],
           "rating": {
-            "score": 82.57,
-            "positive": 7885,
-            "negative": 1664,
+            "score": 82.58,
+            "positive": 7886,
+            "negative": 1663,
             "total": 9549
           },
           "metacritic": null,
@@ -7921,9 +8085,9 @@
           ],
           "rating": {
             "score": 79.68,
-            "positive": 80665,
-            "negative": 20572,
-            "total": 101237
+            "positive": 80667,
+            "negative": 20574,
+            "total": 101241
           },
           "metacritic": 80,
           "fetchedAt": "2026-09-18"
@@ -7939,9 +8103,34 @@
     },
     {
       "schemaVersion": 2,
-      "id": "world-of-warship",
+      "id": "world-of-warcraft",
       "kind": "game",
-      "name": "World of Warship",
+      "name": "World of Warcraft",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
+        "title": "QuadStick public configuration catalog — Dan NH/Copy of World of Warcraft"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/world-of-warcraft.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/world-of-warcraft.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "world-of-warships",
+      "kind": "game",
+      "name": "World of Warships",
       "aliases": [],
       "categories": [
         "gaming"
@@ -7955,18 +8144,46 @@
         "title": "QuadStick public configuration catalog — Heiko/World of Warship PC"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/world-of-warship.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/world-of-warship.svg"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/header.jpg",
+        "source": "https://store.steampowered.com/app/552990/",
+        "attribution": "Steam store artwork",
+        "license": "third-party"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 552990,
+          "name": "World of Warships",
+          "url": "https://store.steampowered.com/app/552990/",
+          "description": "Immerse yourself in thrilling naval battles and assemble an armada of over 800 ships from the first half of the 20th century — from stealthy destroyers to gigantic battleships. Change the look of your ship, choose upgrades to suit your play style, and go into battle with other players!",
+          "releaseDate": "Nov 15, 2017",
+          "genres": [
+            "Action",
+            "Massively Multiplayer",
+            "Simulation",
+            "Strategy",
+            "Free To Play"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 76.36,
+            "positive": 119545,
+            "negative": 37013,
+            "total": 156558
+          },
+          "metacritic": 81,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
       "schemaVersion": 2,
-      "id": "xdefiant-x360-qmp4",
+      "id": "xdefiant",
       "kind": "game",
-      "name": "XDefiant x360 (QMP4)",
+      "name": "XDefiant",
       "aliases": [],
       "categories": [
         "gaming"
@@ -7998,10 +8215,10 @@
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/xdefiant-x360-qmp4.svg",
+        "path": "artwork/games/xdefiant.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/xdefiant.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/xdefiant-x360-qmp4.svg"
+        "license": "MIT"
       }
     }
   ],
@@ -8107,11 +8324,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-007-first-light-x360-xbox-quadstick-fps-007firstlight",
-      "title": "007 - First Light x360 — 007FirstLight",
+      "title": "007 First Light — 007FirstLight",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "007-first-light-x360"
+        "id": "007-first-light"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -8305,11 +8522,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-arc-raiders-x360-xbox-quadstick-fps-arcraiders",
-      "title": "ARC Raiders x360 — ARCRaiders",
+      "title": "ARC Raiders — ARCRaiders",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "arc-raiders-x360"
+        "id": "arc-raiders"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -8701,11 +8918,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-battlefield-2042-qmp4-xbox-quadstick-fps-bf2042",
-      "title": "Battlefield 2042 QMP4 — BF2042",
+      "title": "Battlefield 2042 — BF2042",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "battlefield-2042-qmp4"
+        "id": "battlefield-2042"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -8734,11 +8951,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-battlefield-6-x360-xbox-quadstick-fps-bf6",
-      "title": "Battlefield 6 x360 — BF6",
+      "title": "Battlefield 6 — BF6",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "battlefield-6-x360"
+        "id": "battlefield-6"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -8800,11 +9017,11 @@
     {
       "schemaVersion": 2,
       "id": "bioshock1-playstation-quadstick-fps-profile",
-      "title": "BioShock1 — profile",
+      "title": "BioShock — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "bioshock1"
+        "id": "bioshock"
       },
       "platform": "playstation",
       "deviceId": "quadstick-fps",
@@ -9361,111 +9578,12 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-copy-of-flight-simulator-20-xbox-quadstick-fps-profile",
-      "title": "Copy of Flight Simulator 20 — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "copy-of-flight-simulator-20"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "ca30e48c1951c43756a40670621144b470b381fe15145a08d30d62c480f82aaf"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "dan-nh-copy-of-lol-switch-quadstick-fps-profile",
-      "title": "Copy of LOL — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "copy-of-lol"
-      },
-      "platform": "switch",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "798feac528b3406620f33c10495c8fbfe713d3f7160dcd682d9a19c97c28e970"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "dan-nh-copy-of-world-of-warcraft-pc-quadstick-fps-profile",
-      "title": "Copy of World of Warcraft — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "copy-of-world-of-warcraft"
-      },
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "ba4636e4589074168dc4d09eba0c9b600eae348efa9a75768a862035526d7eee"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "dan-nh-counterstrikev2-pc-quadstick-fps-profile",
-      "title": "Counterstrikev2 — profile",
+      "title": "Counter-Strike 2 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "counterstrikev2"
+        "id": "counter-strike-2"
       },
       "platform": "pc",
       "deviceId": "quadstick-fps",
@@ -9560,11 +9678,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-dead-space-rem-xbox-quadstick-fps-deadspace",
-      "title": "Dead Space Rem — DeadSpace",
+      "title": "Dead Space — DeadSpace",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "dead-space-rem"
+        "id": "dead-space"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -9593,11 +9711,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-dead-space-rem-x360-qmp4-xbox-quadstick-fps-profile",
-      "title": "Dead Space Rem x360 (QMP4) — profile",
+      "title": "Dead Space — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "dead-space-rem-x360-qmp4"
+        "id": "dead-space"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -9626,11 +9744,11 @@
     {
       "schemaVersion": 2,
       "id": "deathloop-kbm-pc-quadstick-fps-profile",
-      "title": "Deathloop KBM — profile",
+      "title": "Deathloop — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "deathloop-kbm"
+        "id": "deathloop"
       },
       "platform": "pc",
       "deviceId": "quadstick-fps",
@@ -9948,39 +10066,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "c17f7b2acb7c1b4bf22d4ea74ba6ac0695d8bdfe6c623f35f4f2c652ffe69ade"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "dual-ultrastiks-playstation-quadstick-fps-ultra2",
-      "title": "Dual UltraStiks — ultra2",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "dual-ultrastiks"
-      },
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Husu2QRmFEE7v2UbgeJNGO2qoz4ooa0x2nHSqYJtRu8/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "8510cbbcf3f5f06d07915ca1f44511b260bd349eb089cf193b225483d6d90cf9"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -10549,39 +10634,6 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-gardians-of-the-galaxy-beta-xbox-quadstick-fps-profile",
-      "title": "Gardians of the Galaxy BETA — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "gardians-of-the-galaxy-beta"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "silas-p-pc-ghost-recon-wildlands-xbox-quadstick-fps-profile",
       "title": "Ghost Recon Wildlands — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -10879,6 +10931,39 @@
     },
     {
       "schemaVersion": 2,
+      "id": "gta-v-cheat-codes-playstation-quadstick-fps-profile",
+      "title": "Grand Theft Auto V — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "grand-theft-auto-v"
+      },
+      "platform": "playstation",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "dae0f72505c8e0e3f7846f39b668bdedb1366136337d3210e571f98bc0485702"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "silas-p-pc-gta-iv-xbox-quadstick-fps-profile",
       "title": "GTA IV — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -10938,39 +11023,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "e27fc7a75dce29fdca905f577fea34572128c95c0f1f6265f9dbe54ea09ca9b2"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "gta-v-cheat-codes-playstation-quadstick-fps-profile",
-      "title": "GTA V Cheat codes — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "gta-v-cheat-codes"
-      },
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "dae0f72505c8e0e3f7846f39b668bdedb1366136337d3210e571f98bc0485702"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -11506,6 +11558,39 @@
     },
     {
       "schemaVersion": 2,
+      "id": "dan-nh-copy-of-lol-switch-quadstick-fps-profile",
+      "title": "League of Legends — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "league-of-legends"
+      },
+      "platform": "switch",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "798feac528b3406620f33c10495c8fbfe713d3f7160dcd682d9a19c97c28e970"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "silas-p-pc-lego-fortnite-xbox-quadstick-fps-legofortnite",
       "title": "LEGO Fortnite — LegoFortnite",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -11664,6 +11749,39 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "b05531a31236e5e40d776e315befbc931dac96a84a09fa8ca5aca57b91a2da70"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "silas-p-pc-gardians-of-the-galaxy-beta-xbox-quadstick-fps-profile",
+      "title": "Marvel's Guardians of the Galaxy — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "marvel-s-guardians-of-the-galaxy"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -11836,39 +11954,6 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-maus2-tv-pc-quadstick-fps-default1",
-      "title": "Maus2 TV — default1",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "maus2-tv"
-      },
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/13_iRbQCq1OY5RUsQrQBYYcvTyc7oJKJg6gwBDATuWAE/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "9405c3994b0b791f3ccbeb24230da148d8feb3f9ec43b41f389590a666a5a763"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "silas-p-pc-max-payne-3-xbox-quadstick-fps-maxpayne3",
       "title": "Max Payne 3 — MaxPayne3",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -11928,6 +12013,39 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "cc94393073dd60d94560b10028d116bbf5a499fddfba34be00c45cfc1d6572bd"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "silas-p-pc-copy-of-flight-simulator-20-xbox-quadstick-fps-profile",
+      "title": "Microsoft Flight Simulator — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "microsoft-flight-simulator"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "ca30e48c1951c43756a40670621144b470b381fe15145a08d30d62c480f82aaf"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -12035,11 +12153,11 @@
     {
       "schemaVersion": 2,
       "id": "mlb13-playstation-quadstick-fps-profile",
-      "title": "MLB13 — profile",
+      "title": "MLB 13: The Show — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "mlb13"
+        "id": "mlb-13-the-show"
       },
       "platform": "playstation",
       "deviceId": "quadstick-fps",
@@ -12067,45 +12185,12 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-monitor-control-samsung-g8-pc-quadstick-fps-monrem",
-      "title": "Monitor Control - Samsung G8 — MonRem",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "monitor-control-samsung-g8"
-      },
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1kWsQQjk93BiFt9BsLWQNXfh4rHizI9rZ3ZB0wOrxG-U/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "3cdf60334f014fab8e73b8a68c1d26ea43960ae245b4bdd3691122ed631e2802"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "mx-vs-atv-supercross-encore-steam-xbox-quadstick-fps-profile",
-      "title": "MX vs ATV Supercross Encore - Steam — profile",
+      "title": "MX vs ATV Supercross Encore — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "mx-vs-atv-supercross-encore-steam"
+        "id": "mx-vs-atv-supercross-encore"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -12134,11 +12219,11 @@
     {
       "schemaVersion": 2,
       "id": "mx-vs-atv-unleashed-steam-playstation-quadstick-fps-profile",
-      "title": "MX vs ATV Unleashed - Steam — profile",
+      "title": "MX vs ATV Unleashed — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "mx-vs-atv-unleashed-steam"
+        "id": "mx-vs-atv-unleashed"
       },
       "platform": "playstation",
       "deviceId": "quadstick-fps",
@@ -12159,39 +12244,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "3c2a1cf2894e00a0511214b0bbb1962067fe1f64bef9728c31d3f85e2a5f9927"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "silas-p-pc-my-current-preferences-pc-quadstick-fps-profile",
-      "title": "My Current Preferences — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "my-current-preferences"
-      },
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1MMtLV2dhDcJFaNgSqx3WrDznnNhxiBLoLcj2GIKkeVw/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "687a75887044179ed5e829ba09848648346b1555221d29497edc83467d28a126"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -12233,11 +12285,11 @@
     {
       "schemaVersion": 2,
       "id": "nba2k15-xbox-quadstick-fps-profile",
-      "title": "NBA2k15 — profile",
+      "title": "NBA 2K15 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "nba2k15"
+        "id": "nba-2k15"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -12291,6 +12343,39 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "965b300fb35588036618d5d658237198e401656b0bcf92fcd2f8b430599934e0"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "silas-p-pc-ps2-need-for-speed-carbon-qmp4-xbox-quadstick-fps-profile",
+      "title": "Need for Speed: Carbon — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "need-for-speed-carbon"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "6d5ef30eab27c755dd650f9db5b64777c08f0a74d223cb3c0ca2a28f84f6f2c5"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -12365,11 +12450,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-path-of-exile-ii-x360-xbox-quadstick-fps-profile",
-      "title": "Path of Exile II x360 — profile",
+      "title": "Path of Exile 2 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "path-of-exile-ii-x360"
+        "id": "path-of-exile-2"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -12628,39 +12713,6 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-ps2-need-for-speed-carbon-qmp4-xbox-quadstick-fps-profile",
-      "title": "PS2 Need for Speed Carbon (QMP4) — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "ps2-need-for-speed-carbon-qmp4"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "6d5ef30eab27c755dd650f9db5b64777c08f0a74d223cb3c0ca2a28f84f6f2c5"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "silas-p-pc-raft-xbox-quadstick-fps-raft",
       "title": "Raft — Raft",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -12893,11 +12945,11 @@
     {
       "schemaVersion": 2,
       "id": "rocket-league-x360ce-xbox-quadstick-fps-profile",
-      "title": "Rocket League X360CE — profile",
+      "title": "Rocket League — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "rocket-league-x360ce"
+        "id": "rocket-league"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -13553,11 +13605,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-splitgate-betatest-x360-xbox-quadstick-fps-profile",
-      "title": "Splitgate (betatest) x360 — profile",
+      "title": "Splitgate — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "splitgate-betatest-x360"
+        "id": "splitgate"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -13817,11 +13869,11 @@
     {
       "schemaVersion": 2,
       "id": "super-mario-odyssey-nintendo-xbox-quadstick-fps-profile",
-      "title": "Super Mario Odyssey Nintendo — profile",
+      "title": "Super Mario Odyssey — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "super-mario-odyssey-nintendo"
+        "id": "super-mario-odyssey"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -14707,12 +14759,45 @@
     },
     {
       "schemaVersion": 2,
-      "id": "heiko-world-of-warship-pc-quadstick-fps-wows",
-      "title": "World of Warship — wows",
+      "id": "dan-nh-copy-of-world-of-warcraft-pc-quadstick-fps-profile",
+      "title": "World of Warcraft — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "world-of-warship"
+        "id": "world-of-warcraft"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "ba4636e4589074168dc4d09eba0c9b600eae348efa9a75768a862035526d7eee"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "heiko-world-of-warship-pc-quadstick-fps-wows",
+      "title": "World of Warships — wows",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "world-of-warships"
       },
       "platform": "pc",
       "deviceId": "quadstick-fps",
@@ -14741,11 +14826,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-xdefiant-x360-qmp4-xbox-quadstick-fps-xdefiant",
-      "title": "XDefiant x360 (QMP4) — XDefiant",
+      "title": "XDefiant — XDefiant",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "xdefiant-x360-qmp4"
+        "id": "xdefiant"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "rocket-league-x360ce-xbox-quadstick-fps-profile",
+  "title": "Rocket League — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "rocket-league"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Fbt4mCdJzMYwdO09o9Mv3suQDNQ8kAMfvxaY1QMHQJ0/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "deb6a771d6d012f090a76eaebb0725a52a0abc0839f27cec30061f7c52a75831"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

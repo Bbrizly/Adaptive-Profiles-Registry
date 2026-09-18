@@ -22,23 +22,27 @@ The historical discussion ledger contains 15 candidates. The official catalog le
 | REJECTED_UNCLEAR_PROVENANCE | 0 |
 | NEEDS_MANUAL_REVIEW | 1 |
 
-The 202 accepted profiles are real public CSV snapshots, deduplicated by SHA-256 and represented by exact immutable `profile.csv` files. Sixteen catalog rows were removed after review because they were device/controller/TV/test configurations rather than game profiles. All remaining profiles are intentionally `unmapped`; no semantic action was inferred from ambiguous raw labels. Only the existing `quadstick-fps` and `quadstick-original` device records are used.
+The 198 accepted profiles are real public CSV snapshots, deduplicated by SHA-256 and represented by exact immutable `profile.csv` files. Twenty catalog rows were removed after review because they were device/controller/TV/test configurations rather than game profiles. All remaining profiles are intentionally `unmapped`; no semantic action was inferred from ambiguous raw labels. Only the existing `quadstick-fps` and `quadstick-original` device records are used. Canonical target normalization also collapses contributor-prefixed and export-suffixed labels into the actual game name.
 
 ## Imported registry contents
 
 | Measure | Count |
 | --- | ---: |
-| Game profiles | 202 |
-| Game targets | 193 |
+| Game profiles | 198 |
+| Game targets | 169 |
 | Devices | 2 |
 | Semantic mapped profiles | 0 |
-| Semantic unmapped profiles | 202 |
+| Semantic unmapped profiles | 198 |
+
+## Game metadata and artwork
+
+The target catalog has 169 canonical game entries. 90 have exact-title Steam store metadata and artwork, 77 have Wikidata metadata, and the remaining 79 have deterministic locally generated SVG artwork so the website never presents a broken image. Steam artwork and metadata remain third-party material; generated artwork is original Adaptive Profiles output. Metadata is descriptive enrichment only and does not create semantic control mappings.
 
 The profile-by-profile table is generated in [`generated/index.v2.json`](../../generated/index.v2.json). Each profile metadata record contains source URL, target, platform, device, semantic status, and SHA-256 snapshot hash. The reproducible importer is [`tools/import-official-catalog.mjs`](../../tools/import-official-catalog.mjs).
 
 ## Validation
 
-- `npm run build:index` — PASS; built 193 games, 2 devices, 202 legacy profiles.
+- `npm run build:index` — PASS; built 169 games, 2 devices, 198 legacy profiles.
 - `node tools/validate.mjs --check-index --check-v2` — PASS.
 - `node tests/registry.test.mjs` — PASS.
 - Snapshot hashes — PASS; every imported profile has an exact local CSV and SHA-256.

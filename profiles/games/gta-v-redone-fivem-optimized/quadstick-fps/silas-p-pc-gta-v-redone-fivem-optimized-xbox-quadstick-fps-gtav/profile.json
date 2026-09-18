@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-gta-v-redone-fivem-optimized-xbox-quadstick-fps-gtav",
+  "title": "GTA V Redone (FiveM optimized) — GTAV",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "gta-v-redone-fivem-optimized"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1o9FChx_Mz2Vjc-GQM9EWOT6U5K89ocWJFnKECPKPPiY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "777dfc7862cb099222692300b4404a1f4426ffa4e285026d871f678a82e4df61"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

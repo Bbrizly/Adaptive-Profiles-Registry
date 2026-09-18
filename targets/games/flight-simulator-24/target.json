@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "flight-simulator-24",
+  "kind": "game",
+  "name": "Flight Simulator 24",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1nnljEgobdSer46u8tl_sirSDFZJ6MxOfi7BzoLHf8OI/edit",
+    "title": "QuadStick public configuration catalog — Flight Simulator 24"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/flight-simulator-24.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/flight-simulator-24.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

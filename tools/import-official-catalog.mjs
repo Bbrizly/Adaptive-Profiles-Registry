@@ -23,7 +23,28 @@ const platformFor = (title, csv) => {
   if (/switch|zelda|mario/.test(value)) return 'switch';
   return 'pc';
 };
-const targetName = title => title.replace(/\s+(pc|ps4|ps5|xbox|xbox one|playstation|switch)\b.*$/i, '').trim() || title;
+const targetName = title => {
+  const withoutContributor = title.replace(/^(?:Silas P\. \(PC\)|Dan NH|Heiko|Steamy Biscuit)\/(.+)$/i, '$1').replace(/^(?:Matt Victor|RockyNoHands)\s+(.+)$/i, '$1').trim();
+  const withoutPlatform = withoutContributor.replace(/\s+(pc|ps4|ps5|xbox|xbox one|playstation|switch)\b.*$/i, '').trim() || withoutContributor;
+  const exact = new Map([
+    ['Batman Arkham Knight v', 'Batman Arkham Knight'],
+    ['COD Black Ops 3', 'Call of Duty: Black Ops III'],
+    ['CODMW', 'Call of Duty: Modern Warfare'],
+    ['DOOM', 'Doom'],
+    ['Fishing Planet-kb', 'Fishing Planet'],
+    ['Fortnite PS4', 'Fortnite'],
+    ['Fortnite XBox 360 for PC', 'Fortnite'],
+    ['PUBG PC', 'PUBG'],
+    ['Ori and the Blind Forest - Steam', 'Ori and the Blind Forest'],
+    ['Ori and the Blind Forest -', 'Ori and the Blind Forest'],
+    ['Copy of LOL', 'League of Legends'],
+    ['Copy of World of Warcraft', 'World of Warcraft'],
+    ['Counterstrikev2', 'Counter-Strike 2'],
+    ['LOL', 'League of Legends'],
+    ['World of Warship', 'World of Warships']
+  ]);
+  return exact.get(withoutPlatform) || withoutPlatform;
+};
 const targetIdFor = name => slug(name);
 const existingHashes = new Set();
 for (const file of fs.existsSync(path.join(ROOT, 'profiles')) ? fs.readdirSync(path.join(ROOT, 'profiles'), { recursive: true }) : []) {
@@ -44,7 +65,7 @@ for (const row of rows) {
   if (fs.existsSync(profileDir)) { const current = path.join(profileDir, 'profile.csv'); const currentHash = fs.existsSync(current) ? crypto.createHash('sha256').update(fs.readFileSync(current)).digest('hex') : ''; if (currentHash !== hash) { profileId = `${profileId}-${hash.slice(0, 8)}`; profileDir = path.join(ROOT, 'profiles', 'games', targetId, 'quadstick-fps', profileId); } }
   fs.mkdirSync(profileDir, { recursive: true }); fs.copyFileSync(source, path.join(profileDir, 'profile.csv'));
   const targetFile = path.join(ROOT, 'targets', 'games', targetId, 'target.json');
-  if (!fs.existsSync(targetFile)) { fs.mkdirSync(path.dirname(targetFile), { recursive: true }); fs.writeFileSync(targetFile, `${JSON.stringify({ schemaVersion: 2, id: targetId, kind: 'game', name: targetNameValue, aliases: [], categories: ['gaming'], platforms: [platform], actions: [], source: { url: row.url, title: `QuadStick public configuration catalog — ${title}` } }, null, 2)}\n`); } else { const target = JSON.parse(fs.readFileSync(targetFile, 'utf8')); if (!target.platforms.includes(platform)) { target.platforms.push(platform); target.platforms.sort(); fs.writeFileSync(targetFile, `${JSON.stringify(target, null, 2)}\n`); } }
+  if (!fs.existsSync(targetFile)) { fs.mkdirSync(path.dirname(targetFile), { recursive: true }); fs.writeFileSync(targetFile, `${JSON.stringify({ schemaVersion: 2, id: targetId, kind: 'game', name: targetNameValue, aliases: [], categories: ['gaming'], platforms: [platform], actions: [], source: { url: row.url, title: `QuadStick public configuration catalog — ${targetNameValue}` } }, null, 2)}\n`); } else { const target = JSON.parse(fs.readFileSync(targetFile, 'utf8')); let changed = target.source?.title !== `QuadStick public configuration catalog — ${targetNameValue}`; target.name = targetNameValue; target.source = { ...target.source, title: `QuadStick public configuration catalog — ${targetNameValue}` }; if (!target.platforms.includes(platform)) { target.platforms.push(platform); target.platforms.sort(); changed = true; } if (changed) fs.writeFileSync(targetFile, `${JSON.stringify(target, null, 2)}\n`); }
   const metadata = { schemaVersion: 2, id: profileId, title: title === row.filename ? title : `${targetNameValue} — ${row.filename.replace(/\.csv$/i, '')}`, description: `Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.`, target: { kind: 'game', id: targetId }, platform, deviceId: 'quadstick-fps', semanticStatus: 'unmapped', mappings: [], tags: ['community', 'quadstick-catalog', 'unmapped'], contributor: { displayName: 'Unknown contributor' }, source: { type: 'google-sheet', url: row.url }, snapshot: { file: 'profile.csv', sha256: hash }, revision: 1, createdAt: '2026-09-18', updatedAt: '2026-09-18' };
   fs.writeFileSync(path.join(profileDir, 'profile.json'), `${JSON.stringify(metadata, null, 2)}\n`); existingHashes.add(hash); imported.push({ ...row, status: 'ACCEPTED_UNMAPPED', profileId, target: targetId, platform, device: 'quadstick-fps', snapshotSha256: hash });
 }

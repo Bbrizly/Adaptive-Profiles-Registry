@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-black-ops-6-mp-zombies-x360-qmp4-xbox-quadstick-fps-zzcodzbo6",
+  "title": "Call of Duty: Black Ops 6 — zzCoDZBO6",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "call-of-duty-black-ops-6"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Neb8ihhZ2_Pkd_fFTywtnVa6-6NJI6ofdeR4sCBOa8s/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a6d26567754c7b3204bb5e4affec2adf064081cd73491e3d0f4385bf5c69fedd"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

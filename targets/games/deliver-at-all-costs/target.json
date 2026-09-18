@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "deliver-at-all-costs",
+  "kind": "game",
+  "name": "Deliver At All Costs",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KwQPwEljy-Pr4hUaojmsI1BVfuJkZUtMF79Ij8wPiog/edit",
+    "title": "QuadStick public configuration catalog — Deliver At All Costs"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q130249584",
+    "url": "https://www.wikidata.org/entity/Q130249584",
+    "name": "Deliver At All Costs",
+    "description": "2025 video game",
+    "releaseDate": "2025-05-22",
+    "genres": [
+      "action game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1880610,
+      "name": "Deliver At All Costs",
+      "url": "https://store.steampowered.com/app/1880610/",
+      "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Step into the shoes of Winston Green — a down-on-his-luck courier with a fiery temper and a mysterious past — as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
+      "releaseDate": "May 22, 2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 76.33,
+        "positive": 329,
+        "negative": 102,
+        "total": 431
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg",
+    "source": "https://store.steampowered.com/app/1880610/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

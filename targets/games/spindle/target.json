@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "spindle",
+  "kind": "game",
+  "name": "Spindle",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1GpU47j5Oa68IGLtEvZlZi64ZLk4ff_ySZIorRuOB5Jk/edit",
+    "title": "QuadStick public configuration catalog — Spindle"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q79905553",
+    "url": "https://www.wikidata.org/entity/Q79905553",
+    "name": "Spindle",
+    "description": "spindle whorl by unknown artist (1948.484)",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1386750,
+      "name": "Spindle",
+      "url": "https://store.steampowered.com/app/1386750/",
+      "description": "SPINDLE is an old-school action-adventure about death and the many ways we choose to deal with it. With your trusty Pig by your side, you form a most curious team, embarking on a quest to learn what it truly means to be Death.",
+      "releaseDate": "Oct 13, 2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": {
+        "score": 96.32,
+        "positive": 471,
+        "negative": 18,
+        "total": 489
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386750/header.jpg",
+    "source": "https://store.steampowered.com/app/1386750/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

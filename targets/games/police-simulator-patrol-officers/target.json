@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "police-simulator-patrol-officers",
+  "kind": "game",
+  "name": "Police Simulator: Patrol Officers",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Z9N0bPvsG24jg6h3wsrs4ps9xpJzgKKMjxbMeTkJ1s4/edit",
+    "title": "QuadStick public configuration catalog — Police Simulator: Patrol Officers"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q108108649",
+    "url": "https://www.wikidata.org/entity/Q108108649",
+    "name": "Police Simulator: Patrol Officers",
+    "description": "2022 video game",
+    "releaseDate": "2021-06-17",
+    "genres": [
+      "simulation video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 997010,
+      "name": "Police Simulator: Patrol Officers",
+      "url": "https://store.steampowered.com/app/997010/",
+      "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a police officer.",
+      "releaseDate": "Nov 10, 2022",
+      "genres": [
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 74.54,
+        "positive": 17178,
+        "negative": 5866,
+        "total": 23044
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
+    "source": "https://store.steampowered.com/app/997010/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

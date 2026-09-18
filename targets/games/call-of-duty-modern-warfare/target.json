@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-modern-warfare",
+  "kind": "game",
+  "name": "Call of Duty: Modern Warfare",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1JTCP8MmvQ8bfBzevGQCGZd5FPX5joA-UJ1MJbOTYy_4/edit",
+    "title": "QuadStick public configuration catalog — Call of Duty: Modern Warfare"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q64174367",
+    "url": "https://www.wikidata.org/entity/Q64174367",
+    "name": "Call of Duty: Modern Warfare",
+    "description": "Wikimedia disambiguation page",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2000950,
+      "name": "Call of Duty®: Modern Warfare®",
+      "url": "https://store.steampowered.com/app/2000950/",
+      "description": "Experience a visceral Campaign or assemble your team in the ultimate online playground with multiple Special Ops challenges and a mix of Multiplayer maps and modes.",
+      "releaseDate": "Mar 8, 2023",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 78.97,
+        "positive": 35924,
+        "negative": 9564,
+        "total": 45488
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
+    "source": "https://store.steampowered.com/app/2000950/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

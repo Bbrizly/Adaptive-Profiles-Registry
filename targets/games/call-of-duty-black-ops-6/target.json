@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-black-ops-6",
+  "kind": "game",
+  "name": "Call of Duty: Black Ops 6",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Neb8ihhZ2_Pkd_fFTywtnVa6-6NJI6ofdeR4sCBOa8s/edit",
+    "title": "QuadStick public configuration catalog — Call of Duty: Black Ops 6"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 4384550,
+      "name": "Call of Duty®: Black Ops 6",
+      "url": "https://store.steampowered.com/app/4384550/",
+      "description": "Call of Duty®: Black Ops 6 is signature Black Ops across a cinematic single-player Campaign, a best-in-class Multiplayer experience and with the epic return of Round-Based Zombies.",
+      "releaseDate": "Nov 1, 2024",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 45.08,
+        "positive": 7320,
+        "negative": 8917,
+        "total": 16237
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/header.jpg",
+    "source": "https://store.steampowered.com/app/4384550/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

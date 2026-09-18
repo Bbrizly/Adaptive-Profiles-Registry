@@ -14,5 +14,52 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1JjdHjzUOnd7-UxePjCnPIZyNWdkoPtzA_c-bBJTw2mM/edit",
     "title": "QuadStick public configuration catalog — Red Dead Redemption"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q548203",
+    "url": "https://www.wikidata.org/entity/Q548203",
+    "name": "Red Dead Redemption",
+    "description": "2010 action-adventure video game",
+    "releaseDate": "2010-05-18",
+    "genres": [
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2668510,
+      "name": "Red Dead Redemption",
+      "url": "https://store.steampowered.com/app/2668510/",
+      "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Dead Redemption 2.",
+      "releaseDate": "Oct 29, 2024",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.43,
+        "positive": 20086,
+        "negative": 1646,
+        "total": 21732
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg",
+    "source": "https://store.steampowered.com/app/2668510/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

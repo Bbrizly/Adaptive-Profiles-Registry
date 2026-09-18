@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "deathloop-kbm-pc-quadstick-fps-profile",
+  "title": "Deathloop — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "deathloop"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1cDHb5PUQRLySYwuJM0OFSyCAZQixkV6qcYpWDyxY1Uw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "03658d00d2d2df8439b74daa9834c6e638dfd3f8e50c92bd0c02fcc98e50e87e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

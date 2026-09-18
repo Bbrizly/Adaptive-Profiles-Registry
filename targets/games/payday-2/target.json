@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "payday-2",
+  "kind": "game",
+  "name": "Payday 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1a9eyYBfPF4KGqkeyGS-bIY01DAkfQU7oHDHjAYiGMuo/edit",
+    "title": "QuadStick public configuration catalog — Payday 2"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q7156711",
+    "url": "https://www.wikidata.org/entity/Q7156711",
+    "name": "Payday 2",
+    "description": "2013 video game",
+    "releaseDate": "2013-08-13",
+    "genres": [
+      "stealth game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 218620,
+      "name": "PAYDAY 2",
+      "url": "https://store.steampowered.com/app/218620/",
+      "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+      "releaseDate": "Aug 13, 2013",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.35,
+        "positive": 602920,
+        "negative": 71843,
+        "total": 674763
+      },
+      "metacritic": 79,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
+    "source": "https://store.steampowered.com/app/218620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-need-for-speed-heat-xbox-quadstick-fps-profile",
+  "title": "Need for Speed Heat — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "need-for-speed-heat"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1tzBf62nX51i4lfui-Yk-Ep7qUjh3gcx8KLUPjwRt5WI/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "965b300fb35588036618d5d658237198e401656b0bcf92fcd2f8b430599934e0"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

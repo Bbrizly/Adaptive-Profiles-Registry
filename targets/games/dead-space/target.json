@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "dead-space",
+  "kind": "game",
+  "name": "Dead Space",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1EAKy4QzOnqirw99vqmSFOC6VwK-TNTQENPq0KcCibB8/edit",
+    "title": "QuadStick public configuration catalog — Dead Space"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q117100765",
+    "url": "https://www.wikidata.org/entity/Q117100765",
+    "name": "Dead Space",
+    "description": "2021 novel by Kali Wallace",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1693980,
+      "name": "Dead Space",
+      "url": "https://store.steampowered.com/app/1693980/",
+      "description": "The sci-fi survival-horror classic returns, completely rebuilt to offer an even more immersive experience — including visual, audio, and gameplay improvements — while staying faithful to the original game’s thrilling vision.",
+      "releaseDate": "Jan 27, 2023",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 90.51,
+        "positive": 64288,
+        "negative": 6740,
+        "total": 71028
+      },
+      "metacritic": 87,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+    "source": "https://store.steampowered.com/app/1693980/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

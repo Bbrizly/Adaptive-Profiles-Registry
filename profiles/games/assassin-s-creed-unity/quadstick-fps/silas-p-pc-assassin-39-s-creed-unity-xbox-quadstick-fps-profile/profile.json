@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-assassin-39-s-creed-unity-xbox-quadstick-fps-profile",
+  "title": "Assassin's Creed Unity — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "assassin-s-creed-unity"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1N37L5cvv4Ys7XiA8Khx7XaQCrMaQdsJQmDgou9NvZTA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "35b2005c10c8c59f0055823d275dffc84e7ad88ddfc58332d199729b1cff1a44"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

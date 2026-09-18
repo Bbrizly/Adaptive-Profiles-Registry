@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-split-fiction-xbox-quadstick-fps-splitfiction",
+  "title": "Split Fiction — SplitFiction",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "split-fiction"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1nYEp6ue5_LbdQfuWtZ7KEc7lUO9DI1SGZDE4Fexd2zY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "cafbf2d19f05d8f49b2b6f67abfd46b4fcd0e47aec0354927f6cd08d3415a719"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

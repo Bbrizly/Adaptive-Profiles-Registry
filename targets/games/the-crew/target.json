@@ -14,5 +14,24 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1D5XnTVhZJc8QM9TSzCMzJKfnPHR9tadhCOP5pz1q6xk/edit",
     "title": "QuadStick public configuration catalog — The Crew"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q106452851",
+    "url": "https://www.wikidata.org/entity/Q106452851",
+    "name": "The Crew",
+    "description": "2018 film directed by Eslam Rasmy",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/the-crew.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

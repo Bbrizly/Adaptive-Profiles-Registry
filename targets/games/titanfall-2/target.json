@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "titanfall-2",
+  "kind": "game",
+  "name": "Titanfall 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/11COcj9LSFmCyvZW68WKqxT68_EtPQRnuMSl-unn04ok/edit",
+    "title": "QuadStick public configuration catalog — Titanfall 2"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q24044813",
+    "url": "https://www.wikidata.org/entity/Q24044813",
+    "name": "Titanfall 2",
+    "description": "2016 video game",
+    "releaseDate": "2016-10-28",
+    "genres": [
+      "science fiction video game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1237970,
+      "name": "Titanfall® 2",
+      "url": "https://store.steampowered.com/app/1237970/",
+      "description": "Respawn Entertainment gives you the most advanced titan technology in its new, single player campaign & multiplayer experience. Combine & conquer with new titans & pilots, deadlier weapons, & customization and progression systems that help you and your titan flow as one unstoppable killing force.",
+      "releaseDate": "Jun 18, 2020",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 95.65,
+        "positive": 273876,
+        "negative": 12458,
+        "total": 286334
+      },
+      "metacritic": 86,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+    "source": "https://store.steampowered.com/app/1237970/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

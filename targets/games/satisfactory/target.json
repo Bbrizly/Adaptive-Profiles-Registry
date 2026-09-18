@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "satisfactory",
+  "kind": "game",
+  "name": "Satisfactory",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1raPi-3ezaWA5bLGWdJyzcWFkoayaAbPdt45pf3p2saA/edit",
+    "title": "QuadStick public configuration catalog — Satisfactory"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 526870,
+      "name": "Satisfactory",
+      "url": "https://store.steampowered.com/app/526870/",
+      "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+      "releaseDate": "Sep 10, 2024",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 97.27,
+        "positive": 271922,
+        "negative": 7645,
+        "total": 279567
+      },
+      "metacritic": 91,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+    "source": "https://store.steampowered.com/app/526870/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

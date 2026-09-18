@@ -14,5 +14,53 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1f9J51f__Vexir70tltRkZuBwsReCDm-uaQZCIpuE1Bo/edit",
     "title": "QuadStick public configuration catalog — FPV Freerider"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q122314295",
+    "url": "https://www.wikidata.org/entity/Q122314295",
+    "name": "FPV Freerider",
+    "description": "2015 video game",
+    "releaseDate": "2015-04-17",
+    "genres": [
+      "simulation video game",
+      "racing video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 854250,
+      "name": "FPV Freerider",
+      "url": "https://store.steampowered.com/app/854250/",
+      "description": "RC Quadcopter Racing Simulator - Fly (and crash!) all you want regardless of the weather, all for the price of a few replacement props.",
+      "releaseDate": "May 17, 2018",
+      "genres": [
+        "Simulation"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 88.76,
+        "positive": 308,
+        "negative": 39,
+        "total": 347
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg",
+    "source": "https://store.steampowered.com/app/854250/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

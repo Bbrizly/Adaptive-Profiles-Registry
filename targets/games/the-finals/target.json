@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "id": "the-finals",
+  "kind": "game",
+  "name": "THE FINALS",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Wuw6JOyKBHtRdQlafGWFMtRw9Ze_vUK098rTN73qTLo/edit",
+    "title": "QuadStick public configuration catalog — THE FINALS"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 2073850,
+      "name": "THE FINALS",
+      "url": "https://store.steampowered.com/app/2073850/",
+      "description": "THE FINALS is the world’s first Dynamism Shooter, a free-to-play, fast-paced, physics-driven, first-person shooter set on the stage of the biggest Gameshow of the future! Fight for Fans and fortune in fully-destructible, virtual Arenas that guarantee no two rounds will ever play the same!",
+      "releaseDate": "Dec 7, 2023",
+      "genres": [
+        "Action",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 78.22,
+        "positive": 216207,
+        "negative": 60203,
+        "total": 276410
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+    "source": "https://store.steampowered.com/app/2073850/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

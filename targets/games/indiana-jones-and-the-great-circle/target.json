@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "indiana-jones-and-the-great-circle",
+  "kind": "game",
+  "name": "Indiana Jones and the Great Circle",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/13plpK5hQjUYomSLeXn7uzQKoGDiGgFDsDdExmX-PbuM/edit",
+    "title": "QuadStick public configuration catalog — Indiana Jones and the Great Circle"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q124312399",
+    "url": "https://www.wikidata.org/entity/Q124312399",
+    "name": "Indiana Jones and the Great Circle",
+    "description": "2024 video game developed by MachineGames",
+    "releaseDate": "2024-12-09",
+    "genres": [
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2677660,
+      "name": "Indiana Jones and the Great Circle",
+      "url": "https://store.steampowered.com/app/2677660/",
+      "description": "Uncover one of history’s greatest mysteries in a first-person, single-player adventure. The year is 1937, sinister forces are scouring the globe for the secret to an ancient power connected to the Great Circle, and only one person can stop them - Indiana Jones™.",
+      "releaseDate": "Dec 8, 2024",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 90.13,
+        "positive": 18656,
+        "negative": 2043,
+        "total": 20699
+      },
+      "metacritic": 87,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
+    "source": "https://store.steampowered.com/app/2677660/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

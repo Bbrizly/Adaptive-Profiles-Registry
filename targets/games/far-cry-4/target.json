@@ -8,11 +8,60 @@
     "gaming"
   ],
   "platforms": [
+    "pc",
     "playstation"
   ],
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/11y7DgYio3LH-uxSr8OxFFWeIiPXa_cabC6guIGLiXnk/edit",
     "title": "QuadStick public configuration catalog — Far Cry 4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q15992359",
+    "url": "https://www.wikidata.org/entity/Q15992359",
+    "name": "Far Cry 4",
+    "description": "2014 video game",
+    "releaseDate": "2014-11-18",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 298110,
+      "name": "Far Cry® 4",
+      "url": "https://store.steampowered.com/app/298110/",
+      "description": "Fight to liberate a war-torn Himalayan region in this open world FPS. Wield a deadly arsenal, dominate land and sky with gyrocopters and war elephants, and take on enemy territory solo or in co-op.",
+      "releaseDate": "Nov 17, 2014",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 84.65,
+        "positive": 62553,
+        "negative": 11344,
+        "total": 73897
+      },
+      "metacritic": 80,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
+    "source": "https://store.steampowered.com/app/298110/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

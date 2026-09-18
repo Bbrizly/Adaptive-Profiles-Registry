@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-chained-together-xbox-quadstick-fps-chainedtogether",
+  "title": "Chained Together — Chainedtogether",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "chained-together"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1pJ2nN-BChvORwOW7hqFJB9FQHbOKBlMSl8ItPs2OIds/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b7901c4d77b2a294b80b0679150c836a6ef7380cfc2754c1ca3069b5f7bd2f1f"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

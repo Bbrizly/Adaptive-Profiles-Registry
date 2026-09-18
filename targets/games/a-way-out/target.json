@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "a-way-out",
+  "kind": "game",
+  "name": "A Way Out",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Gw6ydYt1-Jn5qJCzo0Q7YhMTuZKg7GhItYrJA4ApeaU/edit",
+    "title": "QuadStick public configuration catalog — A Way Out"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q140927488",
+    "url": "https://www.wikidata.org/entity/Q140927488",
+    "name": "A Way Out",
+    "description": "episode of Chicago P.D. (S9 E9)",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1222700,
+      "name": "A Way Out",
+      "url": "https://store.steampowered.com/app/1222700/",
+      "description": "A Way Out is an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.",
+      "releaseDate": "Jun 18, 2020",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 87.93,
+        "positive": 90550,
+        "negative": 12432,
+        "total": 102982
+      },
+      "metacritic": 78,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+    "source": "https://store.steampowered.com/app/1222700/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

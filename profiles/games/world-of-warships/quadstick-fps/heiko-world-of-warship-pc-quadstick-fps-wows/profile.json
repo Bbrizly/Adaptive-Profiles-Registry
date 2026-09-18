@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "heiko-world-of-warship-pc-quadstick-fps-wows",
+  "title": "World of Warships — wows",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "world-of-warships"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1TgkBFb_ZTvwcDaKHZ8XiglspZAK4Nd8ZxQr6hKUcAwc/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ebac7bf2fb9b1dd095a6a0d1a72e7ce16a00b38d5bcad210f4ff6af84e90470a"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

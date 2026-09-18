@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-path-of-exile-ii-x360-xbox-quadstick-fps-profile",
+  "title": "Path of Exile 2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "path-of-exile-2"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1CgvoZXE67qvRp6gXd4Pnw8sOIVajQDo4CBi4nGvS-7M/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "dd1b6221df97ea7f8d2bebeed997a8efd9c40c65e12da7bd4aee31f6a4639ce0"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

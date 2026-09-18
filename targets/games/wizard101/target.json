@@ -14,5 +14,56 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1vYHBmurDRa1lFTmE3oyOVChW_D1zSx3oG6Ln6yWO_Os/edit",
     "title": "QuadStick public configuration catalog — Wizard101"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q614418",
+    "url": "https://www.wikidata.org/entity/Q614418",
+    "name": "Wizard101",
+    "description": "massively multiplayer online role-playing game",
+    "releaseDate": "2008-09-02",
+    "genres": [
+      "massively multiplayer online role-playing game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 799960,
+      "name": "Wizard101",
+      "url": "https://store.steampowered.com/app/799960/",
+      "description": "Unleash your inner magic and prepare to unravel the mysteries surrounding a death professor gone rogue. Darkness threatens to engulf the Spiral as you master powerful spells, explore over 22 whimsical worlds, and team-up with friends in this nostalgic wizard turn-based deckbuilding MMORPG.",
+      "releaseDate": "Sep 6, 2018",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 82.58,
+        "positive": 7886,
+        "negative": 1663,
+        "total": 9549
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg",
+    "source": "https://store.steampowered.com/app/799960/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

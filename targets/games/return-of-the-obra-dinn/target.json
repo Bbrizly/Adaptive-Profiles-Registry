@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "id": "return-of-the-obra-dinn",
+  "kind": "game",
+  "name": "Return of the Obra Dinn",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ItVcDPCnx2u7gjayvsKXezxFAtLOcX6QHdQYRwPyGcg/edit",
+    "title": "QuadStick public configuration catalog — Return of the Obra Dinn"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q48987695",
+    "url": "https://www.wikidata.org/entity/Q48987695",
+    "name": "Return of the Obra Dinn",
+    "description": "2018 adventure video game developed by Lucas Pope",
+    "releaseDate": "2018-10-18",
+    "genres": [
+      "mystery video game",
+      "puzzle video game",
+      "adventure video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 653530,
+      "name": "Return of the Obra Dinn",
+      "url": "https://store.steampowered.com/app/653530/",
+      "description": "Lost at sea 1803 ~ The good ship Obra Dinn.",
+      "releaseDate": "Oct 18, 2018",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 96.69,
+        "positive": 34053,
+        "negative": 1165,
+        "total": 35218
+      },
+      "metacritic": 89,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg",
+    "source": "https://store.steampowered.com/app/653530/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

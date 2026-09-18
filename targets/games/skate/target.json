@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "skate",
+  "kind": "game",
+  "name": "Skate",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1dCGn3KGnVFqzVX7QF2SMuNkXQTkt6s1iD3WoChu1nQk/edit",
+    "title": "QuadStick public configuration catalog — Skate"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q18359241",
+    "url": "https://www.wikidata.org/entity/Q18359241",
+    "name": "Skate",
+    "description": "dinghy",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 3354750,
+      "name": "skate.",
+      "url": "https://store.steampowered.com/app/3354750/",
+      "description": "Experience improved Flick-It controls, the rich physics based skateboarding gameplay that provides those “only in skate.™“ moments and off-board exploration for full freedom in the online multiplayer world of San Vansterdam.",
+      "releaseDate": "Sep 16, 2025",
+      "genres": [
+        "Action",
+        "Sports",
+        "Free To Play",
+        "Early Access"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 69.52,
+        "positive": 62358,
+        "negative": 27344,
+        "total": 89702
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/header.jpg",
+    "source": "https://store.steampowered.com/app/3354750/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "assassin-s-creed-iv-black-flag-resynced",
+  "kind": "game",
+  "name": "Assassin's Creed IV - Black Flag Resynced",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ssATHDzzXmztD72iqOSQV4QZ4k_TXx3DdOhQaaiP4bw/edit",
+    "title": "QuadStick public configuration catalog — Assassin's Creed IV - Black Flag Resynced"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

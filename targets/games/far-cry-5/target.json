@@ -8,11 +8,59 @@
     "gaming"
   ],
   "platforms": [
-    "playstation"
+    "playstation",
+    "xbox"
   ],
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1IXELetNPTwGKBm-ywDSS8mO9_dRcRGym6YZVU064B5M/edit",
     "title": "QuadStick public configuration catalog — Far Cry 5"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q30015130",
+    "url": "https://www.wikidata.org/entity/Q30015130",
+    "name": "Far Cry 5",
+    "description": "2018 video game",
+    "releaseDate": "2018-03-27",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 552520,
+      "name": "Far Cry® 5",
+      "url": "https://store.steampowered.com/app/552520/",
+      "description": "Fight a fanatical cult in this open world FPS. Engage in intense combat, free hostile territory, recruit loyal followers and animal allies, and liberate Hope County solo or in full 2-player co-op.",
+      "releaseDate": "Mar 26, 2018",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 81.07,
+        "positive": 153366,
+        "negative": 35800,
+        "total": 189166
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+    "source": "https://store.steampowered.com/app/552520/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,24 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1rEDy-PvZCX7cUb_6bDeVytnjBmiv3AzCQK0ufqjFJv8/edit",
     "title": "QuadStick public configuration catalog — Madden"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q91588991",
+    "url": "https://www.wikidata.org/entity/Q91588991",
+    "name": "Madden",
+    "description": "male given name",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/madden.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

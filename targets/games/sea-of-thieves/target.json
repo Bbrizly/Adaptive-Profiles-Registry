@@ -14,5 +14,24 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1RFcGkPcnn-H9td8HRqvVOc0AuPlJAArUmSdB7QHbrrI/edit",
     "title": "QuadStick public configuration catalog — Sea of Thieves"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q141207988",
+    "url": "https://www.wikidata.org/entity/Q141207988",
+    "name": "Sea of Thieves",
+    "description": "novel by Jeremy Whitley and Rhoald Marcellius",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/sea-of-thieves.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sea-of-thieves.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

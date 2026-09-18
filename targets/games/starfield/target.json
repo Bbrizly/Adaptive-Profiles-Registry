@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "starfield",
+  "kind": "game",
+  "name": "Starfield",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1RQHLLmiQbU5V35Vybfkj4JKcXSVMTC0D6LwkiNg2c1A/edit",
+    "title": "QuadStick public configuration catalog — Starfield"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q97314814",
+    "url": "https://www.wikidata.org/entity/Q97314814",
+    "name": "Starfield",
+    "description": "family name",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1716740,
+      "name": "Starfield",
+      "url": "https://store.steampowered.com/app/1716740/",
+      "description": "Starfield is the first new universe in 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4.",
+      "releaseDate": "Sep 5, 2023",
+      "genres": [
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 56.9,
+        "positive": 99807,
+        "negative": 75597,
+        "total": 175404
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+    "source": "https://store.steampowered.com/app/1716740/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

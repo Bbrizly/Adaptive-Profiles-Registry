@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "forza-horizon-4",
+  "kind": "game",
+  "name": "Forza Horizon 4",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1-fXz7Uazyok9o5EGzDGS8W__zpGZgwJ5qCJEtm1xTRc/edit",
+    "title": "QuadStick public configuration catalog — Forza Horizon 4"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/forza-horizon-4.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-horizon-4.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

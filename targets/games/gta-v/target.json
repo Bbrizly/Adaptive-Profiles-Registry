@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "gta-v",
+  "kind": "game",
+  "name": "GTA V",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1aEzDToS8IrLfdTpFECgtcpSmdG0szkd2djNlVnmiGls/edit",
+    "title": "QuadStick public configuration catalog — GTA V"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/gta-v.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-007-first-light-x360-xbox-quadstick-fps-007firstlight",
+  "title": "007 First Light — 007FirstLight",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "007-first-light"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1NfU7uvp3EZFWCTizgdQDEM7cFl4xe7Wu5VnpToJ8B8E/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "1fec743fc69fee32290d49129d6f4e633f57d2df5c1b287b8b4ab010153b6cc6"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

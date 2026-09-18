@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "lego-fortnite",
+  "kind": "game",
+  "name": "LEGO Fortnite",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1cxHQSWFEsKnOqvL0ZKc8OUKGKR9TOsiWnMAbP8iGuV4/edit",
+    "title": "QuadStick public configuration catalog — LEGO Fortnite"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/lego-fortnite.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lego-fortnite.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

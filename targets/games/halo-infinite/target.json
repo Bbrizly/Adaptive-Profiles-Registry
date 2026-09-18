@@ -8,11 +8,44 @@
     "gaming"
   ],
   "platforms": [
-    "switch"
+    "switch",
+    "xbox"
   ],
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1Ve7kzYEHkHJj--mWQcrzLVvnM62p0snLcbMOjoARcKw/edit",
     "title": "QuadStick public configuration catalog — Halo Infinite"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1240440,
+      "name": "Halo Infinite",
+      "url": "https://store.steampowered.com/app/1240440/",
+      "description": "From one of gaming's most iconic sagas, Halo is bigger than ever. Featuring an expansive open-world campaign and a dynamic free to play multiplayer experience.",
+      "releaseDate": "Nov 15, 2021",
+      "genres": [
+        "Action",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 69.3,
+        "positive": 125567,
+        "negative": 55628,
+        "total": 181195
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/header.jpg",
+    "source": "https://store.steampowered.com/app/1240440/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

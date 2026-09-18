@@ -14,5 +14,24 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1z-Oeg_swPyB_zCjG8_qCzZoKZ-hN8GKqM3C7k3ltzns/edit",
     "title": "QuadStick public configuration catalog — Devil May Cry"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q11196799",
+    "url": "https://www.wikidata.org/entity/Q11196799",
+    "name": "Devil May Cry",
+    "description": "Wikimedia disambiguation page",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/devil-may-cry.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/devil-may-cry.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

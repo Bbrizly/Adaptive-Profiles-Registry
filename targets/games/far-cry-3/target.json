@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "far-cry-3",
+  "kind": "game",
+  "name": "Far Cry 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/14Wu6gM8SGU8Yd11IQw8RvGLSfcVgRbmhWbxXHZNDyDA/edit",
+    "title": "QuadStick public configuration catalog — Far Cry 3"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q796529",
+    "url": "https://www.wikidata.org/entity/Q796529",
+    "name": "Far Cry 3",
+    "description": "2012 open world, action-adventure first-person shooter video game",
+    "releaseDate": "2012-11-29",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 220240,
+      "name": "Far Cry 3",
+      "url": "https://store.steampowered.com/app/220240/",
+      "description": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed visceral FPS.",
+      "releaseDate": "Dec 4, 2012",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 87.79,
+        "positive": 117331,
+        "negative": 16315,
+        "total": 133646
+      },
+      "metacritic": 88,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
+    "source": "https://store.steampowered.com/app/220240/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "helldivers-ii",
+  "kind": "game",
+  "name": "Helldivers II",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit",
+    "title": "QuadStick public configuration catalog — Helldivers II"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/helldivers-ii.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/helldivers-ii.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

@@ -12,7 +12,8 @@
     "action-adventure"
   ],
   "platforms": [
-    "pc"
+    "pc",
+    "xbox"
   ],
   "actions": [
     {
@@ -90,6 +91,55 @@
   ],
   "source": {
     "url": "https://www.ea.com/able/resources/star-wars/jedi-fallen-order/pc/text-manual",
-    "title": "Star Wars Jedi: Fallen Order PC Text Manual"
+    "title": "QuadStick public configuration catalog — Star Wars Jedi: Fallen Order"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q55449345",
+    "url": "https://www.wikidata.org/entity/Q55449345",
+    "name": "Star Wars Jedi: Fallen Order",
+    "description": "2019 single-player action-adventure video game",
+    "releaseDate": "2019-11-15",
+    "genres": [
+      "space opera video game",
+      "Metroidvania",
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1172380,
+      "name": "STAR WARS Jedi: Fallen Order™",
+      "url": "https://store.steampowered.com/app/1172380/",
+      "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
+      "releaseDate": "Nov 14, 2019",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 88.43,
+        "positive": 155121,
+        "negative": 20301,
+        "total": 175422
+      },
+      "metacritic": 81,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
+    "source": "https://store.steampowered.com/app/1172380/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

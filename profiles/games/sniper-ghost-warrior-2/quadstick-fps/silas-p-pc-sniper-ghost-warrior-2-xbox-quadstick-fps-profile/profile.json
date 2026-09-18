@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-sniper-ghost-warrior-2-xbox-quadstick-fps-profile",
+  "title": "Sniper Ghost Warrior 2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "sniper-ghost-warrior-2"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1KsfIAu-nZf_cBJptGG2lZcuIKFK_b4M6uQ-hiLp4dNU/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "2853fe27c9a33ec247789ce30e92449569f96acea65110e61ae14f89a40eb858"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

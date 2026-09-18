@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "project-cars",
   "kind": "game",
-  "name": "Project Cars",
+  "name": "Project CARS",
   "aliases": [],
   "categories": [
     "gaming"
@@ -13,6 +13,13 @@
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
-    "title": "QuadStick public configuration catalog — Project Cars PC"
+    "title": "QuadStick public configuration catalog — Project CARS"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/project-cars.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

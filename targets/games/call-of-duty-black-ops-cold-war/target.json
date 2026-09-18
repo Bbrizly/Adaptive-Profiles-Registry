@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-black-ops-cold-war",
+  "kind": "game",
+  "name": "Call of Duty: Black Ops Cold War",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1obdIB9mXtT3LVMWaylADG3Ay6hh4GPcwZktzCSmBfTY/edit",
+    "title": "QuadStick public configuration catalog — Call of Duty: Black Ops Cold War"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1985810,
+      "name": "Call of Duty®: Black Ops Cold War",
+      "url": "https://store.steampowered.com/app/1985810/",
+      "description": "Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s.",
+      "releaseDate": "Mar 8, 2023",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 79.38,
+        "positive": 18703,
+        "negative": 4857,
+        "total": 23560
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+    "source": "https://store.steampowered.com/app/1985810/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

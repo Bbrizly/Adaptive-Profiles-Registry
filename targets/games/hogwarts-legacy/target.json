@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "hogwarts-legacy",
+  "kind": "game",
+  "name": "Hogwarts Legacy",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1mvv_0ugmjygvsVQzj00uvAuy3loJIrybIZBNXIe2fK4/edit",
+    "title": "QuadStick public configuration catalog — Hogwarts Legacy"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 990080,
+      "name": "Hogwarts Legacy",
+      "url": "https://store.steampowered.com/app/990080/",
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+      "releaseDate": "Feb 10, 2023",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.75,
+        "positive": 335294,
+        "negative": 38283,
+        "total": 373577
+      },
+      "metacritic": 83,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+    "source": "https://store.steampowered.com/app/990080/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

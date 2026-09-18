@@ -14,5 +14,26 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1nkM6KY8jIOm1rOjZ6ImgiE0w2W8w8QZ8E2C1JMRCycY/edit",
     "title": "QuadStick public configuration catalog — Gran Turismo Sport"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q21563294",
+    "url": "https://www.wikidata.org/entity/Q21563294",
+    "name": "Gran Turismo Sport",
+    "description": "2017 racing video game developed by Polyphony Digital",
+    "releaseDate": "2017-10-01",
+    "genres": [
+      "sim racing"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/gran-turismo-sport.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gran-turismo-sport.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

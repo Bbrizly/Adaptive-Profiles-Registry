@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "ghost-recon-wildlands",
+  "kind": "game",
+  "name": "Ghost Recon Wildlands",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1DYEpmgqINMeUBvxCpKxay6Wdr7RK_mENIej7zhs7LLE/edit",
+    "title": "QuadStick public configuration catalog — Ghost Recon Wildlands"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/ghost-recon-wildlands.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghost-recon-wildlands.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

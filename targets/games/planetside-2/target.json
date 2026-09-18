@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "planetside-2",
+  "kind": "game",
+  "name": "PlanetSide 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1vxvq4q0VN6GB4PIYG9g5TL4ntmB0Jfvp_nPFMf87rOA/edit",
+    "title": "QuadStick public configuration catalog — PlanetSide 2"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q333367",
+    "url": "https://www.wikidata.org/entity/Q333367",
+    "name": "PlanetSide 2",
+    "description": "MMO FPS game from the year 2013",
+    "releaseDate": "2012-11-20",
+    "genres": [
+      "massively multiplayer online first-person shooter",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 218230,
+      "name": "PlanetSide 2",
+      "url": "https://store.steampowered.com/app/218230/",
+      "description": "PlanetSide 2 is an all-out planetary war, where thousands of players battle as one across enormous continents. Utilize infantry, ground and air vehicles, and teamwork to destroy your enemies in this revolutionary first-person shooter on a massive scale.",
+      "releaseDate": "Nov 20, 2012",
+      "genres": [
+        "Action",
+        "Massively Multiplayer",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 80.37,
+        "positive": 60173,
+        "negative": 14699,
+        "total": 74872
+      },
+      "metacritic": 84,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/header.jpg",
+    "source": "https://store.steampowered.com/app/218230/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

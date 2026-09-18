@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "mx-vs-atv-supercross-encore",
+  "kind": "game",
+  "name": "MX vs ATV Supercross Encore",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KAlwXwUDLDZBJdDMx06HrVbtfATt-6dGPZ2JuFIPSyo/edit",
+    "title": "QuadStick public configuration catalog — MX vs ATV Supercross Encore"
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg",
+    "source": "https://store.steampowered.com/app/282050/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 282050,
+      "name": "MX vs. ATV Supercross Encore",
+      "url": "https://store.steampowered.com/app/282050/",
+      "description": "Rip, jump and scrub your way to victory with over 35 tracks in this vastly extended version! Only the Encore edition features the brand new Rhythm Racing mode, extra outdoor Nationals tracks, and exclusive Waypoint races in open world maps.",
+      "releaseDate": "Oct 27, 2015",
+      "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 63.79,
+        "positive": 532,
+        "negative": 302,
+        "total": 834
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  }
+}

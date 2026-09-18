@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "metal-gear-snake-eater",
+  "kind": "game",
+  "name": "Metal Gear Snake Eater",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1nMMkPHaEJ92uMN8kKmKy3-SFIg8KOCBbRFbCIurLYQE/edit",
+    "title": "QuadStick public configuration catalog — Metal Gear Snake Eater"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/metal-gear-snake-eater.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/metal-gear-snake-eater.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

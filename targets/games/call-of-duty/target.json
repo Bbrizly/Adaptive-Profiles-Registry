@@ -14,5 +14,46 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/18TzKdbmJ_gmthciivPeVyoMBFnD1aPKqTZngK4WW6kA/edit",
     "title": "QuadStick public configuration catalog — Call of Duty"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q67187401",
+    "url": "https://www.wikidata.org/entity/Q67187401",
+    "name": "Call of Duty",
+    "description": "episode of Melissa & Joey (S4 E13)",
+    "releaseDate": "2015-06-03",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1938090,
+      "name": "Call of Duty®",
+      "url": "https://store.steampowered.com/app/1938090/",
+      "description": "The Call of Duty® experience supports Modern Warfare® 4, Black Ops 7 and Call of Duty®: Warzone™.",
+      "releaseDate": "Oct 27, 2022",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 58.55,
+        "positive": 457740,
+        "negative": 324092,
+        "total": 781832
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+    "source": "https://store.steampowered.com/app/1938090/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

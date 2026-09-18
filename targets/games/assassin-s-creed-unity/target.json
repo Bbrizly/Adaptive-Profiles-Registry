@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "assassin-s-creed-unity",
+  "kind": "game",
+  "name": "Assassin's Creed Unity",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1N37L5cvv4Ys7XiA8Khx7XaQCrMaQdsJQmDgou9NvZTA/edit",
+    "title": "QuadStick public configuration catalog — Assassin's Creed Unity"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q15983778",
+    "url": "https://www.wikidata.org/entity/Q15983778",
+    "name": "Assassin's Creed Unity",
+    "description": "2014 action-adventure video game developed by Ubisoft Montreal",
+    "releaseDate": "2014-11-11",
+    "genres": [
+      "historical video game",
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 289650,
+      "name": "Assassin's Creed® Unity",
+      "url": "https://store.steampowered.com/app/289650/",
+      "description": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation.",
+      "releaseDate": "Nov 11, 2014",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 77.75,
+        "positive": 66653,
+        "negative": 19072,
+        "total": 85725
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
+    "source": "https://store.steampowered.com/app/289650/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

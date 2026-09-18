@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-baldurs-gate-3-pc-quadstick-fps-baldursgate3",
+  "title": "Baldur's Gate 3 — BaldursGate3",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "baldur-s-gate-3"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1JbWzWfFS2PUDTub6HubE7g92A3BPififiOBgOAlUdTE/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b3dd601f4e8e0cadb280993a7e2791f97a00ca47551718d380e03150d649d002"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

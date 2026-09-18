@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "cooking-simulator",
+  "kind": "game",
+  "name": "Cooking Simulator",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/17jvrVGvfI1HnUBzwG7VtXgG4zNl6cFvSXRrY5j3Rzyc/edit",
+    "title": "QuadStick public configuration catalog — Cooking Simulator"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q86103610",
+    "url": "https://www.wikidata.org/entity/Q86103610",
+    "name": "Cooking Simulator",
+    "description": "2019 video game",
+    "releaseDate": "2019-06-06",
+    "genres": [
+      "simulation video game",
+      "business simulation game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 641320,
+      "name": "Cooking Simulator",
+      "url": "https://store.steampowered.com/app/641320/",
+      "description": "A realistic cooking sim where every ingredient reacts with real physics. Master 80+ dishes in Career mode or go wild in Sandbox as you cook, experiment, or cause total kitchen chaos in a fully interactive chef’s playground.",
+      "releaseDate": "Jun 6, 2019",
+      "genres": [
+        "Casual",
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 84.65,
+        "positive": 16696,
+        "negative": 3028,
+        "total": 19724
+      },
+      "metacritic": 64,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/header.jpg",
+    "source": "https://store.steampowered.com/app/641320/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

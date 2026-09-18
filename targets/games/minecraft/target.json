@@ -80,7 +80,7 @@
   ],
   "source": {
     "url": "https://www.minecraft.net/en-us/article/minecraft-controls",
-    "title": "Minecraft Controls"
+    "title": "QuadStick public configuration catalog — Minecraft"
   },
   "controls": [
     {
@@ -204,5 +204,24 @@
         "verifiedAt": "2026-09-11"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q112863331",
+    "url": "https://www.wikidata.org/entity/Q112863331",
+    "name": "Minecraft",
+    "description": "video game series",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/minecraft.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
 }

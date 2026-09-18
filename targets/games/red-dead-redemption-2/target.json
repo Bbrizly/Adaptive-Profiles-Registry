@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "red-dead-redemption-2",
+  "kind": "game",
+  "name": "Red Dead Redemption 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation",
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Wz4ft6QSMIgLzI2d_e-IKv3nKv3v-ljFTiLL1sG4EAg/edit",
+    "title": "QuadStick public configuration catalog — Red Dead Redemption 2"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q27438121",
+    "url": "https://www.wikidata.org/entity/Q27438121",
+    "name": "Red Dead Redemption 2",
+    "description": "2018 western-themed action-adventure video game",
+    "releaseDate": "2018-10-26",
+    "genres": [
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1174180,
+      "name": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180/",
+      "description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+      "releaseDate": "Dec 5, 2019",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.48,
+        "positive": 850589,
+        "negative": 69127,
+        "total": 919716
+      },
+      "metacritic": 93,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "source": "https://store.steampowered.com/app/1174180/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

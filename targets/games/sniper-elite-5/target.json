@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "id": "sniper-elite-5",
+  "kind": "game",
+  "name": "Sniper Elite 5",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/104YnqX1wboP9EIrzun4HBmZBdMkqg8JgUGAhN_i_lzY/edit",
+    "title": "QuadStick public configuration catalog — Sniper Elite 5"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q63464391",
+    "url": "https://www.wikidata.org/entity/Q63464391",
+    "name": "Sniper Elite 5",
+    "description": "2022 video game developed by Rebellion Developments",
+    "releaseDate": "2022-01-01",
+    "genres": [
+      "stealth game",
+      "tactical shooter",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1029690,
+      "name": "Sniper Elite 5",
+      "url": "https://store.steampowered.com/app/1029690/",
+      "description": "The award-winning series returns as Karl Fairburne fights to uncover Project Kraken in 1944 France. The genre-defining authentic sniping, with enhanced kill cam, has never looked or felt better as you fight across immersive maps to stop the Nazi war machine in its tracks.",
+      "releaseDate": "May 25, 2022",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 83.74,
+        "positive": 25608,
+        "negative": 4973,
+        "total": 30581
+      },
+      "metacritic": 79,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
+    "source": "https://store.steampowered.com/app/1029690/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

@@ -13,6 +13,13 @@
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1EcG67yp8_PxZE-V4RMFMninY0G43Wlal4TyM-c-S_Ok/edit",
-    "title": "QuadStick public configuration catalog — Shadow of Mordor PC"
+    "title": "QuadStick public configuration catalog — Shadow of Mordor"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/shadow-of-mordor.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

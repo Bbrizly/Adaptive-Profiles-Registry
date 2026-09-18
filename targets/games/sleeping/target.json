@@ -14,5 +14,24 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/199VMHYy_iDW8tEP6jhvcyyK3EefdMlC3S2TEHe2nUkE/edit",
     "title": "QuadStick public configuration catalog — Sleeping"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q100371659",
+    "url": "https://www.wikidata.org/entity/Q100371659",
+    "name": "Sleeping",
+    "description": "painting by Toyen",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/sleeping.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sleeping.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

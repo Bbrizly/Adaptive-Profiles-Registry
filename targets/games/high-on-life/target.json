@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "high-on-life",
+  "kind": "game",
+  "name": "High on Life",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1kT3z3T4FKAM_TWb3EfuOToryGUtdNkf0Z9iY_-DwLUE/edit",
+    "title": "QuadStick public configuration catalog — High on Life"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q124001760",
+    "url": "https://www.wikidata.org/entity/Q124001760",
+    "name": "High on Life",
+    "description": "song by Fireboy DML",
+    "releaseDate": "2019-11-29",
+    "genres": [
+      "rhythm and blues"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1583230,
+      "name": "High On Life",
+      "url": "https://store.steampowered.com/app/1583230/",
+      "description": "HIGH ON KNIFE DLC OUT NOW!! - Humanity is being threatened by an alien cartel who wants to use them as drugs. It’s up to you to rescue and partner with charismatic, talking guns, take down Garmantuous and his gang, and save the world!",
+      "releaseDate": "Dec 13, 2022",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.01,
+        "positive": 22903,
+        "negative": 2829,
+        "total": 25732
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
+    "source": "https://store.steampowered.com/app/1583230/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

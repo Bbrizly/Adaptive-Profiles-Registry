@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "id": "enshrouded",
+  "kind": "game",
+  "name": "Enshrouded",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1jDxHP_SIoWuSiV33EuFAzYJwMPa0PoZyKdreXSS6THU/edit",
+    "title": "QuadStick public configuration catalog — Enshrouded"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q122914994",
+    "url": "https://www.wikidata.org/entity/Q122914994",
+    "name": "Enshrouded",
+    "description": "2026 video game developed by Keen Games",
+    "releaseDate": "2024-01-24",
+    "genres": [
+      "survival game",
+      "role-playing video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1203620,
+      "name": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/",
+      "description": "You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players.",
+      "releaseDate": "Jan 24, 2024",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 85.79,
+        "positive": 90675,
+        "negative": 15025,
+        "total": 105700
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
+    "source": "https://store.steampowered.com/app/1203620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

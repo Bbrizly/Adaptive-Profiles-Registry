@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "deeprock",
+  "kind": "game",
+  "name": "DeepRock",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KoYF9fnW9oe8Dmdg_xFGKT1yTzlniSvhgaCShyQF0Lk/edit",
+    "title": "QuadStick public configuration catalog — DeepRock"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/deeprock.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/deeprock.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

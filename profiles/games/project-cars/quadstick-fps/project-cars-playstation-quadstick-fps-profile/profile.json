@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "project-cars-playstation-quadstick-fps-profile",
-  "title": "Project Cars — profile",
+  "title": "Project CARS — profile",
   "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
   "target": {
     "kind": "game",

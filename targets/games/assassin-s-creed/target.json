@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "assassin-s-creed",
+  "kind": "game",
+  "name": "Assassin's Creed",
+  "aliases": [
+    "AC1",
+    "Assassin's Creed I"
+  ],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc",
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/157QhirxtPjGIYf0DIaiiQ6bhxTD6GYuCz4gryrJEDIQ/edit",
+    "title": "QuadStick public configuration catalog — Assassin's Creed"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q18816889",
+    "url": "https://www.wikidata.org/entity/Q18816889",
+    "name": "Assassin's Creed",
+    "description": "2016 film by Justin Kurzel",
+    "releaseDate": "2016-12-21",
+    "genres": [
+      "science fiction film",
+      "adventure film",
+      "action film",
+      "fantasy film"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/assassin-s-creed.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

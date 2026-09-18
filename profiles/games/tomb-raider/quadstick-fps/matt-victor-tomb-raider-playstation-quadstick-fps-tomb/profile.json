@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "matt-victor-tomb-raider-playstation-quadstick-fps-tomb",
+  "title": "Tomb Raider — tomb",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "tomb-raider"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "e0a593dc1cba6896673a16a8c0063267a1094cf1ab2423eaf9f8655b3140eafc"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

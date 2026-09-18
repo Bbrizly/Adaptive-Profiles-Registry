@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-forza-horizon-4-xbox-quadstick-fps-profile",
+  "title": "Forza Horizon 4 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "forza-horizon-4"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1-fXz7Uazyok9o5EGzDGS8W__zpGZgwJ5qCJEtm1xTRc/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "757acd7527e94c7510a50cb48e2869df754d1a4e7a9b8bac78d4efc5415c75f2"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

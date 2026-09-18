@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-horizon-zero-dawn-xbox-quadstick-fps-profile",
+  "title": "Horizon Zero Dawn — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "horizon-zero-dawn"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1hhc_QZ17rB2V01hXQ6jBQ81bFuvmoF958-wE2wjHHyM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "52f959ec764a9ec9ff03f4052d5d539c432c76f3b4da6e9058bf2ae675daf7ef"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

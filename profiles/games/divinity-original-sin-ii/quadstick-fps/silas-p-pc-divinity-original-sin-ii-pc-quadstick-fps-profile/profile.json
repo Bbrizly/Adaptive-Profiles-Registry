@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-divinity-original-sin-ii-pc-quadstick-fps-profile",
+  "title": "Divinity Original Sin II — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "divinity-original-sin-ii"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1koueOeAvLoSw_P6SQnL50G46Vc-KXjdiePo3G_FedDw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "6de42f6b7930a30d0a7b761fa73a3e2d3d82b9e9e7e59f4667357876e303bbcf"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

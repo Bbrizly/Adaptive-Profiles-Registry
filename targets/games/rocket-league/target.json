@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "rocket-league",
+  "kind": "game",
+  "name": "Rocket League",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Fbt4mCdJzMYwdO09o9Mv3suQDNQ8kAMfvxaY1QMHQJ0/edit",
+    "title": "QuadStick public configuration catalog — Rocket League"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/rocket-league.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rocket-league.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

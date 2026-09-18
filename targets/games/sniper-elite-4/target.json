@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "sniper-elite-4",
+  "kind": "game",
+  "name": "Sniper Elite 4",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1a_boZsd3AQh14pvqIJEgl1bptZamFMiuNcDobNV_WRE/edit",
+    "title": "QuadStick public configuration catalog — Sniper Elite 4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q23013242",
+    "url": "https://www.wikidata.org/entity/Q23013242",
+    "name": "Sniper Elite 4",
+    "description": "2017 video game developed by Rebellion Developments",
+    "releaseDate": "2017-02-14",
+    "genres": [
+      "tactical shooter",
+      "stealth game",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 312660,
+      "name": "Sniper Elite 4",
+      "url": "https://store.steampowered.com/app/312660/",
+      "description": "Discover unrivalled sniping freedom in the largest and most advanced World War 2 shooter ever built. Experience tactical third-person combat, gameplay choice and epic longshots across gigantic levels as you liberate wartime Italy from the grip of Fascism.",
+      "releaseDate": "Feb 13, 2017",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 91.28,
+        "positive": 57670,
+        "negative": 5511,
+        "total": 63181
+      },
+      "metacritic": 78,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg",
+    "source": "https://store.steampowered.com/app/312660/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

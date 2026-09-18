@@ -14,5 +14,47 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1mcndPYuI8NFSmo2i31LvFFAaQplXBNi8IzJlvoGd8Ug/edit",
     "title": "QuadStick public configuration catalog — Journey"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q102966759",
+    "url": "https://www.wikidata.org/entity/Q102966759",
+    "name": "Journey",
+    "description": "painting by Joseph Fiore",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 638230,
+      "name": "Journey",
+      "url": "https://store.steampowered.com/app/638230/",
+      "description": "Explore the ancient, mysterious world of Journey as you soar above ruins and glide across sands to discover its secrets.",
+      "releaseDate": "Jun 11, 2020",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 94.07,
+        "positive": 36280,
+        "negative": 2287,
+        "total": 38567
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
+    "source": "https://store.steampowered.com/app/638230/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

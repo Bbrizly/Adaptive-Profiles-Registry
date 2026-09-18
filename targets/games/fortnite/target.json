@@ -74,6 +74,27 @@
   ],
   "source": {
     "url": "https://www.epicgames.com/help/en-US/fortnite-c75/c118/pc-a3337?lang=en-US",
-    "title": "Fortnite official control settings support"
+    "title": "QuadStick public configuration catalog — Fortnite"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q66067819",
+    "url": "https://www.wikidata.org/entity/Q66067819",
+    "name": "Fortnite",
+    "description": "2018 single by Dani Faiv",
+    "releaseDate": "2018-05-11",
+    "genres": [
+      "hip-hop"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/fortnite.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fortnite.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
   }
 }

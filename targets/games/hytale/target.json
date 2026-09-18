@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "hytale",
+  "kind": "game",
+  "name": "Hytale",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1_-9k7oBiZsGGMNTL85rE8onTY196Mihv3atKOO3uh3o/edit",
+    "title": "QuadStick public configuration catalog — Hytale"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q60187866",
+    "url": "https://www.wikidata.org/entity/Q60187866",
+    "name": "Hytale",
+    "description": "2026 video game by Hypixel Studios",
+    "releaseDate": "2026-01-13",
+    "genres": [
+      "sandbox game",
+      "fantasy video game",
+      "role-playing video game",
+      "adventure video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/hytale.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hytale.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

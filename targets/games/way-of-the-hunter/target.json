@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "id": "way-of-the-hunter",
+  "kind": "game",
+  "name": "Way of the Hunter",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1rMbrrEhgRtdzp7tGETVVuF5iRriWIvA-zzaYnM97OPc/edit",
+    "title": "QuadStick public configuration catalog — Way of the Hunter"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q130582346",
+    "url": "https://www.wikidata.org/entity/Q130582346",
+    "name": "Way of the Hunter",
+    "description": "2018 Canadian film directed by Robert Moberg",
+    "releaseDate": "2018-11-30",
+    "genres": [
+      "animals documentary"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1288320,
+      "name": "Way of the Hunter",
+      "url": "https://store.steampowered.com/app/1288320/",
+      "description": "Become the new owner of a hunting lodge nestled among gorgeous habitats and rich animal populations. Explore vast open world environments and hunt with a premium selection of firearms. Enjoy the perfect hunt on your own or with friends in co-op.",
+      "releaseDate": "Aug 16, 2022",
+      "genres": [
+        "Adventure",
+        "Simulation",
+        "Sports"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 80.28,
+        "positive": 9072,
+        "negative": 2229,
+        "total": 11301
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg",
+    "source": "https://store.steampowered.com/app/1288320/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

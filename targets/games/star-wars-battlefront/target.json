@@ -13,6 +13,56 @@
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1fFYwT32xukGVdq9CTnL_Sv4zB1a-zMZqgi34s3EGVFY/edit",
-    "title": "QuadStick public configuration catalog — Star Wars Battlefront PC"
+    "title": "QuadStick public configuration catalog — Star Wars Battlefront"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q54862",
+    "url": "https://www.wikidata.org/entity/Q54862",
+    "name": "Star Wars Battlefront",
+    "description": "2015 action shooter video game developed by DICE",
+    "releaseDate": "2015-11-17",
+    "genres": [
+      "first-person shooter",
+      "science fiction video game",
+      "space opera video game",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1237980,
+      "name": "STAR WARS™ Battlefront",
+      "url": "https://store.steampowered.com/app/1237980/",
+      "description": "The STAR WARS™ Battlefront™ Ultimate Edition includes the STAR WARS™ Battlefront™ Deluxe Edition as well as the STAR WARS™ Battlefront™ Season Pass.",
+      "releaseDate": "Jun 11, 2020",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Strategy"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 79,
+        "positive": 4650,
+        "negative": 1236,
+        "total": 5886
+      },
+      "metacritic": 76,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg",
+    "source": "https://store.steampowered.com/app/1237980/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

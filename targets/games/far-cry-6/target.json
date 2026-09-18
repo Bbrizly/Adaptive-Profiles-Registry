@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "far-cry-6",
+  "kind": "game",
+  "name": "Far Cry 6",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1_e_EeCCK1oqTBX0-NzCJq14ccEEFPjgS1LBw0Ifyftg/edit",
+    "title": "QuadStick public configuration catalog — Far Cry 6"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q97120062",
+    "url": "https://www.wikidata.org/entity/Q97120062",
+    "name": "Far Cry 6",
+    "description": "2021 video game developed by Ubisoft Toronto",
+    "releaseDate": "2021-10-07",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2369390,
+      "name": "Far Cry® 6",
+      "url": "https://store.steampowered.com/app/2369390/",
+      "description": "Lead the revolution in this first-person open world guerrilla shooter. Fight with improvised weapons, travel however you can, and build your rebel network to take down Castillo's regime.",
+      "releaseDate": "May 11, 2023",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 71.23,
+        "positive": 25439,
+        "negative": 10277,
+        "total": 35716
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
+    "source": "https://store.steampowered.com/app/2369390/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

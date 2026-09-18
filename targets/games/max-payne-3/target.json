@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "max-payne-3",
+  "kind": "game",
+  "name": "Max Payne 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1j9ud1kPYXCsY6DrM5ZMMKA1gURUfXLP-r8XOBAE_4zI/edit",
+    "title": "QuadStick public configuration catalog — Max Payne 3"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q736040",
+    "url": "https://www.wikidata.org/entity/Q736040",
+    "name": "Max Payne 3",
+    "description": "2012 video game",
+    "releaseDate": "2012-05-15",
+    "genres": [
+      "neo-noir video game",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 204100,
+      "name": "Max Payne 3",
+      "url": "https://store.steampowered.com/app/204100/",
+      "description": "No longer a New York City cop, Max Payne moves to São Paulo to protect a wealthy family in an effort to finally escape his troubled past. This complete edition of Max Payne 3 includes the complete original game and all previously released downloadable content.",
+      "releaseDate": "May 31, 2012",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 87.03,
+        "positive": 56058,
+        "negative": 8353,
+        "total": 64411
+      },
+      "metacritic": 87,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
+    "source": "https://store.steampowered.com/app/204100/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

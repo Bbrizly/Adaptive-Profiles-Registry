@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-titanfall-2-xbox-quadstick-fps-titanfall2",
+  "title": "Titanfall 2 — Titanfall2",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "titanfall-2"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/11COcj9LSFmCyvZW68WKqxT68_EtPQRnuMSl-unn04ok/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "cf17340b01862b18df12bb75d779f1aa3459760e33f92665313eaa3e5ae7757d"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

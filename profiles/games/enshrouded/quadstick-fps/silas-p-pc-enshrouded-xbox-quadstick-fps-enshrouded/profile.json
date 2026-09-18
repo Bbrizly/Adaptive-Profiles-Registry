@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-enshrouded-xbox-quadstick-fps-enshrouded",
+  "title": "Enshrouded — Enshrouded",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "enshrouded"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1jDxHP_SIoWuSiV33EuFAzYJwMPa0PoZyKdreXSS6THU/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "26012c047db391234f5e8078955958bbf78657c2fffc856c6bdfc90bbcd1694c"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

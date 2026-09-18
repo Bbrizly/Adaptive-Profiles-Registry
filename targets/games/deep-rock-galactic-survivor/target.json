@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "deep-rock-galactic-survivor",
+  "kind": "game",
+  "name": "Deep Rock Galactic: Survivor",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1exH00SUYKmG5ecrh4pk4eLW7IRUQNb5tF-FCZryA40o/edit",
+    "title": "QuadStick public configuration catalog — Deep Rock Galactic: Survivor"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 2321470,
+      "name": "Deep Rock Galactic: Survivor",
+      "url": "https://store.steampowered.com/app/2321470/",
+      "description": "DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take on hordes of lethal aliens, mine riches, and unlock powerful upgrades to survive, as you wield the full arsenal of Deep Rock Galactic. It's one dwarf against all of Planet Hoxxes!",
+      "releaseDate": "Sep 17, 2025",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 86.24,
+        "positive": 41648,
+        "negative": 6647,
+        "total": 48295
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg",
+    "source": "https://store.steampowered.com/app/2321470/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

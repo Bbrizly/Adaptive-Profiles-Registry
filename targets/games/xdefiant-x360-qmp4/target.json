@@ -31,5 +31,12 @@
       "Xbox Series X and Series S"
     ],
     "fetchedAt": "2026-09-18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/xdefiant-x360-qmp4.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/xdefiant-x360-qmp4.svg"
   }
 }

@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
     "title": "QuadStick public configuration catalog — GTA V Cheat codes"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/gta-v-cheat-codes.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-cheat-codes.svg"
   }
 }

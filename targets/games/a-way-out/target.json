@@ -25,6 +25,37 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1222700,
+      "name": "A Way Out",
+      "url": "https://store.steampowered.com/app/1222700/",
+      "description": "A Way Out is an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.",
+      "releaseDate": "Jun 18, 2020",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 87.93,
+        "positive": 90543,
+        "negative": 12428,
+        "total": 102971
+      },
+      "metacritic": 78,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+    "source": "https://store.steampowered.com/app/1222700/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1o9FChx_Mz2Vjc-GQM9EWOT6U5K89ocWJFnKECPKPPiY/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA V Redone (FiveM optimized)"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/gta-v-redone-fivem-optimized.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-redone-fivem-optimized.svg"
   }
 }

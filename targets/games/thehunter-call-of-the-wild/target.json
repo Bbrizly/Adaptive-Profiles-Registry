@@ -14,5 +14,38 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1a5TmCr6TaVpMZAfPG1yOjtfwZ0lxgGqPMUxFm6Hrmiw/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/theHunter CotW"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 518790,
+      "name": "theHunter: Call of the Wild™",
+      "url": "https://store.steampowered.com/app/518790/",
+      "description": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
+      "releaseDate": "Feb 16, 2017",
+      "genres": [
+        "Adventure",
+        "Simulation",
+        "Sports"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.08,
+        "positive": 180864,
+        "negative": 22171,
+        "total": 203035
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+    "source": "https://store.steampowered.com/app/518790/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

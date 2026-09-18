@@ -15,5 +15,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit",
     "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare XBox One"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/call-of-duty-advanced-warfare.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-advanced-warfare.svg"
   }
 }

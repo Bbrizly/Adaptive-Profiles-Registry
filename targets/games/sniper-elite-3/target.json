@@ -14,5 +14,37 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1P3mRIdjE5D3DNkRiahIXTO7nrHZyAMvL-ngkSP7PTZ4/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 3"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 238090,
+      "name": "Sniper Elite 3",
+      "url": "https://store.steampowered.com/app/238090/",
+      "description": "Sniper Elite 3 is a tactical third-person shooter that combines stealth, gameplay choice and genre-defining ballistics with huge, open levels and the exotic terrain of World War 2 North Africa.",
+      "releaseDate": "Jun 27, 2014",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 82.06,
+        "positive": 23330,
+        "negative": 5101,
+        "total": 28431
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg",
+    "source": "https://store.steampowered.com/app/238090/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

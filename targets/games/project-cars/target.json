@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
     "title": "QuadStick public configuration catalog — Project Cars PC"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/project-cars.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg"
   }
 }

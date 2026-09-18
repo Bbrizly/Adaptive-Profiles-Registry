@@ -110,6 +110,36 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1172380,
+      "name": "STAR WARS Jedi: Fallen Order™",
+      "url": "https://store.steampowered.com/app/1172380/",
+      "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
+      "releaseDate": "Nov 14, 2019",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 88.43,
+        "positive": 155121,
+        "negative": 20299,
+        "total": 175420
+      },
+      "metacritic": 81,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
+    "source": "https://store.steampowered.com/app/1172380/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

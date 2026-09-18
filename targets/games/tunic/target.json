@@ -25,6 +25,38 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 553420,
+      "name": "TUNIC",
+      "url": "https://store.steampowered.com/app/553420/",
+      "description": "Explore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game about a small fox on a big adventure.",
+      "releaseDate": "Mar 16, 2022",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 91.06,
+        "positive": 16943,
+        "negative": 1664,
+        "total": 18607
+      },
+      "metacritic": 85,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg",
+    "source": "https://store.steampowered.com/app/553420/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

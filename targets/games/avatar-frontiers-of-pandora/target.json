@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1c9vz84_v9iX2Wk3Dagz6Ek7SZSpUiz5f8Xfbq2gD7y8/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Avatar - Frontiers of Pandora"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/avatar-frontiers-of-pandora.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/avatar-frontiers-of-pandora.svg"
   }
 }

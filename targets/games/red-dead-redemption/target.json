@@ -31,6 +31,35 @@
       "PlayStation 3",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2668510,
+      "name": "Red Dead Redemption",
+      "url": "https://store.steampowered.com/app/2668510/",
+      "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Dead Redemption 2.",
+      "releaseDate": "Oct 29, 2024",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.43,
+        "positive": 20085,
+        "negative": 1646,
+        "total": 21731
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg",
+    "source": "https://store.steampowered.com/app/2668510/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

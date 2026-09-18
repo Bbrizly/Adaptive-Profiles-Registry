@@ -14,5 +14,37 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1vuug3D-TykDBeZsNet1cLpgiIsHqFzV6HJ2Mk_rIfmw/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Construction-Simulator"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1273400,
+      "name": "Construction Simulator",
+      "url": "https://store.steampowered.com/app/1273400/",
+      "description": "Construction Simulator has returned – larger and more impressive than ever! Fulfil your ambition to become a successful construction entrepreneur by establishing your business from scratch, assisted by your mentor Hape.",
+      "releaseDate": "Sep 20, 2022",
+      "genres": [
+        "Casual",
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 80.74,
+        "positive": 11812,
+        "negative": 2818,
+        "total": 14630
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
+    "source": "https://store.steampowered.com/app/1273400/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

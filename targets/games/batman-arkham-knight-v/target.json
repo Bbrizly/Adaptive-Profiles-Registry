@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1Sl8nEFG4hnXOsvw3PB-OFNETfBGUq3S8AUM8oGP009o/edit",
     "title": "QuadStick public configuration catalog — Dan NH/Batman Arkham Knight v"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/batman-arkham-knight-v.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight-v.svg"
   }
 }

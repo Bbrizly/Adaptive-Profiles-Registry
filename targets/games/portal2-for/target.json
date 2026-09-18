@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/16iyqEcHa-2ocCqdTnrzyC6zp64WT3wcF_PeH0IBK8AY/edit",
     "title": "QuadStick public configuration catalog — Portal2 for XBox USB-A"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/portal2-for.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/portal2-for.svg"
   }
 }

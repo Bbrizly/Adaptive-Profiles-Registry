@@ -89,6 +89,40 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 892970,
+      "name": "Valheim",
+      "url": "https://store.steampowered.com/app/892970/",
+      "description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+      "releaseDate": "Sep 9, 2026",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": {
+        "score": 93.84,
+        "positive": 516332,
+        "negative": 33906,
+        "total": 550238
+      },
+      "metacritic": 89,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
+    "source": "https://store.steampowered.com/app/892970/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Copy of Flight Simulator 20"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/copy-of-flight-simulator-20.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/copy-of-flight-simulator-20.svg"
   }
 }

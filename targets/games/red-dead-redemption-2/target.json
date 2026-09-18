@@ -30,6 +30,36 @@
     "platforms": [
       "Microsoft Windows"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1174180,
+      "name": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180/",
+      "description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+      "releaseDate": "Dec 5, 2019",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.48,
+        "positive": 850520,
+        "negative": 69124,
+        "total": 919644
+      },
+      "metacritic": 93,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "source": "https://store.steampowered.com/app/1174180/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

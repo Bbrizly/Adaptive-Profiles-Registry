@@ -30,6 +30,35 @@
     "platforms": [
       "Microsoft Windows"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1238810,
+      "name": "Battlefield™ V",
+      "url": "https://store.steampowered.com/app/1238810/",
+      "description": "This is the ultimate Battlefield V experience. Enter mankind’s greatest conflict with the complete arsenal of weapons, vehicles, and gadgets plus the best customization content of Year 1 and 2.",
+      "releaseDate": "Oct 22, 2020",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 70.61,
+        "positive": 190693,
+        "negative": 79366,
+        "total": 270059
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+    "source": "https://store.steampowered.com/app/1238810/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

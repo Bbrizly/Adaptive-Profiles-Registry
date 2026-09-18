@@ -27,6 +27,36 @@
       "rhythm and blues"
     ],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1583230,
+      "name": "High On Life",
+      "url": "https://store.steampowered.com/app/1583230/",
+      "description": "HIGH ON KNIFE DLC OUT NOW!! - Humanity is being threatened by an alien cartel who wants to use them as drugs. It’s up to you to rescue and partner with charismatic, talking guns, take down Garmantuous and his gang, and save the world!",
+      "releaseDate": "Dec 13, 2022",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.01,
+        "positive": 22902,
+        "negative": 2828,
+        "total": 25730
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
+    "source": "https://store.steampowered.com/app/1583230/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

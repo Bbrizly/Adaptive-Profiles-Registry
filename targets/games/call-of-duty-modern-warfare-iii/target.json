@@ -30,6 +30,35 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 3595270,
+      "name": "Call of Duty®: Modern Warfare® III",
+      "url": "https://store.steampowered.com/app/3595270/",
+      "description": "In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat.",
+      "releaseDate": "Nov 10, 2023",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 47.27,
+        "positive": 10838,
+        "negative": 12089,
+        "total": 22927
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/header.jpg",
+    "source": "https://store.steampowered.com/app/3595270/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

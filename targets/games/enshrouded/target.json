@@ -31,6 +31,39 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1203620,
+      "name": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/",
+      "description": "You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players.",
+      "releaseDate": "Jan 24, 2024",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 85.79,
+        "positive": 90669,
+        "negative": 15023,
+        "total": 105692
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
+    "source": "https://store.steampowered.com/app/1203620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

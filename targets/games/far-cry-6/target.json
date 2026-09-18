@@ -31,6 +31,36 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2369390,
+      "name": "Far Cry® 6",
+      "url": "https://store.steampowered.com/app/2369390/",
+      "description": "Lead the revolution in this first-person open world guerrilla shooter. Fight with improvised weapons, travel however you can, and build your rebel network to take down Castillo's regime.",
+      "releaseDate": "May 11, 2023",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 71.24,
+        "positive": 25435,
+        "negative": 10269,
+        "total": 35704
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
+    "source": "https://store.steampowered.com/app/2369390/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

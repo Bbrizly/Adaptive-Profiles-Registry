@@ -14,5 +14,36 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1X1Atq6Jerfj4klh8GpyG7dXvgRb-bD4wyZW_sNAh2c4/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare II Story x360 (QMP4)"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 3595230,
+      "name": "Call of Duty®: Modern Warfare® II",
+      "url": "https://store.steampowered.com/app/3595230/",
+      "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the iconic Operators of Task Force 141.",
+      "releaseDate": "Oct 22, 2022",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 46.59,
+        "positive": 13869,
+        "negative": 15902,
+        "total": 29771
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/header.jpg",
+    "source": "https://store.steampowered.com/app/3595230/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

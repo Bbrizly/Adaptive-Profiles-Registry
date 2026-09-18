@@ -14,5 +14,40 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1gjB0ywmx9cuHd63rHTSYs9XmssmK4oSxMbxNtCpTxsM/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Schedule I"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 3164500,
+      "name": "Schedule I",
+      "url": "https://store.steampowered.com/app/3164500/",
+      "description": "From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.",
+      "releaseDate": "Mar 24, 2025",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 97.78,
+        "positive": 309255,
+        "negative": 7016,
+        "total": 316271
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+    "source": "https://store.steampowered.com/app/3164500/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

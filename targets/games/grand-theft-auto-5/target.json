@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1EhNKF-FZqwb01XEF6_elpDEJASjb-QB3QQ-jgZ0nbJ4/edit",
     "title": "QuadStick public configuration catalog — Grand Theft Auto 5 PC"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/grand-theft-auto-5.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-5.svg"
   }
 }

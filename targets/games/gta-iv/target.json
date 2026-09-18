@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1nGuH55WN7QiRDbTg2Ovec9f1Vm_0OQm6ASE0iwpzI1U/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA IV"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/gta-iv.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-iv.svg"
   }
 }

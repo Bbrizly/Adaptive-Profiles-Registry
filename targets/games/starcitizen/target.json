@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/StarCitizen"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/starcitizen.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcitizen.svg"
   }
 }

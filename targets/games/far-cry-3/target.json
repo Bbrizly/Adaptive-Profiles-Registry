@@ -31,6 +31,36 @@
       "Microsoft Windows",
       "PlayStation 3"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 220240,
+      "name": "Far Cry 3",
+      "url": "https://store.steampowered.com/app/220240/",
+      "description": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed visceral FPS.",
+      "releaseDate": "Dec 4, 2012",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 87.79,
+        "positive": 117324,
+        "negative": 16312,
+        "total": 133636
+      },
+      "metacritic": 88,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
+    "source": "https://store.steampowered.com/app/220240/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

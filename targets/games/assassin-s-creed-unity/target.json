@@ -30,6 +30,36 @@
     "platforms": [
       "Microsoft Windows"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 289650,
+      "name": "Assassin's Creed® Unity",
+      "url": "https://store.steampowered.com/app/289650/",
+      "description": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation.",
+      "releaseDate": "Nov 11, 2014",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 77.75,
+        "positive": 66651,
+        "negative": 19073,
+        "total": 85724
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
+    "source": "https://store.steampowered.com/app/289650/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -32,6 +32,36 @@
       "Microsoft Windows",
       "PlayStation 3"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 298110,
+      "name": "Far Cry® 4",
+      "url": "https://store.steampowered.com/app/298110/",
+      "description": "Fight to liberate a war-torn Himalayan region in this open world FPS. Wield a deadly arsenal, dominate land and sky with gyrocopters and war elephants, and take on enemy territory solo or in co-op.",
+      "releaseDate": "Nov 17, 2014",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 84.65,
+        "positive": 62545,
+        "negative": 11342,
+        "total": 73887
+      },
+      "metacritic": 80,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
+    "source": "https://store.steampowered.com/app/298110/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

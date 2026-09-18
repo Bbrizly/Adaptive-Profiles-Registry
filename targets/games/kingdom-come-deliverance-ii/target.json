@@ -14,5 +14,38 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1fWSvI0yr9nfWafsMFoNLgKoy3hUaiAXrOEM1AAs5z40/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Kingdom Come Deliverance II"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1771300,
+      "name": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300/",
+      "description": "A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. Experience the ultimate medieval adventure - through the eyes of young Henry - as you embark on a journey of epic proportions.",
+      "releaseDate": "Feb 4, 2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 93.92,
+        "positive": 183821,
+        "negative": 11902,
+        "total": 195723
+      },
+      "metacritic": 89,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+    "source": "https://store.steampowered.com/app/1771300/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

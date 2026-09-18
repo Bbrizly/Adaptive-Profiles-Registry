@@ -14,5 +14,38 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1LxeoVUgPcUUplSdqWbyQg6sqfVBoGtT8-5kegkRIqpo/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Goat Simulator 3"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 850190,
+      "name": "Goat Simulator 3",
+      "url": "https://store.steampowered.com/app/850190/",
+      "description": "Pilgor's baaack! Gather your herd and venture forth into Goat Simulator 3; an all-new (at least on Steam), totally realistic, sandbox farmyard experience. Invite up to three friends in local or online co-op, create carnage as a team, or compete in mini-games and then not be friends anymore.",
+      "releaseDate": "Feb 15, 2024",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 97.81,
+        "positive": 15610,
+        "negative": 350,
+        "total": 15960
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/header.jpg",
+    "source": "https://store.steampowered.com/app/850190/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

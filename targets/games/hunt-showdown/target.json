@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1bWHewoqFhR5UbttJAw4rFexc_Ah4zAymVnJZM3hBIM0/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Hunt: Showdown"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/hunt-showdown.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hunt-showdown.svg"
   }
 }

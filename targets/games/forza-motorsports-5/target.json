@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1gNTQ9jN5cG_ONfApZf0Au4WreNVpJ_BjaYMC7Llwp14/edit",
     "title": "QuadStick public configuration catalog — Forza Motorsports 5"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/forza-motorsports-5.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsports-5.svg"
   }
 }

@@ -30,6 +30,37 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1272080,
+      "name": "PAYDAY 3",
+      "url": "https://store.steampowered.com/app/1272080/",
+      "description": "PAYDAY 3 is the ultimate co-op FPS crime fantasy. Choose between stealth or loud playstyles, customize your character, and get ready to pull off the perfect heist.",
+      "releaseDate": "Sep 21, 2023",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 45.79,
+        "positive": 30075,
+        "negative": 35611,
+        "total": 65686
+      },
+      "metacritic": 66,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
+    "source": "https://store.steampowered.com/app/1272080/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

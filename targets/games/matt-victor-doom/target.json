@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1J8z-OnCSu_Po29M70KFtwRnB0JG0chdO17WPkkkOlYo/edit",
     "title": "QuadStick public configuration catalog — Matt Victor DOOM"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/matt-victor-doom.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-doom.svg"
   }
 }

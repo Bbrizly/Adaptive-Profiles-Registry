@@ -32,6 +32,37 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1286680,
+      "name": "Tiny Tina's Wonderlands",
+      "url": "https://store.steampowered.com/app/1286680/",
+      "description": "Embark on an epic adventure full of whimsy, wonder, and high-powered weaponry! Roll your own multiclass hero then shoot, loot, slash, and cast on a quest to stop the Dragon Lord.",
+      "releaseDate": "Jun 23, 2022",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 70.58,
+        "positive": 17470,
+        "negative": 7282,
+        "total": 24752
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
+    "source": "https://store.steampowered.com/app/1286680/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,37 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1KxeZdoIX-iQIlNPFCJPjzphZ0fp4zaOX921gX_AilXE/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Trepang 2"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1164940,
+      "name": "Trepang2",
+      "url": "https://store.steampowered.com/app/1164940/",
+      "description": "Become the ultimate badass in Trepang2: A gory, action-packed FPS set in the near future. Unleash all hell on your enemies, dodge bullets and leave a trail of destruction in this hardcore and frenetic shooter.",
+      "releaseDate": "Jun 21, 2023",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.76,
+        "positive": 18146,
+        "negative": 1416,
+        "total": 19562
+      },
+      "metacritic": 79,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg",
+    "source": "https://store.steampowered.com/app/1164940/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 1"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/tomb-raider-1.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-1.svg"
   }
 }

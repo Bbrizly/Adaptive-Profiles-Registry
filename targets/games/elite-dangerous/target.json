@@ -34,6 +34,40 @@
       "macOS",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 359320,
+      "name": "Elite Dangerous",
+      "url": "https://store.steampowered.com/app/359320/",
+      "description": "Take control of your own starship and blaze your trail in an ever-changing galaxy. Master the arts of combat, mining and trade or venture out into the unknown across a 1:1 scale universe.",
+      "releaseDate": "Apr 2, 2015",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 77.29,
+        "positive": 83231,
+        "negative": 24451,
+        "total": 107682
+      },
+      "metacritic": 80,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg",
+    "source": "https://store.steampowered.com/app/359320/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

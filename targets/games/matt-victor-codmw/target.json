@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1nkiCnbG_kxJL6suR6DlPK610tDJjel8sY86eyTYgQdA/edit",
     "title": "QuadStick public configuration catalog — Matt Victor CODMW"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/matt-victor-codmw.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-codmw.svg"
   }
 }

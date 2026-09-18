@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1Bgo68cyJWQS3Gfr94eVCE8uoRd7rEV3HNqyR-pPpSI8/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/ShatterlinePC"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/shatterlinepc.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shatterlinepc.svg"
   }
 }

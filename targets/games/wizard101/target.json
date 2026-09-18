@@ -30,6 +30,40 @@
       "Microsoft Windows",
       "macOS"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 799960,
+      "name": "Wizard101",
+      "url": "https://store.steampowered.com/app/799960/",
+      "description": "Unleash your inner magic and prepare to unravel the mysteries surrounding a death professor gone rogue. Darkness threatens to engulf the Spiral as you master powerful spells, explore over 22 whimsical worlds, and team-up with friends in this nostalgic wizard turn-based deckbuilding MMORPG.",
+      "releaseDate": "Sep 6, 2018",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 82.57,
+        "positive": 7885,
+        "negative": 1664,
+        "total": 9549
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg",
+    "source": "https://store.steampowered.com/app/799960/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

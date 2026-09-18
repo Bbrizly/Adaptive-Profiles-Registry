@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
     "title": "QuadStick public configuration catalog — Steamy Biscuit/Fishing Planet-kb"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/fishing-planet-kb.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet-kb.svg"
   }
 }

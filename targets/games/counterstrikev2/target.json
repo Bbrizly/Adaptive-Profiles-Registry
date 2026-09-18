@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
     "title": "QuadStick public configuration catalog — Dan NH/Counterstrikev2"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/counterstrikev2.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/counterstrikev2.svg"
   }
 }

@@ -14,5 +14,37 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1cejbrI7y7HyY7H9LVqum6adXiRUbcoiSS18gGGR2YUQ/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Denshattack"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 2524850,
+      "name": "Denshattack!",
+      "url": "https://store.steampowered.com/app/2524850/",
+      "description": "Flip, trick and grind your train in a fast-paced, off-the-rails ride through a colourful Japanese dystopia. Outmatch rival gangs, wreck a shady megacorp, and take back the tracks with nothing but skill, speed, and style.",
+      "releaseDate": "Jul 15, 2026",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 98.31,
+        "positive": 3430,
+        "negative": 59,
+        "total": 3489
+      },
+      "metacritic": 88,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/header.jpg",
+    "source": "https://store.steampowered.com/app/2524850/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

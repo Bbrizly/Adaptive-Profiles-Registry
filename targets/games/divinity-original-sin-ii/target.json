@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1koueOeAvLoSw_P6SQnL50G46Vc-KXjdiePo3G_FedDw/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Divinity Original Sin II"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/divinity-original-sin-ii.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/divinity-original-sin-ii.svg"
   }
 }

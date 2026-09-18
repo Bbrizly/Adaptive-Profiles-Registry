@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/10u6sdeXQrGstrgyEd9F0vVVlNhZbO7Mpa6eV3Csw04w/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Alan Wake II"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/alan-wake-ii.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/alan-wake-ii.svg"
   }
 }

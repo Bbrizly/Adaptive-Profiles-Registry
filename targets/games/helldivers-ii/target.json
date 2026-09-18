@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Helldivers II"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/helldivers-ii.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/helldivers-ii.svg"
   }
 }

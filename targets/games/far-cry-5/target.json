@@ -31,6 +31,36 @@
     "platforms": [
       "Microsoft Windows"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 552520,
+      "name": "Far Cry® 5",
+      "url": "https://store.steampowered.com/app/552520/",
+      "description": "Fight a fanatical cult in this open world FPS. Engage in intense combat, free hostile territory, recruit loyal followers and animal allies, and liberate Hope County solo or in full 2-player co-op.",
+      "releaseDate": "Mar 26, 2018",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 81.07,
+        "positive": 153359,
+        "negative": 35799,
+        "total": 189158
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+    "source": "https://store.steampowered.com/app/552520/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

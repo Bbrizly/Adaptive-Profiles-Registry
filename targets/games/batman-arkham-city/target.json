@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1FR4vZQKxkJmP4Us-DWljjs19xrzc_cQWsCdzTdt61FU/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Batman Arkham City"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/batman-arkham-city.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-city.svg"
   }
 }

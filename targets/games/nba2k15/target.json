@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/18JLSBlnmrpy0Z-o2ADCDmIwjXNhz-flX9-wq3tdVjFc/edit",
     "title": "QuadStick public configuration catalog — NBA2k15 PC"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/nba2k15.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba2k15.svg"
   }
 }

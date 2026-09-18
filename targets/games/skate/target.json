@@ -25,6 +25,38 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 3354750,
+      "name": "skate.",
+      "url": "https://store.steampowered.com/app/3354750/",
+      "description": "Experience improved Flick-It controls, the rich physics based skateboarding gameplay that provides those “only in skate.™“ moments and off-board exploration for full freedom in the online multiplayer world of San Vansterdam.",
+      "releaseDate": "Sep 16, 2025",
+      "genres": [
+        "Action",
+        "Sports",
+        "Free To Play",
+        "Early Access"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 69.51,
+        "positive": 62347,
+        "negative": 27342,
+        "total": 89689
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/header.jpg",
+    "source": "https://store.steampowered.com/app/3354750/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

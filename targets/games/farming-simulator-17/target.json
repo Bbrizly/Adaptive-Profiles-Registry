@@ -30,6 +30,36 @@
       "Microsoft Windows",
       "macOS"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 447020,
+      "name": "Farming Simulator 17",
+      "url": "https://store.steampowered.com/app/447020/",
+      "description": "Take on the role of a modern farmer in Farming Simulator 17! Explore farming possibilities in a new North American environment. Drive over 250 farming vehicles and equipment from over 75 manufacturers, including new brands such as Challenger, Fendt, Valtra or Massey Ferguson.",
+      "releaseDate": "Oct 24, 2016",
+      "genres": [
+        "Simulation"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 93.46,
+        "positive": 24252,
+        "negative": 1698,
+        "total": 25950
+      },
+      "metacritic": 69,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg",
+    "source": "https://store.steampowered.com/app/447020/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

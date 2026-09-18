@@ -33,6 +33,36 @@
       "macOS",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1029690,
+      "name": "Sniper Elite 5",
+      "url": "https://store.steampowered.com/app/1029690/",
+      "description": "The award-winning series returns as Karl Fairburne fights to uncover Project Kraken in 1944 France. The genre-defining authentic sniping, with enhanced kill cam, has never looked or felt better as you fight across immersive maps to stop the Nazi war machine in its tracks.",
+      "releaseDate": "May 25, 2022",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 83.74,
+        "positive": 25603,
+        "negative": 4971,
+        "total": 30574
+      },
+      "metacritic": 79,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
+    "source": "https://store.steampowered.com/app/1029690/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

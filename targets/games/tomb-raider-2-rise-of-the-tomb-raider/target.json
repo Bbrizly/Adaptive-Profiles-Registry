@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1HTw9r3V8RGUVHxMxo7_XbTe52N586cVys4TJDnGszbQ/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 2 - Rise of the Tomb Raider"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
   }
 }

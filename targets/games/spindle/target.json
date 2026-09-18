@@ -25,6 +25,40 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1386750,
+      "name": "Spindle",
+      "url": "https://store.steampowered.com/app/1386750/",
+      "description": "SPINDLE is an old-school action-adventure about death and the many ways we choose to deal with it. With your trusty Pig by your side, you form a most curious team, embarking on a quest to learn what it truly means to be Death.",
+      "releaseDate": "Oct 13, 2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": {
+        "score": 96.32,
+        "positive": 471,
+        "negative": 18,
+        "total": 489
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386750/header.jpg",
+    "source": "https://store.steampowered.com/app/1386750/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1cxHQSWFEsKnOqvL0ZKc8OUKGKR9TOsiWnMAbP8iGuV4/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Lego Fortnite"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/lego-fortnite.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lego-fortnite.svg"
   }
 }

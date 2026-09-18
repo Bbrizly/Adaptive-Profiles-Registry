@@ -30,6 +30,37 @@
     "platforms": [
       "Microsoft Windows"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 218230,
+      "name": "PlanetSide 2",
+      "url": "https://store.steampowered.com/app/218230/",
+      "description": "PlanetSide 2 is an all-out planetary war, where thousands of players battle as one across enormous continents. Utilize infantry, ground and air vehicles, and teamwork to destroy your enemies in this revolutionary first-person shooter on a massive scale.",
+      "releaseDate": "Nov 20, 2012",
+      "genres": [
+        "Action",
+        "Massively Multiplayer",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 80.37,
+        "positive": 60175,
+        "negative": 14699,
+        "total": 74874
+      },
+      "metacritic": 84,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/header.jpg",
+    "source": "https://store.steampowered.com/app/218230/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

@@ -14,5 +14,39 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1pJ2nN-BChvORwOW7hqFJB9FQHbOKBlMSl8ItPs2OIds/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Chained together"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 2567870,
+      "name": "Chained Together",
+      "url": "https://store.steampowered.com/app/2567870/",
+      "description": "Climb up from the depths of Hell. Scale various worlds solo or chained together with your friends in the 1-4 player platforming sensation.",
+      "releaseDate": "Jun 19, 2024",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.67,
+        "positive": 57603,
+        "negative": 6634,
+        "total": 64237
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+    "source": "https://store.steampowered.com/app/2567870/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

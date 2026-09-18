@@ -14,5 +14,37 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1nFfFBJ9xgPqu5MB4OhC-Al2fVHNVT4TUBszzwdiqQCQ/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/It takes two"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1426210,
+      "name": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210/",
+      "description": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Winner of GAME OF THE YEAR at the Game Awards 2021.",
+      "releaseDate": "Mar 25, 2021",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 95.44,
+        "positive": 257552,
+        "negative": 12319,
+        "total": 269871
+      },
+      "metacritic": 89,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "source": "https://store.steampowered.com/app/1426210/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

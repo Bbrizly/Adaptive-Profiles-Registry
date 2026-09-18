@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1Uc2IR9Em5cAySG8K1quFcYKzZek9MsgnqzGlcGOL0WQ/edit",
     "title": "QuadStick public configuration catalog — MX vs ATV Unleashed - Steam"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/mx-vs-atv-unleashed-steam.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mx-vs-atv-unleashed-steam.svg"
   }
 }

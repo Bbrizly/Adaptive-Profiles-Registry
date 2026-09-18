@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/ARC Raiders x360"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/arc-raiders-x360.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/arc-raiders-x360.svg"
   }
 }

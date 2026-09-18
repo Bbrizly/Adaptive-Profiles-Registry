@@ -14,5 +14,12 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1REebj5PEBOYgY72BAWqxbluikm04CCL-s_htF0AH9-0/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/FSX/P3D"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/fsx-p3d.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fsx-p3d.svg"
   }
 }

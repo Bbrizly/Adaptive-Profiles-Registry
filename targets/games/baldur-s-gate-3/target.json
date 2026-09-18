@@ -14,5 +14,39 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1JbWzWfFS2PUDTub6HubE7g92A3BPififiOBgOAlUdTE/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Baldurs Gate 3"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1086940,
+      "name": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940/",
+      "description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+      "releaseDate": "Aug 3, 2023",
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 96.79,
+        "positive": 830473,
+        "negative": 27572,
+        "total": 858045
+      },
+      "metacritic": 96,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "source": "https://store.steampowered.com/app/1086940/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

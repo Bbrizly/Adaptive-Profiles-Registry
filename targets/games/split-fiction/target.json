@@ -30,6 +30,36 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2001120,
+      "name": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120/",
+      "description": "Embrace mind-blowing moments as you’re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op adventure.",
+      "releaseDate": "Mar 6, 2025",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 96.92,
+        "positive": 123052,
+        "negative": 3911,
+        "total": 126963
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "source": "https://store.steampowered.com/app/2001120/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

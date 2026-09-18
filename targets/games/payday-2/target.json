@@ -31,6 +31,36 @@
       "Microsoft Windows",
       "PlayStation 3"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 218620,
+      "name": "PAYDAY 2",
+      "url": "https://store.steampowered.com/app/218620/",
+      "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+      "releaseDate": "Aug 13, 2013",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.35,
+        "positive": 602913,
+        "negative": 71845,
+        "total": 674758
+      },
+      "metacritic": 79,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
+    "source": "https://store.steampowered.com/app/218620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

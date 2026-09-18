@@ -32,6 +32,37 @@
     "platforms": [
       "Microsoft Windows"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1237980,
+      "name": "STAR WARS™ Battlefront",
+      "url": "https://store.steampowered.com/app/1237980/",
+      "description": "The STAR WARS™ Battlefront™ Ultimate Edition includes the STAR WARS™ Battlefront™ Deluxe Edition as well as the STAR WARS™ Battlefront™ Season Pass.",
+      "releaseDate": "Jun 11, 2020",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Strategy"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 79,
+        "positive": 4651,
+        "negative": 1236,
+        "total": 5887
+      },
+      "metacritic": 76,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg",
+    "source": "https://store.steampowered.com/app/1237980/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

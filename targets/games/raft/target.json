@@ -25,6 +25,37 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 648800,
+      "name": "Raft",
+      "url": "https://store.steampowered.com/app/648800/",
+      "description": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+      "releaseDate": "Jun 20, 2022",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.99,
+        "positive": 352141,
+        "negative": 26539,
+        "total": 378680
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "source": "https://store.steampowered.com/app/648800/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

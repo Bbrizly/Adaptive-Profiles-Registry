@@ -14,5 +14,37 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1pyy8RCtgsqcKaxcz8JdlzeRQH_RlRSq_HrTxQxYrYsk/edit",
     "title": "QuadStick public configuration catalog — Silas P. (PC)/Six Days In Fallujah"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1548850,
+      "name": "Six Days in Fallujah",
+      "url": "https://store.steampowered.com/app/1548850/",
+      "description": "Six Days in Fallujah is an intensely realistic first-person tactical shooter based on true stories from one of this century’s toughest urban battles.",
+      "releaseDate": "Jun 22, 2023",
+      "genres": [
+        "Action",
+        "Early Access"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 79.12,
+        "positive": 13035,
+        "negative": 3440,
+        "total": 16475
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/header.jpg",
+    "source": "https://store.steampowered.com/app/1548850/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

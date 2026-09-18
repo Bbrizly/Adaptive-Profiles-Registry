@@ -30,6 +30,35 @@
       "Microsoft Windows",
       "Xbox Series X and Series S"
     ],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 997010,
+      "name": "Police Simulator: Patrol Officers",
+      "url": "https://store.steampowered.com/app/997010/",
+      "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a police officer.",
+      "releaseDate": "Nov 10, 2022",
+      "genres": [
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 74.55,
+        "positive": 17177,
+        "negative": 5865,
+        "total": 23042
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
+    "source": "https://store.steampowered.com/app/997010/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
   }
 }

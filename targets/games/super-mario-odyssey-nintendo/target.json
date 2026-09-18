@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "super-mario-odyssey-nintendo",
+  "kind": "game",
+  "name": "Super Mario Odyssey Nintendo",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1PPRpvCOOLHu93RdLa5dyWMk3XGTZecDDBC9bW0TYisE/edit",
+    "title": "QuadStick public configuration catalog — Super Mario Odyssey Nintendo Switch"
+  }
+}

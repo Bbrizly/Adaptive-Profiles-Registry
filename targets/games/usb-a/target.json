@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "usb-a",
+  "kind": "game",
+  "name": "USB A",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ucHEZBA2fNWbsbhDyO2yBXb2TZ5iIXDa2w_xxwLSG7c/edit",
+    "title": "QuadStick public configuration catalog — USB A"
+  }
+}

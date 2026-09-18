@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-sniper-elite-4-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Sniper Elite 4 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-sniper-elite-4"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1a_boZsd3AQh14pvqIJEgl1bptZamFMiuNcDobNV_WRE/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "c00f279c6ef52278df1674184e68dfcdbb3d8145e1015c7f0664ede8b867bdbc"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

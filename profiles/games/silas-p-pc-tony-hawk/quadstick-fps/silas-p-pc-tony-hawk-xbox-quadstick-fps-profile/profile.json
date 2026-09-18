@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-tony-hawk-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Tony Hawk — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-tony-hawk"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1YERuZoXEhwrnpFwem8l5BtEurnfpPv1JFp7IGL76tos/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b2a0fcececb230d59ec8cf0301ea9064d7c1951e9646861a2af0e6dedc59e95d"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

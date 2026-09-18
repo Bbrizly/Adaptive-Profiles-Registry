@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "journey-playstation-quadstick-fps-profile",
+  "title": "Journey — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "journey"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1mcndPYuI8NFSmo2i31LvFFAaQplXBNi8IzJlvoGd8Ug/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a9839a2d68d714c8860cfe366af83f98ba2f6052df3d746cd600e36d3cf32eb2"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

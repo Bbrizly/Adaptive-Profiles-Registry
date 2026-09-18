@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "elite-dangerous",
+  "kind": "game",
+  "name": "Elite Dangerous",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1cjzAsSRdQdt32Ja9h6KDf90lxn_08Qb0n3XuJz1ARa8/edit",
+    "title": "QuadStick public configuration catalog — Elite Dangerous PC"
+  }
+}

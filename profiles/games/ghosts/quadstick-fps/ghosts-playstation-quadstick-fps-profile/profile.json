@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "ghosts-playstation-quadstick-fps-profile",
+  "title": "Ghosts — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "ghosts"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1B7Fxx7SREQSEJlWchM4_HmeXEEavXP2pDa8qwMFsLdU/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a0efe6300541081fd6fb6282390d454f05fda642657494960143bd31c73411d3"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

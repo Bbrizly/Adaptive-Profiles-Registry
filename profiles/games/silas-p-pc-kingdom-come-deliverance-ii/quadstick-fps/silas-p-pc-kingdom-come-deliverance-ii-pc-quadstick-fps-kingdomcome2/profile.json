@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-kingdom-come-deliverance-ii-pc-quadstick-fps-kingdomcome2",
+  "title": "Silas P. (PC)/Kingdom Come Deliverance II — KingdomCome2",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-kingdom-come-deliverance-ii"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1fWSvI0yr9nfWafsMFoNLgKoy3hUaiAXrOEM1AAs5z40/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "d494adfcdac9ddd479dfae7e768ead2359746fd262f902ede23dd227a1a93989"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-helldivers-ii",
+  "kind": "game",
+  "name": "Silas P. (PC)/Helldivers II",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Helldivers II"
+  }
+}

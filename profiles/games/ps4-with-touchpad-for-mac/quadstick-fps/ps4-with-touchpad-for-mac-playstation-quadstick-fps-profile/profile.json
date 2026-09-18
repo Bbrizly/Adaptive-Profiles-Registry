@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "ps4-with-touchpad-for-mac-playstation-quadstick-fps-profile",
+  "title": "PS4 with TouchPad for Mac — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "ps4-with-touchpad-for-mac"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1i9kv7tuBEiuI-ZqLyjeVfMaoujldw_4sauPu0eQxSUA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "4fa5820372ddf7078667d8423efed3cf65c533db1c92f58978d050eab41cdf38"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

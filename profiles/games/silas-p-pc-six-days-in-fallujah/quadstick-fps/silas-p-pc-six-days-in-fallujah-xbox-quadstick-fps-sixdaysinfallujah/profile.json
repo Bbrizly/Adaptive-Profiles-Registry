@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-six-days-in-fallujah-xbox-quadstick-fps-sixdaysinfallujah",
+  "title": "Silas P. (PC)/Six Days In Fallujah — SixDaysInFallujah",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-six-days-in-fallujah"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1pyy8RCtgsqcKaxcz8JdlzeRQH_RlRSq_HrTxQxYrYsk/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "35a886d349147dae649da5abe2430f56b791bd755883c16173d7432dfeb5963a"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

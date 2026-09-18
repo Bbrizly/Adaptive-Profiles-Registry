@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "sea-of-thieves-xbox-quadstick-fps-profile",
+  "title": "Sea of Thieves — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "sea-of-thieves"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1RFcGkPcnn-H9td8HRqvVOc0AuPlJAArUmSdB7QHbrrI/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b41cd3a8f5ce20948616c85cb998e0849503734cac058ad945ee471fdf26e00b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

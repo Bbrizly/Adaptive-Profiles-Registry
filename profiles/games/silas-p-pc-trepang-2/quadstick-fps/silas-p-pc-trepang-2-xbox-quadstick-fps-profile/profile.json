@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-trepang-2-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Trepang 2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-trepang-2"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1KxeZdoIX-iQIlNPFCJPjzphZ0fp4zaOX921gX_AilXE/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a344e28af6969784d72e2fee2fec952ef45c57b2e49250c8d1c468d120df1fdf"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

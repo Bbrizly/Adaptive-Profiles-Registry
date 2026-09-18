@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "deathloop-kbm",
+  "kind": "game",
+  "name": "Deathloop KBM",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1cDHb5PUQRLySYwuJM0OFSyCAZQixkV6qcYpWDyxY1Uw/edit",
+    "title": "QuadStick public configuration catalog — Deathloop KBM"
+  }
+}

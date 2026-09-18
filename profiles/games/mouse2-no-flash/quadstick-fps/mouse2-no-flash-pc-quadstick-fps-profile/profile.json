@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "mouse2-no-flash-pc-quadstick-fps-profile",
+  "title": "Mouse2 no Flash — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "mouse2-no-flash"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Oqv20msON79a9srqaEK_Bq4XAGKjzVF9uMcA8b6if0o/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "e7c414959237058aece2c2e2196f0cf9d718e34adfc52baaa8f5a49a8425d877"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

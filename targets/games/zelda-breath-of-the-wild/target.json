@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "zelda-breath-of-the-wild",
+  "kind": "game",
+  "name": "Zelda Breath of the Wild",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1H6u09WSp14QSn5clduHecbKiwoy2eJA20rxNv8BIVzg/edit",
+    "title": "QuadStick public configuration catalog — Zelda Breath of the Wild"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-satisfactory-xbox-quadstick-fps-satisfactory",
+  "title": "Silas P. (PC)/Satisfactory — satisfactory",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-satisfactory"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1raPi-3ezaWA5bLGWdJyzcWFkoayaAbPdt45pf3p2saA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "9db9887445908a558747e0ca72ad1b56fe534d32832f18f87bee377f66c3cb3b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

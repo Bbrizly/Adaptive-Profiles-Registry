@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-world-of-tanks",
+  "kind": "game",
+  "name": "Silas P. (PC)/World of Tanks",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1l4gpyV0GimPRY1H7a13Xue_R7PkYpYR_VYhJQszptIg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/World of Tanks"
+  }
+}

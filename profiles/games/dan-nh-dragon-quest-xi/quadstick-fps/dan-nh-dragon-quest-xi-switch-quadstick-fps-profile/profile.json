@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "dan-nh-dragon-quest-xi-switch-quadstick-fps-profile",
+  "title": "Dan NH/Dragon Quest XI — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "dan-nh-dragon-quest-xi"
+  },
+  "platform": "switch",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1fJY9kqrby3eMNfSWXghyM-_WlN8HxuJhDidV7fPRsQA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "c17f7b2acb7c1b4bf22d4ea74ba6ac0695d8bdfe6c623f35f4f2c652ffe69ade"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-shatterlinepc",
+  "kind": "game",
+  "name": "Silas P. (PC)/ShatterlinePC",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Bgo68cyJWQS3Gfr94eVCE8uoRd7rEV3HNqyR-pPpSI8/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/ShatterlinePC"
+  }
+}

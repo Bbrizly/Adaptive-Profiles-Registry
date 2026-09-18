@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "fpv-freerider-playstation-quadstick-fps-profile",
+  "title": "FPV Freerider — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "fpv-freerider"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1f9J51f__Vexir70tltRkZuBwsReCDm-uaQZCIpuE1Bo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "e45800554c125e36e11d62015a7878bffaf24517bf05567cc346d54358f4b448"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

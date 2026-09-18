@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "dan-nh-batman-arkham-knight-v-playstation-quadstick-fps-profile",
+  "title": "Dan NH/Batman Arkham Knight v — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "dan-nh-batman-arkham-knight-v"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Sl8nEFG4hnXOsvw3PB-OFNETfBGUq3S8AUM8oGP009o/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b0065a456e904f7af7210e527d9dc0b1badd3d33b3d65848c85f9fee3e593bde"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

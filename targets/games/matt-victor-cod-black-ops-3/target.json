@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "matt-victor-cod-black-ops-3",
+  "kind": "game",
+  "name": "Matt Victor COD Black Ops 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit",
+    "title": "QuadStick public configuration catalog — Matt Victor COD Black Ops 3"
+  }
+}

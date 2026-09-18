@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-sniper-elite-3",
+  "kind": "game",
+  "name": "Silas P. (PC)/Sniper Elite 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1P3mRIdjE5D3DNkRiahIXTO7nrHZyAMvL-ngkSP7PTZ4/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "bioshock1-playstation-quadstick-fps-profile",
+  "title": "BioShock1 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "bioshock1"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1IzWBk_Au7t5DmvdXl1SgmRYHl1rlfQxRobcTsKi-lVM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "8ae7960405666167cc9ce3d2f75a35fa9528ea325e691f4cf551d3fc640352b7"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

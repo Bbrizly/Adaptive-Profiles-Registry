@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-monitor-control-samsung-g8-pc-quadstick-fps-monrem",
+  "title": "Silas P. (PC)/Monitor Control - Samsung G8 — MonRem",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-monitor-control-samsung-g8"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1kWsQQjk93BiFt9BsLWQNXfh4rHizI9rZ3ZB0wOrxG-U/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "3cdf60334f014fab8e73b8a68c1d26ea43960ae245b4bdd3691122ed631e2802"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

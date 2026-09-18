@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-gardians-of-the-galaxy-beta",
+  "kind": "game",
+  "name": "Silas P. (PC)/Gardians of the Galaxy BETA",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Gardians of the Galaxy BETA"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-far-cry-5",
+  "kind": "game",
+  "name": "Silas P. (PC)/Far Cry 5",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1pk_POZlw-oUN2iPXkQQotn0G0KwyC8-1aNfWE6aVFxs/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Far Cry 5 PC"
+  }
+}

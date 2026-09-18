@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "grand-theft-auto-playstation-quadstick-fps-profile-46733817",
+  "title": "Grand Theft Auto — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "grand-theft-auto"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1VV26NcHVW9-1L3ECM0NlsJ7zH7XjBQ9qA3IyvQABbl4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "467338179b0adce6bec59675e56233999ef3ba712dbddaf865db64c542e0989b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

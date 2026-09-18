@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "mlb13-playstation-quadstick-fps-profile",
+  "title": "MLB13 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "mlb13"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1LOEaUmdGfa-eQUuc7vLhCQkXRDZFXIo0JcKPCm4MEYY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "3e029f26b98f0007023ef02ea95fc3eca10cc1847f55a0ac5c774226491ff308"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

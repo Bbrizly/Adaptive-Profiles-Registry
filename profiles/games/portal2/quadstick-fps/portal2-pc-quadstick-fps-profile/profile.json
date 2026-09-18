@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "portal2-pc-quadstick-fps-profile",
+  "title": "Portal2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "portal2"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Ln3qyIe6yuKSKrvttKVskS_At7BjtPzyhmMVmWk-DI8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "94d1b9e9c8e15442619cc2a583c228e04412e87a6259129989334a582cb4e1a8"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

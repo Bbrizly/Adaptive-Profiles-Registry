@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "dual-ultrastiks-playstation-quadstick-fps-ultra2",
+  "title": "Dual UltraStiks — ultra2",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "dual-ultrastiks"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Husu2QRmFEE7v2UbgeJNGO2qoz4ooa0x2nHSqYJtRu8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "8510cbbcf3f5f06d07915ca1f44511b260bd349eb089cf193b225483d6d90cf9"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

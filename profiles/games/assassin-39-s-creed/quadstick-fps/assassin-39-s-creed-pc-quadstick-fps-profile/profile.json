@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "assassin-39-s-creed-pc-quadstick-fps-profile",
+  "title": "Assassin&#39;s Creed — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "assassin-39-s-creed"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1IZNrA61dEuVmHme4eO73weoM4IrL9DA5lXLqOEqYcVk/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "bdd1cdb920e29234fb9785ec8ce296c3f9fee8afaf12128f603e1fcea27222f3"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

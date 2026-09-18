@@ -1,0 +1,35 @@
+Profile Name,,,,,,,,,,https://html5gamepad.com/
+8BitDoSE.csv,,,,,,,,,,S/D switch must be set to D
+XBox Outputs,Function,usb,,,,,,,,
+increment_mode,normal,right_sip,,,,,,,,"Requires firmware 2365
+or higher"
+decrement_mode,normal,right_puff,,,,,,,,
+left_joy_left,normal,usb_1_left,,,,,,,,Left Analog Stick
+left_joy_right,normal,usb_1_right,,,,,,,,
+left_joy_up,normal,usb_1_up,,,,,,,,
+left_joy_down,normal,usb_1_down,,,,,,,,
+right_joy_left,normal,usb_2_left,,,,,,,,Right Analog Stick
+right_joy_right,normal,usb_2_right,,,,,,,,
+right_joy_up,normal,usb_2_up,,,,,,,,
+right_joy_down,normal,usb_2_down,,,,,,,,
+dpad_N,normal,usb_1_button_1,,,,,,,,Dpad Up
+dpad_E,normal,usb_1_button_2,,,,,,,,Dpad Right
+dpad_S,normal,usb_1_button_3,,,,,,,,Dpad Down
+dpad_W,normal,usb_1_button_4,,,,,,,,Dpad Left
+X,normal,usb_1_button_5,,,,,,,,X
+A,normal,usb_1_button_6,,,,,,,,A
+B,normal,usb_1_button_7,,,,,,,,B
+Y,normal,usb_1_button_8,,,,,,,,Y
+left_bumper,normal,usb_1_button_9,,,,,,,,LB
+right_bumper,normal,usb_1_button_10,,,,,,,,RB
+left_trigger,normal,usb_1_button_11,,,,,,,,LT
+right_trigger,normal,usb_1_button_12,,,,,,,,RT
+back,normal,usb_1_button_13,,,,,,,,Back
+start,normal,usb_1_button_14,,,,,,,,Start
+left_stick,normal,usb_1_button_15,,,,,,,,LS
+right_stick,normal,usb_1_button_16,,,,,,,,RS
+guide,normal,usb_2_button_1,,,,,,,,Guide
+right_joy_left,normal,left,,,,,,,,
+right_joy_right,normal,right,,,,,,,,
+right_joy_up,normal,up,,,,,,,,
+right_joy_down,normal,down,,,,,,,,

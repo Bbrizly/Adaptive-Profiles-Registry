@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-assassin-39-s-creed-iv-black-flag-resynced-xbox-quadstick-fps-ac4bfr",
+  "title": "Silas P. (PC)/Assassin&#39;s Creed IV - Black Flag Resynced — AC4BFR",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-assassin-39-s-creed-iv-black-flag-resynced"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1ssATHDzzXmztD72iqOSQV4QZ4k_TXx3DdOhQaaiP4bw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a7115f4bda0aaadee638faad241d11e72962abd62911eeb9bd443a5819d845a7"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

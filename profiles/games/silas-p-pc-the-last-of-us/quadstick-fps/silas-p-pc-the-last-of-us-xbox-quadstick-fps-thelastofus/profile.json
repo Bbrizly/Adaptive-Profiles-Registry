@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-the-last-of-us-xbox-quadstick-fps-thelastofus",
+  "title": "Silas P. (PC)/The Last of Us — TheLastOfUs",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-the-last-of-us"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1h7rR7if8nedFt6hOrAw83rGHpdqjClgExActZGrSAoo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "cc6a42454a4e02ba9feb2f57a2efddca53ae08b5b369e053944ca30c78b223c2"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

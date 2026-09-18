@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "gran-turismo-sport",
+  "kind": "game",
+  "name": "Gran Turismo Sport",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1nkM6KY8jIOm1rOjZ6ImgiE0w2W8w8QZ8E2C1JMRCycY/edit",
+    "title": "QuadStick public configuration catalog — Gran Turismo Sport"
+  }
+}

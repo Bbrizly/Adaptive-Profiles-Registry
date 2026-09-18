@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "8bitdo-lite-se-xbox-quadstick-fps-8bitdose",
+  "title": "8BitDo Lite SE — 8BitDoSE",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "8bitdo-lite-se"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1uNuoEx8lByuxlYAg0obPA4TqC4BZUlYvI-ZAI4xiW8w/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "f8f8e9e2b4494cb88aa7d8562fc0ba137883e18a841f041ddc53bc87ec5d73af"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

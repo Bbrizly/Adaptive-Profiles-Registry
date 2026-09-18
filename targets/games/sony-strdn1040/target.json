@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "sony-strdn1040",
+  "kind": "game",
+  "name": "Sony STRDN1040",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Nb_a_GkBEQbGF_y9bTO2rDLlrFvPjDpWoUhfKH9S0ZQ/edit",
+    "title": "QuadStick public configuration catalog — Sony STRDN1040"
+  }
+}

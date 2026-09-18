@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "dan-nh-lol",
+  "kind": "game",
+  "name": "Dan NH/LOL",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/LOL"
+  }
+}

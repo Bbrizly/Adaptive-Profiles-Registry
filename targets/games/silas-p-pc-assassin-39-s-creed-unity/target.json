@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-assassin-39-s-creed-unity",
+  "kind": "game",
+  "name": "Silas P. (PC)/Assassin&#39;s Creed Unity",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1N37L5cvv4Ys7XiA8Khx7XaQCrMaQdsJQmDgou9NvZTA/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Assassin&#39;s Creed Unity"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "fpv-freerider",
+  "kind": "game",
+  "name": "FPV Freerider",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1f9J51f__Vexir70tltRkZuBwsReCDm-uaQZCIpuE1Bo/edit",
+    "title": "QuadStick public configuration catalog — FPV Freerider"
+  }
+}

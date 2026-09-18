@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-tomb-raider-1",
+  "kind": "game",
+  "name": "Silas P. (PC)/Tomb Raider 1",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 1"
+  }
+}

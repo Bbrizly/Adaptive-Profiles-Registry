@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "singleton-flash",
+  "kind": "game",
+  "name": "Singleton - Flash",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1mU_nIGXsw1TLaYtnR8lrIhPAEKEBIGQFhzHYYgUlNYU/edit",
+    "title": "QuadStick public configuration catalog — Singleton - Flash"
+  }
+}

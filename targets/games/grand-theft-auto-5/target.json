@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "grand-theft-auto-5",
+  "kind": "game",
+  "name": "Grand Theft Auto 5",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1EhNKF-FZqwb01XEF6_elpDEJASjb-QB3QQ-jgZ0nbJ4/edit",
+    "title": "QuadStick public configuration catalog — Grand Theft Auto 5 PC"
+  }
+}

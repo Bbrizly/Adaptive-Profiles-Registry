@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-red-dead-redemption-ii-redm-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Red Dead Redemption II - RedM — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-red-dead-redemption-ii-redm"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1rPul7lBH6xX-DwGFI6ek2ZCzkmAeAHlGabI8KHI1CdY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b5164a02dc3bbe53510a02027733ca5f1f22137eb02404854f14d9d0b4570b79"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "usb-host",
+  "kind": "game",
+  "name": "USB Host",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1qJO9kDN506ybIou3GvTvZgdnfg1u55KgG4opcEwXD1w/edit",
+    "title": "QuadStick public configuration catalog — USB Host XBox Adaptive Joystick tester"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "nintendo-xbox-quadstick-fps-profile-146d13b7",
+  "title": "Nintendo — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "nintendo"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1MOCYvz1GRbG7an1-VUUt6l-Snf2zJDis4jA-nnzbdX4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "146d13b7920fb719374dab571126d174ddd9b8398fdfa8fccf84ad36aa4becd7"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

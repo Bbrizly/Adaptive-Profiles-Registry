@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-starfield",
+  "kind": "game",
+  "name": "Silas P. (PC)/Starfield",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1RQHLLmiQbU5V35Vybfkj4JKcXSVMTC0D6LwkiNg2c1A/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Starfield"
+  }
+}

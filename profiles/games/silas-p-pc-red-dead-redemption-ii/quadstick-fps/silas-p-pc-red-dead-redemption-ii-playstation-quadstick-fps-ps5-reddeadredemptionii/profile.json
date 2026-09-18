@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-red-dead-redemption-ii-playstation-quadstick-fps-ps5-reddeadredemptionii",
+  "title": "Silas P. (PC)/Red Dead Redemption II — PS5_RedDeadRedemptionII",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-red-dead-redemption-ii"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Wz4ft6QSMIgLzI2d_e-IKv3nKv3v-ljFTiLL1sG4EAg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "54dd6b8f7d1f60c7062ff98d0f72442b58796b23c0e8fb2df9d6258b3537a6e7"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

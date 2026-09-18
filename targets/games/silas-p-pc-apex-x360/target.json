@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-apex-x360",
+  "kind": "game",
+  "name": "Silas P. (PC)/Apex x360",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1b31Tna8v829uzOD0Lmo79ysbbF2lP8aAdw_0C6UmTG8/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Apex x360"
+  }
+}

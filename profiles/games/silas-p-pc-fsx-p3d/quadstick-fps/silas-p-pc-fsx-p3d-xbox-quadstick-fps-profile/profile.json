@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-fsx-p3d-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/FSX/P3D — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-fsx-p3d"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1REebj5PEBOYgY72BAWqxbluikm04CCL-s_htF0AH9-0/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "edf6bd7e5e6e881e321ec4729875753871bf31d83ca3ffca05148450c636f8d6"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

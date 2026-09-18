@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "steamy-biscuit-fishing-planet-kb",
+  "kind": "game",
+  "name": "Steamy Biscuit/Fishing Planet-kb",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
+    "title": "QuadStick public configuration catalog — Steamy Biscuit/Fishing Planet-kb"
+  }
+}

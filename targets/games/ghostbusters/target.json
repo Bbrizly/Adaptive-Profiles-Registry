@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "ghostbusters",
+  "kind": "game",
+  "name": "Ghostbusters",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1_s1dFwj7zQo7xzro0RzC1UqTpTadpQUL3Qp_dGJBJkA/edit",
+    "title": "QuadStick public configuration catalog — Ghostbusters"
+  }
+}

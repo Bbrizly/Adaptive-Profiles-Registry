@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "elite-dangerous-pc-quadstick-fps-profile",
+  "title": "Elite Dangerous — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "elite-dangerous"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1cjzAsSRdQdt32Ja9h6KDf90lxn_08Qb0n3XuJz1ARa8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "d34d4f737baf1826e7ccd4636dded1ea0217d9778d8a37f3a904c17f7806fc9e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

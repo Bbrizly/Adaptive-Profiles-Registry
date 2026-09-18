@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-red-dead-redemption-ii-redm",
+  "kind": "game",
+  "name": "Silas P. (PC)/Red Dead Redemption II - RedM",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1rPul7lBH6xX-DwGFI6ek2ZCzkmAeAHlGabI8KHI1CdY/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Red Dead Redemption II - RedM"
+  }
+}

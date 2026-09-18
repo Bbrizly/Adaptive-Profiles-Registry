@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "forza-motorsports-5-xbox-quadstick-fps-profile",
+  "title": "Forza Motorsports 5 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "forza-motorsports-5"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1gNTQ9jN5cG_ONfApZf0Au4WreNVpJ_BjaYMC7Llwp14/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "dc58c696676f3628d9e13f63a340c5c201e4cdf6c9f930cac0fcd2fa8d700fb4"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

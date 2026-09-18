@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "singleton-wasd-pc-quadstick-fps-profile",
+  "title": "Singleton WASD — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "singleton-wasd"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1vClXTMVGOTQ4TVhtRewkTdiQpdi4HXgfLX_SP6Cmc10/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "c3f6076e4b47a12d05c0f53427a611c164a3955b0e924b3cd1b5a3f5aa6213ae"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

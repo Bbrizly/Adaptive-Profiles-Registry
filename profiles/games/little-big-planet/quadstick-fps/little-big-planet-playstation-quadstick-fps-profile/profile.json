@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "little-big-planet-playstation-quadstick-fps-profile",
+  "title": "Little Big Planet — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "little-big-planet"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1RcFJ1fcDPrDhmDBgo84QhTybosCnyq-3xTpsDnuY29w/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a33b272a9b3de79e0fa7d1644a6bac72d7d1efba9728959743d9810fc338ce2e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

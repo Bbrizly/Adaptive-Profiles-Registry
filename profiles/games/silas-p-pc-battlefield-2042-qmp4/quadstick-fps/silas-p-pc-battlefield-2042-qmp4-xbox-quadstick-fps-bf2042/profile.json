@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-battlefield-2042-qmp4-xbox-quadstick-fps-bf2042",
+  "title": "Silas P. (PC)/Battlefield 2042 QMP4 — BF2042",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-battlefield-2042-qmp4"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1DtlwQonmFcQA_j6mVQnJzG-UjQln7MwbYq4s7AQBiVw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "04f2dc530ee8d031e9ba4c44d04c76f3e56e644620d747a48a4e32856adf230c"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

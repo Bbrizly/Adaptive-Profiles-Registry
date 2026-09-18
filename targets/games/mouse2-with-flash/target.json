@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "mouse2-with-flash",
+  "kind": "game",
+  "name": "Mouse2 with Flash",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1dlSyxPjmEn4T0XojBWeLk3vYMkUdmHoW-ALUKjlKcfo/edit",
+    "title": "QuadStick public configuration catalog — Mouse2 with Flash"
+  }
+}

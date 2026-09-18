@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "mayflash-fightstick-f300",
+  "kind": "game",
+  "name": "Mayflash FightStick F300",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1fdlx28uwnpgLirJKA7un-8jDe5wHgpHfWhfYGzKgIPA/edit",
+    "title": "QuadStick public configuration catalog — Mayflash FightStick F300"
+  }
+}

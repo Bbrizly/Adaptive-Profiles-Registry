@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "mouse2-no-flash-usb-a",
+  "kind": "game",
+  "name": "Mouse2 no Flash - USB A",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1d4wToBa1davqtN95zdSTAzVxMwzHGgL7Htk24lLATE4/edit",
+    "title": "QuadStick public configuration catalog — Mouse2 no Flash - USB A"
+  }
+}

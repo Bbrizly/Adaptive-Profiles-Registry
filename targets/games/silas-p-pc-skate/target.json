@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-skate",
+  "kind": "game",
+  "name": "Silas P. (PC)/skate.",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1dCGn3KGnVFqzVX7QF2SMuNkXQTkt6s1iD3WoChu1nQk/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/skate."
+  }
+}

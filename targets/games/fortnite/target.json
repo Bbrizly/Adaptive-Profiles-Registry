@@ -3,19 +3,77 @@
   "id": "fortnite",
   "kind": "game",
   "name": "Fortnite",
-  "aliases": ["Fortnite Battle Royale"],
-  "categories": ["gaming", "battle-royale"],
-  "platforms": ["pc", "xbox", "playstation", "switch"],
-  "actions": [
-    {"id": "move", "name": "Move", "category": "movement", "kind": "axis-2d"},
-    {"id": "look", "name": "Look", "category": "movement", "kind": "axis-2d"},
-    {"id": "attack", "name": "Attack", "category": "combat", "kind": "digital"},
-    {"id": "aim", "name": "Aim", "category": "combat", "kind": "digital"},
-    {"id": "jump", "name": "Jump", "category": "movement", "kind": "digital"},
-    {"id": "sprint", "name": "Sprint", "category": "movement", "kind": "digital"},
-    {"id": "crouch", "name": "Crouch", "category": "movement", "kind": "digital"},
-    {"id": "reload", "name": "Reload", "category": "combat", "kind": "digital"},
-    {"id": "map", "name": "Map", "category": "menu", "kind": "menu"}
+  "aliases": [
+    "Fortnite Battle Royale"
   ],
-  "source": {"url": "https://www.epicgames.com/help/en-US/fortnite-c75/c118/pc-a3337?lang=en-US", "title": "Fortnite official control settings support"}
+  "categories": [
+    "gaming",
+    "battle-royale"
+  ],
+  "platforms": [
+    "pc",
+    "playstation",
+    "switch",
+    "xbox"
+  ],
+  "actions": [
+    {
+      "id": "move",
+      "name": "Move",
+      "category": "movement",
+      "kind": "axis-2d"
+    },
+    {
+      "id": "look",
+      "name": "Look",
+      "category": "movement",
+      "kind": "axis-2d"
+    },
+    {
+      "id": "attack",
+      "name": "Attack",
+      "category": "combat",
+      "kind": "digital"
+    },
+    {
+      "id": "aim",
+      "name": "Aim",
+      "category": "combat",
+      "kind": "digital"
+    },
+    {
+      "id": "jump",
+      "name": "Jump",
+      "category": "movement",
+      "kind": "digital"
+    },
+    {
+      "id": "sprint",
+      "name": "Sprint",
+      "category": "movement",
+      "kind": "digital"
+    },
+    {
+      "id": "crouch",
+      "name": "Crouch",
+      "category": "movement",
+      "kind": "digital"
+    },
+    {
+      "id": "reload",
+      "name": "Reload",
+      "category": "combat",
+      "kind": "digital"
+    },
+    {
+      "id": "map",
+      "name": "Map",
+      "category": "menu",
+      "kind": "menu"
+    }
+  ],
+  "source": {
+    "url": "https://www.epicgames.com/help/en-US/fortnite-c75/c118/pc-a3337?lang=en-US",
+    "title": "Fortnite official control settings support"
+  }
 }

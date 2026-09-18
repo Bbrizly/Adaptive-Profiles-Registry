@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-lethal-company-xbox-quadstick-fps-lethalcompany",
+  "title": "Silas P. (PC)/Lethal Company — LethalCompany",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-lethal-company"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1-CzP9i-T9z6YvoKVLa7PafmshB6JrkiSsLR_Ph__vP8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "33644b1804587d95fdb7fa3da996dd797ffc13b68375e13b223b4a539640b5cd"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-halo-infinite",
+  "kind": "game",
+  "name": "Silas P. (PC)/Halo Infinite",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1V-Lwk3-rA0mckKtR8mwSZN6XfDVqMr5RzmHPf9zqgOs/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Halo Infinite PC"
+  }
+}

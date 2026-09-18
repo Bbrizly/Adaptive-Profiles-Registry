@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "halo-infinite-switch-quadstick-fps-profile",
+  "title": "Halo Infinite — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "halo-infinite"
+  },
+  "platform": "switch",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Ve7kzYEHkHJj--mWQcrzLVvnM62p0snLcbMOjoARcKw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "04f7ba9026b857c663d08ff7990a17ae2cf1f660db788422804fbf02e2a141dd"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "halflife-pc-quadstick-fps-profile",
+  "title": "HalfLife — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "halflife"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1VExeLN7fuVnP2AiMUyToZlRkyI-K0BH3Tv0JiItPzfk/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "415a5493693c9f56f6b0d51d5ac2cdc779f1e3f3e0ceb312c66edc9365e5ebe6"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

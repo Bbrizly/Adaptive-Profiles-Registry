@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "starcraft-2-rtsv3-switch-quadstick-fps-profile",
+  "title": "StarCraft 2 RTSv3 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "starcraft-2-rtsv3"
+  },
+  "platform": "switch",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1jR6oxtk7-nTecGm2Na77sQSvAv7QUNDKiaQ6ECM3O8A/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "5d7218e62a098049dd8419b74fc268b6e97162fc4c57d3795295fedd81fecf63"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

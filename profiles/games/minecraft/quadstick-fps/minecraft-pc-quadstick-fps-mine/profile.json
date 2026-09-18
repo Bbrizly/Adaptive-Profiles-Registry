@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "minecraft-pc-quadstick-fps-mine",
+  "title": "Minecraft — mine",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "minecraft"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1nTCUMQwOGrn43_Gw8VkjrPHiUW4_qlkrmHZDeWNXjBg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "fb2cb3fab4063784a3d143a038636508cb3c5e7eb0527951950d6526bed90d6c"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "steam-lego-pc-quadstick-fps-profile",
+  "title": "Steam Lego — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "steam-lego"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1bsPy-MyRKVKAKdhdnaq8Zj_gMswvbsQRqDzda4Yv5RM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "6910215aa5ab56707a316fcaf90df1c28b8c7cec635c8661a7cc739e2c4f4165"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

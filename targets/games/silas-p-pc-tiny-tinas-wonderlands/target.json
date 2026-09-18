@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-tiny-tinas-wonderlands",
+  "kind": "game",
+  "name": "Silas P. (PC)/Tiny Tinas Wonderlands",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1e-A7_8lt2SYfSt-WtTZ3AeIuZoo9PtpYtPaIbRP_3Nc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Tiny Tinas Wonderlands"
+  }
+}

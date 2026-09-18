@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "dual-shock-3-playstation-quadstick-fps-profile",
+  "title": "Dual Shock 3 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "dual-shock-3"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1wpEKfasdEPPDuDsZXsNli3D7zMMB5iA_l9KmCkzp5W4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "d8c638fb6552c27fd9f04209fefe0ba74d06450b0776f1e99c8712fbb19271c3"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

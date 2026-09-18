@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-modern-warfare-ii-wz-2-0-x360-qmp4",
+  "kind": "game",
+  "name": "Silas P. (PC)/CoD Modern Warfare II - WZ 2.0 x360 (QMP4)",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1EMjzgjjIG47P-904Jip9bqOUEBTmoeJoDkpChdU1Puo/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare II - WZ 2.0 x360 (QMP4)"
+  }
+}

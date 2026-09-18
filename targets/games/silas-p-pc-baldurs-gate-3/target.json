@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-baldurs-gate-3",
+  "kind": "game",
+  "name": "Silas P. (PC)/Baldurs Gate 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1JbWzWfFS2PUDTub6HubE7g92A3BPififiOBgOAlUdTE/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Baldurs Gate 3"
+  }
+}

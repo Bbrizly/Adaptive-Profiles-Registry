@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "wizard101-pc-quadstick-fps-profile",
+  "title": "Wizard101 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "wizard101"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1vYHBmurDRa1lFTmE3oyOVChW_D1zSx3oG6Ln6yWO_Os/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "d23bed74ce229025439b20cee986e4b66de7f200501840728a686c03abb60110"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "singleton-wasd",
+  "kind": "game",
+  "name": "Singleton WASD",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1vClXTMVGOTQ4TVhtRewkTdiQpdi4HXgfLX_SP6Cmc10/edit",
+    "title": "QuadStick public configuration catalog — Singleton WASD"
+  }
+}

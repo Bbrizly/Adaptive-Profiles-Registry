@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cyberpunk-2077-xbox-quadstick-fps-cyberpunk",
+  "title": "Silas P. (PC)/Cyberpunk 2077 — CyberPunk",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-cyberpunk-2077"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1-V2CO92PWVJw0OB_LfyCCgrQIit4MQvLgnTAjTf17Tk/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "f5b94d89e679b30478d3da4bebc1ab90c84242e2d84e33766b2ffcfba856ce05"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

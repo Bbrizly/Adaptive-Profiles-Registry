@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "grand-theft-auto-5-pc-quadstick-fps-profile",
+  "title": "Grand Theft Auto 5 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "grand-theft-auto-5"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1EhNKF-FZqwb01XEF6_elpDEJASjb-QB3QQ-jgZ0nbJ4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "53a22c8d37dfe9cba13a6ac758c77b0eb4443cdb9f9a750796fae116432be29f"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

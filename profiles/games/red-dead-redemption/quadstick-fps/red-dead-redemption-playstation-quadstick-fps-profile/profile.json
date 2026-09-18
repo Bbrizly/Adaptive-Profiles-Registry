@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "red-dead-redemption-playstation-quadstick-fps-profile",
+  "title": "Red Dead Redemption — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "red-dead-redemption"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1JjdHjzUOnd7-UxePjCnPIZyNWdkoPtzA_c-bBJTw2mM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "2c11ebe89779341d4794d2fbf8c00e22e6fc92bf35ff53102c54b9f3f6fb1872"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-black-ops-6-wz-2-0-x360-qmp4",
+  "kind": "game",
+  "name": "Silas P. (PC)/CoD Black Ops 6 - WZ 2.0 x360 (QMP4)",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1OEhv6k4G7UpUWSJ6uIbB6HbOfw5bvufCOxFlwRTjdXc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Black Ops 6 - WZ 2.0 x360 (QMP4)"
+  }
+}

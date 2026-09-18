@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "little-big-planet",
+  "kind": "game",
+  "name": "Little Big Planet",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1RcFJ1fcDPrDhmDBgo84QhTybosCnyq-3xTpsDnuY29w/edit",
+    "title": "QuadStick public configuration catalog — Little Big Planet"
+  }
+}

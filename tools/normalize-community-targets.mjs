@@ -46,6 +46,7 @@ const cleanName = raw => {
     ['Dead Space Rem', 'Dead Space'],
     ['Dead Space Rem x360 (QMP4)', 'Dead Space'],
     ['Deathloop KBM', 'Deathloop'],
+    ['Batman Arkham Knight v', 'Batman Arkham Knight'],
     ['GTA V Cheat codes', 'Grand Theft Auto V'],
     ['Gardians of the Galaxy BETA', 'Marvel\'s Guardians of the Galaxy'],
     ['MLB13', 'MLB 13: The Show'],
@@ -83,23 +84,31 @@ for (const record of targetRecords) {
 
 for (const [targetId, group] of targetGroups) {
   const base = group.members.find(item => item.id === targetId) || group.members[0];
-  const merged = { ...base, id: targetId, name: cleanName(base.name), aliases: Array.from(new Set(group.members.flatMap(item => item.aliases || []).filter(Boolean))), platforms: Array.from(new Set(group.members.flatMap(item => item.platforms || []))).sort() };
+  const canonicalName = cleanName(base.name);
+  const artwork = base.artwork?.kind === 'generated' ? { ...base.artwork, path: `artwork/games/${targetId}.svg`, url: `https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/${targetId}.svg` } : base.artwork;
+  if (base.artwork?.kind === 'generated' && base.artwork.path !== artwork.path) {
+    const oldArtwork = path.join(ROOT, base.artwork.path);
+    const newArtwork = path.join(ROOT, artwork.path);
+    if (fs.existsSync(oldArtwork) && !fs.existsSync(newArtwork)) { fs.mkdirSync(path.dirname(newArtwork), { recursive: true }); fs.renameSync(oldArtwork, newArtwork); }
+  }
+  const merged = { ...base, id: targetId, name: canonicalName, aliases: Array.from(new Set(group.members.flatMap(item => item.aliases || []).filter(Boolean))), platforms: Array.from(new Set(group.members.flatMap(item => item.platforms || []))).sort(), source: { ...base.source, title: `QuadStick public configuration catalog — ${canonicalName}` }, ...(artwork ? { artwork } : {}) };
   fs.mkdirSync(path.dirname(path.join(ROOT, 'targets', 'games', targetId, 'target.json')), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'targets', 'games', targetId, 'target.json'), `${JSON.stringify(merged, null, 2)}\n`);
 }
 
 for (const { file, data } of registry.profiles) {
   const destination = targetMap.get(data.target.id);
-  if (!destination || destination.id === data.target.id) continue;
+  if (!destination) continue;
   const oldTargetId = data.target.id;
   const oldDir = path.dirname(file);
-  const newDir = path.join(ROOT, 'profiles', 'games', destination.id, data.deviceId, data.id);
-  fs.mkdirSync(path.dirname(newDir), { recursive: true });
   data.target = { kind: 'game', id: destination.id };
   const rawTitle = data.title.replace(/\s+—\s+.*$/, '').replace(/\s+—\s+profile$/, '');
   const strippedTitle = cleanName(rawTitle);
   data.title = data.title.replace(rawTitle, strippedTitle);
   fs.writeFileSync(path.join(oldDir, 'profile.json'), `${JSON.stringify(data, null, 2)}\n`);
+  if (destination.id === oldTargetId) continue;
+  const newDir = path.join(ROOT, 'profiles', 'games', destination.id, data.deviceId, data.id);
+  fs.mkdirSync(path.dirname(newDir), { recursive: true });
   if (oldDir !== newDir) {
     if (fs.existsSync(newDir)) throw new Error(`Profile destination already exists: ${newDir}`);
     fs.renameSync(oldDir, newDir);

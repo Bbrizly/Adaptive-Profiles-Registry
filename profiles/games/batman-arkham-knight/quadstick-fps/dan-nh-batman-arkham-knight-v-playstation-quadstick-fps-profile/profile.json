@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "id": "dan-nh-batman-arkham-knight-v-playstation-quadstick-fps-profile",
-  "title": "Batman Arkham Knight v — profile",
+  "title": "Batman Arkham Knight — profile",
   "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
   "target": {
     "kind": "game",
-    "id": "batman-arkham-knight-v"
+    "id": "batman-arkham-knight"
   },
   "platform": "playstation",
   "deviceId": "quadstick-fps",

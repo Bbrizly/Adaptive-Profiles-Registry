@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "id": "batman-arkham-knight-v",
+  "id": "batman-arkham-knight",
   "kind": "game",
-  "name": "Batman Arkham Knight v",
+  "name": "Batman Arkham Knight",
   "aliases": [],
   "categories": [
     "gaming"
@@ -13,12 +13,12 @@
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1Sl8nEFG4hnXOsvw3PB-OFNETfBGUq3S8AUM8oGP009o/edit",
-    "title": "QuadStick public configuration catalog — Dan NH/Batman Arkham Knight v"
+    "title": "QuadStick public configuration catalog — Batman Arkham Knight"
   },
   "artwork": {
     "kind": "generated",
-    "path": "artwork/games/batman-arkham-knight-v.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight-v.svg",
+    "path": "artwork/games/batman-arkham-knight.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight.svg",
     "attribution": "Adaptive Profiles",
     "license": "MIT"
   }

@@ -16,7 +16,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1NfU7uvp3EZFWCTizgdQDEM7cFl4xe7Wu5VnpToJ8B8E/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/007 - First Light x360"
+        "title": "QuadStick public configuration catalog — 007 First Light"
       },
       "artwork": {
         "kind": "steam",
@@ -66,7 +66,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1H-BEo678Amwp9JwEH9Ek3mhR26fdvGoS81ulqWGmftc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/A Plague Tale 1+2"
+        "title": "QuadStick public configuration catalog — A Plague Tale 1+2"
       },
       "artwork": {
         "kind": "generated",
@@ -91,7 +91,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Gw6ydYt1-Jn5qJCzo0Q7YhMTuZKg7GhItYrJA4ApeaU/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/A Way Out"
+        "title": "QuadStick public configuration catalog — A Way Out"
       },
       "metadata": {
         "provider": "wikidata",
@@ -152,7 +152,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/10u6sdeXQrGstrgyEd9F0vVVlNhZbO7Mpa6eV3Csw04w/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Alan Wake II"
+        "title": "QuadStick public configuration catalog — Alan Wake II"
       },
       "artwork": {
         "kind": "generated",
@@ -177,7 +177,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1b31Tna8v829uzOD0Lmo79ysbbF2lP8aAdw_0C6UmTG8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Apex x360"
+        "title": "QuadStick public configuration catalog — Apex Legends"
       },
       "metadata": {
         "provider": "wikidata",
@@ -246,7 +246,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/ARC Raiders x360"
+        "title": "QuadStick public configuration catalog — ARC Raiders"
       },
       "artwork": {
         "kind": "steam",
@@ -299,7 +299,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/157QhirxtPjGIYf0DIaiiQ6bhxTD6GYuCz4gryrJEDIQ/edit",
-        "title": "QuadStick public configuration catalog — Assassin&#39;s Creed PC X360"
+        "title": "QuadStick public configuration catalog — Assassin's Creed"
       },
       "metadata": {
         "provider": "wikidata",
@@ -341,7 +341,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ssATHDzzXmztD72iqOSQV4QZ4k_TXx3DdOhQaaiP4bw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Assassin&#39;s Creed IV - Black Flag Resynced"
+        "title": "QuadStick public configuration catalog — Assassin's Creed IV - Black Flag Resynced"
       },
       "artwork": {
         "kind": "generated",
@@ -366,7 +366,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1N37L5cvv4Ys7XiA8Khx7XaQCrMaQdsJQmDgou9NvZTA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Assassin&#39;s Creed Unity"
+        "title": "QuadStick public configuration catalog — Assassin's Creed Unity"
       },
       "metadata": {
         "provider": "wikidata",
@@ -431,7 +431,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1c9vz84_v9iX2Wk3Dagz6Ek7SZSpUiz5f8Xfbq2gD7y8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Avatar - Frontiers of Pandora"
+        "title": "QuadStick public configuration catalog — Avatar - Frontiers of Pandora"
       },
       "artwork": {
         "kind": "generated",
@@ -456,7 +456,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1JbWzWfFS2PUDTub6HubE7g92A3BPififiOBgOAlUdTE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Baldurs Gate 3"
+        "title": "QuadStick public configuration catalog — Baldur's Gate 3"
       },
       "metadata": {
         "steam": {
@@ -508,7 +508,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1FR4vZQKxkJmP4Us-DWljjs19xrzc_cQWsCdzTdt61FU/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Batman Arkham City"
+        "title": "QuadStick public configuration catalog — Batman Arkham City"
       },
       "artwork": {
         "kind": "generated",
@@ -520,9 +520,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "batman-arkham-knight-v",
+      "id": "batman-arkham-knight",
       "kind": "game",
-      "name": "Batman Arkham Knight v",
+      "name": "Batman Arkham Knight",
       "aliases": [],
       "categories": [
         "gaming"
@@ -533,12 +533,12 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Sl8nEFG4hnXOsvw3PB-OFNETfBGUq3S8AUM8oGP009o/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Batman Arkham Knight v"
+        "title": "QuadStick public configuration catalog — Batman Arkham Knight"
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/batman-arkham-knight-v.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight-v.svg",
+        "path": "artwork/games/batman-arkham-knight.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -558,7 +558,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1avRnDQFKaYxDyeCy_4zgpHG4sgwEDbxgnZYF2Fn0bdg/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/BattleBit Remastered PC"
+        "title": "QuadStick public configuration catalog — BattleBit Remastered"
       },
       "metadata": {
         "provider": "wikidata",
@@ -628,7 +628,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1flfJtOlE3xmoyouULZSl4HIsbEETRLeufdoIuGu0T64/edit",
-        "title": "QuadStick public configuration catalog — Battlefield PS4"
+        "title": "QuadStick public configuration catalog — Battlefield"
       },
       "metadata": {
         "provider": "wikidata",
@@ -665,7 +665,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1DtlwQonmFcQA_j6mVQnJzG-UjQln7MwbYq4s7AQBiVw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Battlefield 2042 QMP4"
+        "title": "QuadStick public configuration catalog — Battlefield 2042"
       },
       "metadata": {
         "provider": "wikidata",
@@ -731,7 +731,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1h-0w0iTHO4oXhp5SS2XmfuKLZc2uCEF_DW64qkWPsNM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Battlefield 6 x360"
+        "title": "QuadStick public configuration catalog — Battlefield 6"
       },
       "artwork": {
         "kind": "steam",
@@ -780,7 +780,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1qC6MbVyGxbGCEqhAwPuCWwTA3uDdduh3zbEjpvOZSEI/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Battlefield V PC"
+        "title": "QuadStick public configuration catalog — Battlefield V"
       },
       "metadata": {
         "provider": "wikidata",
@@ -844,7 +844,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1IzWBk_Au7t5DmvdXl1SgmRYHl1rlfQxRobcTsKi-lVM/edit",
-        "title": "QuadStick public configuration catalog — BioShock1"
+        "title": "QuadStick public configuration catalog — BioShock"
       },
       "artwork": {
         "kind": "steam",
@@ -944,7 +944,7 @@
       ],
       "source": {
         "url": "https://assets.2k.com/1a6ngf98576c/3a1fmH50QOweeZHmRnu2zS/b676736b4e168987dbcb78934ed6ef01/BORDERLANDS_PC_MANUAL_ENG.pdf",
-        "title": "2K Borderlands PC Manual"
+        "title": "QuadStick public configuration catalog — Borderlands"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1046,7 +1046,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit",
-        "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare XBox One"
+        "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare"
       },
       "artwork": {
         "kind": "generated",
@@ -1071,7 +1071,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Neb8ihhZ2_Pkd_fFTywtnVa6-6NJI6ofdeR4sCBOa8s/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Black Ops 6 - MP/Zombies x360 (QMP4)"
+        "title": "QuadStick public configuration catalog — Call of Duty: Black Ops 6"
       },
       "metadata": {
         "steam": {
@@ -1120,7 +1120,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1obdIB9mXtT3LVMWaylADG3Ay6hh4GPcwZktzCSmBfTY/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD BOCW x360 MP"
+        "title": "QuadStick public configuration catalog — Call of Duty: Black Ops Cold War"
       },
       "metadata": {
         "steam": {
@@ -1169,7 +1169,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1JTCP8MmvQ8bfBzevGQCGZd5FPX5joA-UJ1MJbOTYy_4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare 4 - MP x360 (QMP4)"
+        "title": "QuadStick public configuration catalog — Call of Duty: Modern Warfare"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1228,7 +1228,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1X1Atq6Jerfj4klh8GpyG7dXvgRb-bD4wyZW_sNAh2c4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare II Story x360 (QMP4)"
+        "title": "QuadStick public configuration catalog — Call of Duty: Modern Warfare II"
       },
       "metadata": {
         "steam": {
@@ -1277,7 +1277,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1eSkMSW4EAAjzR_Bisgjj0m-RRPhJ24XMvwDkHDzTZC8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare III - WZ 2.0 x360 (QMP4)"
+        "title": "QuadStick public configuration catalog — Call of Duty: Modern Warfare III"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1341,7 +1341,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1pJ2nN-BChvORwOW7hqFJB9FQHbOKBlMSl8ItPs2OIds/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Chained together"
+        "title": "QuadStick public configuration catalog — Chained together"
       },
       "metadata": {
         "steam": {
@@ -1393,7 +1393,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1vuug3D-TykDBeZsNet1cLpgiIsHqFzV6HJ2Mk_rIfmw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Construction-Simulator"
+        "title": "QuadStick public configuration catalog — Construction-Simulator"
       },
       "metadata": {
         "steam": {
@@ -1443,7 +1443,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1UN9s3MlNWSrDpkH2sniLMEjgHoEOkVvukMSQyOgZFEY/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Control"
+        "title": "QuadStick public configuration catalog — Control"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1480,7 +1480,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/17jvrVGvfI1HnUBzwG7VtXgG4zNl6cFvSXRrY5j3Rzyc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Cooking Simulator"
+        "title": "QuadStick public configuration catalog — Cooking Simulator"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1545,7 +1545,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Counterstrikev2"
+        "title": "QuadStick public configuration catalog — Counter-Strike 2"
       },
       "artwork": {
         "kind": "steam",
@@ -1596,7 +1596,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/169Z5ZDN_tt_Nk-06OB7NVKif-rQdQDlNfFv-J-9ZvlU/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Cyberpunk 2077 PC KO"
+        "title": "QuadStick public configuration catalog — Cyberpunk 2077"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1663,7 +1663,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1EAKy4QzOnqirw99vqmSFOC6VwK-TNTQENPq0KcCibB8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Dead Space Rem x360 (QMP4)"
+        "title": "QuadStick public configuration catalog — Dead Space"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1723,7 +1723,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cDHb5PUQRLySYwuJM0OFSyCAZQixkV6qcYpWDyxY1Uw/edit",
-        "title": "QuadStick public configuration catalog — Deathloop KBM"
+        "title": "QuadStick public configuration catalog — Deathloop"
       },
       "artwork": {
         "kind": "steam",
@@ -1772,7 +1772,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1exH00SUYKmG5ecrh4pk4eLW7IRUQNb5tF-FCZryA40o/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Deep Rock Galactic: Survivor"
+        "title": "QuadStick public configuration catalog — Deep Rock Galactic: Survivor"
       },
       "metadata": {
         "steam": {
@@ -1821,7 +1821,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KoYF9fnW9oe8Dmdg_xFGKT1yTzlniSvhgaCShyQF0Lk/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/DeepRock"
+        "title": "QuadStick public configuration catalog — DeepRock"
       },
       "artwork": {
         "kind": "generated",
@@ -1846,7 +1846,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KwQPwEljy-Pr4hUaojmsI1BVfuJkZUtMF79Ij8wPiog/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Deliver At All Costs"
+        "title": "QuadStick public configuration catalog — Deliver At All Costs"
       },
       "metadata": {
         "provider": "wikidata",
@@ -1912,7 +1912,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cejbrI7y7HyY7H9LVqum6adXiRUbcoiSS18gGGR2YUQ/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Denshattack"
+        "title": "QuadStick public configuration catalog — Denshattack"
       },
       "metadata": {
         "steam": {
@@ -2036,7 +2036,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1koueOeAvLoSw_P6SQnL50G46Vc-KXjdiePo3G_FedDw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Divinity Original Sin II"
+        "title": "QuadStick public configuration catalog — Divinity Original Sin II"
       },
       "artwork": {
         "kind": "generated",
@@ -2061,7 +2061,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/18H90AlTF2gLjoG6H1QYiFnOC5ZaiTWQ0Uc72QLM7IOM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Doom"
+        "title": "QuadStick public configuration catalog — Doom"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2120,7 +2120,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fJY9kqrby3eMNfSWXghyM-_WlN8HxuJhDidV7fPRsQA/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Dragon Quest XI"
+        "title": "QuadStick public configuration catalog — Dragon Quest XI"
       },
       "artwork": {
         "kind": "generated",
@@ -2145,7 +2145,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cjzAsSRdQdt32Ja9h6KDf90lxn_08Qb0n3XuJz1ARa8/edit",
-        "title": "QuadStick public configuration catalog — Elite Dangerous PC"
+        "title": "QuadStick public configuration catalog — Elite Dangerous"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2218,7 +2218,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1jDxHP_SIoWuSiV33EuFAzYJwMPa0PoZyKdreXSS6THU/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Enshrouded"
+        "title": "QuadStick public configuration catalog — Enshrouded"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2287,7 +2287,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ahAn9pJFb_4eRSlsPkB-tQy3pUtOlZbIt8xk0JtzEIA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Eurotruck Simulator 2"
+        "title": "QuadStick public configuration catalog — Eurotruck Simulator 2"
       },
       "metadata": {
         "steam": {
@@ -2339,7 +2339,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/14Wu6gM8SGU8Yd11IQw8RvGLSfcVgRbmhWbxXHZNDyDA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Far Cry 3 PC"
+        "title": "QuadStick public configuration catalog — Far Cry 3"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2538,7 +2538,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1_e_EeCCK1oqTBX0-NzCJq14ccEEFPjgS1LBw0Ifyftg/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Far Cry 6 PC"
+        "title": "QuadStick public configuration catalog — Far Cry 6"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2604,7 +2604,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1H4l1Bn6veSrsSofLhrLY6JCvLoqnwKi2oejWLB6N1l8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Farming Simulator 17"
+        "title": "QuadStick public configuration catalog — Farming Simulator 17"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2669,7 +2669,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
-        "title": "QuadStick public configuration catalog — Steamy Biscuit/Fishing Planet-kb"
+        "title": "QuadStick public configuration catalog — Fishing Planet-kb"
       },
       "artwork": {
         "kind": "generated",
@@ -2694,7 +2694,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nnljEgobdSer46u8tl_sirSDFZJ6MxOfi7BzoLHf8OI/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Flight Simulator 24"
+        "title": "QuadStick public configuration catalog — Flight Simulator 24"
       },
       "artwork": {
         "kind": "generated",
@@ -2780,7 +2780,7 @@
       ],
       "source": {
         "url": "https://www.epicgames.com/help/en-US/fortnite-c75/c118/pc-a3337?lang=en-US",
-        "title": "Fortnite official control settings support"
+        "title": "QuadStick public configuration catalog — Fortnite"
       },
       "metadata": {
         "provider": "wikidata",
@@ -2819,7 +2819,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1-fXz7Uazyok9o5EGzDGS8W__zpGZgwJ5qCJEtm1xTRc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Forza Horizon 4"
+        "title": "QuadStick public configuration catalog — Forza Horizon 4"
       },
       "artwork": {
         "kind": "generated",
@@ -2935,7 +2935,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1REebj5PEBOYgY72BAWqxbluikm04CCL-s_htF0AH9-0/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/FSX/P3D"
+        "title": "QuadStick public configuration catalog — FSX/P3D"
       },
       "artwork": {
         "kind": "generated",
@@ -2960,7 +2960,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1DYEpmgqINMeUBvxCpKxay6Wdr7RK_mENIej7zhs7LLE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Ghost Recon Wildlands"
+        "title": "QuadStick public configuration catalog — Ghost Recon Wildlands"
       },
       "artwork": {
         "kind": "generated",
@@ -3022,7 +3022,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1tG7i4ErITtE3kJ1kR1SoZ22IQtunHY7EHRSQxUrXUeg/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Ghostrunner"
+        "title": "QuadStick public configuration catalog — Ghostrunner"
       },
       "metadata": {
         "provider": "wikidata",
@@ -3118,7 +3118,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1LxeoVUgPcUUplSdqWbyQg6sqfVBoGtT8-5kegkRIqpo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Goat Simulator 3"
+        "title": "QuadStick public configuration catalog — Goat Simulator 3"
       },
       "metadata": {
         "steam": {
@@ -3208,7 +3208,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1VV26NcHVW9-1L3ECM0NlsJ7zH7XjBQ9qA3IyvQABbl4/edit",
-        "title": "QuadStick public configuration catalog — Grand Theft Auto PS4-XBox One"
+        "title": "QuadStick public configuration catalog — Grand Theft Auto"
       },
       "metadata": {
         "provider": "wikidata",
@@ -3245,7 +3245,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1EhNKF-FZqwb01XEF6_elpDEJASjb-QB3QQ-jgZ0nbJ4/edit",
-        "title": "QuadStick public configuration catalog — Grand Theft Auto 5 PC"
+        "title": "QuadStick public configuration catalog — Grand Theft Auto 5"
       },
       "artwork": {
         "kind": "generated",
@@ -3270,7 +3270,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
-        "title": "QuadStick public configuration catalog — GTA V Cheat codes"
+        "title": "QuadStick public configuration catalog — Grand Theft Auto V"
       },
       "artwork": {
         "kind": "generated",
@@ -3295,7 +3295,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nGuH55WN7QiRDbTg2Ovec9f1Vm_0OQm6ASE0iwpzI1U/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA IV"
+        "title": "QuadStick public configuration catalog — GTA IV"
       },
       "artwork": {
         "kind": "generated",
@@ -3320,7 +3320,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1aEzDToS8IrLfdTpFECgtcpSmdG0szkd2djNlVnmiGls/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA V"
+        "title": "QuadStick public configuration catalog — GTA V"
       },
       "artwork": {
         "kind": "generated",
@@ -3345,7 +3345,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1W0Drr2pAvjEfoIyyF83bRYJvbMVoY19ZQXLt0nT2MKc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA V FiveM 2"
+        "title": "QuadStick public configuration catalog — GTA V FiveM 2"
       },
       "artwork": {
         "kind": "generated",
@@ -3370,7 +3370,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1o9FChx_Mz2Vjc-GQM9EWOT6U5K89ocWJFnKECPKPPiY/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA V Redone (FiveM optimized)"
+        "title": "QuadStick public configuration catalog — GTA V Redone (FiveM optimized)"
       },
       "artwork": {
         "kind": "generated",
@@ -3497,7 +3497,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Helldivers II"
+        "title": "QuadStick public configuration catalog — Helldivers II"
       },
       "artwork": {
         "kind": "generated",
@@ -3522,7 +3522,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1kT3z3T4FKAM_TWb3EfuOToryGUtdNkf0Z9iY_-DwLUE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/High on Life PC"
+        "title": "QuadStick public configuration catalog — High on Life"
       },
       "metadata": {
         "provider": "wikidata",
@@ -3584,7 +3584,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1mvv_0ugmjygvsVQzj00uvAuy3loJIrybIZBNXIe2fK4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Hogwarts Legacy"
+        "title": "QuadStick public configuration catalog — Hogwarts Legacy"
       },
       "metadata": {
         "steam": {
@@ -3635,7 +3635,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1hhc_QZ17rB2V01hXQ6jBQ81bFuvmoF958-wE2wjHHyM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Horizon Zero Dawn"
+        "title": "QuadStick public configuration catalog — Horizon Zero Dawn"
       },
       "artwork": {
         "kind": "generated",
@@ -3660,7 +3660,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1bWHewoqFhR5UbttJAw4rFexc_Ah4zAymVnJZM3hBIM0/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Hunt: Showdown"
+        "title": "QuadStick public configuration catalog — Hunt: Showdown"
       },
       "artwork": {
         "kind": "generated",
@@ -3685,7 +3685,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1_-9k7oBiZsGGMNTL85rE8onTY196Mihv3atKOO3uh3o/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Hytale"
+        "title": "QuadStick public configuration catalog — Hytale"
       },
       "metadata": {
         "provider": "wikidata",
@@ -3730,7 +3730,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/13plpK5hQjUYomSLeXn7uzQKoGDiGgFDsDdExmX-PbuM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Indiana Jones and the Great Circle"
+        "title": "QuadStick public configuration catalog — Indiana Jones and the Great Circle"
       },
       "metadata": {
         "provider": "wikidata",
@@ -3795,7 +3795,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nFfFBJ9xgPqu5MB4OhC-Al2fVHNVT4TUBszzwdiqQCQ/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/It takes two"
+        "title": "QuadStick public configuration catalog — It takes two"
       },
       "metadata": {
         "steam": {
@@ -3905,7 +3905,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1MFjqTjF4Y32pCIhECkEre-gPgaXLtg3_wzGOK6RgMqw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Just Cause 2"
+        "title": "QuadStick public configuration catalog — Just Cause 2"
       },
       "metadata": {
         "provider": "wikidata",
@@ -3970,7 +3970,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fWSvI0yr9nfWafsMFoNLgKoy3hUaiAXrOEM1AAs5z40/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Kingdom Come Deliverance II"
+        "title": "QuadStick public configuration catalog — Kingdom Come Deliverance II"
       },
       "metadata": {
         "steam": {
@@ -4021,7 +4021,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Copy of LOL"
+        "title": "QuadStick public configuration catalog — League of Legends"
       },
       "artwork": {
         "kind": "generated",
@@ -4046,7 +4046,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cxHQSWFEsKnOqvL0ZKc8OUKGKR9TOsiWnMAbP8iGuV4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Lego Fortnite"
+        "title": "QuadStick public configuration catalog — LEGO Fortnite"
       },
       "artwork": {
         "kind": "generated",
@@ -4071,7 +4071,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1-CzP9i-T9z6YvoKVLa7PafmshB6JrkiSsLR_Ph__vP8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Lethal Company"
+        "title": "QuadStick public configuration catalog — Lethal Company"
       },
       "metadata": {
         "steam": {
@@ -4160,7 +4160,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/LOL"
+        "title": "QuadStick public configuration catalog — LOL"
       },
       "metadata": {
         "provider": "wikidata",
@@ -4236,7 +4236,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Gardians of the Galaxy BETA"
+        "title": "QuadStick public configuration catalog — Marvel's Guardians of the Galaxy"
       },
       "artwork": {
         "kind": "steam",
@@ -4411,7 +4411,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1j9ud1kPYXCsY6DrM5ZMMKA1gURUfXLP-r8XOBAE_4zI/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Max Payne 3"
+        "title": "QuadStick public configuration catalog — Max Payne 3"
       },
       "metadata": {
         "provider": "wikidata",
@@ -4477,7 +4477,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nMMkPHaEJ92uMN8kKmKy3-SFIg8KOCBbRFbCIurLYQE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Metal Gear Snake Eater"
+        "title": "QuadStick public configuration catalog — Metal Gear Snake Eater"
       },
       "artwork": {
         "kind": "generated",
@@ -4502,7 +4502,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Copy of Flight Simulator 20"
+        "title": "QuadStick public configuration catalog — Microsoft Flight Simulator"
       },
       "artwork": {
         "kind": "generated",
@@ -4594,7 +4594,7 @@
       ],
       "source": {
         "url": "https://www.minecraft.net/en-us/article/minecraft-controls",
-        "title": "Minecraft Controls"
+        "title": "QuadStick public configuration catalog — Minecraft"
       },
       "controls": [
         {
@@ -4754,7 +4754,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1LOEaUmdGfa-eQUuc7vLhCQkXRDZFXIo0JcKPCm4MEYY/edit",
-        "title": "QuadStick public configuration catalog — MLB13"
+        "title": "QuadStick public configuration catalog — MLB 13: The Show"
       },
       "artwork": {
         "kind": "generated",
@@ -4779,7 +4779,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KAlwXwUDLDZBJdDMx06HrVbtfATt-6dGPZ2JuFIPSyo/edit",
-        "title": "QuadStick public configuration catalog — MX vs ATV Supercross Encore - Steam"
+        "title": "QuadStick public configuration catalog — MX vs ATV Supercross Encore"
       },
       "artwork": {
         "kind": "steam",
@@ -4830,7 +4830,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Uc2IR9Em5cAySG8K1quFcYKzZek9MsgnqzGlcGOL0WQ/edit",
-        "title": "QuadStick public configuration catalog — MX vs ATV Unleashed - Steam"
+        "title": "QuadStick public configuration catalog — MX vs ATV Unleashed"
       },
       "artwork": {
         "kind": "steam",
@@ -4880,7 +4880,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1D7Fv9lzpiWvTRFiTHiMZU0Fo8Yg1Q7Caud_6qEZTmiU/edit",
-        "title": "QuadStick public configuration catalog — NBA 2K PS4"
+        "title": "QuadStick public configuration catalog — NBA 2K"
       },
       "metadata": {
         "provider": "wikidata",
@@ -4917,7 +4917,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/18JLSBlnmrpy0Z-o2ADCDmIwjXNhz-flX9-wq3tdVjFc/edit",
-        "title": "QuadStick public configuration catalog — NBA2k15 PC"
+        "title": "QuadStick public configuration catalog — NBA 2K15"
       },
       "artwork": {
         "kind": "generated",
@@ -4942,7 +4942,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1tzBf62nX51i4lfui-Yk-Ep7qUjh3gcx8KLUPjwRt5WI/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Need for Speed - Heat"
+        "title": "QuadStick public configuration catalog — Need for Speed - Heat"
       },
       "artwork": {
         "kind": "generated",
@@ -4967,7 +4967,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/PS2 Need for Speed Carbon (QMP4)"
+        "title": "QuadStick public configuration catalog — Need for Speed: Carbon"
       },
       "artwork": {
         "kind": "generated",
@@ -4992,7 +4992,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fyEffI1NS0xQKTO1cibLJ5F9JqAO9o_-1u8ePhRnsd8/edit",
-        "title": "QuadStick public configuration catalog — Ori and the Blind Forest - XBox One"
+        "title": "QuadStick public configuration catalog — Ori and the Blind Forest -"
       },
       "artwork": {
         "kind": "generated",
@@ -5042,7 +5042,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1CgvoZXE67qvRp6gXd4Pnw8sOIVajQDo4CBi4nGvS-7M/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Path of Exile II x360"
+        "title": "QuadStick public configuration catalog — Path of Exile 2"
       },
       "artwork": {
         "kind": "steam",
@@ -5095,7 +5095,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1a9eyYBfPF4KGqkeyGS-bIY01DAkfQU7oHDHjAYiGMuo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Payday 2"
+        "title": "QuadStick public configuration catalog — Payday 2"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5161,7 +5161,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1iQEMlou7q3lAyXs8GqC-d8UspKrmiJefQnemGXhVjuQ/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Payday 3"
+        "title": "QuadStick public configuration catalog — Payday 3"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5227,7 +5227,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1vxvq4q0VN6GB4PIYG9g5TL4ntmB0Jfvp_nPFMf87rOA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/PlanetSide 2"
+        "title": "QuadStick public configuration catalog — PlanetSide 2"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5293,7 +5293,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Z9N0bPvsG24jg6h3wsrs4ps9xpJzgKKMjxbMeTkJ1s4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Police Simulator: Patrol Officers PC"
+        "title": "QuadStick public configuration catalog — Police Simulator: Patrol Officers"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5408,7 +5408,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/16iyqEcHa-2ocCqdTnrzyC6zp64WT3wcF_PeH0IBK8AY/edit",
-        "title": "QuadStick public configuration catalog — Portal2 for XBox USB-A"
+        "title": "QuadStick public configuration catalog — Portal2 for"
       },
       "artwork": {
         "kind": "generated",
@@ -5433,7 +5433,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
-        "title": "QuadStick public configuration catalog — Project Cars PC"
+        "title": "QuadStick public configuration catalog — Project Cars"
       },
       "artwork": {
         "kind": "generated",
@@ -5458,7 +5458,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1GnMWGnnOgdA0KjMzzfzYdMYZu0sA5T160vtvsAB5atc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Raft"
+        "title": "QuadStick public configuration catalog — Raft"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5610,7 +5610,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Wz4ft6QSMIgLzI2d_e-IKv3nKv3v-ljFTiLL1sG4EAg/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Red Dead Redemption II PS5"
+        "title": "QuadStick public configuration catalog — Red Dead Redemption 2"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5674,7 +5674,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1rPul7lBH6xX-DwGFI6ek2ZCzkmAeAHlGabI8KHI1CdY/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Red Dead Redemption II - RedM"
+        "title": "QuadStick public configuration catalog — Red Dead Redemption II - RedM"
       },
       "artwork": {
         "kind": "generated",
@@ -5699,7 +5699,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ItVcDPCnx2u7gjayvsKXezxFAtLOcX6QHdQYRwPyGcg/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Return of the Obra Dinn"
+        "title": "QuadStick public configuration catalog — Return of the Obra Dinn"
       },
       "metadata": {
         "provider": "wikidata",
@@ -5767,7 +5767,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Fbt4mCdJzMYwdO09o9Mv3suQDNQ8kAMfvxaY1QMHQJ0/edit",
-        "title": "QuadStick public configuration catalog — Rocket League X360CE"
+        "title": "QuadStick public configuration catalog — Rocket League"
       },
       "artwork": {
         "kind": "generated",
@@ -5792,7 +5792,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1TYt6AkPdCEFPAV1qVGYTKcWIQrq6lASYBhMh9kHiN9o/edit",
-        "title": "QuadStick public configuration catalog — RockyNoHands Fortnite PS4"
+        "title": "QuadStick public configuration catalog — RockyNoHands Fortnite"
       },
       "artwork": {
         "kind": "generated",
@@ -5817,7 +5817,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
-        "title": "QuadStick public configuration catalog — RockyNoHands PUBG PC"
+        "title": "QuadStick public configuration catalog — RockyNoHands PUBG"
       },
       "artwork": {
         "kind": "generated",
@@ -5842,7 +5842,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1raPi-3ezaWA5bLGWdJyzcWFkoayaAbPdt45pf3p2saA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Satisfactory"
+        "title": "QuadStick public configuration catalog — Satisfactory"
       },
       "metadata": {
         "steam": {
@@ -5894,7 +5894,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1gjB0ywmx9cuHd63rHTSYs9XmssmK4oSxMbxNtCpTxsM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Schedule I"
+        "title": "QuadStick public configuration catalog — Schedule I"
       },
       "metadata": {
         "steam": {
@@ -5984,7 +5984,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1EcG67yp8_PxZE-V4RMFMninY0G43Wlal4TyM-c-S_Ok/edit",
-        "title": "QuadStick public configuration catalog — Shadow of Mordor PC"
+        "title": "QuadStick public configuration catalog — Shadow of Mordor"
       },
       "artwork": {
         "kind": "generated",
@@ -6009,7 +6009,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1z0ql9pCrIRbvj0fDUARduvfMYbwknoUt4gZHEK92mg0/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Shadow Warrior 3"
+        "title": "QuadStick public configuration catalog — Shadow Warrior 3"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6051,7 +6051,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Bgo68cyJWQS3Gfr94eVCE8uoRd7rEV3HNqyR-pPpSI8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/ShatterlinePC"
+        "title": "QuadStick public configuration catalog — ShatterlinePC"
       },
       "artwork": {
         "kind": "generated",
@@ -6076,7 +6076,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1pyy8RCtgsqcKaxcz8JdlzeRQH_RlRSq_HrTxQxYrYsk/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Six Days In Fallujah"
+        "title": "QuadStick public configuration catalog — Six Days In Fallujah"
       },
       "metadata": {
         "steam": {
@@ -6126,7 +6126,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1dCGn3KGnVFqzVX7QF2SMuNkXQTkt6s1iD3WoChu1nQk/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/skate."
+        "title": "QuadStick public configuration catalog — Skate"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6225,7 +6225,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1P3mRIdjE5D3DNkRiahIXTO7nrHZyAMvL-ngkSP7PTZ4/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 3"
+        "title": "QuadStick public configuration catalog — Sniper Elite 3"
       },
       "metadata": {
         "steam": {
@@ -6275,7 +6275,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1a_boZsd3AQh14pvqIJEgl1bptZamFMiuNcDobNV_WRE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 4"
+        "title": "QuadStick public configuration catalog — Sniper Elite 4"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6342,7 +6342,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/104YnqX1wboP9EIrzun4HBmZBdMkqg8JgUGAhN_i_lzY/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 5"
+        "title": "QuadStick public configuration catalog — Sniper Elite 5"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6410,7 +6410,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KsfIAu-nZf_cBJptGG2lZcuIKFK_b4M6uQ-hiLp4dNU/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Ghost Warrior 2"
+        "title": "QuadStick public configuration catalog — Sniper Ghost Warrior 2"
       },
       "metadata": {
         "steam": {
@@ -6459,7 +6459,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1GpU47j5Oa68IGLtEvZlZi64ZLk4ff_ySZIorRuOB5Jk/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Spindle"
+        "title": "QuadStick public configuration catalog — Spindle"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6523,7 +6523,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nYEp6ue5_LbdQfuWtZ7KEc7lUO9DI1SGZDE4Fexd2zY/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Split Fiction"
+        "title": "QuadStick public configuration catalog — Split Fiction"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6588,7 +6588,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ItLzZubgqt3t6Ja4H-4V9bJZCM0SmG_7CZmFojoBrsA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Splitgate (betatest) x360"
+        "title": "QuadStick public configuration catalog — Splitgate"
       },
       "artwork": {
         "kind": "steam",
@@ -6640,7 +6640,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fFYwT32xukGVdq9CTnL_Sv4zB1a-zMZqgi34s3EGVFY/edit",
-        "title": "QuadStick public configuration catalog — Star Wars Battlefront PC"
+        "title": "QuadStick public configuration catalog — Star Wars Battlefront"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6786,7 +6786,7 @@
       ],
       "source": {
         "url": "https://www.ea.com/able/resources/star-wars/jedi-fallen-order/pc/text-manual",
-        "title": "Star Wars Jedi: Fallen Order PC Text Manual"
+        "title": "QuadStick public configuration catalog — Star Wars Jedi: Fallen Order"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6853,7 +6853,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/StarCitizen"
+        "title": "QuadStick public configuration catalog — StarCitizen"
       },
       "artwork": {
         "kind": "generated",
@@ -6903,7 +6903,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1RQHLLmiQbU5V35Vybfkj4JKcXSVMTC0D6LwkiNg2c1A/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Starfield"
+        "title": "QuadStick public configuration catalog — Starfield"
       },
       "metadata": {
         "provider": "wikidata",
@@ -6987,7 +6987,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1PPRpvCOOLHu93RdLa5dyWMk3XGTZecDDBC9bW0TYisE/edit",
-        "title": "QuadStick public configuration catalog — Super Mario Odyssey Nintendo Switch"
+        "title": "QuadStick public configuration catalog — Super Mario Odyssey"
       },
       "artwork": {
         "kind": "generated",
@@ -7049,7 +7049,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Wuw6JOyKBHtRdQlafGWFMtRw9Ze_vUK098rTN73qTLo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/the Finals"
+        "title": "QuadStick public configuration catalog — THE FINALS"
       },
       "metadata": {
         "steam": {
@@ -7099,7 +7099,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1h7rR7if8nedFt6hOrAw83rGHpdqjClgExActZGrSAoo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/The Last of Us"
+        "title": "QuadStick public configuration catalog — The Last of Us"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7136,7 +7136,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/195oQ56RWrCN6UIyWCcOluT0kcUojij3Hv8aSO-vkM5I/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/The Last of Us Part II"
+        "title": "QuadStick public configuration catalog — The Last of Us Part II"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7198,7 +7198,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1lVd4H23afFmXZdvVnCRK65CHagIfJes7P4H4TzsCSkM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Zelda Breath of the Wild"
+        "title": "QuadStick public configuration catalog — The Legend of Zelda: Breath of the Wild"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7241,7 +7241,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1wj5D5UdQ_bEA1d1k-SKwPDm8sPmYUXMHmgdLAGtTqlQ/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Witcher III PC"
+        "title": "QuadStick public configuration catalog — The Witcher 3: Wild Hunt"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7284,7 +7284,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1a5TmCr6TaVpMZAfPG1yOjtfwZ0lxgGqPMUxFm6Hrmiw/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/theHunter CotW"
+        "title": "QuadStick public configuration catalog — theHunter: Call of the Wild"
       },
       "metadata": {
         "steam": {
@@ -7335,7 +7335,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1e-A7_8lt2SYfSt-WtTZ3AeIuZoo9PtpYtPaIbRP_3Nc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Tiny Tinas Wonderlands"
+        "title": "QuadStick public configuration catalog — Tiny Tina's Wonderlands"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7403,7 +7403,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/11COcj9LSFmCyvZW68WKqxT68_EtPQRnuMSl-unn04ok/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Titanfall 2"
+        "title": "QuadStick public configuration catalog — Titanfall 2"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7467,7 +7467,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 1"
+        "title": "QuadStick public configuration catalog — Tomb Raider 1"
       },
       "artwork": {
         "kind": "generated",
@@ -7492,7 +7492,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1HTw9r3V8RGUVHxMxo7_XbTe52N586cVys4TJDnGszbQ/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 2 - Rise of the Tomb Raider"
+        "title": "QuadStick public configuration catalog — Tomb Raider 2 - Rise of the Tomb Raider"
       },
       "artwork": {
         "kind": "generated",
@@ -7517,7 +7517,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1wElQ_s-7YjNTYch0Zgr2UqcCHp1VtXc7TwDZbvKw7eo/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 3 - Shadow of the Tomb Raider"
+        "title": "QuadStick public configuration catalog — Tomb Raider 3 - Shadow of the Tomb Raider"
       },
       "artwork": {
         "kind": "generated",
@@ -7542,7 +7542,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1YERuZoXEhwrnpFwem8l5BtEurnfpPv1JFp7IGL76tos/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Tony Hawk"
+        "title": "QuadStick public configuration catalog — Tony Hawk"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7579,7 +7579,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KxeZdoIX-iQIlNPFCJPjzphZ0fp4zaOX921gX_AilXE/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Trepang 2"
+        "title": "QuadStick public configuration catalog — Trepang 2"
       },
       "metadata": {
         "steam": {
@@ -7629,7 +7629,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1GKpBkxmMTNZhEQJ0ksnNbaa5m6r5DO1DRrCJCkaQ83Q/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Tunic"
+        "title": "QuadStick public configuration catalog — Tunic"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7755,7 +7755,7 @@
       ],
       "source": {
         "url": "https://valheim.com/",
-        "title": "Valheim official site"
+        "title": "QuadStick public configuration catalog — Valheim"
       },
       "metadata": {
         "provider": "wikidata",
@@ -7819,7 +7819,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1UtCK_yeJdrcU32kI70HVLqyw4eiCUsOloHrHGAamO08/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Warhammer 40k - Darktide"
+        "title": "QuadStick public configuration catalog — Warhammer 40,000: Darktide"
       },
       "metadata": {
         "steam": {
@@ -7870,7 +7870,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1kvbvy13xe6Ist6xC2_9UCGZRr-BCGIbcdia-ERymFeI/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Warhammer 40k - Space Marine 2"
+        "title": "QuadStick public configuration catalog — Warhammer 40,000: Space Marine 2"
       },
       "metadata": {
         "steam": {
@@ -7921,7 +7921,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1rMbrrEhgRtdzp7tGETVVuF5iRriWIvA-zzaYnM97OPc/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/Way of the Hunter"
+        "title": "QuadStick public configuration catalog — Way of the Hunter"
       },
       "metadata": {
         "provider": "wikidata",
@@ -8116,7 +8116,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
-        "title": "QuadStick public configuration catalog — Dan NH/Copy of World of Warcraft"
+        "title": "QuadStick public configuration catalog — World of Warcraft"
       },
       "artwork": {
         "kind": "generated",
@@ -8141,7 +8141,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1TgkBFb_ZTvwcDaKHZ8XiglspZAK4Nd8ZxQr6hKUcAwc/edit",
-        "title": "QuadStick public configuration catalog — Heiko/World of Warship PC"
+        "title": "QuadStick public configuration catalog — World of Warships"
       },
       "artwork": {
         "kind": "steam",
@@ -8194,7 +8194,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1eDKxfLRtNOl7iZ00j5yGAiSY22JTfo-LGWpje_dSnqA/edit",
-        "title": "QuadStick public configuration catalog — Silas P. (PC)/XDefiant x360 (QMP4)"
+        "title": "QuadStick public configuration catalog — XDefiant"
       },
       "metadata": {
         "provider": "wikidata",
@@ -8786,11 +8786,11 @@
     {
       "schemaVersion": 2,
       "id": "dan-nh-batman-arkham-knight-v-playstation-quadstick-fps-profile",
-      "title": "Batman Arkham Knight v — profile",
+      "title": "Batman Arkham Knight — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "batman-arkham-knight-v"
+        "id": "batman-arkham-knight"
       },
       "platform": "playstation",
       "deviceId": "quadstick-fps",

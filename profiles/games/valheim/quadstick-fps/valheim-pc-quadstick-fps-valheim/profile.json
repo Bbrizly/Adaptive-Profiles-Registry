@@ -1,1 +1,33 @@
-{"schemaVersion":2,"id":"valheim-pc-quadstick-fps-valheim","title":"Valheim — Valheim","description":"Publicly shared QuadStick configuration for Valheim on PC. The reviewed CSV is preserved without inferred semantic mappings.","target":{"kind":"game","id":"valheim"},"platform":"pc","deviceId":"quadstick-fps","semanticStatus":"unmapped","mappings":[],"tags":["community","google-sheet","unmapped"],"contributor":{"displayName":"Unknown contributor"},"source":{"type":"google-sheet","url":"https://docs.google.com/spreadsheets/d/1nRdigjn5Wyb4lMAvoruIVc5A8vw1G8va3MEyGT6NvC8/edit"},"snapshot":{"file":"profile.csv","sha256":"276b4c0f191a85cbd0ee92b9cb1c76588723c6fc7cee4c50757665644abe48d4"},"revision":1,"createdAt":"2026-09-18","updatedAt":"2026-09-18"}
+{
+  "schemaVersion": 2,
+  "id": "valheim-pc-quadstick-fps-valheim",
+  "title": "Valheim — Valheim",
+  "description": "Publicly shared QuadStick configuration for Valheim on PC. The reviewed CSV is preserved without inferred semantic mappings.",
+  "target": {
+    "kind": "game",
+    "id": "valheim"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "google-sheet",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1nRdigjn5Wyb4lMAvoruIVc5A8vw1G8va3MEyGT6NvC8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "276b4c0f191a85cbd0ee92b9cb1c76588723c6fc7cee4c50757665644abe48d4"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

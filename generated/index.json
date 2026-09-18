@@ -2,20 +2,6 @@
   "schemaVersion": 1,
   "games": [
     {
-      "id": "8bitdo-lite-se",
-      "name": "8BitDo Lite SE",
-      "aliases": [],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1uNuoEx8lByuxlYAg0obPA4TqC4BZUlYvI-ZAI4xiW8w/edit",
-        "title": "QuadStick public configuration catalog — 8BitDo Lite SE"
-      },
-      "controls": []
-    },
-    {
       "id": "assassin-39-s-creed",
       "name": "Assassin&#39;s Creed",
       "aliases": [],
@@ -288,20 +274,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1z-Oeg_swPyB_zCjG8_qCzZoKZ-hN8GKqM3C7k3ltzns/edit",
         "title": "QuadStick public configuration catalog — Devil May Cry"
-      },
-      "controls": []
-    },
-    {
-      "id": "dual-shock-3",
-      "name": "Dual Shock 3",
-      "aliases": [],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1wpEKfasdEPPDuDsZXsNli3D7zMMB5iA_l9KmCkzp5W4/edit",
-        "title": "QuadStick public configuration catalog — Dual Shock 3"
       },
       "controls": []
     },
@@ -702,20 +674,6 @@
       "controls": []
     },
     {
-      "id": "mayflash-fightstick-f300",
-      "name": "Mayflash FightStick F300",
-      "aliases": [],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1fdlx28uwnpgLirJKA7un-8jDe5wHgpHfWhfYGzKgIPA/edit",
-        "title": "QuadStick public configuration catalog — Mayflash FightStick F300"
-      },
-      "controls": []
-    },
-    {
       "id": "minecraft",
       "name": "Minecraft",
       "aliases": [
@@ -933,62 +891,6 @@
       "controls": []
     },
     {
-      "id": "mouse2-no-flash",
-      "name": "Mouse2 no Flash",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1Oqv20msON79a9srqaEK_Bq4XAGKjzVF9uMcA8b6if0o/edit",
-        "title": "QuadStick public configuration catalog — Mouse2 no Flash"
-      },
-      "controls": []
-    },
-    {
-      "id": "mouse2-no-flash-usb-a",
-      "name": "Mouse2 no Flash - USB A",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1d4wToBa1davqtN95zdSTAzVxMwzHGgL7Htk24lLATE4/edit",
-        "title": "QuadStick public configuration catalog — Mouse2 no Flash - USB A"
-      },
-      "controls": []
-    },
-    {
-      "id": "mouse2-with-flash",
-      "name": "Mouse2 with Flash",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1dlSyxPjmEn4T0XojBWeLk3vYMkUdmHoW-ALUKjlKcfo/edit",
-        "title": "QuadStick public configuration catalog — Mouse2 with Flash"
-      },
-      "controls": []
-    },
-    {
-      "id": "mouse2-with-flash-usb-a",
-      "name": "Mouse2 with Flash USB-A",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1OEgaQZUW5mC1BQCOQQl17UwQ4yVocFi1V7nmY3cVPgY/edit",
-        "title": "QuadStick public configuration catalog — Mouse2 with Flash USB-A"
-      },
-      "controls": []
-    },
-    {
       "id": "mx-vs-atv-supercross-encore-steam",
       "name": "MX vs ATV Supercross Encore - Steam",
       "aliases": [],
@@ -1041,20 +943,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/18JLSBlnmrpy0Z-o2ADCDmIwjXNhz-flX9-wq3tdVjFc/edit",
         "title": "QuadStick public configuration catalog — NBA2k15 PC"
-      },
-      "controls": []
-    },
-    {
-      "id": "nintendo",
-      "name": "Nintendo",
-      "aliases": [],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1MOCYvz1GRbG7an1-VUUt6l-Snf2zJDis4jA-nnzbdX4/edit",
-        "title": "QuadStick public configuration catalog — Nintendo Switch Motion Controls"
       },
       "controls": []
     },
@@ -1129,20 +1017,6 @@
       "controls": []
     },
     {
-      "id": "ps4-with-touchpad-for-mac",
-      "name": "PS4 with TouchPad for Mac",
-      "aliases": [],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1i9kv7tuBEiuI-ZqLyjeVfMaoujldw_4sauPu0eQxSUA/edit",
-        "title": "QuadStick public configuration catalog — PS4 with TouchPad for Mac"
-      },
-      "controls": []
-    },
-    {
       "id": "red-dead-redemption",
       "name": "Red Dead Redemption",
       "aliases": [],
@@ -1209,20 +1083,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
         "title": "QuadStick public configuration catalog — RockyNoHands PUBG PC"
-      },
-      "controls": []
-    },
-    {
-      "id": "samsung-tv",
-      "name": "Samsung TV",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1Xp0LB9CzaX1QpEN5hMXcgrVq5yZ6kuphNt7STqasUMo/edit",
-        "title": "QuadStick public configuration catalog — Samsung TV"
       },
       "controls": []
     },
@@ -2964,34 +2824,6 @@
       "controls": []
     },
     {
-      "id": "singleton-flash",
-      "name": "Singleton - Flash",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1mU_nIGXsw1TLaYtnR8lrIhPAEKEBIGQFhzHYYgUlNYU/edit",
-        "title": "QuadStick public configuration catalog — Singleton - Flash"
-      },
-      "controls": []
-    },
-    {
-      "id": "singleton-wasd",
-      "name": "Singleton WASD",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1vClXTMVGOTQ4TVhtRewkTdiQpdi4HXgfLX_SP6Cmc10/edit",
-        "title": "QuadStick public configuration catalog — Singleton WASD"
-      },
-      "controls": []
-    },
-    {
       "id": "sleeping",
       "name": "Sleeping",
       "aliases": [],
@@ -3002,20 +2834,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/199VMHYy_iDW8tEP6jhvcyyK3EefdMlC3S2TEHe2nUkE/edit",
         "title": "QuadStick public configuration catalog — Sleeping"
-      },
-      "controls": []
-    },
-    {
-      "id": "sony-strdn1040",
-      "name": "Sony STRDN1040",
-      "aliases": [],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1Nb_a_GkBEQbGF_y9bTO2rDLlrFvPjDpWoUhfKH9S0ZQ/edit",
-        "title": "QuadStick public configuration catalog — Sony STRDN1040"
       },
       "controls": []
     },
@@ -3204,34 +3022,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit",
         "title": "QuadStick public configuration catalog — The Last of Us PS3"
-      },
-      "controls": []
-    },
-    {
-      "id": "usb-a",
-      "name": "USB A",
-      "aliases": [],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1ucHEZBA2fNWbsbhDyO2yBXb2TZ5iIXDa2w_xxwLSG7c/edit",
-        "title": "QuadStick public configuration catalog — USB A"
-      },
-      "controls": []
-    },
-    {
-      "id": "usb-host",
-      "name": "USB Host",
-      "aliases": [],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1qJO9kDN506ybIou3GvTvZgdnfg1u55KgG4opcEwXD1w/edit",
-        "title": "QuadStick public configuration catalog — USB Host XBox Adaptive Joystick tester"
       },
       "controls": []
     },
@@ -3451,35 +3241,6 @@
     }
   ],
   "profiles": [
-    {
-      "schemaVersion": 1,
-      "id": "8bitdo-lite-se-xbox-quadstick-fps-8bitdose",
-      "title": "8BitDo Lite SE — 8BitDoSE",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "8bitdo-lite-se",
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1uNuoEx8lByuxlYAg0obPA4TqC4BZUlYvI-ZAI4xiW8w/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "f8f8e9e2b4494cb88aa7d8562fc0ba137883e18a841f041ddc53bc87ec5d73af"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
     {
       "schemaVersion": 1,
       "id": "assassin-39-s-creed-pc-quadstick-fps-profile",
@@ -4028,35 +3789,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "30a5b5b7234caeef7e1feead8cfb699fdc12e5a4b1e6d602a1bdb40fbccc7f63"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "dual-shock-3-playstation-quadstick-fps-profile",
-      "title": "Dual Shock 3 — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "dual-shock-3",
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1wpEKfasdEPPDuDsZXsNli3D7zMMB5iA_l9KmCkzp5W4/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "d8c638fb6552c27fd9f04209fefe0ba74d06450b0776f1e99c8712fbb19271c3"
       },
       "createdAt": "2026-09-18",
       "updatedAt": "2026-09-18"
@@ -4788,35 +4520,6 @@
     },
     {
       "schemaVersion": 1,
-      "id": "mayflash-fightstick-f300-playstation-quadstick-fps-mayflash",
-      "title": "Mayflash FightStick F300 — Mayflash",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "mayflash-fightstick-f300",
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1fdlx28uwnpgLirJKA7un-8jDe5wHgpHfWhfYGzKgIPA/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "0449439f023420f6015944a2c5d55e3bddf906f0f2af34b6bac55c78eefcd772"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
       "id": "minecraft-pc-quadstick-fps-2-minecraft",
       "title": "Minecraft — 2.Minecraft",
       "description": "Publicly shared QuadStick configuration for Minecraft on PC. The reviewed CSV is preserved; semantic actions remain unmapped because the source sheet is a raw QMP export.",
@@ -4898,122 +4601,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "3e029f26b98f0007023ef02ea95fc3eca10cc1847f55a0ac5c774226491ff308"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "mouse2-no-flash-usb-a-pc-quadstick-fps-profile",
-      "title": "Mouse2 no Flash - USB A — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "mouse2-no-flash-usb-a",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1d4wToBa1davqtN95zdSTAzVxMwzHGgL7Htk24lLATE4/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "97178ffcd32698d3b75a4d65065cb91f7b1d59aca51f61793b67be64b68c734a"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "mouse2-no-flash-pc-quadstick-fps-profile",
-      "title": "Mouse2 no Flash — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "mouse2-no-flash",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Oqv20msON79a9srqaEK_Bq4XAGKjzVF9uMcA8b6if0o/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "e7c414959237058aece2c2e2196f0cf9d718e34adfc52baaa8f5a49a8425d877"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "mouse2-with-flash-pc-quadstick-fps-profile",
-      "title": "Mouse2 with Flash — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "mouse2-with-flash",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1dlSyxPjmEn4T0XojBWeLk3vYMkUdmHoW-ALUKjlKcfo/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "528701dca0184c0d487801a2005e61812b5333f9fa7fa9f4da23a3dbc5a00eb9"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "mouse2-with-flash-usb-a-pc-quadstick-fps-profile",
-      "title": "Mouse2 with Flash USB-A — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "mouse2-with-flash-usb-a",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1OEgaQZUW5mC1BQCOQQl17UwQ4yVocFi1V7nmY3cVPgY/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "6c15692680d30b6dad2aa0302f0d5ee6443d467fcecf9e637d02d9a952fbd070"
       },
       "createdAt": "2026-09-18",
       "updatedAt": "2026-09-18"
@@ -5130,64 +4717,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "0b0e40b5c74e0ac91e89e44d306ee41a1de182b8221e9f268227e5251b699dae"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "nintendo-xbox-quadstick-fps-profile",
-      "title": "Nintendo — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "nintendo",
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1dEzAnsfWepMu1huXhympfq2yXbBVLNotE3oYLFsE9qc/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "876839d8c14d0a1c44e6ebd4d942decfc0a01912594f9f27d1e178b0ae298f8c"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "nintendo-xbox-quadstick-fps-profile-146d13b7",
-      "title": "Nintendo — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "nintendo",
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1MOCYvz1GRbG7an1-VUUt6l-Snf2zJDis4jA-nnzbdX4/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "146d13b7920fb719374dab571126d174ddd9b8398fdfa8fccf84ad36aa4becd7"
       },
       "createdAt": "2026-09-18",
       "updatedAt": "2026-09-18"
@@ -5339,35 +4868,6 @@
     },
     {
       "schemaVersion": 1,
-      "id": "ps4-with-touchpad-for-mac-playstation-quadstick-fps-profile",
-      "title": "PS4 with TouchPad for Mac — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "ps4-with-touchpad-for-mac",
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1i9kv7tuBEiuI-ZqLyjeVfMaoujldw_4sauPu0eQxSUA/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "4fa5820372ddf7078667d8423efed3cf65c533db1c92f58978d050eab41cdf38"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
       "id": "red-dead-redemption-no-fishing-playstation-quadstick-fps-rdr2",
       "title": "Red Dead Redemption - No fishing — rdr2",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -5507,35 +5007,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "1f0d482088189bf568dc848ac5ad48cfa5110c58c5c14f8a68c939de6395862d"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "samsung-tv-pc-quadstick-fps-profile",
-      "title": "Samsung TV — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "samsung-tv",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Xp0LB9CzaX1QpEN5hMXcgrVq5yZ6kuphNt7STqasUMo/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "7ed6bb742c2694e6929b195b42a80437e667e73883d81cd2a0574fe34110a63b"
       },
       "createdAt": "2026-09-18",
       "updatedAt": "2026-09-18"
@@ -9225,64 +8696,6 @@
     },
     {
       "schemaVersion": 1,
-      "id": "singleton-flash-pc-quadstick-fps-profile",
-      "title": "Singleton - Flash — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "singleton-flash",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1mU_nIGXsw1TLaYtnR8lrIhPAEKEBIGQFhzHYYgUlNYU/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "b608fc22ec10ba199b5ba724933aa92fe88a8a80f4f5852cfcd70471ab4a8d39"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "singleton-wasd-pc-quadstick-fps-profile",
-      "title": "Singleton WASD — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "singleton-wasd",
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1vClXTMVGOTQ4TVhtRewkTdiQpdi4HXgfLX_SP6Cmc10/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "c3f6076e4b47a12d05c0f53427a611c164a3955b0e924b3cd1b5a3f5aa6213ae"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
       "id": "sleeping-playstation-quadstick-fps-profile",
       "title": "Sleeping — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -9306,35 +8719,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "e6f1254fd9b537b57a63df99b0fa43e46276a85153dc8f29f0352117c6128b8c"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "sony-strdn1040-playstation-quadstick-fps-profile",
-      "title": "Sony STRDN1040 — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "sony-strdn1040",
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Nb_a_GkBEQbGF_y9bTO2rDLlrFvPjDpWoUhfKH9S0ZQ/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "755adf04de541ca2250d4fdfd16becadf30fd1a902bcaa14415f7b54da74fe04"
       },
       "createdAt": "2026-09-18",
       "updatedAt": "2026-09-18"
@@ -9567,64 +8951,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "55a9402ce7ee92845ec6a5242ce4e58647cfbe61d3f84a3c8fd961e76b1f4e9b"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "usb-a-playstation-quadstick-fps-profile",
-      "title": "USB A — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "usb-a",
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1ucHEZBA2fNWbsbhDyO2yBXb2TZ5iIXDa2w_xxwLSG7c/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "07a5869a95f015afef3109e8b071e1ddf34acb9a273c92bbe828f6823b430f72"
-      },
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 1,
-      "id": "usb-host-playstation-quadstick-fps-xajoy",
-      "title": "USB Host — xajoy",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "gameId": "usb-host",
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1qJO9kDN506ybIou3GvTvZgdnfg1u55KgG4opcEwXD1w/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "d5733b19d3eb5461692f16d868a86b011dcc52139a94227ae8934c77ffbe22f7"
       },
       "createdAt": "2026-09-18",
       "updatedAt": "2026-09-18"

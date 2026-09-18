@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "it-takes-two",
   "kind": "game",
-  "name": "It takes two",
+  "name": "It Takes Two",
   "aliases": [],
   "categories": [
     "gaming"
@@ -13,7 +13,7 @@
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1nFfFBJ9xgPqu5MB4OhC-Al2fVHNVT4TUBszzwdiqQCQ/edit",
-    "title": "QuadStick public configuration catalog — It takes two"
+    "title": "QuadStick public configuration catalog — It Takes Two"
   },
   "metadata": {
     "steam": {

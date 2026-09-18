@@ -4,11 +4,16 @@ import { ROOT, loadRegistry } from './registry.mjs';
 
 const slug = value => value.toLowerCase().normalize('NFKD').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 64) || 'game';
 const decode = value => value.replace(/&#39;|&#x27;/gi, "'").replace(/&amp;/gi, '&');
+const xml = value => value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const artworkSvg = target => { let hash = 0; for (const char of target.id) hash = ((hash << 5) - hash + char.charCodeAt(0)) | 0; const hue = Math.abs(hash) % 360; const title = xml(target.name); const subtitle = xml((target.metadata?.genres || target.categories || ['GAME']).slice(0, 2).join(' · ').toUpperCase()); return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="hsl(${hue} 38% 16%)"/><stop offset="1" stop-color="hsl(${(hue + 55) % 360} 42% 30%)"/></linearGradient></defs><rect width="1200" height="675" fill="url(#g)"/><circle cx="1020" cy="100" r="220" fill="hsl(${(hue + 90) % 360} 70% 62% / .16)"/><path d="M0 560 Q340 450 690 590 T1200 510 V675 H0Z" fill="#0f120f" opacity=".72"/><text x="70" y="470" fill="#f2f4e8" font-family="Arial, sans-serif" font-size="64" font-weight="700">${title}</text><text x="74" y="535" fill="#d4ed67" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">${subtitle}</text><text x="74" y="605" fill="#f59b55" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">ADAPTIVE PROFILES</text></svg>`; };
 const contributorPrefix = /^(?:Silas P\. \(PC\)|Dan NH|Heiko|Steamy Biscuit)\/(.+)$/i;
+const namedContributorPrefix = /^(?:Matt Victor|RockyNoHands)\s+(.+)$/i;
 const cleanName = raw => {
   let name = decode(raw).trim();
   const prefixed = name.match(contributorPrefix);
   if (prefixed) name = prefixed[1].trim();
+  const named = name.match(namedContributorPrefix);
+  if (named) name = named[1].trim();
   const exact = new Map([
     ['Minecraft', 'Minecraft'],
     ['Star Wars - Jedi Fallen Order', 'Star Wars Jedi: Fallen Order'],
@@ -47,6 +52,30 @@ const cleanName = raw => {
     ['Dead Space Rem x360 (QMP4)', 'Dead Space'],
     ['Deathloop KBM', 'Deathloop'],
     ['Batman Arkham Knight v', 'Batman Arkham Knight'],
+    ['COD Black Ops 3', 'Call of Duty: Black Ops III'],
+    ['CODMW', 'Call of Duty: Modern Warfare'],
+    ['DOOM', 'Doom'],
+    ['Fishing Planet-kb', 'Fishing Planet'],
+    ['Fortnite PS4', 'Fortnite'],
+    ['Fortnite XBox 360 for PC', 'Fortnite'],
+    ['PUBG PC', 'PUBG'],
+    ['Madden 18', 'Madden 18'],
+    ['Tomb Raider', 'Tomb Raider'],
+    ['Ori and the Blind Forest - Steam', 'Ori and the Blind Forest'],
+    ['Ori and the Blind Forest -', 'Ori and the Blind Forest'],
+    ['LOL', 'League of Legends'],
+    ['Chained together', 'Chained Together'],
+    ['Construction-Simulator', 'Construction Simulator'],
+    ['Eurotruck Simulator 2', 'Euro Truck Simulator 2'],
+    ['Forza Motorsports 5', 'Forza Motorsport 5'],
+    ['HalfLife', 'Half-Life'],
+    ['It takes two', 'It Takes Two'],
+    ['Need for Speed - Heat', 'Need for Speed Heat'],
+    ['Portal2', 'Portal 2'],
+    ['Project Cars', 'Project CARS'],
+    ['StarCitizen', 'Star Citizen'],
+    ['StarCraft 2 RTSv3', 'StarCraft II'],
+    ['The Last of Us PS3', 'The Last of Us'],
     ['GTA V Cheat codes', 'Grand Theft Auto V'],
     ['Gardians of the Galaxy BETA', 'Marvel\'s Guardians of the Galaxy'],
     ['MLB13', 'MLB 13: The Show'],
@@ -92,6 +121,7 @@ for (const [targetId, group] of targetGroups) {
     if (fs.existsSync(oldArtwork) && !fs.existsSync(newArtwork)) { fs.mkdirSync(path.dirname(newArtwork), { recursive: true }); fs.renameSync(oldArtwork, newArtwork); }
   }
   const merged = { ...base, id: targetId, name: canonicalName, aliases: Array.from(new Set(group.members.flatMap(item => item.aliases || []).filter(Boolean))), platforms: Array.from(new Set(group.members.flatMap(item => item.platforms || []))).sort(), source: { ...base.source, title: `QuadStick public configuration catalog — ${canonicalName}` }, ...(artwork ? { artwork } : {}) };
+  if (merged.artwork?.kind === 'generated') fs.writeFileSync(path.join(ROOT, merged.artwork.path), artworkSvg(merged));
   fs.mkdirSync(path.dirname(path.join(ROOT, 'targets', 'games', targetId, 'target.json')), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'targets', 'games', targetId, 'target.json'), `${JSON.stringify(merged, null, 2)}\n`);
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "project-cars",
   "kind": "game",
-  "name": "Project Cars",
+  "name": "Project CARS",
   "aliases": [],
   "categories": [
     "gaming"
@@ -13,7 +13,7 @@
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
-    "title": "QuadStick public configuration catalog — Project Cars"
+    "title": "QuadStick public configuration catalog — Project CARS"
   },
   "artwork": {
     "kind": "generated",

@@ -1156,6 +1156,31 @@
     },
     {
       "schemaVersion": 2,
+      "id": "call-of-duty-black-ops-iii",
+      "kind": "game",
+      "name": "Call of Duty: Black Ops III",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit",
+        "title": "QuadStick public configuration catalog — Call of Duty: Black Ops III"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/call-of-duty-black-ops-iii.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-black-ops-iii.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
       "id": "call-of-duty-modern-warfare",
       "kind": "game",
       "name": "Call of Duty: Modern Warfare",
@@ -1330,7 +1355,7 @@
       "schemaVersion": 2,
       "id": "chained-together",
       "kind": "game",
-      "name": "Chained together",
+      "name": "Chained Together",
       "aliases": [],
       "categories": [
         "gaming"
@@ -1341,7 +1366,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1pJ2nN-BChvORwOW7hqFJB9FQHbOKBlMSl8ItPs2OIds/edit",
-        "title": "QuadStick public configuration catalog — Chained together"
+        "title": "QuadStick public configuration catalog — Chained Together"
       },
       "metadata": {
         "steam": {
@@ -1382,7 +1407,7 @@
       "schemaVersion": 2,
       "id": "construction-simulator",
       "kind": "game",
-      "name": "Construction-Simulator",
+      "name": "Construction Simulator",
       "aliases": [],
       "categories": [
         "gaming"
@@ -1393,7 +1418,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1vuug3D-TykDBeZsNet1cLpgiIsHqFzV6HJ2Mk_rIfmw/edit",
-        "title": "QuadStick public configuration catalog — Construction-Simulator"
+        "title": "QuadStick public configuration catalog — Construction Simulator"
       },
       "metadata": {
         "steam": {
@@ -2056,6 +2081,7 @@
         "gaming"
       ],
       "platforms": [
+        "playstation",
         "xbox"
       ],
       "actions": [],
@@ -2274,9 +2300,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "eurotruck-simulator-2",
+      "id": "euro-truck-simulator-2",
       "kind": "game",
-      "name": "Eurotruck Simulator 2",
+      "name": "Euro Truck Simulator 2",
       "aliases": [],
       "categories": [
         "gaming"
@@ -2287,7 +2313,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ahAn9pJFb_4eRSlsPkB-tQy3pUtOlZbIt8xk0JtzEIA/edit",
-        "title": "QuadStick public configuration catalog — Eurotruck Simulator 2"
+        "title": "QuadStick public configuration catalog — Euro Truck Simulator 2"
       },
       "metadata": {
         "steam": {
@@ -2656,9 +2682,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "fishing-planet-kb",
+      "id": "fishing-planet",
       "kind": "game",
-      "name": "Fishing Planet-kb",
+      "name": "Fishing Planet",
       "aliases": [],
       "categories": [
         "gaming"
@@ -2669,12 +2695,12 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
-        "title": "QuadStick public configuration catalog — Fishing Planet-kb"
+        "title": "QuadStick public configuration catalog — Fishing Planet"
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/fishing-planet-kb.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet-kb.svg",
+        "path": "artwork/games/fishing-planet.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -2831,9 +2857,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "forza-motorsports-5",
+      "id": "forza-motorsport-5",
       "kind": "game",
-      "name": "Forza Motorsports 5",
+      "name": "Forza Motorsport 5",
       "aliases": [],
       "categories": [
         "gaming"
@@ -2844,12 +2870,12 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1gNTQ9jN5cG_ONfApZf0Au4WreNVpJ_BjaYMC7Llwp14/edit",
-        "title": "QuadStick public configuration catalog — Forza Motorsports 5"
+        "title": "QuadStick public configuration catalog — Forza Motorsport 5"
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/forza-motorsports-5.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsports-5.svg",
+        "path": "artwork/games/forza-motorsport-5.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsport-5.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -3382,9 +3408,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "halflife",
+      "id": "half-life",
       "kind": "game",
-      "name": "HalfLife",
+      "name": "Half-Life",
       "aliases": [],
       "categories": [
         "gaming"
@@ -3395,7 +3421,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1VExeLN7fuVnP2AiMUyToZlRkyI-K0BH3Tv0JiItPzfk/edit",
-        "title": "QuadStick public configuration catalog — HalfLife"
+        "title": "QuadStick public configuration catalog — Half-Life"
       },
       "metadata": {
         "steam": {
@@ -3784,7 +3810,7 @@
       "schemaVersion": 2,
       "id": "it-takes-two",
       "kind": "game",
-      "name": "It takes two",
+      "name": "It Takes Two",
       "aliases": [],
       "categories": [
         "gaming"
@@ -3795,7 +3821,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nFfFBJ9xgPqu5MB4OhC-Al2fVHNVT4TUBszzwdiqQCQ/edit",
-        "title": "QuadStick public configuration catalog — It takes two"
+        "title": "QuadStick public configuration catalog — It Takes Two"
       },
       "metadata": {
         "steam": {
@@ -4147,45 +4173,6 @@
     },
     {
       "schemaVersion": 2,
-      "id": "lol",
-      "kind": "game",
-      "name": "LOL",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "switch"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit",
-        "title": "QuadStick public configuration catalog — LOL"
-      },
-      "metadata": {
-        "provider": "wikidata",
-        "license": "CC0",
-        "id": "Q106409697",
-        "url": "https://www.wikidata.org/entity/Q106409697",
-        "name": "LOL",
-        "description": "internationally franchised comedy format by Prime Video",
-        "releaseDate": null,
-        "genres": [
-          "comedy"
-        ],
-        "platforms": [],
-        "fetchedAt": "2026-09-18"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/lol.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lol.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
       "id": "madden",
       "kind": "game",
       "name": "Madden",
@@ -4217,6 +4204,31 @@
         "kind": "generated",
         "path": "artwork/games/madden.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "madden-18",
+      "kind": "game",
+      "name": "Madden 18",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "playstation"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1FTnXJB8mv70-Vl-qmilzwxpANm9c0yVmtyb8rOEdH_g/edit",
+        "title": "QuadStick public configuration catalog — Madden 18"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/madden-18.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden-18.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -4269,131 +4281,6 @@
           "metacritic": 78,
           "fetchedAt": "2026-09-18"
         }
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-cod-black-ops-3",
-      "kind": "game",
-      "name": "Matt Victor COD Black Ops 3",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit",
-        "title": "QuadStick public configuration catalog — Matt Victor COD Black Ops 3"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/matt-victor-cod-black-ops-3.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-cod-black-ops-3.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-codmw",
-      "kind": "game",
-      "name": "Matt Victor CODMW",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1nkiCnbG_kxJL6suR6DlPK610tDJjel8sY86eyTYgQdA/edit",
-        "title": "QuadStick public configuration catalog — Matt Victor CODMW"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/matt-victor-codmw.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-codmw.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-doom",
-      "kind": "game",
-      "name": "Matt Victor DOOM",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1J8z-OnCSu_Po29M70KFtwRnB0JG0chdO17WPkkkOlYo/edit",
-        "title": "QuadStick public configuration catalog — Matt Victor DOOM"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/matt-victor-doom.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-doom.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-madden-18",
-      "kind": "game",
-      "name": "Matt Victor Madden 18",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1FTnXJB8mv70-Vl-qmilzwxpANm9c0yVmtyb8rOEdH_g/edit",
-        "title": "QuadStick public configuration catalog — Matt Victor Madden 18"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/matt-victor-madden-18.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-madden-18.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-tomb-raider",
-      "kind": "game",
-      "name": "Matt Victor Tomb Raider",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit",
-        "title": "QuadStick public configuration catalog — Matt Victor Tomb Raider"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/matt-victor-tomb-raider.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/matt-victor-tomb-raider.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
       }
     },
     {
@@ -4931,7 +4818,7 @@
       "schemaVersion": 2,
       "id": "need-for-speed-heat",
       "kind": "game",
-      "name": "Need for Speed - Heat",
+      "name": "Need for Speed Heat",
       "aliases": [],
       "categories": [
         "gaming"
@@ -4942,7 +4829,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1tzBf62nX51i4lfui-Yk-Ep7qUjh3gcx8KLUPjwRt5WI/edit",
-        "title": "QuadStick public configuration catalog — Need for Speed - Heat"
+        "title": "QuadStick public configuration catalog — Need for Speed Heat"
       },
       "artwork": {
         "kind": "generated",
@@ -4981,48 +4868,24 @@
       "schemaVersion": 2,
       "id": "ori-and-the-blind-forest",
       "kind": "game",
-      "name": "Ori and the Blind Forest -",
+      "name": "Ori and the Blind Forest",
       "aliases": [],
       "categories": [
         "gaming"
       ],
       "platforms": [
+        "playstation",
         "xbox"
       ],
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fyEffI1NS0xQKTO1cibLJ5F9JqAO9o_-1u8ePhRnsd8/edit",
-        "title": "QuadStick public configuration catalog — Ori and the Blind Forest -"
+        "title": "QuadStick public configuration catalog — Ori and the Blind Forest"
       },
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/ori-and-the-blind-forest.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "ori-and-the-blind-forest-steam",
-      "kind": "game",
-      "name": "Ori and the Blind Forest - Steam",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1_3xpzS9xHPp70-6DyZHrwypkx-gs40aVydMfvDDQXsY/edit",
-        "title": "QuadStick public configuration catalog — Ori and the Blind Forest - Steam"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/ori-and-the-blind-forest-steam.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest-steam.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -5344,9 +5207,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "portal2",
+      "id": "portal-2",
       "kind": "game",
-      "name": "Portal2",
+      "name": "Portal 2",
       "aliases": [],
       "categories": [
         "gaming"
@@ -5357,7 +5220,7 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Ln3qyIe6yuKSKrvttKVskS_At7BjtPzyhmMVmWk-DI8/edit",
-        "title": "QuadStick public configuration catalog — Portal2"
+        "title": "QuadStick public configuration catalog — Portal 2"
       },
       "metadata": {
         "steam": {
@@ -5422,7 +5285,7 @@
       "schemaVersion": 2,
       "id": "project-cars",
       "kind": "game",
-      "name": "Project Cars",
+      "name": "Project CARS",
       "aliases": [],
       "categories": [
         "gaming"
@@ -5433,12 +5296,37 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
-        "title": "QuadStick public configuration catalog — Project Cars"
+        "title": "QuadStick public configuration catalog — Project CARS"
       },
       "artwork": {
         "kind": "generated",
         "path": "artwork/games/project-cars.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "pubg",
+      "kind": "game",
+      "name": "PUBG",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
+        "title": "QuadStick public configuration catalog — PUBG"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/pubg.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/pubg.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -5773,56 +5661,6 @@
         "kind": "generated",
         "path": "artwork/games/rocket-league.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rocket-league.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "rockynohands-fortnite",
-      "kind": "game",
-      "name": "RockyNoHands Fortnite",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1TYt6AkPdCEFPAV1qVGYTKcWIQrq6lASYBhMh9kHiN9o/edit",
-        "title": "QuadStick public configuration catalog — RockyNoHands Fortnite"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/rockynohands-fortnite.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rockynohands-fortnite.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "rockynohands-pubg",
-      "kind": "game",
-      "name": "RockyNoHands PUBG",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
-        "title": "QuadStick public configuration catalog — RockyNoHands PUBG"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/rockynohands-pubg.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rockynohands-pubg.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -6627,6 +6465,31 @@
     },
     {
       "schemaVersion": 2,
+      "id": "star-citizen",
+      "kind": "game",
+      "name": "Star Citizen",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit",
+        "title": "QuadStick public configuration catalog — Star Citizen"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/star-citizen.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/star-citizen.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
+      }
+    },
+    {
+      "schemaVersion": 2,
       "id": "star-wars-battlefront",
       "kind": "game",
       "name": "Star Wars Battlefront",
@@ -6840,34 +6703,9 @@
     },
     {
       "schemaVersion": 2,
-      "id": "starcitizen",
+      "id": "starcraft-ii",
       "kind": "game",
-      "name": "StarCitizen",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "xbox"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit",
-        "title": "QuadStick public configuration catalog — StarCitizen"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/starcitizen.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcitizen.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "starcraft-2-rtsv3",
-      "kind": "game",
-      "name": "StarCraft 2 RTSv3",
+      "name": "StarCraft II",
       "aliases": [],
       "categories": [
         "gaming"
@@ -6878,12 +6716,12 @@
       "actions": [],
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1jR6oxtk7-nTecGm2Na77sQSvAv7QUNDKiaQ6ECM3O8A/edit",
-        "title": "QuadStick public configuration catalog — StarCraft 2 RTSv3"
+        "title": "QuadStick public configuration catalog — StarCraft II"
       },
       "artwork": {
         "kind": "generated",
-        "path": "artwork/games/starcraft-2-rtsv3.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-2-rtsv3.svg",
+        "path": "artwork/games/starcraft-ii.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-ii.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -7094,6 +6932,7 @@
         "gaming"
       ],
       "platforms": [
+        "playstation",
         "xbox"
       ],
       "actions": [],
@@ -7154,31 +6993,6 @@
         "kind": "generated",
         "path": "artwork/games/the-last-of-us-part-ii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-part-ii.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "MIT"
-      }
-    },
-    {
-      "schemaVersion": 2,
-      "id": "the-last-of-us-ps3",
-      "kind": "game",
-      "name": "The Last of Us PS3",
-      "aliases": [],
-      "categories": [
-        "gaming"
-      ],
-      "platforms": [
-        "playstation"
-      ],
-      "actions": [],
-      "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit",
-        "title": "QuadStick public configuration catalog — The Last of Us PS3"
-      },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/the-last-of-us-ps3.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-ps3.svg",
         "attribution": "Adaptive Profiles",
         "license": "MIT"
       }
@@ -7450,6 +7264,31 @@
         "source": "https://store.steampowered.com/app/1237970/",
         "attribution": "Steam store artwork",
         "license": "third-party"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "tomb-raider",
+      "kind": "game",
+      "name": "Tomb Raider",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "playstation"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit",
+        "title": "QuadStick public configuration catalog — Tomb Raider"
+      },
+      "artwork": {
+        "kind": "generated",
+        "path": "artwork/games/tomb-raider.svg",
+        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider.svg",
+        "attribution": "Adaptive Profiles",
+        "license": "MIT"
       }
     },
     {
@@ -9314,6 +9153,72 @@
     },
     {
       "schemaVersion": 2,
+      "id": "matt-victor-cod-black-ops-3-xbox-quadstick-fps-profile",
+      "title": "Call of Duty: Black Ops III — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "call-of-duty-black-ops-iii"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "544215aeb6ae89ac1e6d8a6e5c782119ad640c4702847433c9d8695e18df5e62"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "matt-victor-codmw-xbox-quadstick-fps-codmw",
+      "title": "Call of Duty: Modern Warfare — codmw",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "call-of-duty-modern-warfare"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1nkiCnbG_kxJL6suR6DlPK610tDJjel8sY86eyTYgQdA/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "c1c4b962ce1d4abad13f523b611ce0a1dd6a3a4074b904c567a7e7fa902f119b"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "silas-p-pc-cod-modern-warfare-4-mp-x360-qmp4-xbox-quadstick-fps-zzcodmwiv",
       "title": "Call of Duty: Modern Warfare — zzCoDMWIV",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -9447,7 +9352,7 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-chained-together-xbox-quadstick-fps-chainedtogether",
-      "title": "Chained together — Chainedtogether",
+      "title": "Chained Together — Chainedtogether",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
@@ -9480,7 +9385,7 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-construction-simulator-xbox-quadstick-fps-profile",
-      "title": "Construction-Simulator — profile",
+      "title": "Construction Simulator — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
@@ -10007,6 +9912,39 @@
     },
     {
       "schemaVersion": 2,
+      "id": "matt-victor-doom-playstation-quadstick-fps-profile",
+      "title": "Doom — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "doom"
+      },
+      "platform": "playstation",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1J8z-OnCSu_Po29M70KFtwRnB0JG0chdO17WPkkkOlYo/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "55e5a4056af1685faf5745b8798645ce9b3431e9b37ad9f203db282025aece33"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "silas-p-pc-doom-xbox-quadstick-fps-profile",
       "title": "Doom — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -10140,11 +10078,11 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-eurotruck-simulator-2-switch-quadstick-fps-profile",
-      "title": "Eurotruck Simulator 2 — profile",
+      "title": "Euro Truck Simulator 2 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "eurotruck-simulator-2"
+        "id": "euro-truck-simulator-2"
       },
       "platform": "switch",
       "deviceId": "quadstick-fps",
@@ -10404,11 +10342,11 @@
     {
       "schemaVersion": 2,
       "id": "steamy-biscuit-fishing-planet-kb-pc-quadstick-fps-profile",
-      "title": "Fishing Planet-kb — profile",
+      "title": "Fishing Planet — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "fishing-planet-kb"
+        "id": "fishing-planet"
       },
       "platform": "pc",
       "deviceId": "quadstick-fps",
@@ -10462,6 +10400,39 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "9ff44167b40871bf236eedbf96b957943522c0230ff9cefec1553ed48a7f6b4c"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "rockynohands-fortnite-playstation-quadstick-fps-profile",
+      "title": "Fortnite — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "fortnite"
+      },
+      "platform": "playstation",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1TYt6AkPdCEFPAV1qVGYTKcWIQrq6lASYBhMh9kHiN9o/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "a20b2fab96aa6eb1661592cb66bf518dabfd8c4e8c3c6ca762f8e22e690bcb6d"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -10536,11 +10507,11 @@
     {
       "schemaVersion": 2,
       "id": "forza-motorsports-5-xbox-quadstick-fps-profile",
-      "title": "Forza Motorsports 5 — profile",
+      "title": "Forza Motorsport 5 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "forza-motorsports-5"
+        "id": "forza-motorsport-5"
       },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
@@ -11097,11 +11068,11 @@
     {
       "schemaVersion": 2,
       "id": "halflife-pc-quadstick-fps-profile",
-      "title": "HalfLife — profile",
+      "title": "Half-Life — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "halflife"
+        "id": "half-life"
       },
       "platform": "pc",
       "deviceId": "quadstick-fps",
@@ -11427,7 +11398,7 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-it-takes-two-xbox-quadstick-fps-ittakestwo",
-      "title": "It takes two — ItTakesTwo",
+      "title": "It Takes Two — ItTakesTwo",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
@@ -11591,6 +11562,39 @@
     },
     {
       "schemaVersion": 2,
+      "id": "dan-nh-lol-switch-quadstick-fps-profile",
+      "title": "League of Legends — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "league-of-legends"
+      },
+      "platform": "switch",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "2ecf233a34f446fca98a62d03d76afb1f5daebb498eeaee34f962506c6430847"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "silas-p-pc-lego-fortnite-xbox-quadstick-fps-legofortnite",
       "title": "LEGO Fortnite — LegoFortnite",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -11690,39 +11694,6 @@
     },
     {
       "schemaVersion": 2,
-      "id": "dan-nh-lol-switch-quadstick-fps-profile",
-      "title": "LOL — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "lol"
-      },
-      "platform": "switch",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "2ecf233a34f446fca98a62d03d76afb1f5daebb498eeaee34f962506c6430847"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "madden-playstation-quadstick-fps-profile",
       "title": "Madden — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -11756,144 +11727,12 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-gardians-of-the-galaxy-beta-xbox-quadstick-fps-profile",
-      "title": "Marvel's Guardians of the Galaxy — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "marvel-s-guardians-of-the-galaxy"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-cod-black-ops-3-xbox-quadstick-fps-profile",
-      "title": "Matt Victor COD Black Ops 3 — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "matt-victor-cod-black-ops-3"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "544215aeb6ae89ac1e6d8a6e5c782119ad640c4702847433c9d8695e18df5e62"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-codmw-xbox-quadstick-fps-codmw",
-      "title": "Matt Victor CODMW — codmw",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "matt-victor-codmw"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1nkiCnbG_kxJL6suR6DlPK610tDJjel8sY86eyTYgQdA/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "c1c4b962ce1d4abad13f523b611ce0a1dd6a3a4074b904c567a7e7fa902f119b"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "matt-victor-doom-playstation-quadstick-fps-profile",
-      "title": "Matt Victor DOOM — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "matt-victor-doom"
-      },
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1J8z-OnCSu_Po29M70KFtwRnB0JG0chdO17WPkkkOlYo/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "55e5a4056af1685faf5745b8798645ce9b3431e9b37ad9f203db282025aece33"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "matt-victor-madden-18-playstation-quadstick-fps-profile",
-      "title": "Matt Victor Madden 18 — profile",
+      "title": "Madden 18 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "matt-victor-madden-18"
+        "id": "madden-18"
       },
       "platform": "playstation",
       "deviceId": "quadstick-fps",
@@ -11921,14 +11760,14 @@
     },
     {
       "schemaVersion": 2,
-      "id": "matt-victor-tomb-raider-playstation-quadstick-fps-tomb",
-      "title": "Matt Victor Tomb Raider — tomb",
+      "id": "silas-p-pc-gardians-of-the-galaxy-beta-xbox-quadstick-fps-profile",
+      "title": "Marvel's Guardians of the Galaxy — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "matt-victor-tomb-raider"
+        "id": "marvel-s-guardians-of-the-galaxy"
       },
-      "platform": "playstation",
+      "platform": "xbox",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11942,11 +11781,11 @@
       },
       "source": {
         "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit"
+        "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit"
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "e0a593dc1cba6896673a16a8c0063267a1094cf1ab2423eaf9f8655b3140eafc"
+        "sha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -12318,7 +12157,7 @@
     {
       "schemaVersion": 2,
       "id": "silas-p-pc-need-for-speed-heat-xbox-quadstick-fps-profile",
-      "title": "Need for Speed - Heat — profile",
+      "title": "Need for Speed Heat — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
@@ -12383,8 +12222,41 @@
     },
     {
       "schemaVersion": 2,
+      "id": "ori-and-the-blind-forest-steam-playstation-quadstick-fps-profile",
+      "title": "Ori and the Blind Forest — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "ori-and-the-blind-forest"
+      },
+      "platform": "playstation",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1_3xpzS9xHPp70-6DyZHrwypkx-gs40aVydMfvDDQXsY/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "50ad99b3188df515e85f622c1c41c07e8c926c80d84344f99238384bb51881f7"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "ori-and-the-blind-forest-xbox-quadstick-fps-profile",
-      "title": "Ori and the Blind Forest - — profile",
+      "title": "Ori and the Blind Forest — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
@@ -12409,39 +12281,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "2433529dc47e6f7b7bac9213890580b50d7217a8973e1cd14a6a0bbaf095c23d"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "ori-and-the-blind-forest-steam-playstation-quadstick-fps-profile",
-      "title": "Ori and the Blind Forest - Steam — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "ori-and-the-blind-forest-steam"
-      },
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1_3xpzS9xHPp70-6DyZHrwypkx-gs40aVydMfvDDQXsY/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "50ad99b3188df515e85f622c1c41c07e8c926c80d84344f99238384bb51881f7"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -12615,11 +12454,11 @@
     {
       "schemaVersion": 2,
       "id": "portal2-pc-quadstick-fps-profile",
-      "title": "Portal2 — profile",
+      "title": "Portal 2 — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "portal2"
+        "id": "portal-2"
       },
       "platform": "pc",
       "deviceId": "quadstick-fps",
@@ -12681,7 +12520,7 @@
     {
       "schemaVersion": 2,
       "id": "project-cars-playstation-quadstick-fps-profile",
-      "title": "Project Cars — profile",
+      "title": "Project CARS — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
@@ -12706,6 +12545,39 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "06700de5634c5e007249a18883df40a0c9e48bc281d8423d42a581d89695e34e"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "rockynohands-pubg-pc-quadstick-fps-profile",
+      "title": "PUBG — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "pubg"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "1f0d482088189bf568dc848ac5ad48cfa5110c58c5c14f8a68c939de6395862d"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -12970,72 +12842,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "deb6a771d6d012f090a76eaebb0725a52a0abc0839f27cec30061f7c52a75831"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "rockynohands-fortnite-playstation-quadstick-fps-profile",
-      "title": "RockyNoHands Fortnite — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "rockynohands-fortnite"
-      },
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1TYt6AkPdCEFPAV1qVGYTKcWIQrq6lASYBhMh9kHiN9o/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "a20b2fab96aa6eb1661592cb66bf518dabfd8c4e8c3c6ca762f8e22e690bcb6d"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "rockynohands-pubg-pc-quadstick-fps-profile",
-      "title": "RockyNoHands PUBG — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "rockynohands-pubg"
-      },
-      "platform": "pc",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "1f0d482088189bf568dc848ac5ad48cfa5110c58c5c14f8a68c939de6395862d"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -13637,6 +13443,39 @@
     },
     {
       "schemaVersion": 2,
+      "id": "silas-p-pc-starcitizen-xbox-quadstick-fps-profile",
+      "title": "Star Citizen — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "star-citizen"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "69dfc8974af9eebb9c345a3c914d6e25c36d8640aca91db6e8935e72e2f44bb3"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "star-wars-battlefront-xbox-quadstick-fps-profile",
       "title": "Star Wars Battlefront — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -13736,45 +13575,12 @@
     },
     {
       "schemaVersion": 2,
-      "id": "silas-p-pc-starcitizen-xbox-quadstick-fps-profile",
-      "title": "StarCitizen — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "starcitizen"
-      },
-      "platform": "xbox",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "69dfc8974af9eebb9c345a3c914d6e25c36d8640aca91db6e8935e72e2f44bb3"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
       "id": "starcraft-2-rtsv3-switch-quadstick-fps-profile",
-      "title": "StarCraft 2 RTSv3 — profile",
+      "title": "StarCraft II — profile",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
       "target": {
         "kind": "game",
-        "id": "starcraft-2-rtsv3"
+        "id": "starcraft-ii"
       },
       "platform": "switch",
       "deviceId": "quadstick-fps",
@@ -13967,6 +13773,39 @@
     },
     {
       "schemaVersion": 2,
+      "id": "the-last-of-us-ps3-playstation-quadstick-fps-profile",
+      "title": "The Last of Us — profile",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "the-last-of-us"
+      },
+      "platform": "playstation",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "55a9402ce7ee92845ec6a5242ce4e58647cfbe61d3f84a3c8fd961e76b1f4e9b"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
       "id": "silas-p-pc-the-last-of-us-xbox-quadstick-fps-thelastofus",
       "title": "The Last of Us — TheLastOfUs",
       "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
@@ -14026,39 +13865,6 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "4e66138f337fa4297bcab50955e82db639a17eaa72248566a0f42ab7ef030cf3"
-      },
-      "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
-    },
-    {
-      "schemaVersion": 2,
-      "id": "the-last-of-us-ps3-playstation-quadstick-fps-profile",
-      "title": "The Last of Us PS3 — profile",
-      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
-      "target": {
-        "kind": "game",
-        "id": "the-last-of-us-ps3"
-      },
-      "platform": "playstation",
-      "deviceId": "quadstick-fps",
-      "semanticStatus": "unmapped",
-      "mappings": [],
-      "tags": [
-        "community",
-        "quadstick-catalog",
-        "unmapped"
-      ],
-      "contributor": {
-        "displayName": "Unknown contributor"
-      },
-      "source": {
-        "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit"
-      },
-      "snapshot": {
-        "file": "profile.csv",
-        "sha256": "55a9402ce7ee92845ec6a5242ce4e58647cfbe61d3f84a3c8fd961e76b1f4e9b"
       },
       "revision": 1,
       "createdAt": "2026-09-18",
@@ -14257,6 +14063,39 @@
       "snapshot": {
         "file": "profile.csv",
         "sha256": "cf17340b01862b18df12bb75d779f1aa3459760e33f92665313eaa3e5ae7757d"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "matt-victor-tomb-raider-playstation-quadstick-fps-tomb",
+      "title": "Tomb Raider — tomb",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "tomb-raider"
+      },
+      "platform": "playstation",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "e0a593dc1cba6896673a16a8c0063267a1094cf1ab2423eaf9f8655b3140eafc"
       },
       "revision": 1,
       "createdAt": "2026-09-18",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "pubg",
+  "kind": "game",
+  "name": "PUBG",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
+    "title": "QuadStick public configuration catalog — PUBG"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/pubg.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/pubg.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

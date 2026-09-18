@@ -13,4 +13,7 @@ assert.equal(knight?.id, 'batman-arkham-knight');
 assert.equal(v2.targets.some(target => /^(?:Dan NH|Silas P\. \(PC\)|Heiko|Steamy Biscuit)\//i.test(target.name)), false);
 assert.equal(v2.targets.some(target => /Batman Arkham Knight v$/i.test(target.name)), false);
 assert.equal(v2.profiles.some(profile => /Dan NH\/|Batman Arkham Knight v/i.test(profile.title)), false);
+assert.equal(v2.targets.some(target => /^(?:Matt Victor|RockyNoHands|Steamy Biscuit)\b/i.test(target.name)), false);
+assert.equal(v2.targets.some(target => /(?: - Steam|-$|^LOL$|^Portal2$|^StarCitizen$)/i.test(target.name)), false);
+assert.equal(v2.targets.some(target => ['League of Legends', 'Fortnite', 'PUBG', 'Call of Duty: Modern Warfare'].includes(target.name) && /^(?:Matt Victor|RockyNoHands)\b/i.test(target.name)), false);
 console.log('Registry compatibility tests passed.');

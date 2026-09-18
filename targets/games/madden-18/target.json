@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "madden-18",
+  "kind": "game",
+  "name": "Madden 18",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1FTnXJB8mv70-Vl-qmilzwxpANm9c0yVmtyb8rOEdH_g/edit",
+    "title": "QuadStick public configuration catalog — Madden 18"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/madden-18.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden-18.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

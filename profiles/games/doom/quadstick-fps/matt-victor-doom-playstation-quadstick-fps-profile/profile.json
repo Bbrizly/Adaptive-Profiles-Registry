@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "matt-victor-doom-playstation-quadstick-fps-profile",
+  "title": "Doom — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "doom"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1J8z-OnCSu_Po29M70KFtwRnB0JG0chdO17WPkkkOlYo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "55e5a4056af1685faf5745b8798645ce9b3431e9b37ad9f203db282025aece33"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

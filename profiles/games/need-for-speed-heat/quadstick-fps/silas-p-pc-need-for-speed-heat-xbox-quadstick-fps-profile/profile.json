@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "silas-p-pc-need-for-speed-heat-xbox-quadstick-fps-profile",
-  "title": "Need for Speed - Heat — profile",
+  "title": "Need for Speed Heat — profile",
   "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
   "target": {
     "kind": "game",

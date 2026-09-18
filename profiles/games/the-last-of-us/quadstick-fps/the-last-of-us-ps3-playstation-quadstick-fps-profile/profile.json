@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "the-last-of-us-ps3-playstation-quadstick-fps-profile",
+  "title": "The Last of Us — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "the-last-of-us"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "55a9402ce7ee92845ec6a5242ce4e58647cfbe61d3f84a3c8fd961e76b1f4e9b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

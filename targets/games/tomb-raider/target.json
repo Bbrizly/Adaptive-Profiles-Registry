@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "tomb-raider",
+  "kind": "game",
+  "name": "Tomb Raider",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit",
+    "title": "QuadStick public configuration catalog — Tomb Raider"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/tomb-raider.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

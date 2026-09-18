@@ -24,10 +24,19 @@ const platformFor = (title, csv) => {
   return 'pc';
 };
 const targetName = title => {
-  const withoutContributor = title.replace(/^(?:Silas P\. \(PC\)|Dan NH|Heiko|Steamy Biscuit)\/(.+)$/i, '$1').trim();
+  const withoutContributor = title.replace(/^(?:Silas P\. \(PC\)|Dan NH|Heiko|Steamy Biscuit)\/(.+)$/i, '$1').replace(/^(?:Matt Victor|RockyNoHands)\s+(.+)$/i, '$1').trim();
   const withoutPlatform = withoutContributor.replace(/\s+(pc|ps4|ps5|xbox|xbox one|playstation|switch)\b.*$/i, '').trim() || withoutContributor;
   const exact = new Map([
     ['Batman Arkham Knight v', 'Batman Arkham Knight'],
+    ['COD Black Ops 3', 'Call of Duty: Black Ops III'],
+    ['CODMW', 'Call of Duty: Modern Warfare'],
+    ['DOOM', 'Doom'],
+    ['Fishing Planet-kb', 'Fishing Planet'],
+    ['Fortnite PS4', 'Fortnite'],
+    ['Fortnite XBox 360 for PC', 'Fortnite'],
+    ['PUBG PC', 'PUBG'],
+    ['Ori and the Blind Forest - Steam', 'Ori and the Blind Forest'],
+    ['Ori and the Blind Forest -', 'Ori and the Blind Forest'],
     ['Copy of LOL', 'League of Legends'],
     ['Copy of World of Warcraft', 'World of Warcraft'],
     ['Counterstrikev2', 'Counter-Strike 2'],

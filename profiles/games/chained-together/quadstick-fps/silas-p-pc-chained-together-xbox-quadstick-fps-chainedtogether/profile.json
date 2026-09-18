@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "silas-p-pc-chained-together-xbox-quadstick-fps-chainedtogether",
-  "title": "Chained together — Chainedtogether",
+  "title": "Chained Together — Chainedtogether",
   "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
   "target": {
     "kind": "game",

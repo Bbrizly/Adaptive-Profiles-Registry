@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "ori-and-the-blind-forest-xbox-quadstick-fps-profile",
-  "title": "Ori and the Blind Forest - — profile",
+  "title": "Ori and the Blind Forest — profile",
   "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
   "target": {
     "kind": "game",

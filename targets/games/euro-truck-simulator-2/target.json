@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "euro-truck-simulator-2",
+  "kind": "game",
+  "name": "Euro Truck Simulator 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ahAn9pJFb_4eRSlsPkB-tQy3pUtOlZbIt8xk0JtzEIA/edit",
+    "title": "QuadStick public configuration catalog — Euro Truck Simulator 2"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 227300,
+      "name": "Euro Truck Simulator 2",
+      "url": "https://store.steampowered.com/app/227300/",
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "releaseDate": "Oct 12, 2012",
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": {
+        "score": 97.44,
+        "positive": 919211,
+        "negative": 24131,
+        "total": 943342
+      },
+      "metacritic": 79,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+    "source": "https://store.steampowered.com/app/227300/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

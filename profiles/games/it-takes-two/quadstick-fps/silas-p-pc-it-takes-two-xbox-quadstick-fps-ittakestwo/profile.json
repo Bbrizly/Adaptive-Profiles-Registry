@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "silas-p-pc-it-takes-two-xbox-quadstick-fps-ittakestwo",
-  "title": "It takes two — ItTakesTwo",
+  "title": "It Takes Two — ItTakesTwo",
   "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
   "target": {
     "kind": "game",

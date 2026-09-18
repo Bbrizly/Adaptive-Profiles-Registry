@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "portal-2",
+  "kind": "game",
+  "name": "Portal 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Ln3qyIe6yuKSKrvttKVskS_At7BjtPzyhmMVmWk-DI8/edit",
+    "title": "QuadStick public configuration catalog — Portal 2"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 620,
+      "name": "Portal 2",
+      "url": "https://store.steampowered.com/app/620/",
+      "description": "The \"Perpetual Testing Initiative\" has been expanded to allow you to design co-op puzzles for you and your friends!",
+      "releaseDate": "Apr 18, 2011",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "rating": {
+        "score": 98.7,
+        "positive": 460837,
+        "negative": 6047,
+        "total": 466884
+      },
+      "metacritic": 95,
+      "fetchedAt": "2026-09-18"
+    }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "source": "https://store.steampowered.com/app/620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  }
+}

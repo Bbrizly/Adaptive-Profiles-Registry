@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "fishing-planet",
+  "kind": "game",
+  "name": "Fishing Planet",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
+    "title": "QuadStick public configuration catalog — Fishing Planet"
+  },
+  "artwork": {
+    "kind": "generated",
+    "path": "artwork/games/fishing-planet.svg",
+    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet.svg",
+    "attribution": "Adaptive Profiles",
+    "license": "MIT"
+  }
+}

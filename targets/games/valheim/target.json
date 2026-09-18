@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "id": "valheim",
+  "kind": "game",
+  "name": "Valheim",
+  "aliases": [],
+  "categories": ["gaming", "survival", "crafting"],
+  "platforms": ["pc", "xbox"],
+  "actions": [
+    {"id": "move", "name": "Move", "category": "movement", "kind": "axis-2d"},
+    {"id": "look", "name": "Look", "category": "movement", "kind": "pointer"},
+    {"id": "attack", "name": "Attack", "category": "combat", "kind": "digital"},
+    {"id": "block", "name": "Block", "category": "combat", "kind": "digital"},
+    {"id": "jump", "name": "Jump", "category": "movement", "kind": "digital"},
+    {"id": "sprint", "name": "Sprint", "category": "movement", "kind": "digital"},
+    {"id": "interact", "name": "Interact", "category": "gameplay", "kind": "digital"},
+    {"id": "inventory", "name": "Inventory", "category": "menu", "kind": "menu"},
+    {"id": "map", "name": "Map", "category": "menu", "kind": "menu"},
+    {"id": "pause", "name": "Pause / Menu", "category": "menu", "kind": "menu"}
+  ],
+  "source": {"url": "https://valheim.com/", "title": "Valheim official site"}
+}

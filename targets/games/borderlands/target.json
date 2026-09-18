@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "id": "borderlands",
+  "kind": "game",
+  "name": "Borderlands",
+  "aliases": [],
+  "categories": ["gaming", "first-person-shooter"],
+  "platforms": ["pc"],
+  "actions": [
+    {"id": "move", "name": "Move", "category": "movement", "kind": "axis-2d"},
+    {"id": "look", "name": "Look", "category": "movement", "kind": "pointer"},
+    {"id": "attack", "name": "Fire Weapon", "category": "combat", "kind": "digital"},
+    {"id": "aim", "name": "Aim / Alt-fire", "category": "combat", "kind": "digital"},
+    {"id": "jump", "name": "Jump", "category": "movement", "kind": "digital"},
+    {"id": "sprint", "name": "Sprint", "category": "movement", "kind": "digital"},
+    {"id": "crouch", "name": "Crouch", "category": "movement", "kind": "digital"},
+    {"id": "interact", "name": "Interact", "category": "gameplay", "kind": "digital"}
+  ],
+  "source": {"url": "https://assets.2k.com/1a6ngf98576c/3a1fmH50QOweeZHmRnu2zS/b676736b4e168987dbcb78934ed6ef01/BORDERLANDS_PC_MANUAL_ENG.pdf", "title": "2K Borderlands PC Manual"}
+}

@@ -3,6 +3,153 @@
   "targets": [
     {
       "schemaVersion": 2,
+      "id": "borderlands",
+      "kind": "game",
+      "name": "Borderlands",
+      "aliases": [],
+      "categories": [
+        "gaming",
+        "first-person-shooter"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "actions": [
+        {
+          "id": "move",
+          "name": "Move",
+          "category": "movement",
+          "kind": "axis-2d"
+        },
+        {
+          "id": "look",
+          "name": "Look",
+          "category": "movement",
+          "kind": "pointer"
+        },
+        {
+          "id": "attack",
+          "name": "Fire Weapon",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "aim",
+          "name": "Aim / Alt-fire",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "jump",
+          "name": "Jump",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "sprint",
+          "name": "Sprint",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "crouch",
+          "name": "Crouch",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "interact",
+          "name": "Interact",
+          "category": "gameplay",
+          "kind": "digital"
+        }
+      ],
+      "source": {
+        "url": "https://assets.2k.com/1a6ngf98576c/3a1fmH50QOweeZHmRnu2zS/b676736b4e168987dbcb78934ed6ef01/BORDERLANDS_PC_MANUAL_ENG.pdf",
+        "title": "2K Borderlands PC Manual"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "fortnite",
+      "kind": "game",
+      "name": "Fortnite",
+      "aliases": [
+        "Fortnite Battle Royale"
+      ],
+      "categories": [
+        "gaming",
+        "battle-royale"
+      ],
+      "platforms": [
+        "pc",
+        "xbox",
+        "playstation",
+        "switch"
+      ],
+      "actions": [
+        {
+          "id": "move",
+          "name": "Move",
+          "category": "movement",
+          "kind": "axis-2d"
+        },
+        {
+          "id": "look",
+          "name": "Look",
+          "category": "movement",
+          "kind": "axis-2d"
+        },
+        {
+          "id": "attack",
+          "name": "Attack",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "aim",
+          "name": "Aim",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "jump",
+          "name": "Jump",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "sprint",
+          "name": "Sprint",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "crouch",
+          "name": "Crouch",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "reload",
+          "name": "Reload",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "map",
+          "name": "Map",
+          "category": "menu",
+          "kind": "menu"
+        }
+      ],
+      "source": {
+        "url": "https://www.epicgames.com/help/en-US/fortnite-c75/c118/pc-a3337?lang=en-US",
+        "title": "Fortnite official control settings support"
+      }
+    },
+    {
+      "schemaVersion": 2,
       "id": "minecraft",
       "kind": "game",
       "name": "Minecraft",
@@ -208,6 +355,183 @@
           }
         }
       ]
+    },
+    {
+      "schemaVersion": 2,
+      "id": "star-wars-jedi-fallen-order",
+      "kind": "game",
+      "name": "Star Wars Jedi: Fallen Order",
+      "aliases": [
+        "Jedi: Fallen Order",
+        "Fallen Order"
+      ],
+      "categories": [
+        "gaming",
+        "action-adventure"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "actions": [
+        {
+          "id": "move",
+          "name": "Move",
+          "category": "movement",
+          "kind": "axis-2d"
+        },
+        {
+          "id": "look",
+          "name": "Look",
+          "category": "movement",
+          "kind": "pointer"
+        },
+        {
+          "id": "attack",
+          "name": "Attack",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "block",
+          "name": "Parry / Block",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "jump",
+          "name": "Jump",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "evade",
+          "name": "Evade",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "force-attack",
+          "name": "Force Attack",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "interact",
+          "name": "Interact",
+          "category": "gameplay",
+          "kind": "digital"
+        },
+        {
+          "id": "heal",
+          "name": "Heal",
+          "category": "gameplay",
+          "kind": "digital"
+        },
+        {
+          "id": "sprint",
+          "name": "Sprint",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "map",
+          "name": "Map",
+          "category": "menu",
+          "kind": "menu"
+        },
+        {
+          "id": "pause",
+          "name": "Pause / Menu",
+          "category": "menu",
+          "kind": "menu"
+        }
+      ],
+      "source": {
+        "url": "https://www.ea.com/able/resources/star-wars/jedi-fallen-order/pc/text-manual",
+        "title": "Star Wars Jedi: Fallen Order PC Text Manual"
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "id": "valheim",
+      "kind": "game",
+      "name": "Valheim",
+      "aliases": [],
+      "categories": [
+        "gaming",
+        "survival",
+        "crafting"
+      ],
+      "platforms": [
+        "pc",
+        "xbox"
+      ],
+      "actions": [
+        {
+          "id": "move",
+          "name": "Move",
+          "category": "movement",
+          "kind": "axis-2d"
+        },
+        {
+          "id": "look",
+          "name": "Look",
+          "category": "movement",
+          "kind": "pointer"
+        },
+        {
+          "id": "attack",
+          "name": "Attack",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "block",
+          "name": "Block",
+          "category": "combat",
+          "kind": "digital"
+        },
+        {
+          "id": "jump",
+          "name": "Jump",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "sprint",
+          "name": "Sprint",
+          "category": "movement",
+          "kind": "digital"
+        },
+        {
+          "id": "interact",
+          "name": "Interact",
+          "category": "gameplay",
+          "kind": "digital"
+        },
+        {
+          "id": "inventory",
+          "name": "Inventory",
+          "category": "menu",
+          "kind": "menu"
+        },
+        {
+          "id": "map",
+          "name": "Map",
+          "category": "menu",
+          "kind": "menu"
+        },
+        {
+          "id": "pause",
+          "name": "Pause / Menu",
+          "category": "menu",
+          "kind": "menu"
+        }
+      ],
+      "source": {
+        "url": "https://valheim.com/",
+        "title": "Valheim official site"
+      }
     }
   ],
   "devices": [
@@ -308,5 +632,205 @@
       ]
     }
   ],
-  "profiles": []
+  "profiles": [
+    {
+      "schemaVersion": 2,
+      "id": "borderlands-pc-quadstick-fps-bordls",
+      "title": "Borderlands — Bordls",
+      "description": "Publicly shared QuadStick configuration referenced as a Borderlands profile in the QuadStick community forum. The specific Borderlands release is not stated; the reviewed CSV is preserved and semantic actions remain unmapped.",
+      "target": {
+        "kind": "game",
+        "id": "borderlands"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "google-sheet",
+        "unmapped",
+        "release-unspecified"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/19pD6rQq3J5HFO03RgCLjPyR2thTy8eFXDliBRem2eAc/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "9f3c3467b45a52672885e8cd879c84b36ec517bd9a09f922639f793929c9bb6d"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "fortnite-xbox-quadstick-fps-xboxfortnite",
+      "title": "Fortnite — XboxFortnite",
+      "description": "Publicly shared QuadStick configuration for Fortnite on Xbox. The reviewed CSV is preserved without inferred semantic mappings.",
+      "target": {
+        "kind": "game",
+        "id": "fortnite"
+      },
+      "platform": "xbox",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "google-sheet",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1ZMw8oanHSvdlly6TC0O6kk6rzu5geauwPMyiYxl46xQ/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "d212e60b6adec68b6291a45174235f92c57b1076ed78c21ffcbf54b6b5227764"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "minecraft-pc-quadstick-fps-2-minecraft",
+      "title": "Minecraft — 2.Minecraft",
+      "description": "Publicly shared QuadStick configuration for Minecraft on PC. The reviewed CSV is preserved; semantic actions remain unmapped because the source sheet is a raw QMP export.",
+      "target": {
+        "kind": "game",
+        "id": "minecraft"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "google-sheet",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/15r-el8hic1kp_tsbhLiBYQQeZUg8ZI7aokSHHB9NXvw/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "b9e63c9579e5a199d584e4e26394899488b88f57c0b20e287eeca6a0291092f4"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "star-wars-jedi-fallen-order-pc-quadstick-fps-fallen-order",
+      "title": "Star Wars Jedi: Fallen Order — FallenOrder",
+      "description": "Publicly shared QuadStick configuration for Star Wars Jedi: Fallen Order on PC. The reviewed CSV is preserved without inferred semantic mappings.",
+      "target": {
+        "kind": "game",
+        "id": "star-wars-jedi-fallen-order"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "google-sheet",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1LZTEukxnrsgU7q6IKM_upvTT-aSLc3WENQieA5TPao4/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "9a6907615a7f0d42676ff430576068ab024bffccf886d8f6e8be14d294c482b7"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "valheim-pc-quadstick-fps-dvalheim",
+      "title": "Valheim — dvalheim",
+      "description": "Publicly shared QuadStick configuration for Valheim on PC. The reviewed CSV is preserved without inferred semantic mappings.",
+      "target": {
+        "kind": "game",
+        "id": "valheim"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "google-sheet",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1MMQ1AjuJcVqlaMmxYep_7ogAwkSa6o1YD0zMg_Olh7A/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "ea9995d406b25299c3731cafd8fb400df2f6d0dc8f870646f0c6d82706a36334"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "valheim-pc-quadstick-fps-valheim",
+      "title": "Valheim — Valheim",
+      "description": "Publicly shared QuadStick configuration for Valheim on PC. The reviewed CSV is preserved without inferred semantic mappings.",
+      "target": {
+        "kind": "game",
+        "id": "valheim"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "google-sheet",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Unknown contributor"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1nRdigjn5Wyb4lMAvoruIVc5A8vw1G8va3MEyGT6NvC8/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "276b4c0f191a85cbd0ee92b9cb1c76588723c6fc7cee4c50757665644abe48d4"
+      },
+      "revision": 1,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    }
+  ]
 }

@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1_s1dFwj7zQo7xzro0RzC1UqTpTadpQUL3Qp_dGJBJkA/edit",
     "title": "QuadStick public configuration catalog — Ghostbusters"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q66364515",
+    "url": "https://www.wikidata.org/entity/Q66364515",
+    "name": "Ghostbusters",
+    "description": "haunted house at Halloween Horror Nights Orlando 29",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

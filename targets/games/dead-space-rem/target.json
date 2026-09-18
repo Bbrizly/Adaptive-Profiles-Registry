@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "dead-space-rem",
+  "kind": "game",
+  "name": "Dead Space Rem",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1hebQa5_ULEVIKfTU9nYBg9kMwSZL1WlGGaSgWhe-X-4/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Dead Space Rem PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q117100765",
+    "url": "https://www.wikidata.org/entity/Q117100765",
+    "name": "Dead Space",
+    "description": "2021 novel by Kali Wallace",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

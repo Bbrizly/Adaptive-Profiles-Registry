@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "id": "sniper-elite-4",
+  "kind": "game",
+  "name": "Sniper Elite 4",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1a_boZsd3AQh14pvqIJEgl1bptZamFMiuNcDobNV_WRE/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q23013242",
+    "url": "https://www.wikidata.org/entity/Q23013242",
+    "name": "Sniper Elite 4",
+    "description": "2017 video game developed by Rebellion Developments",
+    "releaseDate": "2017-02-14",
+    "genres": [
+      "tactical shooter",
+      "stealth game",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

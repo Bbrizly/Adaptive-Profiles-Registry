@@ -14,5 +14,23 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1f9J51f__Vexir70tltRkZuBwsReCDm-uaQZCIpuE1Bo/edit",
     "title": "QuadStick public configuration catalog — FPV Freerider"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q122314295",
+    "url": "https://www.wikidata.org/entity/Q122314295",
+    "name": "FPV Freerider",
+    "description": "2015 video game",
+    "releaseDate": "2015-04-17",
+    "genres": [
+      "simulation video game",
+      "racing video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

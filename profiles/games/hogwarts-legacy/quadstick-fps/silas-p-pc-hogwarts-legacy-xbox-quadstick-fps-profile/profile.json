@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-hogwarts-legacy-xbox-quadstick-fps-profile",
+  "title": "Hogwarts Legacy — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "hogwarts-legacy"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1mvv_0ugmjygvsVQzj00uvAuy3loJIrybIZBNXIe2fK4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "775aa5a50504545fcec15c89f9a7755b341296cf1710171a5b38b4a18802f785"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

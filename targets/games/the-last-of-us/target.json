@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "the-last-of-us",
+  "kind": "game",
+  "name": "The Last of Us",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1h7rR7if8nedFt6hOrAw83rGHpdqjClgExActZGrSAoo/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/The Last of Us"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q99653038",
+    "url": "https://www.wikidata.org/entity/Q99653038",
+    "name": "The Last of Us",
+    "description": "upcoming tabletop game",
+    "releaseDate": "http://www",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

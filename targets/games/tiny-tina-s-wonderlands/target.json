@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "id": "tiny-tina-s-wonderlands",
+  "kind": "game",
+  "name": "Tiny Tina's Wonderlands",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1e-A7_8lt2SYfSt-WtTZ3AeIuZoo9PtpYtPaIbRP_3Nc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Tiny Tinas Wonderlands"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q107209787",
+    "url": "https://www.wikidata.org/entity/Q107209787",
+    "name": "Tiny Tina's Wonderlands",
+    "description": "2022 video game developed by Gearbox",
+    "releaseDate": "2022-03-25",
+    "genres": [
+      "action role-playing game",
+      "action game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

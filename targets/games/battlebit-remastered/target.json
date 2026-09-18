@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "battlebit-remastered",
+  "kind": "game",
+  "name": "BattleBit Remastered",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1avRnDQFKaYxDyeCy_4zgpHG4sgwEDbxgnZYF2Fn0bdg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/BattleBit Remastered PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q119846458",
+    "url": "https://www.wikidata.org/entity/Q119846458",
+    "name": "BattleBit Remastered",
+    "description": "2023 video game developed by SgtOkiDoki, Vilaskis and TheLiquidHorse",
+    "releaseDate": "2023-06-15",
+    "genres": [
+      "first-person shooter",
+      "shooter game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

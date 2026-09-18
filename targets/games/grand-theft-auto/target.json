@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1VV26NcHVW9-1L3ECM0NlsJ7zH7XjBQ9qA3IyvQABbl4/edit",
     "title": "QuadStick public configuration catalog — Grand Theft Auto PS4-XBox One"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q63284897",
+    "url": "https://www.wikidata.org/entity/Q63284897",
+    "name": "Grand Theft Auto",
+    "description": "cancelled Sega Saturn port of the 1997 video game Grand Theft Auto",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

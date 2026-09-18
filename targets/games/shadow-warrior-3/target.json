@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "shadow-warrior-3",
+  "kind": "game",
+  "name": "Shadow Warrior 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1z0ql9pCrIRbvj0fDUARduvfMYbwknoUt4gZHEK92mg0/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Shadow Warrior 3"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q98819629",
+    "url": "https://www.wikidata.org/entity/Q98819629",
+    "name": "Shadow Warrior 3",
+    "description": "2022 video game developed by Flying Wild Hog",
+    "releaseDate": "2022-03-01",
+    "genres": [
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

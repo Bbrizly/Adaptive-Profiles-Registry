@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-construction-simulator-xbox-quadstick-fps-profile",
+  "title": "Construction-Simulator — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "construction-simulator"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1vuug3D-TykDBeZsNet1cLpgiIsHqFzV6HJ2Mk_rIfmw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "09b17964e4a9f4a41a57f53f2db65b1d3439f945128f1fae9ce854cd084996ad"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

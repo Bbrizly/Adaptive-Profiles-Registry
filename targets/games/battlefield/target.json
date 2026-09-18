@@ -3,7 +3,10 @@
   "id": "battlefield",
   "kind": "game",
   "name": "Battlefield",
-  "aliases": [],
+  "aliases": [
+    "Battlefield, MO",
+    "Battlefield, Missouri"
+  ],
   "categories": [
     "gaming"
   ],
@@ -15,5 +18,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1flfJtOlE3xmoyouULZSl4HIsbEETRLeufdoIuGu0T64/edit",
     "title": "QuadStick public configuration catalog — Battlefield PS4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q104720915",
+    "url": "https://www.wikidata.org/entity/Q104720915",
+    "name": "Battlefield",
+    "description": "painting by Sebastian Vrancx",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

@@ -64,5 +64,22 @@
   "source": {
     "url": "https://assets.2k.com/1a6ngf98576c/3a1fmH50QOweeZHmRnu2zS/b676736b4e168987dbcb78934ed6ef01/BORDERLANDS_PC_MANUAL_ENG.pdf",
     "title": "2K Borderlands PC Manual"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q106329715",
+    "url": "https://www.wikidata.org/entity/Q106329715",
+    "name": "Borderlands",
+    "description": "2024 film by Eli Roth based on the video game series of the same name",
+    "releaseDate": "2024-08-07",
+    "genres": [
+      "science fiction film",
+      "adventure film",
+      "action film",
+      "comedy film"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

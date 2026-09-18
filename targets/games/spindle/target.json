@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "spindle",
+  "kind": "game",
+  "name": "Spindle",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1GpU47j5Oa68IGLtEvZlZi64ZLk4ff_ySZIorRuOB5Jk/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Spindle"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q79905553",
+    "url": "https://www.wikidata.org/entity/Q79905553",
+    "name": "Spindle",
+    "description": "spindle whorl by unknown artist (1948.484)",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

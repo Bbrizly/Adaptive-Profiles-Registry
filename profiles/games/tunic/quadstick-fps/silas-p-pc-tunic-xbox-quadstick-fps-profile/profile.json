@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-tunic-xbox-quadstick-fps-profile",
+  "title": "Tunic — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "tunic"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1GKpBkxmMTNZhEQJ0ksnNbaa5m6r5DO1DRrCJCkaQ83Q/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "138ff27bdff8c3086283dfee5e7f0a1b17ad6df0ed51084cd8ff5ff445a8b431"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-black-ops-6",
+  "kind": "game",
+  "name": "Call of Duty: Black Ops 6",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Neb8ihhZ2_Pkd_fFTywtnVa6-6NJI6ofdeR4sCBOa8s/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Black Ops 6 - MP/Zombies x360 (QMP4)"
+  }
+}

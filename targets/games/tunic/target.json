@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "tunic",
+  "kind": "game",
+  "name": "Tunic",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1GKpBkxmMTNZhEQJ0ksnNbaa5m6r5DO1DRrCJCkaQ83Q/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Tunic"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q80076132",
+    "url": "https://www.wikidata.org/entity/Q80076132",
+    "name": "Tunic",
+    "description": "textile by unknown artist (2011.111.1)",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

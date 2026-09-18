@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-halo-infinite-xbox-quadstick-fps-profile",
+  "title": "Halo Infinite — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "halo-infinite"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1V-Lwk3-rA0mckKtR8mwSZN6XfDVqMr5RzmHPf9zqgOs/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "73dd84d592d4e5134494babafd8069fe8835cc856bb942eb33d943148ce6f651"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

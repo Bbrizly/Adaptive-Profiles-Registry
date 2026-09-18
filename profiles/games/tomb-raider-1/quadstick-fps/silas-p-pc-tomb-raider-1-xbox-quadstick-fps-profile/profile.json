@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-tomb-raider-1-xbox-quadstick-fps-profile",
+  "title": "Tomb Raider 1 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "tomb-raider-1"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "1aa83582f09d6892a51a746c23d578076e93b5af19667f67be79fc54e2eff001"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

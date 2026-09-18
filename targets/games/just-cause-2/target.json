@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "just-cause-2",
+  "kind": "game",
+  "name": "Just Cause 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1MFjqTjF4Y32pCIhECkEre-gPgaXLtg3_wzGOK6RgMqw/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Just Cause 2"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q1114167",
+    "url": "https://www.wikidata.org/entity/Q1114167",
+    "name": "Just Cause 2",
+    "description": "2010 video game",
+    "releaseDate": "2010-03-23",
+    "genres": [
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-planetside-2-xbox-quadstick-fps-profile",
+  "title": "PlanetSide 2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "planetside-2"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1vxvq4q0VN6GB4PIYG9g5TL4ntmB0Jfvp_nPFMf87rOA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "330e1f1be345400355d9b97eec9c14b4f13dafd947829e7c65adb70ff3caf516"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "thehunter-call-of-the-wild",
+  "kind": "game",
+  "name": "theHunter: Call of the Wild",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1a5TmCr6TaVpMZAfPG1yOjtfwZ0lxgGqPMUxFm6Hrmiw/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/theHunter CotW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-dead-space-rem-x360-qmp4-xbox-quadstick-fps-profile",
+  "title": "Dead Space Rem x360 (QMP4) — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "dead-space-rem-x360-qmp4"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1EAKy4QzOnqirw99vqmSFOC6VwK-TNTQENPq0KcCibB8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "f530d5fc5234d17a3124e1394e4a4a925aabe66923e711cf95dbeb7e6bc19c07"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

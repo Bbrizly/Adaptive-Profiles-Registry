@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "id": "max-payne-3",
+  "kind": "game",
+  "name": "Max Payne 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1j9ud1kPYXCsY6DrM5ZMMKA1gURUfXLP-r8XOBAE_4zI/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Max Payne 3"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q736040",
+    "url": "https://www.wikidata.org/entity/Q736040",
+    "name": "Max Payne 3",
+    "description": "2012 video game",
+    "releaseDate": "2012-05-15",
+    "genres": [
+      "neo-noir video game",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

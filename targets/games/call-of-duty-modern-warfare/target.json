@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-modern-warfare",
+  "kind": "game",
+  "name": "Call of Duty: Modern Warfare",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1JTCP8MmvQ8bfBzevGQCGZd5FPX5joA-UJ1MJbOTYy_4/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare 4 - MP x360 (QMP4)"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q64174367",
+    "url": "https://www.wikidata.org/entity/Q64174367",
+    "name": "Call of Duty: Modern Warfare",
+    "description": "Wikimedia disambiguation page",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

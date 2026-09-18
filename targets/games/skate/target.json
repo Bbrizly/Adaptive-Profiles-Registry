@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "skate",
+  "kind": "game",
+  "name": "Skate",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1dCGn3KGnVFqzVX7QF2SMuNkXQTkt6s1iD3WoChu1nQk/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/skate."
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q18359241",
+    "url": "https://www.wikidata.org/entity/Q18359241",
+    "name": "Skate",
+    "description": "dinghy",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

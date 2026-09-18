@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "path-of-exile-ii-x360",
+  "kind": "game",
+  "name": "Path of Exile II x360",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1CgvoZXE67qvRp6gXd4Pnw8sOIVajQDo4CBi4nGvS-7M/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Path of Exile II x360"
+  }
+}

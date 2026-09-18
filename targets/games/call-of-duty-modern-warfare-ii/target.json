@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-modern-warfare-ii",
+  "kind": "game",
+  "name": "Call of Duty: Modern Warfare II",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1X1Atq6Jerfj4klh8GpyG7dXvgRb-bD4wyZW_sNAh2c4/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare II Story x360 (QMP4)"
+  }
+}

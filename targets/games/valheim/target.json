@@ -78,5 +78,17 @@
   "source": {
     "url": "https://valheim.com/",
     "title": "Valheim official site"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q47090381",
+    "url": "https://www.wikidata.org/entity/Q47090381",
+    "name": "Valheim",
+    "description": "family name",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

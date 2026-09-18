@@ -8,11 +8,30 @@
     "gaming"
   ],
   "platforms": [
+    "pc",
     "playstation"
   ],
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/11y7DgYio3LH-uxSr8OxFFWeIiPXa_cabC6guIGLiXnk/edit",
     "title": "QuadStick public configuration catalog — Far Cry 4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q15992359",
+    "url": "https://www.wikidata.org/entity/Q15992359",
+    "name": "Far Cry 4",
+    "description": "2014 video game",
+    "releaseDate": "2014-11-18",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

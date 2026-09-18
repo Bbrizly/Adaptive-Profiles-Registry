@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "arc-raiders-x360",
+  "kind": "game",
+  "name": "ARC Raiders x360",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/ARC Raiders x360"
+  }
+}

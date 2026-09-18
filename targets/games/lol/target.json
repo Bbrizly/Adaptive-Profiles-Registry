@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "id": "lol",
+  "kind": "game",
+  "name": "LOL",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/LOL"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q106409697",
+    "url": "https://www.wikidata.org/entity/Q106409697",
+    "name": "LOL",
+    "description": "internationally franchised comedy format by Prime Video",
+    "releaseDate": null,
+    "genres": [
+      "comedy"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

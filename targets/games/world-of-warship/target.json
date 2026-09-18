@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "world-of-warship",
+  "kind": "game",
+  "name": "World of Warship",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1TgkBFb_ZTvwcDaKHZ8XiglspZAK4Nd8ZxQr6hKUcAwc/edit",
+    "title": "QuadStick public configuration catalog — Heiko/World of Warship PC"
+  }
+}

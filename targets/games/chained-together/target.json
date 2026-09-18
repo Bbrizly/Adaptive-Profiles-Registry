@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "chained-together",
+  "kind": "game",
+  "name": "Chained together",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1pJ2nN-BChvORwOW7hqFJB9FQHbOKBlMSl8ItPs2OIds/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Chained together"
+  }
+}

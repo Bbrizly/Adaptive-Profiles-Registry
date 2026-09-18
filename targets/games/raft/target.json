@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "raft",
+  "kind": "game",
+  "name": "Raft",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1GnMWGnnOgdA0KjMzzfzYdMYZu0sA5T160vtvsAB5atc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Raft"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q65123036",
+    "url": "https://www.wikidata.org/entity/Q65123036",
+    "name": "Raft",
+    "description": "river rapids ride at Parc Bagatelle, France",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

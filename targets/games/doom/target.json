@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "doom",
+  "kind": "game",
+  "name": "Doom",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/18H90AlTF2gLjoG6H1QYiFnOC5ZaiTWQ0Uc72QLM7IOM/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Doom"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q133799925",
+    "url": "https://www.wikidata.org/entity/Q133799925",
+    "name": "Doom",
+    "description": "comics character",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

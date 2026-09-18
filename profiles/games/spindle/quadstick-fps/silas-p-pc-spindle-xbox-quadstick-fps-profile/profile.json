@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-spindle-xbox-quadstick-fps-profile",
+  "title": "Spindle — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "spindle"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1GpU47j5Oa68IGLtEvZlZi64ZLk4ff_ySZIorRuOB5Jk/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "cb6baad2e5b1682bcb8fde8bf4d152ed5fcaa1e2fcc6c6c66ef38d00cfe86acf"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "far-cry-6",
+  "kind": "game",
+  "name": "Far Cry 6",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1_e_EeCCK1oqTBX0-NzCJq14ccEEFPjgS1LBw0Ifyftg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Far Cry 6 PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q97120062",
+    "url": "https://www.wikidata.org/entity/Q97120062",
+    "name": "Far Cry 6",
+    "description": "2021 video game developed by Ubisoft Toronto",
+    "releaseDate": "2021-10-07",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

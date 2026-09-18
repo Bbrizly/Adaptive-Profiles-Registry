@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "hunt-showdown",
+  "kind": "game",
+  "name": "Hunt: Showdown",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1bWHewoqFhR5UbttJAw4rFexc_Ah4zAymVnJZM3hBIM0/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Hunt: Showdown"
+  }
+}

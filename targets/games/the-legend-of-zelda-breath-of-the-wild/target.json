@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "the-legend-of-zelda-breath-of-the-wild",
+  "kind": "game",
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1lVd4H23afFmXZdvVnCRK65CHagIfJes7P4H4TzsCSkM/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Zelda Breath of the Wild"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q17185964",
+    "url": "https://www.wikidata.org/entity/Q17185964",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "2017 action-adventure video game developed by Nintendo",
+    "releaseDate": "2017-03-03",
+    "genres": [
+      "post-apocalyptic video game",
+      "action-adventure game",
+      "role-playing video game"
+    ],
+    "platforms": [
+      "Wii U"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

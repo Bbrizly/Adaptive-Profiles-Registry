@@ -14,5 +14,22 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1vYHBmurDRa1lFTmE3oyOVChW_D1zSx3oG6Ln6yWO_Os/edit",
     "title": "QuadStick public configuration catalog — Wizard101"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q614418",
+    "url": "https://www.wikidata.org/entity/Q614418",
+    "name": "Wizard101",
+    "description": "massively multiplayer online role-playing game",
+    "releaseDate": "2008-09-02",
+    "genres": [
+      "massively multiplayer online role-playing game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

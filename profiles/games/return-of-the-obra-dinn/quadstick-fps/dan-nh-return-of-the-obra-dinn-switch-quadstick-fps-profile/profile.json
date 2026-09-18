@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "dan-nh-return-of-the-obra-dinn-switch-quadstick-fps-profile",
+  "title": "Return of the Obra Dinn — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "return-of-the-obra-dinn"
+  },
+  "platform": "switch",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1ItVcDPCnx2u7gjayvsKXezxFAtLOcX6QHdQYRwPyGcg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "93859aab84bf4e93d6f4ebd25d91bc116d5e91d4399454d9d6733ab5708bd619"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

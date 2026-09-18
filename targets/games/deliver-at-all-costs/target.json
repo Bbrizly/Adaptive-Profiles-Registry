@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "deliver-at-all-costs",
+  "kind": "game",
+  "name": "Deliver At All Costs",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KwQPwEljy-Pr4hUaojmsI1BVfuJkZUtMF79Ij8wPiog/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Deliver At All Costs"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q130249584",
+    "url": "https://www.wikidata.org/entity/Q130249584",
+    "name": "Deliver At All Costs",
+    "description": "2025 video game",
+    "releaseDate": "2025-05-22",
+    "genres": [
+      "action game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

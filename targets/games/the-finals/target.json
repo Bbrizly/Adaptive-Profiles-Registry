@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "the-finals",
+  "kind": "game",
+  "name": "THE FINALS",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Wuw6JOyKBHtRdQlafGWFMtRw9Ze_vUK098rTN73qTLo/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/the Finals"
+  }
+}

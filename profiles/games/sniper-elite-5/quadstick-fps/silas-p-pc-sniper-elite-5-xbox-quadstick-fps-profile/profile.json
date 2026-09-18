@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-sniper-elite-5-xbox-quadstick-fps-profile",
+  "title": "Sniper Elite 5 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "sniper-elite-5"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/104YnqX1wboP9EIrzun4HBmZBdMkqg8JgUGAhN_i_lzY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ed3b5984840b72fece2c72a5bde32d369e373e36a294ad0eb1056f4143b96c05"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

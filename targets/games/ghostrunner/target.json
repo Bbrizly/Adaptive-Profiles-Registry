@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "ghostrunner",
+  "kind": "game",
+  "name": "Ghostrunner",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1tG7i4ErITtE3kJ1kR1SoZ22IQtunHY7EHRSQxUrXUeg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Ghostrunner"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q122362377",
+    "url": "https://www.wikidata.org/entity/Q122362377",
+    "name": "Ghostrunner",
+    "description": "video game series",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

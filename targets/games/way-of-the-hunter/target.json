@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "id": "way-of-the-hunter",
+  "kind": "game",
+  "name": "Way of the Hunter",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1rMbrrEhgRtdzp7tGETVVuF5iRriWIvA-zzaYnM97OPc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Way of the Hunter"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q130582346",
+    "url": "https://www.wikidata.org/entity/Q130582346",
+    "name": "Way of the Hunter",
+    "description": "2018 Canadian film directed by Robert Moberg",
+    "releaseDate": "2018-11-30",
+    "genres": [
+      "animals documentary"
+    ],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

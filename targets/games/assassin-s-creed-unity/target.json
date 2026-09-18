@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "assassin-s-creed-unity",
+  "kind": "game",
+  "name": "Assassin's Creed Unity",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1N37L5cvv4Ys7XiA8Khx7XaQCrMaQdsJQmDgou9NvZTA/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Assassin&#39;s Creed Unity"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q15983778",
+    "url": "https://www.wikidata.org/entity/Q15983778",
+    "name": "Assassin's Creed Unity",
+    "description": "2014 action-adventure video game developed by Ubisoft Montreal",
+    "releaseDate": "2014-11-11",
+    "genres": [
+      "historical video game",
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

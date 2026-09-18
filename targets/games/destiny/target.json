@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1SQouaAS7jkhmTpQ5TxwFAicCPwor9qXv7r-ostKDAH0/edit",
     "title": "QuadStick public configuration catalog — Destiny"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q106310747",
+    "url": "https://www.wikidata.org/entity/Q106310747",
+    "name": "Destiny",
+    "description": "professional paintball team",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "id": "cyberpunk-2077",
+  "kind": "game",
+  "name": "Cyberpunk 2077",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/169Z5ZDN_tt_Nk-06OB7NVKif-rQdQDlNfFv-J-9ZvlU/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Cyberpunk 2077 PC KO"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q3182559",
+    "url": "https://www.wikidata.org/entity/Q3182559",
+    "name": "Cyberpunk 2077",
+    "description": "2020 role-playing video game developed by CD Projekt RED",
+    "releaseDate": "2020-12-10",
+    "genres": [
+      "action role-playing game",
+      "cyberpunk video game",
+      "science fiction video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

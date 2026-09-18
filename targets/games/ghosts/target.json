@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1B7Fxx7SREQSEJlWchM4_HmeXEEavXP2pDa8qwMFsLdU/edit",
     "title": "QuadStick public configuration catalog — Ghosts"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q100937631",
+    "url": "https://www.wikidata.org/entity/Q100937631",
+    "name": "Ghosts",
+    "description": "original song written and composed by Bruce Springsteen",
+    "releaseDate": "2020-01-01",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

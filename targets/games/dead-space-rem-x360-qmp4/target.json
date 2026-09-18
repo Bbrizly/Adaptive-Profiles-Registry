@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "dead-space-rem-x360-qmp4",
+  "kind": "game",
+  "name": "Dead Space Rem x360 (QMP4)",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1EAKy4QzOnqirw99vqmSFOC6VwK-TNTQENPq0KcCibB8/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Dead Space Rem x360 (QMP4)"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q117100765",
+    "url": "https://www.wikidata.org/entity/Q117100765",
+    "name": "Dead Space",
+    "description": "2021 novel by Kali Wallace",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

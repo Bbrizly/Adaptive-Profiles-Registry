@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "need-for-speed-heat",
+  "kind": "game",
+  "name": "Need for Speed - Heat",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1tzBf62nX51i4lfui-Yk-Ep7qUjh3gcx8KLUPjwRt5WI/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Need for Speed - Heat"
+  }
+}

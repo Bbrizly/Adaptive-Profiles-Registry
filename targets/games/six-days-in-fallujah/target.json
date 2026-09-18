@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "six-days-in-fallujah",
+  "kind": "game",
+  "name": "Six Days In Fallujah",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1pyy8RCtgsqcKaxcz8JdlzeRQH_RlRSq_HrTxQxYrYsk/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Six Days In Fallujah"
+  }
+}

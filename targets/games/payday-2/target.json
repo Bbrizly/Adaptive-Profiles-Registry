@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "payday-2",
+  "kind": "game",
+  "name": "Payday 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1a9eyYBfPF4KGqkeyGS-bIY01DAkfQU7oHDHjAYiGMuo/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Payday 2"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q7156711",
+    "url": "https://www.wikidata.org/entity/Q7156711",
+    "name": "Payday 2",
+    "description": "2013 video game",
+    "releaseDate": "2013-08-13",
+    "genres": [
+      "stealth game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

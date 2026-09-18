@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1D7Fv9lzpiWvTRFiTHiMZU0Fo8Yg1Q7Caud_6qEZTmiU/edit",
     "title": "QuadStick public configuration catalog — NBA 2K PS4"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q16070112",
+    "url": "https://www.wikidata.org/entity/Q16070112",
+    "name": "NBA 2K",
+    "description": "Wikimedia disambiguation page",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

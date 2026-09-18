@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1mcndPYuI8NFSmo2i31LvFFAaQplXBNi8IzJlvoGd8Ug/edit",
     "title": "QuadStick public configuration catalog — Journey"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q102966759",
+    "url": "https://www.wikidata.org/entity/Q102966759",
+    "name": "Journey",
+    "description": "painting by Joseph Fiore",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

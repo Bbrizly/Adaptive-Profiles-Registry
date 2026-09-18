@@ -12,7 +12,8 @@
     "action-adventure"
   ],
   "platforms": [
-    "pc"
+    "pc",
+    "xbox"
   ],
   "actions": [
     {
@@ -91,5 +92,24 @@
   "source": {
     "url": "https://www.ea.com/able/resources/star-wars/jedi-fallen-order/pc/text-manual",
     "title": "Star Wars Jedi: Fallen Order PC Text Manual"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q55449345",
+    "url": "https://www.wikidata.org/entity/Q55449345",
+    "name": "Star Wars Jedi: Fallen Order",
+    "description": "2019 single-player action-adventure video game",
+    "releaseDate": "2019-11-15",
+    "genres": [
+      "space opera video game",
+      "Metroidvania",
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

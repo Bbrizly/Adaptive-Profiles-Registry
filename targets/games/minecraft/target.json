@@ -204,5 +204,17 @@
         "verifiedAt": "2026-09-11"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q112863331",
+    "url": "https://www.wikidata.org/entity/Q112863331",
+    "name": "Minecraft",
+    "description": "video game series",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
 }

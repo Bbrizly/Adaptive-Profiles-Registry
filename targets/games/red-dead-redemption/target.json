@@ -14,5 +14,23 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1JjdHjzUOnd7-UxePjCnPIZyNWdkoPtzA_c-bBJTw2mM/edit",
     "title": "QuadStick public configuration catalog — Red Dead Redemption"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q548203",
+    "url": "https://www.wikidata.org/entity/Q548203",
+    "name": "Red Dead Redemption",
+    "description": "2010 action-adventure video game",
+    "releaseDate": "2010-05-18",
+    "genres": [
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

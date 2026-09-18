@@ -8,11 +8,24 @@
     "gaming"
   ],
   "platforms": [
-    "pc"
+    "pc",
+    "xbox"
   ],
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1MhaLAoX19Pgx-MLhOtwsk45PHUM01JexlxRn6UgNVk4/edit",
     "title": "QuadStick public configuration catalog — World of Tanks"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q108371732",
+    "url": "https://www.wikidata.org/entity/Q108371732",
+    "name": "World of Tanks",
+    "description": "video game series",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

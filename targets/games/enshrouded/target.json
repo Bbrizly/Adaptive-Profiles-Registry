@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "enshrouded",
+  "kind": "game",
+  "name": "Enshrouded",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1jDxHP_SIoWuSiV33EuFAzYJwMPa0PoZyKdreXSS6THU/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Enshrouded"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q122914994",
+    "url": "https://www.wikidata.org/entity/Q122914994",
+    "name": "Enshrouded",
+    "description": "2026 video game developed by Keen Games",
+    "releaseDate": "2024-01-24",
+    "genres": [
+      "survival game",
+      "role-playing video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "trepang-2",
+  "kind": "game",
+  "name": "Trepang 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KxeZdoIX-iQIlNPFCJPjzphZ0fp4zaOX921gX_AilXE/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Trepang 2"
+  }
+}

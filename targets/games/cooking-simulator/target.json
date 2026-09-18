@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "cooking-simulator",
+  "kind": "game",
+  "name": "Cooking Simulator",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/17jvrVGvfI1HnUBzwG7VtXgG4zNl6cFvSXRrY5j3Rzyc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Cooking Simulator"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q86103610",
+    "url": "https://www.wikidata.org/entity/Q86103610",
+    "name": "Cooking Simulator",
+    "description": "2019 video game",
+    "releaseDate": "2019-06-06",
+    "genres": [
+      "simulation video game",
+      "business simulation game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

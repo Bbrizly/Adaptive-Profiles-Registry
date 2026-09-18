@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "id": "sniper-elite-5",
+  "kind": "game",
+  "name": "Sniper Elite 5",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/104YnqX1wboP9EIrzun4HBmZBdMkqg8JgUGAhN_i_lzY/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Elite 5"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q63464391",
+    "url": "https://www.wikidata.org/entity/Q63464391",
+    "name": "Sniper Elite 5",
+    "description": "2022 video game developed by Rebellion Developments",
+    "releaseDate": "2022-01-01",
+    "genres": [
+      "stealth game",
+      "tactical shooter",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

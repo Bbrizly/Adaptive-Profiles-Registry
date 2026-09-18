@@ -14,5 +14,24 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1fFYwT32xukGVdq9CTnL_Sv4zB1a-zMZqgi34s3EGVFY/edit",
     "title": "QuadStick public configuration catalog — Star Wars Battlefront PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q54862",
+    "url": "https://www.wikidata.org/entity/Q54862",
+    "name": "Star Wars Battlefront",
+    "description": "2015 action shooter video game developed by DICE",
+    "releaseDate": "2015-11-17",
+    "genres": [
+      "first-person shooter",
+      "science fiction video game",
+      "space opera video game",
+      "third-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

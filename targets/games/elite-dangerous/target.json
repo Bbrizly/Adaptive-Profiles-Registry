@@ -14,5 +14,26 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1cjzAsSRdQdt32Ja9h6KDf90lxn_08Qb0n3XuJz1ARa8/edit",
     "title": "QuadStick public configuration catalog — Elite Dangerous PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q4980843",
+    "url": "https://www.wikidata.org/entity/Q4980843",
+    "name": "Elite Dangerous",
+    "description": "2014 space trading and combat simulator",
+    "releaseDate": "2014-12-16",
+    "genres": [
+      "science fiction video game",
+      "space trading and combat game",
+      "space flight simulation game",
+      "massively multiplayer online game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

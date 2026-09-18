@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "id": "apex-legends",
+  "kind": "game",
+  "name": "Apex Legends",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1b31Tna8v829uzOD0Lmo79ysbbF2lP8aAdw_0C6UmTG8/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Apex x360"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q61478103",
+    "url": "https://www.wikidata.org/entity/Q61478103",
+    "name": "Apex Legends",
+    "description": "2019 video game",
+    "releaseDate": "2019-02-04",
+    "genres": [
+      "hero shooter",
+      "battle royale game",
+      "tactical shooter",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

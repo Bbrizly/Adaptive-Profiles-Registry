@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-world-of-tanks-xbox-quadstick-fps-profile",
+  "title": "World of Tanks — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "world-of-tanks"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1l4gpyV0GimPRY1H7a13Xue_R7PkYpYR_VYhJQszptIg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ea22f6135c17ae28c6172b9a7c1fd19707c88dbbbafb2d5c897e04ed0bfe6b81"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

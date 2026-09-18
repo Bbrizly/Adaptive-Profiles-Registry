@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-gta-v-xbox-quadstick-fps-gta5test",
+  "title": "GTA V — gta5test",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "gta-v"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1aEzDToS8IrLfdTpFECgtcpSmdG0szkd2djNlVnmiGls/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "e27fc7a75dce29fdca905f577fea34572128c95c0f1f6265f9dbe54ea09ca9b2"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -8,11 +8,29 @@
     "gaming"
   ],
   "platforms": [
-    "playstation"
+    "playstation",
+    "xbox"
   ],
   "actions": [],
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1IXELetNPTwGKBm-ywDSS8mO9_dRcRGym6YZVU064B5M/edit",
     "title": "QuadStick public configuration catalog — Far Cry 5"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q30015130",
+    "url": "https://www.wikidata.org/entity/Q30015130",
+    "name": "Far Cry 5",
+    "description": "2018 video game",
+    "releaseDate": "2018-03-27",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
   }
 }

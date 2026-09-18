@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "red-dead-redemption-2",
+  "kind": "game",
+  "name": "Red Dead Redemption 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation",
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Wz4ft6QSMIgLzI2d_e-IKv3nKv3v-ljFTiLL1sG4EAg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Red Dead Redemption II PS5"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q27438121",
+    "url": "https://www.wikidata.org/entity/Q27438121",
+    "name": "Red Dead Redemption 2",
+    "description": "2018 western-themed action-adventure video game",
+    "releaseDate": "2018-10-26",
+    "genres": [
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

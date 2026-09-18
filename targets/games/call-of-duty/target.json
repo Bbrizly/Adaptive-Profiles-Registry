@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/18TzKdbmJ_gmthciivPeVyoMBFnD1aPKqTZngK4WW6kA/edit",
     "title": "QuadStick public configuration catalog — Call of Duty"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q67187401",
+    "url": "https://www.wikidata.org/entity/Q67187401",
+    "name": "Call of Duty",
+    "description": "episode of Melissa & Joey (S4 E13)",
+    "releaseDate": "2015-06-03",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

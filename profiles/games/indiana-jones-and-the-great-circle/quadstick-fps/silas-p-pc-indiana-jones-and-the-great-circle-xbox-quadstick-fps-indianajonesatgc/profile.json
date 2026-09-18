@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-indiana-jones-and-the-great-circle-xbox-quadstick-fps-indianajonesatgc",
+  "title": "Indiana Jones and the Great Circle — IndianaJonesAtGC",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "indiana-jones-and-the-great-circle"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/13plpK5hQjUYomSLeXn7uzQKoGDiGgFDsDdExmX-PbuM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "99b6cb62921974ef9d6bd51d7e4b1c5dad1401ad228872faaa3b128f300e778f"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

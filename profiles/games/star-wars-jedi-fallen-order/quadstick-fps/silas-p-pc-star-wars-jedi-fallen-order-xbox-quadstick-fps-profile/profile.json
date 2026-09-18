@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-star-wars-jedi-fallen-order-xbox-quadstick-fps-profile",
+  "title": "Star Wars Jedi: Fallen Order — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "star-wars-jedi-fallen-order"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1GT7lNcvrXdhSMv0447lZ2uQ6dhGDfXMYAezsSRxbA7I/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "c31cc62f0994b1ae88b4f6eea08639b27a2a1994cc77d0554bb307bde748e96a"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "the-witcher-3-wild-hunt",
+  "kind": "game",
+  "name": "The Witcher 3: Wild Hunt",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1wj5D5UdQ_bEA1d1k-SKwPDm8sPmYUXMHmgdLAGtTqlQ/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Witcher III PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q4267401",
+    "url": "https://www.wikidata.org/entity/Q4267401",
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "2015 action role-playing video game",
+    "releaseDate": "2015-05-19",
+    "genres": [
+      "fantasy video game",
+      "action role-playing game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

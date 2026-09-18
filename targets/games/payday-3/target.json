@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "payday-3",
+  "kind": "game",
+  "name": "Payday 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1iQEMlou7q3lAyXs8GqC-d8UspKrmiJefQnemGXhVjuQ/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Payday 3"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q85130376",
+    "url": "https://www.wikidata.org/entity/Q85130376",
+    "name": "Payday 3",
+    "description": "2023 video game developed by Overkill Software",
+    "releaseDate": "2023-09-21",
+    "genres": [
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

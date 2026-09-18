@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "control",
+  "kind": "game",
+  "name": "Control",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1UN9s3MlNWSrDpkH2sniLMEjgHoEOkVvukMSQyOgZFEY/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Control"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q99670359",
+    "url": "https://www.wikidata.org/entity/Q99670359",
+    "name": "Control",
+    "description": "2020 single by Nahaze",
+    "releaseDate": "2020-09-22",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

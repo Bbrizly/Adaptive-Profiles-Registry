@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "battlefield-v",
+  "kind": "game",
+  "name": "Battlefield V",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1qC6MbVyGxbGCEqhAwPuCWwTA3uDdduh3zbEjpvOZSEI/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Battlefield V PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q21043786",
+    "url": "https://www.wikidata.org/entity/Q21043786",
+    "name": "Battlefield V",
+    "description": "2018 first-person shooter video game developed by EA DICE",
+    "releaseDate": "2018-11-20",
+    "genres": [
+      "battle royale game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

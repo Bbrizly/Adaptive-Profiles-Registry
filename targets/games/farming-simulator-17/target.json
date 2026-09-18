@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "farming-simulator-17",
+  "kind": "game",
+  "name": "Farming Simulator 17",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1H4l1Bn6veSrsSofLhrLY6JCvLoqnwKi2oejWLB6N1l8/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Farming Simulator 17"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q25384945",
+    "url": "https://www.wikidata.org/entity/Q25384945",
+    "name": "Farming Simulator 17",
+    "description": "2016 video game",
+    "releaseDate": "2016-10-24",
+    "genres": [
+      "simulation video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

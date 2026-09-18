@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "tony-hawk",
+  "kind": "game",
+  "name": "Tony Hawk",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1YERuZoXEhwrnpFwem8l5BtEurnfpPv1JFp7IGL76tos/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Tony Hawk"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q18613117",
+    "url": "https://www.wikidata.org/entity/Q18613117",
+    "name": "Tony Hawk",
+    "description": "296th strip of the webcomic xkcd",
+    "releaseDate": "2007-07-30",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

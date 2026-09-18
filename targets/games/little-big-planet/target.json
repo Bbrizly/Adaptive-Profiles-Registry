@@ -14,5 +14,17 @@
   "source": {
     "url": "https://docs.google.com/spreadsheets/d/1RcFJ1fcDPrDhmDBgo84QhTybosCnyq-3xTpsDnuY29w/edit",
     "title": "QuadStick public configuration catalog — Little Big Planet"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q3256638",
+    "url": "https://www.wikidata.org/entity/Q3256638",
+    "name": "Little Big Planet",
+    "description": "Wikimedia disambiguation page",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
   }
 }

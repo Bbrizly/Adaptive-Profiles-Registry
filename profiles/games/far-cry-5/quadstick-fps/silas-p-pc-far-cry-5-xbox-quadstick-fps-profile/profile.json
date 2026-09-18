@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-far-cry-5-xbox-quadstick-fps-profile",
+  "title": "Far Cry 5 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "far-cry-5"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1pk_POZlw-oUN2iPXkQQotn0G0KwyC8-1aNfWE6aVFxs/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "36d86ca8b4b31e9ccbba7a86ccb6d73f15ea5f0e4c84fe0b357dc52b977bf50e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

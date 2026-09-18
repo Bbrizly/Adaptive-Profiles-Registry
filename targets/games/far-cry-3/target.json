@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "far-cry-3",
+  "kind": "game",
+  "name": "Far Cry 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/14Wu6gM8SGU8Yd11IQw8RvGLSfcVgRbmhWbxXHZNDyDA/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Far Cry 3 PC"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q796529",
+    "url": "https://www.wikidata.org/entity/Q796529",
+    "name": "Far Cry 3",
+    "description": "2012 open world, action-adventure first-person shooter video game",
+    "releaseDate": "2012-11-29",
+    "genres": [
+      "action-adventure game",
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "PlayStation 3"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

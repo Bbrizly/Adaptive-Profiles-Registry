@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "a-way-out",
+  "kind": "game",
+  "name": "A Way Out",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Gw6ydYt1-Jn5qJCzo0Q7YhMTuZKg7GhItYrJA4ApeaU/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/A Way Out"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q140927488",
+    "url": "https://www.wikidata.org/entity/Q140927488",
+    "name": "A Way Out",
+    "description": "episode of Chicago P.D. (S9 E9)",
+    "releaseDate": null,
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

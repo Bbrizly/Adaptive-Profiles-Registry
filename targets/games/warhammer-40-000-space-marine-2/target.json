@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "warhammer-40-000-space-marine-2",
+  "kind": "game",
+  "name": "Warhammer 40,000: Space Marine 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1kvbvy13xe6Ist6xC2_9UCGZRr-BCGIbcdia-ERymFeI/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Warhammer 40k - Space Marine 2"
+  }
+}

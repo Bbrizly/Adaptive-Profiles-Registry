@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-modern-warfare-iii",
+  "kind": "game",
+  "name": "Call of Duty: Modern Warfare III",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1eSkMSW4EAAjzR_Bisgjj0m-RRPhJ24XMvwDkHDzTZC8/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Modern Warfare III - WZ 2.0 x360 (QMP4)"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q121295422",
+    "url": "https://www.wikidata.org/entity/Q121295422",
+    "name": "Call of Duty: Modern Warfare III",
+    "description": "2023 video game developed by Sledgehammer Games",
+    "releaseDate": "2023-11-10",
+    "genres": [
+      "first-person shooter"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

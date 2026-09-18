@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "the-last-of-us-part-ii",
+  "kind": "game",
+  "name": "The Last of Us Part II",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/195oQ56RWrCN6UIyWCcOluT0kcUojij3Hv8aSO-vkM5I/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/The Last of Us Part II"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q121826569",
+    "url": "https://www.wikidata.org/entity/Q121826569",
+    "name": "The Last of Us Part II",
+    "description": "2020 film by Anthony Newman, Kurt Margenau, and Neil Druckmann",
+    "releaseDate": "2020-01-01",
+    "genres": [],
+    "platforms": [],
+    "fetchedAt": "2026-09-18"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "id": "return-of-the-obra-dinn",
+  "kind": "game",
+  "name": "Return of the Obra Dinn",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ItVcDPCnx2u7gjayvsKXezxFAtLOcX6QHdQYRwPyGcg/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/Return of the Obra Dinn"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q48987695",
+    "url": "https://www.wikidata.org/entity/Q48987695",
+    "name": "Return of the Obra Dinn",
+    "description": "2018 adventure video game developed by Lucas Pope",
+    "releaseDate": "2018-10-18",
+    "genres": [
+      "mystery video game",
+      "puzzle video game",
+      "adventure video game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "macOS"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "id": "split-fiction",
+  "kind": "game",
+  "name": "Split Fiction",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1nYEp6ue5_LbdQfuWtZ7KEc7lUO9DI1SGZDE4Fexd2zY/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Split Fiction"
+  },
+  "metadata": {
+    "provider": "wikidata",
+    "license": "CC0",
+    "id": "Q131433899",
+    "url": "https://www.wikidata.org/entity/Q131433899",
+    "name": "Split Fiction",
+    "description": "2025 video game developed by Hazelight Studios",
+    "releaseDate": "2025-03-06",
+    "genres": [
+      "action-adventure game"
+    ],
+    "platforms": [
+      "Microsoft Windows",
+      "Xbox Series X and Series S"
+    ],
+    "fetchedAt": "2026-09-18"
+  }
+}

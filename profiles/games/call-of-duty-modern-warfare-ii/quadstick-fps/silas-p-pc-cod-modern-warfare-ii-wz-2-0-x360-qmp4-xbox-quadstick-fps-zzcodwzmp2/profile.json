@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-modern-warfare-ii-wz-2-0-x360-qmp4-xbox-quadstick-fps-zzcodwzmp2",
+  "title": "Call of Duty: Modern Warfare II — zzCoDWZMP2",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "call-of-duty-modern-warfare-ii"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1EMjzgjjIG47P-904Jip9bqOUEBTmoeJoDkpChdU1Puo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ecd7a10646ff73a0dc6d9ab96cb051dc22aceb3113cddd6a9a9a4b1d3f12806b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

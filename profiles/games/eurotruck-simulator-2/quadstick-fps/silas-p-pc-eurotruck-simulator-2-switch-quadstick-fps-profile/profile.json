@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-eurotruck-simulator-2-switch-quadstick-fps-profile",
+  "title": "Eurotruck Simulator 2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "eurotruck-simulator-2"
+  },
+  "platform": "switch",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1ahAn9pJFb_4eRSlsPkB-tQy3pUtOlZbIt8xk0JtzEIA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a7f105186273cbf11997b462380c029edc71ffe20d5717cfb54d96f1cc5f52cc"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

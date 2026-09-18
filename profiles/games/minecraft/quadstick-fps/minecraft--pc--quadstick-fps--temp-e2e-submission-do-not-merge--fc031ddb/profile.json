@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "minecraft--pc--quadstick-fps--temp-e2e-submission-do-not-merge--fc031ddb",
+  "title": "TEMP E2E submission — do not merge",
+  "description": "Temporary live submission smoke test. Close without merging.",
+  "target": {
+    "kind": "game",
+    "id": "minecraft"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [],
+  "contributor": {
+    "displayName": "Adaptive Profiles E2E"
+  },
+  "source": {
+    "type": "csv"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ca1d833022463d5ed6955f9aaf2b97e64355d62150e954ee8973eb04ce261865"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18T07:05:01.562Z",
+  "updatedAt": "2026-09-18T07:05:01.562Z"
+}

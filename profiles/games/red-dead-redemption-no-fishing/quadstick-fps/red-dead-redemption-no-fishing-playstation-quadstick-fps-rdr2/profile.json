@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "red-dead-redemption-no-fishing-playstation-quadstick-fps-rdr2",
+  "title": "Red Dead Redemption - No fishing — rdr2",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "red-dead-redemption-no-fishing"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1fIqst8Ir7Vbq5ydwsD_G1w29xz7qDsPQkNVaSqmbxL4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "1b7d600660c7d91b0dab8c26ec918813f516cbdeb1dcc0562f37da913998ef96"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

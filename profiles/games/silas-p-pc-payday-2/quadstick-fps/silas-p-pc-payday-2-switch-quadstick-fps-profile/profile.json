@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-payday-2-switch-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Payday 2 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-payday-2"
+  },
+  "platform": "switch",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1a9eyYBfPF4KGqkeyGS-bIY01DAkfQU7oHDHjAYiGMuo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "62917d8bcac8c4e2e11c87a1163ecb1b7087231241fe83259d77afd57cdfcbba"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

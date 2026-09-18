@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "star-wars-battlefront",
+  "kind": "game",
+  "name": "Star Wars Battlefront",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1fFYwT32xukGVdq9CTnL_Sv4zB1a-zMZqgi34s3EGVFY/edit",
+    "title": "QuadStick public configuration catalog — Star Wars Battlefront PC"
+  }
+}

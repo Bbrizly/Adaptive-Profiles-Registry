@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-high-on-life-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/High on Life — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-high-on-life"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1kT3z3T4FKAM_TWb3EfuOToryGUtdNkf0Z9iY_-DwLUE/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "15cebd1f5565fea3914b30781193d116ba5ca8f7280a71e1bd162ab25365501e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

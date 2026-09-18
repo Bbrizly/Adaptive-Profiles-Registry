@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-doom",
+  "kind": "game",
+  "name": "Silas P. (PC)/Doom",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/18H90AlTF2gLjoG6H1QYiFnOC5ZaiTWQ0Uc72QLM7IOM/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Doom"
+  }
+}

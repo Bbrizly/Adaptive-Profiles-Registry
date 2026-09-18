@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "nba-2k-playstation-quadstick-fps-profile",
+  "title": "NBA 2K — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "nba-2k"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1D7Fv9lzpiWvTRFiTHiMZU0Fo8Yg1Q7Caud_6qEZTmiU/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "4afd1fe6042fb3a2aa116f85fef29faddc388e73be68ae9a8d2ef286536c9594"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

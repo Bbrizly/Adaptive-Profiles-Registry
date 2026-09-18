@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-dead-space-rem",
+  "kind": "game",
+  "name": "Silas P. (PC)/Dead Space Rem",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1hebQa5_ULEVIKfTU9nYBg9kMwSZL1WlGGaSgWhe-X-4/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Dead Space Rem PC"
+  }
+}

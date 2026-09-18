@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "nba2k15-xbox-quadstick-fps-profile",
+  "title": "NBA2k15 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "nba2k15"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/18JLSBlnmrpy0Z-o2ADCDmIwjXNhz-flX9-wq3tdVjFc/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "0b0e40b5c74e0ac91e89e44d306ee41a1de182b8221e9f268227e5251b699dae"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

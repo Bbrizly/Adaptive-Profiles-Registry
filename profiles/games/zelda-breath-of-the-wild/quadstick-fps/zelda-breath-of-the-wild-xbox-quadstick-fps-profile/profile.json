@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "zelda-breath-of-the-wild-xbox-quadstick-fps-profile",
+  "title": "Zelda Breath of the Wild — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "zelda-breath-of-the-wild"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1H6u09WSp14QSn5clduHecbKiwoy2eJA20rxNv8BIVzg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ae87d3ce5f7aefe2f5beb4a17f2379c65a8a16026a81bc5a72acc7b62a2a8e76"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "madden",
+  "kind": "game",
+  "name": "Madden",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1rEDy-PvZCX7cUb_6bDeVytnjBmiv3AzCQK0ufqjFJv8/edit",
+    "title": "QuadStick public configuration catalog — Madden"
+  }
+}

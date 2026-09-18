@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cyberpunk-2077",
+  "kind": "game",
+  "name": "Silas P. (PC)/Cyberpunk 2077",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/169Z5ZDN_tt_Nk-06OB7NVKif-rQdQDlNfFv-J-9ZvlU/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Cyberpunk 2077 PC KO"
+  }
+}

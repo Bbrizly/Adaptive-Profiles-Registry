@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-gta-v-fivem-2",
+  "kind": "game",
+  "name": "Silas P. (PC)/GTA V FiveM 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1W0Drr2pAvjEfoIyyF83bRYJvbMVoY19ZQXLt0nT2MKc/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/GTA V FiveM 2"
+  }
+}

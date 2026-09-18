@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-schedule-i-xbox-quadstick-fps-schedule-i",
+  "title": "Silas P. (PC)/Schedule I — Schedule I",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-schedule-i"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1gjB0ywmx9cuHd63rHTSYs9XmssmK4oSxMbxNtCpTxsM/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "8db4092ff7bab7d64d0a82067bd2966beffd5c5fc8eb561cf884fd2b5ad1a873"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

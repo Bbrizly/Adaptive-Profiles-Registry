@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-black-ops-6-wz-2-0-x360-qmp4-xbox-quadstick-fps-zzcodwzbo6",
+  "title": "Silas P. (PC)/CoD Black Ops 6 - WZ 2.0 x360 (QMP4) — zzCoDWZBO6",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-cod-black-ops-6-wz-2-0-x360-qmp4"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1OEhv6k4G7UpUWSJ6uIbB6HbOfw5bvufCOxFlwRTjdXc/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "2fe7090b0845481e8a09ffcbe40b208525cee9f600b384c121b5098d5e31e584"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

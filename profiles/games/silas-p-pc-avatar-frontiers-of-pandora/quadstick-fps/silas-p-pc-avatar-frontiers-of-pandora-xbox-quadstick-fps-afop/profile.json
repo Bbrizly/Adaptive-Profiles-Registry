@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-avatar-frontiers-of-pandora-xbox-quadstick-fps-afop",
+  "title": "Silas P. (PC)/Avatar - Frontiers of Pandora — AFOP",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-avatar-frontiers-of-pandora"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1c9vz84_v9iX2Wk3Dagz6Ek7SZSpUiz5f8Xfbq2gD7y8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "3f8325c68e1c4ceb37634b0574c0682269d08aaf05f0fdef6d1fb2c72750af29"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,2480 @@
+{
+  "imported": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1uNuoEx8lByuxlYAg0obPA4TqC4BZUlYvI-ZAI4xiW8w/edit",
+      "title": "8BitDo Lite SE",
+      "filename": "8BitDoSE.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "8bitdo-lite-se-xbox-quadstick-fps-8bitdose",
+      "target": "8bitdo-lite-se",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "f8f8e9e2b4494cb88aa7d8562fc0ba137883e18a841f041ddc53bc87ec5d73af"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Husu2QRmFEE7v2UbgeJNGO2qoz4ooa0x2nHSqYJtRu8/edit",
+      "title": "Dual UltraStiks",
+      "filename": "ultra2.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "dual-ultrastiks-playstation-quadstick-fps-ultra2",
+      "target": "dual-ultrastiks",
+      "platform": "playstation",
+      "device": "quadstick-fps",
+      "snapshotSha256": "8510cbbcf3f5f06d07915ca1f44511b260bd349eb089cf193b225483d6d90cf9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1TgkBFb_ZTvwcDaKHZ8XiglspZAK4Nd8ZxQr6hKUcAwc/edit",
+      "title": "Heiko/World of Warship PC",
+      "filename": "wows.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "heiko-world-of-warship-pc-quadstick-fps-wows",
+      "target": "heiko-world-of-warship",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "ebac7bf2fb9b1dd095a6a0d1a72e7ce16a00b38d5bcad210f4ff6af84e90470a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nkiCnbG_kxJL6suR6DlPK610tDJjel8sY86eyTYgQdA/edit",
+      "title": "Matt Victor CODMW",
+      "filename": "codmw.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "matt-victor-codmw-xbox-quadstick-fps-codmw",
+      "target": "matt-victor-codmw",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "c1c4b962ce1d4abad13f523b611ce0a1dd6a3a4074b904c567a7e7fa902f119b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit",
+      "title": "Matt Victor Tomb Raider",
+      "filename": "tomb.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "matt-victor-tomb-raider-playstation-quadstick-fps-tomb",
+      "target": "matt-victor-tomb-raider",
+      "platform": "playstation",
+      "device": "quadstick-fps",
+      "snapshotSha256": "e0a593dc1cba6896673a16a8c0063267a1094cf1ab2423eaf9f8655b3140eafc"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fdlx28uwnpgLirJKA7un-8jDe5wHgpHfWhfYGzKgIPA/edit",
+      "title": "Mayflash FightStick F300",
+      "filename": "Mayflash.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "mayflash-fightstick-f300-playstation-quadstick-fps-mayflash",
+      "target": "mayflash-fightstick-f300",
+      "platform": "playstation",
+      "device": "quadstick-fps",
+      "snapshotSha256": "0449439f023420f6015944a2c5d55e3bddf906f0f2af34b6bac55c78eefcd772"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nTCUMQwOGrn43_Gw8VkjrPHiUW4_qlkrmHZDeWNXjBg/edit",
+      "title": "Minecraft PC",
+      "filename": "mine.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "minecraft-pc-quadstick-fps-mine",
+      "target": "minecraft",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "fb2cb3fab4063784a3d143a038636508cb3c5e7eb0527951950d6526bed90d6c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fIqst8Ir7Vbq5ydwsD_G1w29xz7qDsPQkNVaSqmbxL4/edit",
+      "title": "Red Dead Redemption - No fishing",
+      "filename": "rdr2.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "red-dead-redemption-no-fishing-playstation-quadstick-fps-rdr2",
+      "target": "red-dead-redemption-no-fishing",
+      "platform": "playstation",
+      "device": "quadstick-fps",
+      "snapshotSha256": "1b7d600660c7d91b0dab8c26ec918813f516cbdeb1dcc0562f37da913998ef96"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1NfU7uvp3EZFWCTizgdQDEM7cFl4xe7Wu5VnpToJ8B8E/edit",
+      "title": "Silas P. (PC)/007 - First Light x360",
+      "filename": "007FirstLight.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-007-first-light-x360-xbox-quadstick-fps-007firstlight",
+      "target": "silas-p-pc-007-first-light-x360",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "1fec743fc69fee32290d49129d6f4e633f57d2df5c1b287b8b4ab010153b6cc6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1H-BEo678Amwp9JwEH9Ek3mhR26fdvGoS81ulqWGmftc/edit",
+      "title": "Silas P. (PC)/A Plague Tale 1+2",
+      "filename": "PlagueTale.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-a-plague-tale-1-2-xbox-quadstick-fps-plaguetale",
+      "target": "silas-p-pc-a-plague-tale-1-2",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "1def1583fde02e5dd6989061c858e46a75045e5b2ba4a9c00b542d52f7b90d9b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Gw6ydYt1-Jn5qJCzo0Q7YhMTuZKg7GhItYrJA4ApeaU/edit",
+      "title": "Silas P. (PC)/A Way Out",
+      "filename": "AWayOut.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-a-way-out-xbox-quadstick-fps-awayout",
+      "target": "silas-p-pc-a-way-out",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "a2eeab609daf694ab02d32490b603bb8b5a7cf1bd16c440d69447dea7c2b519f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit",
+      "title": "Silas P. (PC)/ARC Raiders x360",
+      "filename": "ARCRaiders.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-arc-raiders-x360-xbox-quadstick-fps-arcraiders",
+      "target": "silas-p-pc-arc-raiders-x360",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "ca13cc0fdfb36e4fe2ccd71ace032e02ecaf506ad0a68858a7e42543a96d4e0a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/10u6sdeXQrGstrgyEd9F0vVVlNhZbO7Mpa6eV3Csw04w/edit",
+      "title": "Silas P. (PC)/Alan Wake II",
+      "filename": "AlanWakeII.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-alan-wake-ii-xbox-quadstick-fps-alanwakeii",
+      "target": "silas-p-pc-alan-wake-ii",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "beb209dd85995fba14e8f5125903d29285a535f9ed6543ad68e7f5646f0bb8f2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ssATHDzzXmztD72iqOSQV4QZ4k_TXx3DdOhQaaiP4bw/edit",
+      "title": "Silas P. (PC)/Assassin&#39;s Creed IV - Black Flag Resynced",
+      "filename": "AC4BFR.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-assassin-39-s-creed-iv-black-flag-resynced-xbox-quadstick-fps-ac4bfr",
+      "target": "silas-p-pc-assassin-39-s-creed-iv-black-flag-resynced",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "a7115f4bda0aaadee638faad241d11e72962abd62911eeb9bd443a5819d845a7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1c9vz84_v9iX2Wk3Dagz6Ek7SZSpUiz5f8Xfbq2gD7y8/edit",
+      "title": "Silas P. (PC)/Avatar - Frontiers of Pandora",
+      "filename": "AFOP.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-avatar-frontiers-of-pandora-xbox-quadstick-fps-afop",
+      "target": "silas-p-pc-avatar-frontiers-of-pandora",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "3f8325c68e1c4ceb37634b0574c0682269d08aaf05f0fdef6d1fb2c72750af29"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1JbWzWfFS2PUDTub6HubE7g92A3BPififiOBgOAlUdTE/edit",
+      "title": "Silas P. (PC)/Baldurs Gate 3",
+      "filename": "BaldursGate3.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-baldurs-gate-3-pc-quadstick-fps-baldursgate3",
+      "target": "silas-p-pc-baldurs-gate-3",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "b3dd601f4e8e0cadb280993a7e2791f97a00ca47551718d380e03150d649d002"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1FR4vZQKxkJmP4Us-DWljjs19xrzc_cQWsCdzTdt61FU/edit",
+      "title": "Silas P. (PC)/Batman Arkham City",
+      "filename": "BatmanArkhamCity.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-batman-arkham-city-xbox-quadstick-fps-batmanarkhamcity",
+      "target": "silas-p-pc-batman-arkham-city",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "423ce08a6085201e634df3f2fa5ced56384b561e81c99566fc0391d92631fc1b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1DtlwQonmFcQA_j6mVQnJzG-UjQln7MwbYq4s7AQBiVw/edit",
+      "title": "Silas P. (PC)/Battlefield 2042 QMP4",
+      "filename": "BF2042.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-battlefield-2042-qmp4-xbox-quadstick-fps-bf2042",
+      "target": "silas-p-pc-battlefield-2042-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "04f2dc530ee8d031e9ba4c44d04c76f3e56e644620d747a48a4e32856adf230c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1h-0w0iTHO4oXhp5SS2XmfuKLZc2uCEF_DW64qkWPsNM/edit",
+      "title": "Silas P. (PC)/Battlefield 6 x360",
+      "filename": "BF6.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-battlefield-6-x360-xbox-quadstick-fps-bf6",
+      "target": "silas-p-pc-battlefield-6-x360",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "31be5f2578a46e6460312cf8a6ae224c99a8112168bcad41e9d8cfcf8bdbeccf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1pJ2nN-BChvORwOW7hqFJB9FQHbOKBlMSl8ItPs2OIds/edit",
+      "title": "Silas P. (PC)/Chained together",
+      "filename": "Chainedtogether.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-chained-together-xbox-quadstick-fps-chainedtogether",
+      "target": "silas-p-pc-chained-together",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "b7901c4d77b2a294b80b0679150c836a6ef7380cfc2754c1ca3069b5f7bd2f1f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Neb8ihhZ2_Pkd_fFTywtnVa6-6NJI6ofdeR4sCBOa8s/edit",
+      "title": "Silas P. (PC)/CoD Black Ops 6 - MP/Zombies x360 (QMP4)",
+      "filename": "zzCoDZBO6.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-black-ops-6-mp-zombies-x360-qmp4-xbox-quadstick-fps-zzcodzbo6",
+      "target": "silas-p-pc-cod-black-ops-6-mp-zombies-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "a6d26567754c7b3204bb5e4affec2adf064081cd73491e3d0f4385bf5c69fedd"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/19BUAl_q8GHpsQiBYeLw0dcw4dDt67BmO4nmbmpxVh-w/edit",
+      "title": "Silas P. (PC)/CoD Black Ops 6 - Single Player x360 (QMP4)",
+      "filename": "zzCoDBO6SP.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-black-ops-6-single-player-x360-qmp4-xbox-quadstick-fps-zzcodbo6sp",
+      "target": "silas-p-pc-cod-black-ops-6-single-player-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "5b6caa2088deb38f5f01460bf4689bffcef3bbcfa5acbdfc999002b716f23b6a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1OEhv6k4G7UpUWSJ6uIbB6HbOfw5bvufCOxFlwRTjdXc/edit",
+      "title": "Silas P. (PC)/CoD Black Ops 6 - WZ 2.0 x360 (QMP4)",
+      "filename": "zzCoDWZBO6.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-black-ops-6-wz-2-0-x360-qmp4-xbox-quadstick-fps-zzcodwzbo6",
+      "target": "silas-p-pc-cod-black-ops-6-wz-2-0-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "2fe7090b0845481e8a09ffcbe40b208525cee9f600b384c121b5098d5e31e584"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1JTCP8MmvQ8bfBzevGQCGZd5FPX5joA-UJ1MJbOTYy_4/edit",
+      "title": "Silas P. (PC)/CoD Modern Warfare 4 - MP x360 (QMP4)",
+      "filename": "zzCoDMWIV.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-modern-warfare-4-mp-x360-qmp4-xbox-quadstick-fps-zzcodmwiv",
+      "target": "silas-p-pc-cod-modern-warfare-4-mp-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "008782931ac15b491c4ba5c06b1075847ec4b75d6a2f9fbe8bda6bc8c8b4cb29"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EMjzgjjIG47P-904Jip9bqOUEBTmoeJoDkpChdU1Puo/edit",
+      "title": "Silas P. (PC)/CoD Modern Warfare II - WZ 2.0 x360 (QMP4)",
+      "filename": "zzCoDWZMP2.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-modern-warfare-ii-wz-2-0-x360-qmp4-xbox-quadstick-fps-zzcodwzmp2",
+      "target": "silas-p-pc-cod-modern-warfare-ii-wz-2-0-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "ecd7a10646ff73a0dc6d9ab96cb051dc22aceb3113cddd6a9a9a4b1d3f12806b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1X1Atq6Jerfj4klh8GpyG7dXvgRb-bD4wyZW_sNAh2c4/edit",
+      "title": "Silas P. (PC)/CoD Modern Warfare II Story x360 (QMP4)",
+      "filename": "zzCoDTestingx360.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-modern-warfare-ii-story-x360-qmp4-xbox-quadstick-fps-zzcodtestingx360",
+      "target": "silas-p-pc-cod-modern-warfare-ii-story-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "8b7e94120a9cc446761ab4ea3c0a3994adb717d1977dd50cefdf2dda2007825f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1eSkMSW4EAAjzR_Bisgjj0m-RRPhJ24XMvwDkHDzTZC8/edit",
+      "title": "Silas P. (PC)/CoD Modern Warfare III - WZ 2.0 x360 (QMP4)",
+      "filename": "zzCoDWZMP3.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cod-modern-warfare-iii-wz-2-0-x360-qmp4-xbox-quadstick-fps-zzcodwzmp3",
+      "target": "silas-p-pc-cod-modern-warfare-iii-wz-2-0-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "9140fa133cf3540af053d8d6c895dc3bf8824d5b3dc1f1e2510eb21247e15e7b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-V2CO92PWVJw0OB_LfyCCgrQIit4MQvLgnTAjTf17Tk/edit",
+      "title": "Silas P. (PC)/Cyberpunk 2077 PC QMP4",
+      "filename": "CyberPunk.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-cyberpunk-2077-xbox-quadstick-fps-cyberpunk",
+      "target": "silas-p-pc-cyberpunk-2077",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "f5b94d89e679b30478d3da4bebc1ab90c84242e2d84e33766b2ffcfba856ce05"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1hebQa5_ULEVIKfTU9nYBg9kMwSZL1WlGGaSgWhe-X-4/edit",
+      "title": "Silas P. (PC)/Dead Space Rem PC",
+      "filename": "DeadSpace.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-dead-space-rem-xbox-quadstick-fps-deadspace",
+      "target": "silas-p-pc-dead-space-rem",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "6b5113e7cbd6047cc851e7238126c85b9cbc204ce02bf3f7c37a3eb47c20f0c8"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1exH00SUYKmG5ecrh4pk4eLW7IRUQNb5tF-FCZryA40o/edit",
+      "title": "Silas P. (PC)/Deep Rock Galactic: Survivor",
+      "filename": "DeepRockSurvivor.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-deep-rock-galactic-survivor-xbox-quadstick-fps-deeprocksurvivor",
+      "target": "silas-p-pc-deep-rock-galactic-survivor",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "86e0c28324aa74337514999763c0b6e7858222e69e97319e2f532732025b98c0"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1jDxHP_SIoWuSiV33EuFAzYJwMPa0PoZyKdreXSS6THU/edit",
+      "title": "Silas P. (PC)/Enshrouded",
+      "filename": "Enshrouded.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-enshrouded-xbox-quadstick-fps-enshrouded",
+      "target": "silas-p-pc-enshrouded",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "26012c047db391234f5e8078955958bbf78657c2fffc856c6bdfc90bbcd1694c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/14Wu6gM8SGU8Yd11IQw8RvGLSfcVgRbmhWbxXHZNDyDA/edit",
+      "title": "Silas P. (PC)/Far Cry 3 PC",
+      "filename": "fc3pc.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-far-cry-3-pc-quadstick-fps-fc3pc",
+      "target": "silas-p-pc-far-cry-3",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "21cf10cb6b5bec122bff111e3538670bee70af10c4b37ac2c8689685ed264ff5"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nnljEgobdSer46u8tl_sirSDFZJ6MxOfi7BzoLHf8OI/edit",
+      "title": "Silas P. (PC)/Flight Simulator 24",
+      "filename": "fs2024.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-flight-simulator-24-xbox-quadstick-fps-fs2024",
+      "target": "silas-p-pc-flight-simulator-24",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "9ff44167b40871bf236eedbf96b957943522c0230ff9cefec1553ed48a7f6b4c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1o9FChx_Mz2Vjc-GQM9EWOT6U5K89ocWJFnKECPKPPiY/edit",
+      "title": "Silas P. (PC)/GTA V Redone (FiveM optimized)",
+      "filename": "GTAV.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-gta-v-redone-fivem-optimized-xbox-quadstick-fps-gtav",
+      "target": "silas-p-pc-gta-v-redone-fivem-optimized",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "777dfc7862cb099222692300b4404a1f4426ffa4e285026d871f678a82e4df61"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1aEzDToS8IrLfdTpFECgtcpSmdG0szkd2djNlVnmiGls/edit",
+      "title": "Silas P. (PC)/GTA V",
+      "filename": "gta5test.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-gta-v-xbox-quadstick-fps-gta5test",
+      "target": "silas-p-pc-gta-v",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "e27fc7a75dce29fdca905f577fea34572128c95c0f1f6265f9dbe54ea09ca9b2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit",
+      "title": "Silas P. (PC)/Helldivers II",
+      "filename": "Helldivers II.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-helldivers-ii-xbox-quadstick-fps-helldivers-ii",
+      "target": "silas-p-pc-helldivers-ii",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "70df8ba5d9b2400bb29e7009502477f58b5b0db704aebdda0e7df57ee425784c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_-9k7oBiZsGGMNTL85rE8onTY196Mihv3atKOO3uh3o/edit",
+      "title": "Silas P. (PC)/Hytale",
+      "filename": "Hytale.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-hytale-xbox-quadstick-fps-hytale",
+      "target": "silas-p-pc-hytale",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "21b4dccfca27b40061da8ef6ee59aa9a83cd883a0fd292a564f9655a105a1b7d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/13plpK5hQjUYomSLeXn7uzQKoGDiGgFDsDdExmX-PbuM/edit",
+      "title": "Silas P. (PC)/Indiana Jones and the Great Circle",
+      "filename": "IndianaJonesAtGC.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-indiana-jones-and-the-great-circle-xbox-quadstick-fps-indianajonesatgc",
+      "target": "silas-p-pc-indiana-jones-and-the-great-circle",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "99b6cb62921974ef9d6bd51d7e4b1c5dad1401ad228872faaa3b128f300e778f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nFfFBJ9xgPqu5MB4OhC-Al2fVHNVT4TUBszzwdiqQCQ/edit",
+      "title": "Silas P. (PC)/It takes two",
+      "filename": "ItTakesTwo.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-it-takes-two-xbox-quadstick-fps-ittakestwo",
+      "target": "silas-p-pc-it-takes-two",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "7cf9dd4c30d870e8e3102e25caf363600cdf7a2e38ce671ea19405770da73752"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fWSvI0yr9nfWafsMFoNLgKoy3hUaiAXrOEM1AAs5z40/edit",
+      "title": "Silas P. (PC)/Kingdom Come Deliverance II",
+      "filename": "KingdomCome2.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-kingdom-come-deliverance-ii-pc-quadstick-fps-kingdomcome2",
+      "target": "silas-p-pc-kingdom-come-deliverance-ii",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "d494adfcdac9ddd479dfae7e768ead2359746fd262f902ede23dd227a1a93989"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cxHQSWFEsKnOqvL0ZKc8OUKGKR9TOsiWnMAbP8iGuV4/edit",
+      "title": "Silas P. (PC)/Lego Fortnite",
+      "filename": "LegoFortnite.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-lego-fortnite-xbox-quadstick-fps-legofortnite",
+      "target": "silas-p-pc-lego-fortnite",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "9ce6f9ab82f4426b8a659f54b79eb6013687778b5af4796447abbf139e776443"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-CzP9i-T9z6YvoKVLa7PafmshB6JrkiSsLR_Ph__vP8/edit",
+      "title": "Silas P. (PC)/Lethal Company",
+      "filename": "LethalCompany.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-lethal-company-xbox-quadstick-fps-lethalcompany",
+      "target": "silas-p-pc-lethal-company",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "33644b1804587d95fdb7fa3da996dd797ffc13b68375e13b223b4a539640b5cd"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/13_iRbQCq1OY5RUsQrQBYYcvTyc7oJKJg6gwBDATuWAE/edit",
+      "title": "Silas P. (PC)/Maus2 TV",
+      "filename": "default1.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-maus2-tv-pc-quadstick-fps-default1",
+      "target": "silas-p-pc-maus2-tv",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "9405c3994b0b791f3ccbeb24230da148d8feb3f9ec43b41f389590a666a5a763"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1j9ud1kPYXCsY6DrM5ZMMKA1gURUfXLP-r8XOBAE_4zI/edit",
+      "title": "Silas P. (PC)/Max Payne 3",
+      "filename": "MaxPayne3.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-max-payne-3-xbox-quadstick-fps-maxpayne3",
+      "target": "silas-p-pc-max-payne-3",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "b348d4f1754fab9a2e714bebde8d0e1ddc3a2b16b43c1f99718b28f8c97d3332"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nMMkPHaEJ92uMN8kKmKy3-SFIg8KOCBbRFbCIurLYQE/edit",
+      "title": "Silas P. (PC)/Metal Gear Snake Eater",
+      "filename": "MetalGearSE.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-metal-gear-snake-eater-xbox-quadstick-fps-metalgearse",
+      "target": "silas-p-pc-metal-gear-snake-eater",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "cc94393073dd60d94560b10028d116bbf5a499fddfba34be00c45cfc1d6572bd"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1lY5kjL9I5rToU5-dj28Lt5Zyndemn6fgZASw1C5DgTY/edit",
+      "title": "Silas P. (PC)/Minecraft",
+      "filename": "Mc.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-minecraft-pc-quadstick-fps-mc",
+      "target": "silas-p-pc-minecraft",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "11e5e80700168e91d1561273b213e1cdbb25ff80534e166b8a3e4c4a0993e07f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kWsQQjk93BiFt9BsLWQNXfh4rHizI9rZ3ZB0wOrxG-U/edit",
+      "title": "Silas P. (PC)/Monitor Control - Samsung G8",
+      "filename": "MonRem.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-monitor-control-samsung-g8-pc-quadstick-fps-monrem",
+      "target": "silas-p-pc-monitor-control-samsung-g8",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "3cdf60334f014fab8e73b8a68c1d26ea43960ae245b4bdd3691122ed631e2802"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GnMWGnnOgdA0KjMzzfzYdMYZu0sA5T160vtvsAB5atc/edit",
+      "title": "Silas P. (PC)/Raft",
+      "filename": "Raft.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-raft-xbox-quadstick-fps-raft",
+      "target": "silas-p-pc-raft",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "8fdc14279176997f8f055467c589a813565e6ed5ecd48837e038c17a984731e6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Wz4ft6QSMIgLzI2d_e-IKv3nKv3v-ljFTiLL1sG4EAg/edit",
+      "title": "Silas P. (PC)/Red Dead Redemption II PS5",
+      "filename": "PS5_RedDeadRedemptionII.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-red-dead-redemption-ii-playstation-quadstick-fps-ps5-reddeadredemptionii",
+      "target": "silas-p-pc-red-dead-redemption-ii",
+      "platform": "playstation",
+      "device": "quadstick-fps",
+      "snapshotSha256": "54dd6b8f7d1f60c7062ff98d0f72442b58796b23c0e8fb2df9d6258b3537a6e7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1xjW0oUI3ld1tRrwgHgfhPPdNVu4LQ_Ot8UlxVzAK5D8/edit",
+      "title": "Silas P. (PC)/Red Dead Redemption II",
+      "filename": "RedDeadRedemptionII.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-red-dead-redemption-ii-xbox-quadstick-fps-reddeadredemptionii",
+      "target": "silas-p-pc-red-dead-redemption-ii",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "40a8a400dcbfd4911a995b656cba9b39e55810d228671803bf8927dc6b0dccbb"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1raPi-3ezaWA5bLGWdJyzcWFkoayaAbPdt45pf3p2saA/edit",
+      "title": "Silas P. (PC)/Satisfactory",
+      "filename": "satisfactory.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-satisfactory-xbox-quadstick-fps-satisfactory",
+      "target": "silas-p-pc-satisfactory",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "9db9887445908a558747e0ca72ad1b56fe534d32832f18f87bee377f66c3cb3b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1gjB0ywmx9cuHd63rHTSYs9XmssmK4oSxMbxNtCpTxsM/edit",
+      "title": "Silas P. (PC)/Schedule I",
+      "filename": "Schedule I.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-schedule-i-xbox-quadstick-fps-schedule-i",
+      "target": "silas-p-pc-schedule-i",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "8db4092ff7bab7d64d0a82067bd2966beffd5c5fc8eb561cf884fd2b5ad1a873"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1pyy8RCtgsqcKaxcz8JdlzeRQH_RlRSq_HrTxQxYrYsk/edit",
+      "title": "Silas P. (PC)/Six Days In Fallujah",
+      "filename": "SixDaysInFallujah.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-six-days-in-fallujah-xbox-quadstick-fps-sixdaysinfallujah",
+      "target": "silas-p-pc-six-days-in-fallujah",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "35a886d349147dae649da5abe2430f56b791bd755883c16173d7432dfeb5963a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nYEp6ue5_LbdQfuWtZ7KEc7lUO9DI1SGZDE4Fexd2zY/edit",
+      "title": "Silas P. (PC)/Split Fiction",
+      "filename": "SplitFiction.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-split-fiction-xbox-quadstick-fps-splitfiction",
+      "target": "silas-p-pc-split-fiction",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "cafbf2d19f05d8f49b2b6f67abfd46b4fcd0e47aec0354927f6cd08d3415a719"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/195oQ56RWrCN6UIyWCcOluT0kcUojij3Hv8aSO-vkM5I/edit",
+      "title": "Silas P. (PC)/The Last of Us Part II",
+      "filename": "TheLastOfUsII.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-the-last-of-us-part-ii-xbox-quadstick-fps-thelastofusii",
+      "target": "silas-p-pc-the-last-of-us-part-ii",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "4e66138f337fa4297bcab50955e82db639a17eaa72248566a0f42ab7ef030cf3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1h7rR7if8nedFt6hOrAw83rGHpdqjClgExActZGrSAoo/edit",
+      "title": "Silas P. (PC)/The Last of Us",
+      "filename": "TheLastOfUs.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-the-last-of-us-xbox-quadstick-fps-thelastofus",
+      "target": "silas-p-pc-the-last-of-us",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "cc6a42454a4e02ba9feb2f57a2efddca53ae08b5b369e053944ca30c78b223c2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1e-A7_8lt2SYfSt-WtTZ3AeIuZoo9PtpYtPaIbRP_3Nc/edit",
+      "title": "Silas P. (PC)/Tiny Tinas Wonderlands",
+      "filename": "TinyTinasWonderlands.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-tiny-tinas-wonderlands-xbox-quadstick-fps-tinytinaswonderlands",
+      "target": "silas-p-pc-tiny-tinas-wonderlands",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "53875ca0986f37d529aad5bfc71e50fc5607a65c398cf77f62a3c65557b3b094"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/11COcj9LSFmCyvZW68WKqxT68_EtPQRnuMSl-unn04ok/edit",
+      "title": "Silas P. (PC)/Titanfall 2",
+      "filename": "Titanfall2.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-titanfall-2-xbox-quadstick-fps-titanfall2",
+      "target": "silas-p-pc-titanfall-2",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "cf17340b01862b18df12bb75d779f1aa3459760e33f92665313eaa3e5ae7757d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1wElQ_s-7YjNTYch0Zgr2UqcCHp1VtXc7TwDZbvKw7eo/edit",
+      "title": "Silas P. (PC)/Tomb Raider 3 - Shadow of the Tomb Raider",
+      "filename": "Tombraider3.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-tomb-raider-3-shadow-of-the-tomb-raider-xbox-quadstick-fps-tombraider3",
+      "target": "silas-p-pc-tomb-raider-3-shadow-of-the-tomb-raider",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "d9e3eb56eba19e2a4e14b15625fdce5396eea39236e786fb831120eda04f9982"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1frB8sCPwxNKvDbn0bncoR1zxtHzWA2RGE53t8EAJico/edit",
+      "title": "Silas P. (PC)/Valheim",
+      "filename": "Valheim.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-valheim-xbox-quadstick-fps-valheim",
+      "target": "silas-p-pc-valheim",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "b8dc711ca9fd17dad8ed8a3cf6bae7e75e332f15fc92eb395d784030719be28a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1UtCK_yeJdrcU32kI70HVLqyw4eiCUsOloHrHGAamO08/edit",
+      "title": "Silas P. (PC)/Warhammer 40k - Darktide",
+      "filename": "W40kDarktide.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-warhammer-40k-darktide-xbox-quadstick-fps-w40kdarktide",
+      "target": "silas-p-pc-warhammer-40k-darktide",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "836854787633d68ddef78c0348cd2f6e518edda9d8eb2868425aaccad5d2bb1a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kvbvy13xe6Ist6xC2_9UCGZRr-BCGIbcdia-ERymFeI/edit",
+      "title": "Silas P. (PC)/Warhammer 40k - Space Marine 2",
+      "filename": "W40kSpaceMarine2.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-warhammer-40k-space-marine-2-xbox-quadstick-fps-w40kspacemarine2",
+      "target": "silas-p-pc-warhammer-40k-space-marine-2",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "18bbd19342e12e5bc11348bea31a08740946ac27db08cd8485e47ca173542957"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1rMbrrEhgRtdzp7tGETVVuF5iRriWIvA-zzaYnM97OPc/edit",
+      "title": "Silas P. (PC)/Way of the Hunter",
+      "filename": "WotHunter.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-way-of-the-hunter-xbox-quadstick-fps-wothunter",
+      "target": "silas-p-pc-way-of-the-hunter",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "3a92e291606837f5666ba616c8a677ce5aca1d5e02175b6086095ff7598be9c9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1wj5D5UdQ_bEA1d1k-SKwPDm8sPmYUXMHmgdLAGtTqlQ/edit",
+      "title": "Silas P. (PC)/Witcher III PC",
+      "filename": "witcher.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-witcher-iii-xbox-quadstick-fps-witcher",
+      "target": "silas-p-pc-witcher-iii",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "f4a9c26f57b42eb39b03d77ac759e7c3a6914232b9b2967e51276ae49a6f7522"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1eDKxfLRtNOl7iZ00j5yGAiSY22JTfo-LGWpje_dSnqA/edit",
+      "title": "Silas P. (PC)/XDefiant x360 (QMP4)",
+      "filename": "XDefiant.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-xdefiant-x360-qmp4-xbox-quadstick-fps-xdefiant",
+      "target": "silas-p-pc-xdefiant-x360-qmp4",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "5e363f449a2c5ba2c0a0f65793f1f724e34999401b8e007a727bdc336ffa29e6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1dCGn3KGnVFqzVX7QF2SMuNkXQTkt6s1iD3WoChu1nQk/edit",
+      "title": "Silas P. (PC)/skate.",
+      "filename": "skate.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-skate-xbox-quadstick-fps-skate",
+      "target": "silas-p-pc-skate",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "9fcc5fcf4b023982107ba9c27cace2a1dbd797f27711139aff3fe081ac9ba133"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Wuw6JOyKBHtRdQlafGWFMtRw9Ze_vUK098rTN73qTLo/edit",
+      "title": "Silas P. (PC)/the Finals",
+      "filename": "theFinals.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-the-finals-pc-quadstick-fps-thefinals",
+      "target": "silas-p-pc-the-finals",
+      "platform": "pc",
+      "device": "quadstick-fps",
+      "snapshotSha256": "bb270a56b8147f8e0c274eb065e4710f08ada3f861f63c21b140e50442979f9a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1a5TmCr6TaVpMZAfPG1yOjtfwZ0lxgGqPMUxFm6Hrmiw/edit",
+      "title": "Silas P. (PC)/theHunter CotW",
+      "filename": "thunCotW.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "silas-p-pc-thehunter-cotw-xbox-quadstick-fps-thuncotw",
+      "target": "silas-p-pc-thehunter-cotw",
+      "platform": "xbox",
+      "device": "quadstick-fps",
+      "snapshotSha256": "8e942baf649598089fed92e7b506b13d5475fcf3de8299bf48627cb5bb117c5f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1qJO9kDN506ybIou3GvTvZgdnfg1u55KgG4opcEwXD1w/edit",
+      "title": "USB Host XBox Adaptive Joystick tester",
+      "filename": "xajoy.csv",
+      "status": "ACCEPTED_UNMAPPED",
+      "profileId": "usb-host-playstation-quadstick-fps-xajoy",
+      "target": "usb-host",
+      "platform": "playstation",
+      "device": "quadstick-fps",
+      "snapshotSha256": "d5733b19d3eb5461692f16d868a86b011dcc52139a94227ae8934c77ffbe22f7"
+    }
+  ],
+  "rejected": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-GI3rNkmEr4_PwdxkcRi54D_d8r678_YWY5upl8w3O0/edit",
+      "title": "8Bitdo Arcade Stick",
+      "filename": "8BitdDo.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1E5D78PjiPEDaUczk-nh09gVtHlTd7TJ2bOJ8J_H_MYs/edit",
+      "title": "ATEC Example",
+      "filename": "atech.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1VYMORGGRyM8dn38KDhoi4p23ZdAviqmIXWJPHpMvik0/edit",
+      "title": "Ablenet Hitch 2.0 Example",
+      "filename": "hitch.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1pbZg9fQ5mYB58nGRMGgIw1_bftE5fDT1wWJqQyezevA/edit",
+      "title": "Android Game Controller",
+      "filename": "android.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/157QhirxtPjGIYf0DIaiiQ6bhxTD6GYuCz4gryrJEDIQ/edit",
+      "title": "Assassin&#39;s Creed PC X360",
+      "filename": "ac1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "7f0b052f21f2a9a6a3bf0c3b4f2d3e043f706cca3a59174fb71b20f6cbf8a311"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1IZNrA61dEuVmHme4eO73weoM4IrL9DA5lXLqOEqYcVk/edit",
+      "title": "Assassin&#39;s Creed PC",
+      "filename": "ac1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "bdd1cdb920e29234fb9785ec8ce296c3f9fee8afaf12128f603e1fcea27222f3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1pdYDAWSbQ8tRTKNfcALrxsyjdFnyFLR2b6PrJRvI3FI/edit",
+      "title": "Auto Right Stick Demo",
+      "filename": "autoright.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1flfJtOlE3xmoyouULZSl4HIsbEETRLeufdoIuGu0T64/edit",
+      "title": "Battlefield PS4",
+      "filename": "bf4ps4.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ff0b2ad22f1010656059c0cfd3aa95811c0592f95a65ca645d75ac568fe58122"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EJTXtVnhs0MnDsbe3soK6KnWs8IB9dD7fjivMTUaThg/edit",
+      "title": "Battlefield Xbox",
+      "filename": "battlex.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "33ae82ba7ccec85a2c26281ef480a6d77d2ca6da12f8ef8184fab5bd2dcf2705"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-yVRey_ICl-OHtqK7FNBqxdJXPv7RA7AR_vayVurKOU/edit",
+      "title": "Beloader Basic Configuration",
+      "filename": "beloader-basic.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/12W7Cjko_KiSo5QCFqwMyGXrRjvEfk0BC-QuyBrGKhsE/edit",
+      "title": "Beloader Fortnite",
+      "filename": "fortnite ps4.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1IzWBk_Au7t5DmvdXl1SgmRYHl1rlfQxRobcTsKi-lVM/edit",
+      "title": "BioShock1",
+      "filename": "bio1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "8ae7960405666167cc9ce3d2f75a35fa9528ea325e691f4cf551d3fc640352b7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EBz62ugQ3AwZMvBYeN7uPHWDNKNx3B693AbTtcDa2wk/edit",
+      "title": "Blank Configuration",
+      "filename": "blank.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1heehhKGSfbp8Tjym66u7qZ9tO1v18cyMLrrQcREYdK0/edit",
+      "title": "Bluetooth Android Default Preferences",
+      "filename": "prefs.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1xhqHIHAdFEbP5BGBBSP9_x24u0p2X11oBNeab3ULO-c/edit",
+      "title": "Bluetooth Combo Default",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1q0hHDYr4_vC2Xq2xyqiYbuYXScDGmKv-1wN-zRAqp_4/edit",
+      "title": "Bluetooth GamePad Default",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1szx-JZfGFJOu9znzepOHiakDhLrZFKSLJ1bY6iOFmIU/edit",
+      "title": "Bluetooth Mouse Default",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1w-QPNuNk9fPc96Bi9eEX-Aj8KJs21CbArLlSwm4k8WQ/edit",
+      "title": "Bluetooth Mouse",
+      "filename": "amouse.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/17xihWaHSBvrODR7kHJalf3nyHhZGw8oqzsr4ZjaHTr0/edit",
+      "title": "Brook Super Converter firmware updater",
+      "filename": "zzzbrook.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1qiKzi5ALJxHWaXF9toR9uYdRiRIQ6zk2y0Aea6V2Z6M/edit",
+      "title": "Brook Wingman FGC2 Remap clear",
+      "filename": "brook.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1f4Q5_tSEgdHWZbqwGpoQDYNCDOKENYljb0EJRn4eAsA/edit",
+      "title": "Brook Wingman XB Cancel Remap and Turbo Settings",
+      "filename": "brookXB.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit",
+      "title": "Call of Duty Advanced Warfare XBox One",
+      "filename": "codawx1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "18f98ed1e31b323f15d2153cd6f33abb98a6bb77b56b2b1b6d00c0ea0838129a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/17y_EwxKpmMEgKcu2T2sq9bxB-_UPVwX-ZqQB611_SW0/edit",
+      "title": "Call of Duty Advanced Warfare",
+      "filename": "codaw.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6d98f14b5af7896063ce41143f4d85e1d109043f412fefbeec1891a8740b8c92"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1H9wKOeM84fq0Gre_vTucAUfM2ST6n0tbXKc087I3ibc/edit",
+      "title": "Call of Duty UltraStik",
+      "filename": "cod.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/18TzKdbmJ_gmthciivPeVyoMBFnD1aPKqTZngK4WW6kA/edit",
+      "title": "Call of Duty",
+      "filename": "cod.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "2cefdb1af35e5e13857eff479a8f3b6523fee0caca9721da52379020368667cf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/10kM0OEX9G0KBj3bujJYa9KEdSHmvRzxQGgMlNmzq4hw/edit",
+      "title": "Copy of Mouse2",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Rsdzz8g1udZO6O1uWAIHDhvJfbvSSMDl3e47oxmMYM8/edit",
+      "title": "DS4 for PC",
+      "filename": "ps4.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Sl8nEFG4hnXOsvw3PB-OFNETfBGUq3S8AUM8oGP009o/edit",
+      "title": "Dan NH/Batman Arkham Knight v",
+      "filename": "batmanarkhamknightv2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b0065a456e904f7af7210e527d9dc0b1badd3d33b3d65848c85f9fee3e593bde"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
+      "title": "Dan NH/Copy of LOL",
+      "filename": "aLOL.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "798feac528b3406620f33c10495c8fbfe713d3f7160dcd682d9a19c97c28e970"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
+      "title": "Dan NH/Copy of World of Warcraft",
+      "filename": "awow.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ba4636e4589074168dc4d09eba0c9b600eae348efa9a75768a862035526d7eee"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
+      "title": "Dan NH/Counterstrikev2",
+      "filename": "counterstrike.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6fa5b933454d4ef7dddea49830b2ad36482b7fe12992454c046c4c6a3e0b9835"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fJY9kqrby3eMNfSWXghyM-_WlN8HxuJhDidV7fPRsQA/edit",
+      "title": "Dan NH/Dragon Quest XI",
+      "filename": "dragonquestxi.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "c17f7b2acb7c1b4bf22d4ea74ba6ac0695d8bdfe6c623f35f4f2c652ffe69ade"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GEiAj-6-NB2izh8GffiUwhhqv6QIdS2V-I4MBg3ltAE/edit",
+      "title": "Dan NH/LOL",
+      "filename": "aLOL.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "2ecf233a34f446fca98a62d03d76afb1f5daebb498eeaee34f962506c6430847"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ItVcDPCnx2u7gjayvsKXezxFAtLOcX6QHdQYRwPyGcg/edit",
+      "title": "Dan NH/Return of the Obra Dinn",
+      "filename": "obradinn.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "93859aab84bf4e93d6f4ebd25d91bc116d5e91d4399454d9d6733ab5708bd619"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1doGb5OA3kS84FQN0MitukVKEJauFiRNPO3DMmhARSlI/edit",
+      "title": "Dan NH/World of Warcraft",
+      "filename": "awow.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ba4636e4589074168dc4d09eba0c9b600eae348efa9a75768a862035526d7eee"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cDHb5PUQRLySYwuJM0OFSyCAZQixkV6qcYpWDyxY1Uw/edit",
+      "title": "Deathloop KBM",
+      "filename": "deathloop.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "03658d00d2d2df8439b74daa9834c6e638dfd3f8e50c92bd0c02fcc98e50e87e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1lGskHuoqahx3bVXJ3yLERtzkGmay_Z9WJaj3oC_CSx8/edit",
+      "title": "Default Configuration XBox",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1UBp9SK2UdohmhUXJhjEPVffqDrQJsMDKhvjQCHCjs5o/edit",
+      "title": "Default Configuration for BSC",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1w-LrAI-14rg2eC3kSBrMRk0hp3uXfUuy7x47T-pb530/edit",
+      "title": "Default Configuration for Mouthpiece Only",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1UD9fX_TiPWP_Vk2hwN5dFoZdfRL9hrwewtf3DJMssEk/edit",
+      "title": "Default Configuration for PS4 with CronusMax",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/142Em6Lyr8zT0f3RNI1rjBw92MQWpehcOAuvU6sHzxds/edit",
+      "title": "Default Configuration",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-LNV-ifp4LwmFWejG6SfE4N_yHf5v9DMXpAWL5gtAzU/edit",
+      "title": "Default PS4 PCPROG",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Gbog-Tfim87kAev6qCw7-mfBn4eu229lsp5SZnsxr4U/edit",
+      "title": "Default Preferences - FPS PS4",
+      "filename": "prefs.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1BAId__D321X5QJta-ILaoc3vWgXJa3e1fSp-u5c51rI/edit",
+      "title": "Default Preferences - FPS",
+      "filename": "prefs.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1wqTr6L-SA6uvEnNaPM-HEER3XAeneISzX9ZD8CEBWy4/edit",
+      "title": "Default Preferences",
+      "filename": "prefs.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1jfXQU1K210t5Nk0t-bHzMOg6ZvxUDnokO74Yvgf-SpE/edit",
+      "title": "Default game controller with Bluetooth Mouse",
+      "filename": "default-bt.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MVg8cIwlpiN9TTmRIMB3-vWpbEebJq5Wmt5qDp2yObo/edit",
+      "title": "Destiny UltraStik",
+      "filename": "destiny.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1SQouaAS7jkhmTpQ5TxwFAicCPwor9qXv7r-ostKDAH0/edit",
+      "title": "Destiny",
+      "filename": "destiny.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "9368931ebc63c0d8dd3019fd00e9506e873feb95ffcef4007214a9fac21568f6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1z-Oeg_swPyB_zCjG8_qCzZoKZ-hN8GKqM3C7k3ltzns/edit",
+      "title": "Devil May Cry",
+      "filename": "dmc.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "30a5b5b7234caeef7e1feead8cfb699fdc12e5a4b1e6d602a1bdb40fbccc7f63"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1iuu_RMmVJpIrr9xgDTIZZsYAieCulFBBYvSX2hRqiso/edit",
+      "title": "Digital Inputs Test using USB socket",
+      "filename": "ditest.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1pChL-X3yV3QKqSLiAbvFHPSylIQAaDNte0phwxzyouE/edit",
+      "title": "Digital Inputs Test",
+      "filename": "ditest.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1QGb8ZBUQBjVXWQdY6zylhXSIgKSZpRGVig3ohafmPDc/edit",
+      "title": "Dual Shock 3 UltraStik",
+      "filename": "ds3.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1wpEKfasdEPPDuDsZXsNli3D7zMMB5iA_l9KmCkzp5W4/edit",
+      "title": "Dual Shock 3",
+      "filename": "ds3.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "d8c638fb6552c27fd9f04209fefe0ba74d06450b0776f1e99c8712fbb19271c3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cjzAsSRdQdt32Ja9h6KDf90lxn_08Qb0n3XuJz1ARa8/edit",
+      "title": "Elite Dangerous PC",
+      "filename": "elite.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "d34d4f737baf1826e7ccd4636dded1ea0217d9778d8a37f3a904c17f7806fc9e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/17PzKSXK0FBZN6AOLnQVxk0KzR1L_kcjOYnEcG0dyOL0/edit",
+      "title": "Example PC Weapon Selectors",
+      "filename": "test.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1f9J51f__Vexir70tltRkZuBwsReCDm-uaQZCIpuE1Bo/edit",
+      "title": "FPV Freerider",
+      "filename": "fpv.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "e45800554c125e36e11d62015a7878bffaf24517bf05567cc346d54358f4b448"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1bdilXJ3XNPkSib6t_Jv9eUs8Dbdl309GhfVO26538Xw/edit",
+      "title": "Fadi Default",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/11y7DgYio3LH-uxSr8OxFFWeIiPXa_cabC6guIGLiXnk/edit",
+      "title": "Far Cry 4",
+      "filename": "farcry.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "f2490e8178a8c6e4f3b2cfa36d40ba3841ebea2f20546ab69611da1be8baee28"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1IXELetNPTwGKBm-ywDSS8mO9_dRcRGym6YZVU064B5M/edit",
+      "title": "Far Cry 5",
+      "filename": "farcry5.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "8e6af5c5598bed886009b7498a61568e1d48e01dcc9ef85a775a38c0925ecde9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1v-F3Fb-Q0JyFzrKQ48ZCA-yrFUR-En7EQFoJKVzLA-k/edit",
+      "title": "Fire on release",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1jxaFtfdx34mpbdY18ytuoXD78sorS4x3tkMx8meinCs/edit",
+      "title": "Forza Motorsports 5 UltraStik",
+      "filename": "forza5.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1gNTQ9jN5cG_ONfApZf0Au4WreNVpJ_BjaYMC7Llwp14/edit",
+      "title": "Forza Motorsports 5",
+      "filename": "forza5.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "dc58c696676f3628d9e13f63a340c5c201e4cdf6c9f930cac0fcd2fa8d700fb4"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
+      "title": "GTA V Cheat codes",
+      "filename": "GTA cheat.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "dae0f72505c8e0e3f7846f39b668bdedb1366136337d3210e571f98bc0485702"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_s1dFwj7zQo7xzro0RzC1UqTpTadpQUL3Qp_dGJBJkA/edit",
+      "title": "Ghostbusters",
+      "filename": "ghstb.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "1bb09153dd2a2b1358ff6b56a24e3306a701cfa6a3186e3906ac2a3e770d2209"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1B7Fxx7SREQSEJlWchM4_HmeXEEavXP2pDa8qwMFsLdU/edit",
+      "title": "Ghosts",
+      "filename": "ghosts.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a0efe6300541081fd6fb6282390d454f05fda642657494960143bd31c73411d3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nkM6KY8jIOm1rOjZ6ImgiE0w2W8w8QZ8E2C1JMRCycY/edit",
+      "title": "Gran Turismo Sport",
+      "filename": "granturismo.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "8d6653a07398101eadaeb02bb33b106b22dd66c06b27babcdd00f33c8c139904"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EhNKF-FZqwb01XEF6_elpDEJASjb-QB3QQ-jgZ0nbJ4/edit",
+      "title": "Grand Theft Auto 5 PC",
+      "filename": "gta5pc.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "53a22c8d37dfe9cba13a6ac758c77b0eb4443cdb9f9a750796fae116432be29f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1VV26NcHVW9-1L3ECM0NlsJ7zH7XjBQ9qA3IyvQABbl4/edit",
+      "title": "Grand Theft Auto PS4-XBox One",
+      "filename": "gta.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "467338179b0adce6bec59675e56233999ef3ba712dbddaf865db64c542e0989b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/173WUmpyEE1mUyZFD-JHtlngoVyIgWu7CCq9oRmUFYkA/edit",
+      "title": "Grand Theft Auto",
+      "filename": "gta.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "2024274f8f0067d23263a2066291c5891a561afef24481fedd94dcbed4ab5e02"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1dYPr5lhu47GmIiPhlaRXmlAVfqJnTQ72JCDdfG6MKSA/edit",
+      "title": "HORI Flex Controller",
+      "filename": "HORIflex.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1VExeLN7fuVnP2AiMUyToZlRkyI-K0BH3Tv0JiItPzfk/edit",
+      "title": "HalfLife",
+      "filename": "halflife.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "415a5493693c9f56f6b0d51d5ac2cdc779f1e3f3e0ceb312c66edc9365e5ebe6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Ve7kzYEHkHJj--mWQcrzLVvnM62p0snLcbMOjoARcKw/edit",
+      "title": "Halo Infinite",
+      "filename": "Halo Infinite WASD.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "04f7ba9026b857c663d08ff7990a17ae2cf1f660db788422804fbf02e2a141dd"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/12FT30Ec5vWOU96wIYWHLM-2VM0GyGklEQrHLThWa_nw/edit",
+      "title": "Journey UltraStik",
+      "filename": "journey.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1mcndPYuI8NFSmo2i31LvFFAaQplXBNi8IzJlvoGd8Ug/edit",
+      "title": "Journey",
+      "filename": "journey.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a9839a2d68d714c8860cfe366af83f98ba2f6052df3d746cd600e36d3cf32eb2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_evAFm7cl-6BeH1i998wi9m6im8JTjnNfdfxU9nHPDY/edit",
+      "title": "Keyboard Test",
+      "filename": "keyboard.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1RcFJ1fcDPrDhmDBgo84QhTybosCnyq-3xTpsDnuY29w/edit",
+      "title": "Little Big Planet",
+      "filename": "lbp.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a33b272a9b3de79e0fa7d1644a6bac72d7d1efba9728959743d9810fc338ce2e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1LOEaUmdGfa-eQUuc7vLhCQkXRDZFXIo0JcKPCm4MEYY/edit",
+      "title": "MLB13",
+      "filename": "mlb13.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "3e029f26b98f0007023ef02ea95fc3eca10cc1847f55a0ac5c774226491ff308"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KAlwXwUDLDZBJdDMx06HrVbtfATt-6dGPZ2JuFIPSyo/edit",
+      "title": "MX vs ATV Supercross Encore - Steam",
+      "filename": "mxvsatv.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "fc312610fde5b63ad689e3b9df28337db61c8b3b2f06c4b80c835447e1100aa8"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Uc2IR9Em5cAySG8K1quFcYKzZek9MsgnqzGlcGOL0WQ/edit",
+      "title": "MX vs ATV Unleashed - Steam",
+      "filename": "mxvsatvu.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "3c2a1cf2894e00a0511214b0bbb1962067fe1f64bef9728c31d3f85e2a5f9927"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1HecQOiDXP5m1MT339oVTZ2yY-NPqeMunW2eJd_PED8o/edit",
+      "title": "Mac",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1rEDy-PvZCX7cUb_6bDeVytnjBmiv3AzCQK0ufqjFJv8/edit",
+      "title": "Madden",
+      "filename": "Maddness.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b05531a31236e5e40d776e315befbc931dac96a84a09fa8ca5aca57b91a2da70"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit",
+      "title": "Matt Victor COD Black Ops 3",
+      "filename": "codbo3ps.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "544215aeb6ae89ac1e6d8a6e5c782119ad640c4702847433c9d8695e18df5e62"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1J8z-OnCSu_Po29M70KFtwRnB0JG0chdO17WPkkkOlYo/edit",
+      "title": "Matt Victor DOOM",
+      "filename": "doom.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "55e5a4056af1685faf5745b8798645ce9b3431e9b37ad9f203db282025aece33"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1FTnXJB8mv70-Vl-qmilzwxpANm9c0yVmtyb8rOEdH_g/edit",
+      "title": "Matt Victor Madden 18",
+      "filename": "zzzmadden.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b0c77d465ddc543c3c2c9c506dfef764c591da2f63095ce94e16ec57003a0761"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1O_xGluKamJUxJLl5G5eG9QNon6O4xpttYm-c3uKgsb4/edit",
+      "title": "Microsoft PDP One Handed Joystick",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ykA9ZFtZHP5kXn9KX_qQlFOZdHSof8b6XMi6NjJCv60/edit",
+      "title": "Mouse",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MGJoW8p0qbxN9TA9pdqmtv7lSM5fzH5-izkI8x_n6Ts/edit",
+      "title": "Mouse2 BT and USB",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/19tOwTJBmNa9INcKfPcMpyPs2m1JwLZOV42kk2jhydWE/edit",
+      "title": "Mouse2 USB A",
+      "filename": "mouse.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1J-B4-raFs5mHL_PxT0zQjYqSAC78RKw6AlIZIb4nn6c/edit",
+      "title": "Mouse2 UltraStik",
+      "filename": "mouse.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1d4wToBa1davqtN95zdSTAzVxMwzHGgL7Htk24lLATE4/edit",
+      "title": "Mouse2 no Flash - USB A",
+      "filename": "usba-mousenf.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "97178ffcd32698d3b75a4d65065cb91f7b1d59aca51f61793b67be64b68c734a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Oqv20msON79a9srqaEK_Bq4XAGKjzVF9uMcA8b6if0o/edit",
+      "title": "Mouse2 no Flash",
+      "filename": "mouse2nf.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "e7c414959237058aece2c2e2196f0cf9d718e34adfc52baaa8f5a49a8425d877"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1OEgaQZUW5mC1BQCOQQl17UwQ4yVocFi1V7nmY3cVPgY/edit",
+      "title": "Mouse2 with Flash USB-A",
+      "filename": "usba-mouse2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6c15692680d30b6dad2aa0302f0d5ee6443d467fcecf9e637d02d9a952fbd070"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1dlSyxPjmEn4T0XojBWeLk3vYMkUdmHoW-ALUKjlKcfo/edit",
+      "title": "Mouse2 with Flash",
+      "filename": "mousef.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "528701dca0184c0d487801a2005e61812b5333f9fa7fa9f4da23a3dbc5a00eb9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Q5vE1Q8Za_yUsTm2GJTRsP_8VkMsr5VWhJe5d5romks/edit",
+      "title": "Mouse2",
+      "filename": "mouse.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cdhWFyP5rfZZ8X7Z3JkrKmPqwjDE_1VaGOwbHsmjghQ/edit",
+      "title": "Mouse3",
+      "filename": "mouse.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1JiKbMxgn5Tf-S1F5VFvYvbcYyMnm5CWyUfkauYbwj9c/edit",
+      "title": "Multiple Outputs demo",
+      "filename": "demo.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1D7Fv9lzpiWvTRFiTHiMZU0Fo8Yg1Q7Caud_6qEZTmiU/edit",
+      "title": "NBA 2K PS4",
+      "filename": "nba2k.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "4afd1fe6042fb3a2aa116f85fef29faddc388e73be68ae9a8d2ef286536c9594"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/18JLSBlnmrpy0Z-o2ADCDmIwjXNhz-flX9-wq3tdVjFc/edit",
+      "title": "NBA2k15 PC",
+      "filename": "nba2k.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "0b0e40b5c74e0ac91e89e44d306ee41a1de182b8221e9f268227e5251b699dae"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MOCYvz1GRbG7an1-VUUt6l-Snf2zJDis4jA-nnzbdX4/edit",
+      "title": "Nintendo Switch Motion Controls",
+      "filename": "nsmotion.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "146d13b7920fb719374dab571126d174ddd9b8398fdfa8fccf84ad36aa4becd7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1iIO1igPQ33kLoxUCwi_Ctns_1xER6uJsAuGEemXaY_E/edit",
+      "title": "Nintendo Switch UltraStik",
+      "filename": "switch.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1dEzAnsfWepMu1huXhympfq2yXbBVLNotE3oYLFsE9qc/edit",
+      "title": "Nintendo Switch",
+      "filename": "switch.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "876839d8c14d0a1c44e6ebd4d942decfc0a01912594f9f27d1e178b0ae298f8c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KCYi_X7p9bPnR4fJMFQwHoBiIhRMoXDIpYNMW3Cc2kQ/edit",
+      "title": "No Side Tube Default",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_3xpzS9xHPp70-6DyZHrwypkx-gs40aVydMfvDDQXsY/edit",
+      "title": "Ori and the Blind Forest - Steam",
+      "filename": "oristeam.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "50ad99b3188df515e85f622c1c41c07e8c926c80d84344f99238384bb51881f7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fyEffI1NS0xQKTO1cibLJ5F9JqAO9o_-1u8ePhRnsd8/edit",
+      "title": "Ori and the Blind Forest - XBox One",
+      "filename": "orix1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "2433529dc47e6f7b7bac9213890580b50d7217a8973e1cd14a6a0bbaf095c23d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1b_2rDn_H-RF6lyhXkwfxywh7hnNyb6HdPZWIvd01vEs/edit",
+      "title": "PS4 Full Crossover Default",
+      "filename": "ps4.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1i9kv7tuBEiuI-ZqLyjeVfMaoujldw_4sauPu0eQxSUA/edit",
+      "title": "PS4 with TouchPad for Mac",
+      "filename": "ps4.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "4fa5820372ddf7078667d8423efed3cf65c533db1c92f58978d050eab41cdf38"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GjszUK9nmZkBCx54bq4EqaXOLHI8oZ7UfaJKf2DsVzU/edit",
+      "title": "PS4 with TouchPad",
+      "filename": "ps4.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "4fa5820372ddf7078667d8423efed3cf65c533db1c92f58978d050eab41cdf38"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1YhhrWUFfSGojAUqahsE9_2iAAWIep_AOcbjwcDww-WE/edit",
+      "title": "PeriPad 504 Tester",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1VZTDSxarRspVW8gqvod16IrCsFuUk1m4u1Ggqw8K8Yg/edit",
+      "title": "Portal2 UltraStik",
+      "filename": "portal2.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/16iyqEcHa-2ocCqdTnrzyC6zp64WT3wcF_PeH0IBK8AY/edit",
+      "title": "Portal2 for XBox USB-A",
+      "filename": "portal2x.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "fad3aa134a6169fb00bc3f1a4a649231532bfb62b9440d49b94da362c77b7474"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/12chbpPU4yCuxJ3DBBDoamhGblTaLfqhrENMxsxgvM2s/edit",
+      "title": "Portal2 for XBox",
+      "filename": "portal2x.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "fad3aa134a6169fb00bc3f1a4a649231532bfb62b9440d49b94da362c77b7474"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Ln3qyIe6yuKSKrvttKVskS_At7BjtPzyhmMVmWk-DI8/edit",
+      "title": "Portal2",
+      "filename": "portal2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "94d1b9e9c8e15442619cc2a583c228e04412e87a6259129989334a582cb4e1a8"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
+      "title": "Project Cars PC",
+      "filename": "prjcars.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "06700de5634c5e007249a18883df40a0c9e48bc281d8423d42a581d89695e34e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1JjdHjzUOnd7-UxePjCnPIZyNWdkoPtzA_c-bBJTw2mM/edit",
+      "title": "Red Dead Redemption",
+      "filename": "rdr2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "2c11ebe89779341d4794d2fbf8c00e22e6fc92bf35ff53102c54b9f3f6fb1872"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1N9GNAPCwpAY-KaNlZkJAbrW8l2XFKZEMUiZh2DIC_V0/edit",
+      "title": "Rocket League X360CE UltraStik",
+      "filename": "rcktlgx.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Fbt4mCdJzMYwdO09o9Mv3suQDNQ8kAMfvxaY1QMHQJ0/edit",
+      "title": "Rocket League X360CE",
+      "filename": "rcktlgx.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "deb6a771d6d012f090a76eaebb0725a52a0abc0839f27cec30061f7c52a75831"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1TYt6AkPdCEFPAV1qVGYTKcWIQrq6lASYBhMh9kHiN9o/edit",
+      "title": "RockyNoHands Fortnite PS4",
+      "filename": "fortnite ps4.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a20b2fab96aa6eb1661592cb66bf518dabfd8c4e8c3c6ca762f8e22e690bcb6d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1wo9W9F8cI78hMxZ0yWny_laBtY1BzL5NOZ5hkarVGGY/edit",
+      "title": "RockyNoHands Fortnite XBox 360 for PC",
+      "filename": "Fortnitepc.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
+      "title": "RockyNoHands PUBG PC",
+      "filename": "pubg.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "1f0d482088189bf568dc848ac5ad48cfa5110c58c5c14f8a68c939de6395862d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Xp0LB9CzaX1QpEN5hMXcgrVq5yZ6kuphNt7STqasUMo/edit",
+      "title": "Samsung TV",
+      "filename": "samsung.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "7ed6bb742c2694e6929b195b42a80437e667e73883d81cd2a0574fe34110a63b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1P4nebv1OVGsG8f8udgmUMy2He3rQ_Ttp2Zj48ur3eNk/edit",
+      "title": "Screen Saver",
+      "filename": "screensaver.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1RFcGkPcnn-H9td8HRqvVOc0AuPlJAArUmSdB7QHbrrI/edit",
+      "title": "Sea of Thieves",
+      "filename": "seaofthieves.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b41cd3a8f5ce20948616c85cb998e0849503734cac058ad945ee471fdf26e00b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EcG67yp8_PxZE-V4RMFMninY0G43Wlal4TyM-c-S_Ok/edit",
+      "title": "Shadow of Mordor PC",
+      "filename": "ShadowMor.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "8c22b800f2f7a6fa797b8fbb66277456c33700f384f5d0cdd21ce0373d9dcdb9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kjHtZpt7wgWAcrDtMqw9eJu7W8v48BRS18PLVV8YaEU/edit",
+      "title": "Shadow of Mordor XBox One",
+      "filename": "zmodor.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "af120616c1ab3bb5eea52424a08bdc228040227199c61fdf7b28f0a156358d28"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1b31Tna8v829uzOD0Lmo79ysbbF2lP8aAdw_0C6UmTG8/edit",
+      "title": "Silas P. (PC)/Apex x360",
+      "filename": "apex360.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a860bc5f9ca88acacd6061fe7a4a0d6ab8abde6493c445e057490121de917d20"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ZEkfoeMHQrfYr7earcSgU1xCqgngHSEmL2tXz7Q_CjY/edit",
+      "title": "Silas P. (PC)/Apex",
+      "filename": "apex.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "552ae678d1e360601e0931f6a9cd098048e4f626a5f5844cd6a3e26946464309"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1N37L5cvv4Ys7XiA8Khx7XaQCrMaQdsJQmDgou9NvZTA/edit",
+      "title": "Silas P. (PC)/Assassin&#39;s Creed Unity",
+      "filename": "ACUnity.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "35b2005c10c8c59f0055823d275dffc84e7ad88ddfc58332d199729b1cff1a44"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1avRnDQFKaYxDyeCy_4zgpHG4sgwEDbxgnZYF2Fn0bdg/edit",
+      "title": "Silas P. (PC)/BattleBit Remastered PC",
+      "filename": "BattleBitPC.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "8c81169cbe11288181d47584acd50ebcefac9458f8df87f5cf1a1da443e1d09f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1qC6MbVyGxbGCEqhAwPuCWwTA3uDdduh3zbEjpvOZSEI/edit",
+      "title": "Silas P. (PC)/Battlefield V PC",
+      "filename": "BFV.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ef03296370faf047d7dae1c27b4e4072acc05a7997710493a45c8a3f7ee8fa8d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1obdIB9mXtT3LVMWaylADG3Ay6hh4GPcwZktzCSmBfTY/edit",
+      "title": "Silas P. (PC)/CoD BOCW x360 MP",
+      "filename": "BOCWxboxmp.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "628050318f25d863cd01f6758e40f28d4ac95935130db66d5350215c53b14e0e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/14Q2FNcWSbXmQKaFssQOEySsZ5ZDZ3lVlsJk6SejRfsQ/edit",
+      "title": "Silas P. (PC)/CoD Black Ops 6 - TEST WZ 2.0 x360 (QMP4)",
+      "filename": "zzCoDWZBO6.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1vuug3D-TykDBeZsNet1cLpgiIsHqFzV6HJ2Mk_rIfmw/edit",
+      "title": "Silas P. (PC)/Construction-Simulator",
+      "filename": "ConstructionSim.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "09b17964e4a9f4a41a57f53f2db65b1d3439f945128f1fae9ce854cd084996ad"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1UN9s3MlNWSrDpkH2sniLMEjgHoEOkVvukMSQyOgZFEY/edit",
+      "title": "Silas P. (PC)/Control",
+      "filename": "Control.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "070c19553a0f1522c5b449a20e0082f003c1de35f7f7ea0ec11d89bb61972e62"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/17jvrVGvfI1HnUBzwG7VtXgG4zNl6cFvSXRrY5j3Rzyc/edit",
+      "title": "Silas P. (PC)/Cooking Simulator",
+      "filename": "cooking.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "9e3ae095d19f3c2977bcee2130adbc3a39f1d592c5eb2c37d6b85485eb330ec0"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
+      "title": "Silas P. (PC)/Copy of Flight Simulator 20",
+      "filename": "fs2020.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ca30e48c1951c43756a40670621144b470b381fe15145a08d30d62c480f82aaf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1xgeJK9MdQ-e5TfoFXC1fypyoQqCV4jCHI_2XukUbJzQ/edit",
+      "title": "Silas P. (PC)/Cyberpunk 2077 Controller",
+      "filename": "Cyberpunk.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/169Z5ZDN_tt_Nk-06OB7NVKif-rQdQDlNfFv-J-9ZvlU/edit",
+      "title": "Silas P. (PC)/Cyberpunk 2077 PC KO",
+      "filename": "CyberPunkKO.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "1557e6076ba413073870b46c3fd4c87e21ff6fd8ecd2c75e432bee9829b6bba4"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1EAKy4QzOnqirw99vqmSFOC6VwK-TNTQENPq0KcCibB8/edit",
+      "title": "Silas P. (PC)/Dead Space Rem x360 (QMP4)",
+      "filename": "DeadSpacex360.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "f530d5fc5234d17a3124e1394e4a4a925aabe66923e711cf95dbeb7e6bc19c07"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KoYF9fnW9oe8Dmdg_xFGKT1yTzlniSvhgaCShyQF0Lk/edit",
+      "title": "Silas P. (PC)/DeepRock",
+      "filename": "DeepRock.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "139674e69d7f36c730d7cc5bb343b8a51f2fedc4ab14685f84455b8afa20f28c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1g6ZoZx3l9fRBOZn5V-gKRPljb8UqSxElpbKpH9b9b94/edit",
+      "title": "Silas P. (PC)/Default Shooter Profile",
+      "filename": "example.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ixKvp1I7hnSTCxip9N3BITqRzxiVqUXQ2auzYQpzEXw/edit",
+      "title": "Silas P. (PC)/Default Shooter x360",
+      "filename": "example2.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KwQPwEljy-Pr4hUaojmsI1BVfuJkZUtMF79Ij8wPiog/edit",
+      "title": "Silas P. (PC)/Deliver At All Costs",
+      "filename": "DeliverAtAllCosts.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "d533fea7c221c9344db127e61aa9f87657c104b453fe4b158675d5bfcf1a7f23"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cejbrI7y7HyY7H9LVqum6adXiRUbcoiSS18gGGR2YUQ/edit",
+      "title": "Silas P. (PC)/Denshattack",
+      "filename": "Denshattack.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ed0c410ad8329f2f395382a97878b4c13641ec0b3e9b8029bbd7cb6e5e4036e4"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1koueOeAvLoSw_P6SQnL50G46Vc-KXjdiePo3G_FedDw/edit",
+      "title": "Silas P. (PC)/Divinity Original Sin II",
+      "filename": "DivinityII.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6de42f6b7930a30d0a7b761fa73a3e2d3d82b9e9e7e59f4667357876e303bbcf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/18H90AlTF2gLjoG6H1QYiFnOC5ZaiTWQ0Uc72QLM7IOM/edit",
+      "title": "Silas P. (PC)/Doom",
+      "filename": "doom.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "e9e3ff7d6a32d7427c5f13b2291f4f42573464695a8caf057d1bf4b55135d77d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ahAn9pJFb_4eRSlsPkB-tQy3pUtOlZbIt8xk0JtzEIA/edit",
+      "title": "Silas P. (PC)/Eurotruck Simulator 2",
+      "filename": "Ets2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a7f105186273cbf11997b462380c029edc71ffe20d5717cfb54d96f1cc5f52cc"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1REebj5PEBOYgY72BAWqxbluikm04CCL-s_htF0AH9-0/edit",
+      "title": "Silas P. (PC)/FSX/P3D",
+      "filename": "fsx.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "edf6bd7e5e6e881e321ec4729875753871bf31d83ca3ffca05148450c636f8d6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1eVkzxsTS4fW-BK7y3OCP0YMdK4OewhhRmqrO10vzgeg/edit",
+      "title": "Silas P. (PC)/Far Cry 4 PC",
+      "filename": "fc4pc.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "31e10a6d8500688ba405b8fa2682d1c9680ee8508713b4359a02295ee2a6605e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1pk_POZlw-oUN2iPXkQQotn0G0KwyC8-1aNfWE6aVFxs/edit",
+      "title": "Silas P. (PC)/Far Cry 5 PC",
+      "filename": "fc5pc.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "36d86ca8b4b31e9ccbba7a86ccb6d73f15ea5f0e4c84fe0b357dc52b977bf50e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_e_EeCCK1oqTBX0-NzCJq14ccEEFPjgS1LBw0Ifyftg/edit",
+      "title": "Silas P. (PC)/Far Cry 6 PC",
+      "filename": "fc6pc.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "81d7a48ea01da66649fec7443bfb89e7d2de1dbb02919584d88a763cbd96949f"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1H4l1Bn6veSrsSofLhrLY6JCvLoqnwKi2oejWLB6N1l8/edit",
+      "title": "Silas P. (PC)/Farming Simulator 17",
+      "filename": "FS17.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "0a31ac5b1625d6055afa0bcf22d5c82e0425267837e22103ba3c7399bc8435c9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1zPsLY_dECZsaBDINfBUMaxciuaaa8ghlYk9UJV5qgjM/edit",
+      "title": "Silas P. (PC)/Flight Simulator 20",
+      "filename": "fs2020.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ca30e48c1951c43756a40670621144b470b381fe15145a08d30d62c480f82aaf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-fXz7Uazyok9o5EGzDGS8W__zpGZgwJ5qCJEtm1xTRc/edit",
+      "title": "Silas P. (PC)/Forza Horizon 4",
+      "filename": "Forza4.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "757acd7527e94c7510a50cb48e2869df754d1a4e7a9b8bac78d4efc5415c75f2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1nGuH55WN7QiRDbTg2Ovec9f1Vm_0OQm6ASE0iwpzI1U/edit",
+      "title": "Silas P. (PC)/GTA IV",
+      "filename": "GTAIV.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6423a82a51748fb0f217a94e5ed4ef3f28d0d071e49a68269f96b5e846b2acad"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1W0Drr2pAvjEfoIyyF83bRYJvbMVoY19ZQXLt0nT2MKc/edit",
+      "title": "Silas P. (PC)/GTA V FiveM 2",
+      "filename": "GTAVFiveM.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "942fd985b49a8f80ffacce2108a9a9a886033414e75365641b3d27b475ba93aa"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
+      "title": "Silas P. (PC)/Gardians of the Galaxy BETA",
+      "filename": "GardiansGalaxy.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1DYEpmgqINMeUBvxCpKxay6Wdr7RK_mENIej7zhs7LLE/edit",
+      "title": "Silas P. (PC)/Ghost Recon Wildlands",
+      "filename": "wildlands.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "550f1396bb4fb0dd8ad3bb7e5f5dec917443e17a00d5060be7364a98458ef124"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1tG7i4ErITtE3kJ1kR1SoZ22IQtunHY7EHRSQxUrXUeg/edit",
+      "title": "Silas P. (PC)/Ghostrunner",
+      "filename": "Ghostrunner.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "c77fdd43482718732a2cb21a51b73033d72ff916c1ae58726ef7bc46b12dc535"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1LxeoVUgPcUUplSdqWbyQg6sqfVBoGtT8-5kegkRIqpo/edit",
+      "title": "Silas P. (PC)/Goat Simulator 3",
+      "filename": "Goat3.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "4d84e26c501effb8f3cfffdda9606e8c291f7aceb5fa52d1038095d2c94c7061"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1V-Lwk3-rA0mckKtR8mwSZN6XfDVqMr5RzmHPf9zqgOs/edit",
+      "title": "Silas P. (PC)/Halo Infinite PC",
+      "filename": "HaloInfinitePC.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "73dd84d592d4e5134494babafd8069fe8835cc856bb942eb33d943148ce6f651"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kT3z3T4FKAM_TWb3EfuOToryGUtdNkf0Z9iY_-DwLUE/edit",
+      "title": "Silas P. (PC)/High on Life PC",
+      "filename": "HighOnLife.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "15cebd1f5565fea3914b30781193d116ba5ca8f7280a71e1bd162ab25365501e"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1mvv_0ugmjygvsVQzj00uvAuy3loJIrybIZBNXIe2fK4/edit",
+      "title": "Silas P. (PC)/Hogwarts Legacy",
+      "filename": "HogwartsLegacy.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "775aa5a50504545fcec15c89f9a7755b341296cf1710171a5b38b4a18802f785"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1hhc_QZ17rB2V01hXQ6jBQ81bFuvmoF958-wE2wjHHyM/edit",
+      "title": "Silas P. (PC)/Horizon Zero Dawn",
+      "filename": "HorizonZeroDawn.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "52f959ec764a9ec9ff03f4052d5d539c432c76f3b4da6e9058bf2ae675daf7ef"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1bWHewoqFhR5UbttJAw4rFexc_Ah4zAymVnJZM3hBIM0/edit",
+      "title": "Silas P. (PC)/Hunt: Showdown",
+      "filename": "HuntShowdown.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "48c9abdbeb8095de8da2d4307da914743bf5039b3314d474207f026069b75f41"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MFjqTjF4Y32pCIhECkEre-gPgaXLtg3_wzGOK6RgMqw/edit",
+      "title": "Silas P. (PC)/Just Cause 2",
+      "filename": "JustCause2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "50079047c186cf993e21250830abe0308db65459e4ecc4ca9aa85bc1230bbcbb"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1DJodDoqLX8MynmWTTEpIQwR-PXs9q9v53KlvezDs2Ss/edit",
+      "title": "Silas P. (PC)/Maus Bluetooth",
+      "filename": "0default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1IgKZbbHze_ub8Hq708GBamlwoRTbIYXQbRU1QuBRHxA/edit",
+      "title": "Silas P. (PC)/Maus",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MMtLV2dhDcJFaNgSqx3WrDznnNhxiBLoLcj2GIKkeVw/edit",
+      "title": "Silas P. (PC)/My Current Preferences",
+      "filename": "MyCurrentPreferences.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "687a75887044179ed5e829ba09848648346b1555221d29497edc83467d28a126"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1tzBf62nX51i4lfui-Yk-Ep7qUjh3gcx8KLUPjwRt5WI/edit",
+      "title": "Silas P. (PC)/Need for Speed - Heat",
+      "filename": "NfSHeat.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "965b300fb35588036618d5d658237198e401656b0bcf92fcd2f8b430599934e0"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
+      "title": "Silas P. (PC)/PS2 Need for Speed Carbon (QMP4)",
+      "filename": "PS2_NFSC.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6d5ef30eab27c755dd650f9db5b64777c08f0a74d223cb3c0ca2a28f84f6f2c5"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1CgvoZXE67qvRp6gXd4Pnw8sOIVajQDo4CBi4nGvS-7M/edit",
+      "title": "Silas P. (PC)/Path of Exile II x360",
+      "filename": "PathofExileII.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "dd1b6221df97ea7f8d2bebeed997a8efd9c40c65e12da7bd4aee31f6a4639ce0"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1a9eyYBfPF4KGqkeyGS-bIY01DAkfQU7oHDHjAYiGMuo/edit",
+      "title": "Silas P. (PC)/Payday 2",
+      "filename": "PD2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "62917d8bcac8c4e2e11c87a1163ecb1b7087231241fe83259d77afd57cdfcbba"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1iQEMlou7q3lAyXs8GqC-d8UspKrmiJefQnemGXhVjuQ/edit",
+      "title": "Silas P. (PC)/Payday 3",
+      "filename": "Payday3.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "03980fa90fb08d5b947950e2905a389614a1a6a549f5774a6a3c1a47edb9c10b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1vxvq4q0VN6GB4PIYG9g5TL4ntmB0Jfvp_nPFMf87rOA/edit",
+      "title": "Silas P. (PC)/PlanetSide 2",
+      "filename": "planetside2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "330e1f1be345400355d9b97eec9c14b4f13dafd947829e7c65adb70ff3caf516"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Z9N0bPvsG24jg6h3wsrs4ps9xpJzgKKMjxbMeTkJ1s4/edit",
+      "title": "Silas P. (PC)/Police Simulator: Patrol Officers PC",
+      "filename": "Police.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "fcce1abf6182adaecb9b577a270bc561562f580592c4a3963d8283c591348078"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1rPul7lBH6xX-DwGFI6ek2ZCzkmAeAHlGabI8KHI1CdY/edit",
+      "title": "Silas P. (PC)/Red Dead Redemption II - RedM",
+      "filename": "RedDeadRedemptionIIRedM.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b5164a02dc3bbe53510a02027733ca5f1f22137eb02404854f14d9d0b4570b79"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/15vlxHRd1fGymHyb4Qcl-_R_ZSqrWMQZI4K9K9xxwfdQ/edit",
+      "title": "Silas P. (PC)/Screen Saver",
+      "filename": "screensaver.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/187aOfdN5nd-JO7s2xcjIlpB97EXC7K_qGBA0SM3q2xM/edit",
+      "title": "Silas P. (PC)/Sea of Thieves",
+      "filename": "SeaofThieves.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "7c432a379029310c1e65de59d46f6a9fdb100a6315a9e6025620fb3c994342c7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1z0ql9pCrIRbvj0fDUARduvfMYbwknoUt4gZHEK92mg0/edit",
+      "title": "Silas P. (PC)/Shadow Warrior 3",
+      "filename": "ShadowWarrior3.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ef00116ed60dbeed8c297c5ad40f76c7eea2f75a1e60b1311dad0c716f9403eb"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Bgo68cyJWQS3Gfr94eVCE8uoRd7rEV3HNqyR-pPpSI8/edit",
+      "title": "Silas P. (PC)/ShatterlinePC",
+      "filename": "ShatterlinePC.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "03d2eaabbbcf27315f3470dafce1e3fe31b637da8777465e9beadd72873149c9"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/18892WT0W98N3PEXGMl-v0RjoI0kPIr3VbFMNLHHjKKM/edit",
+      "title": "Silas P. (PC)/Shooter default PS5",
+      "filename": "zzCoDPS5.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1P3mRIdjE5D3DNkRiahIXTO7nrHZyAMvL-ngkSP7PTZ4/edit",
+      "title": "Silas P. (PC)/Sniper Elite 3",
+      "filename": "se3.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "40bb63c122dbd598bdbbea1ab46f68fb2ea5c96f2cf77cf9f39b3caa5df809d2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1a_boZsd3AQh14pvqIJEgl1bptZamFMiuNcDobNV_WRE/edit",
+      "title": "Silas P. (PC)/Sniper Elite 4",
+      "filename": "se4.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "c00f279c6ef52278df1674184e68dfcdbb3d8145e1015c7f0664ede8b867bdbc"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/104YnqX1wboP9EIrzun4HBmZBdMkqg8JgUGAhN_i_lzY/edit",
+      "title": "Silas P. (PC)/Sniper Elite 5",
+      "filename": "se5.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ed3b5984840b72fece2c72a5bde32d369e373e36a294ad0eb1056f4143b96c05"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KsfIAu-nZf_cBJptGG2lZcuIKFK_b4M6uQ-hiLp4dNU/edit",
+      "title": "Silas P. (PC)/Sniper Ghost Warrior 2",
+      "filename": "SGW2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "2853fe27c9a33ec247789ce30e92449569f96acea65110e61ae14f89a40eb858"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GpU47j5Oa68IGLtEvZlZi64ZLk4ff_ySZIorRuOB5Jk/edit",
+      "title": "Silas P. (PC)/Spindle",
+      "filename": "Spindle.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "cb6baad2e5b1682bcb8fde8bf4d152ed5fcaa1e2fcc6c6c66ef38d00cfe86acf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ItLzZubgqt3t6Ja4H-4V9bJZCM0SmG_7CZmFojoBrsA/edit",
+      "title": "Silas P. (PC)/Splitgate (betatest) x360",
+      "filename": "Splitgate.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "7ef33ae87b97870d85b84c27d9cf26636f664d380f4d1457ac6fd43809ac2def"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GT7lNcvrXdhSMv0447lZ2uQ6dhGDfXMYAezsSRxbA7I/edit",
+      "title": "Silas P. (PC)/Star Wars - Jedi Fallen Order PC",
+      "filename": "JediFallenOrder.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "c31cc62f0994b1ae88b4f6eea08639b27a2a1994cc77d0554bb307bde748e96a"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit",
+      "title": "Silas P. (PC)/StarCitizen",
+      "filename": "StarCitizen.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "69dfc8974af9eebb9c345a3c914d6e25c36d8640aca91db6e8935e72e2f44bb3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1RQHLLmiQbU5V35Vybfkj4JKcXSVMTC0D6LwkiNg2c1A/edit",
+      "title": "Silas P. (PC)/Starfield",
+      "filename": "Starfield.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "07232856e43d0fa5d126efef15892f54c915605ea9a85a07e7f2deea0ab303bb"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit",
+      "title": "Silas P. (PC)/Tomb Raider 1",
+      "filename": "Tombraider1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "1aa83582f09d6892a51a746c23d578076e93b5af19667f67be79fc54e2eff001"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1HTw9r3V8RGUVHxMxo7_XbTe52N586cVys4TJDnGszbQ/edit",
+      "title": "Silas P. (PC)/Tomb Raider 2 - Rise of the Tomb Raider",
+      "filename": "Tombraider2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "8346457e04e4f6af3ad5574c6a0ddfa40006f768d820de27d148e5db08ba8598"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1YERuZoXEhwrnpFwem8l5BtEurnfpPv1JFp7IGL76tos/edit",
+      "title": "Silas P. (PC)/Tony Hawk",
+      "filename": "Hawkskate.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b2a0fcececb230d59ec8cf0301ea9064d7c1951e9646861a2af0e6dedc59e95d"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1KxeZdoIX-iQIlNPFCJPjzphZ0fp4zaOX921gX_AilXE/edit",
+      "title": "Silas P. (PC)/Trepang 2",
+      "filename": "Trepang2.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a344e28af6969784d72e2fee2fec952ef45c57b2e49250c8d1c468d120df1fdf"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GKpBkxmMTNZhEQJ0ksnNbaa5m6r5DO1DRrCJCkaQ83Q/edit",
+      "title": "Silas P. (PC)/Tunic",
+      "filename": "tunic.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "138ff27bdff8c3086283dfee5e7f0a1b17ad6df0ed51084cd8ff5ff445a8b431"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1l4gpyV0GimPRY1H7a13Xue_R7PkYpYR_VYhJQszptIg/edit",
+      "title": "Silas P. (PC)/World of Tanks",
+      "filename": "WorldofTanks.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ea22f6135c17ae28c6172b9a7c1fd19707c88dbbbafb2d5c897e04ed0bfe6b81"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1lVd4H23afFmXZdvVnCRK65CHagIfJes7P4H4TzsCSkM/edit",
+      "title": "Silas P. (PC)/Zelda Breath of the Wild",
+      "filename": "ZeldaBotW.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6523d832f29e9ad74c64ae669f14772fab1346f0028e0c48a8fe8a629f52384c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1um-ectwH4SIf_j9yLOD919SMVmfbqMUGeVlmMnKJVvI/edit",
+      "title": "Simple Mouse",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1mU_nIGXsw1TLaYtnR8lrIhPAEKEBIGQFhzHYYgUlNYU/edit",
+      "title": "Singleton - Flash",
+      "filename": "flash.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "b608fc22ec10ba199b5ba724933aa92fe88a8a80f4f5852cfcd70471ab4a8d39"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fa4_7T46VXaI7cRscGv3rTEbiGN-I_LJhyHh6N2jRVI/edit",
+      "title": "Singleton - No Flash",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1yMFBW-T8rXl91ywGRDPWoEtB8tdPYmYcwnV2T3-bbjI/edit",
+      "title": "Singleton - Reversed Sip Puff",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1DkE_uv6WU1hqF9SIBqTMNacX1rz8onS8ytUn9eRYW4s/edit",
+      "title": "Singleton Analog Joysticks",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kNvY3h60TF6TJ5dCTAgBWYRA7ax91IK8moniwYwQjcQ/edit",
+      "title": "Singleton Bluetooth",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1V-rdJboKEXgA7DkYVP7VbUbo6z_KKOi2_DfrejM-w2E/edit",
+      "title": "Singleton Right Analog for Copilot",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1vClXTMVGOTQ4TVhtRewkTdiQpdi4HXgfLX_SP6Cmc10/edit",
+      "title": "Singleton WASD",
+      "filename": "wasd.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "c3f6076e4b47a12d05c0f53427a611c164a3955b0e924b3cd1b5a3f5aa6213ae"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/15orHGWWQHL2O5AiUFHkSpHWzy3jOOChO8gI0BCb0uww/edit",
+      "title": "Singleton mouse plus XAC left",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1IidPX083ColCNesSLdJckVajqRsvH0V9Uu4eSyyCyv0/edit",
+      "title": "Singleton plus Mouse - WASD",
+      "filename": "wasd.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1rSGhmsjjfsPXRB7JpA93SoON6c6Ebxf-J6Ai0-ZubI0/edit",
+      "title": "Singleton plus UltraStik - Portal 2",
+      "filename": "portal2.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1DdirAueMMsNskOBfSJRfmLiVpV3QX6qdByNhmd2nWfQ/edit",
+      "title": "Singleton",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/199VMHYy_iDW8tEP6jhvcyyK3EefdMlC3S2TEHe2nUkE/edit",
+      "title": "Sleeping",
+      "filename": "sleeping.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "e6f1254fd9b537b57a63df99b0fa43e46276a85153dc8f29f0352117c6128b8c"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Nb_a_GkBEQbGF_y9bTO2rDLlrFvPjDpWoUhfKH9S0ZQ/edit",
+      "title": "Sony STRDN1040",
+      "filename": "sonystr1.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "755adf04de541ca2250d4fdfd16becadf30fd1a902bcaa14415f7b54da74fe04"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1fFYwT32xukGVdq9CTnL_Sv4zB1a-zMZqgi34s3EGVFY/edit",
+      "title": "Star Wars Battlefront PC",
+      "filename": "swbfpc.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "7fd19f311d8776e1efd884c9def9aa8be722bce0aaa38cd80a7657331a6eb411"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1jR6oxtk7-nTecGm2Na77sQSvAv7QUNDKiaQ6ECM3O8A/edit",
+      "title": "StarCraft 2 RTSv3",
+      "filename": "starcraft2v3.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "5d7218e62a098049dd8419b74fc268b6e97162fc4c57d3795295fedd81fecf63"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1bsPy-MyRKVKAKdhdnaq8Zj_gMswvbsQRqDzda4Yv5RM/edit",
+      "title": "Steam Lego",
+      "filename": "stmlego.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "6910215aa5ab56707a316fcaf90df1c28b8c7cec635c8661a7cc739e2c4f4165"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
+      "title": "Steamy Biscuit/Fishing Planet-kb",
+      "filename": "FishPlanet.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "a73a7b56d36dfa3d5e9bd49e6135c36fe5a2cf97fcda3e282dfdeee7bba646e7"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1PPRpvCOOLHu93RdLa5dyWMk3XGTZecDDBC9bW0TYisE/edit",
+      "title": "Super Mario Odyssey Nintendo Switch",
+      "filename": "super mario odyssey.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "c2e0ebf48511bb40384e1831bc19e46efeae63d84437205c99ce0f187eb29d1b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MQ8ZUqcF3X-fMo4YccqyAgrNfzmGjVZztE8t7dv71qE/edit",
+      "title": "T2 USB-A PS4 Full Crossover Default",
+      "filename": "ps4.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1t541upZvVDj4ZYnzWHvA37gB8N9pRpSbobcV0niGW-Y/edit",
+      "title": "Tap and Delay_on test",
+      "filename": "test.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1D5XnTVhZJc8QM9TSzCMzJKfnPHR9tadhCOP5pz1q6xk/edit",
+      "title": "The Crew",
+      "filename": "thecrew.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ec193bc707bb47f753f86bc62bb90f91e0d5cb3a4743ddd0fc6608ccaa08dac6"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit",
+      "title": "The Last of Us PS3",
+      "filename": "lastofus.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "55a9402ce7ee92845ec6a5242ce4e58647cfbe61d3f84a3c8fd961e76b1f4e9b"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ucHEZBA2fNWbsbhDyO2yBXb2TZ5iIXDa2w_xxwLSG7c/edit",
+      "title": "USB A",
+      "filename": "usba.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "07a5869a95f015afef3109e8b071e1ddf34acb9a273c92bbe828f6823b430f72"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1xdJSLao0ukF-Rzx3fk1ChI6_-H_nv0xIyWNn9AEHfyE/edit",
+      "title": "USB Host DS4 tester",
+      "filename": "ds4test.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1TNnpLFC2qQUevBMYQQS6jvrVoE23GdAqYtlntAmjqHs/edit",
+      "title": "USB Host mouse relay test",
+      "filename": "relay.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kIhRwYsB0iG2X70Q_jDjVsfxH424e5RedNHiivES6NA/edit",
+      "title": "UltraStik Default",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Dee5xi_tDBktR18nyGxStq1DCBrivUDun_ttMRLAJoM/edit",
+      "title": "UltraStik Left XBox 360 PC",
+      "filename": "ultraxbox.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1rmb7D_3L5cwjjnAvnKIqXVUPfeqU33EKbfHi13apM2Y/edit",
+      "title": "UltraStik Left",
+      "filename": "ultra1.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1FPgkbM7WGs6ffF8BD5W5c2Zobs9mJDha46JzM0ZRnpQ/edit",
+      "title": "UltraStik Tester",
+      "filename": "test.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1vMlp1QjjR2wJNVKlmUPMzzWDHkRtPT2vLzSffT-N5ss/edit",
+      "title": "UltraStik WASD",
+      "filename": "ultrawasd.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1-zNZcmuB1EFF2jvJrdpAtdsB9G3_XF5lO3r1KYp18ek/edit",
+      "title": "UltraStik X360CE Default",
+      "filename": "ultra1.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1vYHBmurDRa1lFTmE3oyOVChW_D1zSx3oG6Ln6yWO_Os/edit",
+      "title": "Wizard101",
+      "filename": "wizard101.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "d23bed74ce229025439b20cee986e4b66de7f200501840728a686c03abb60110"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MhaLAoX19Pgx-MLhOtwsk45PHUM01JexlxRn6UgNVk4/edit",
+      "title": "World of Tanks",
+      "filename": "wot.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "7f8747263530d426210bd0e72b22f75964eb9fe8ab8244d2fe917740e0960c08"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1XqPl-_VfPWzrS3pMzbPqs9IzD3J1octFnkn50QbTKsA/edit",
+      "title": "X360CE Configuration",
+      "filename": "x360ce.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1upt0khjHUnQA33ZYPrVHfioyoVeVcbyTxMxaQ2Fd5M4/edit",
+      "title": "XAC Left USB Port Singleton",
+      "filename": "xacleft.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1aHajkfuCZ23wRrcHJhbgWT7iuyndozDKVE7QqyAjlE8/edit",
+      "title": "XAC Left USB Port",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1YJ_1REy1yYB8AB54PXESICiMxx2rbMNAlLN5NilbmjM/edit",
+      "title": "XAC Right USB Port Singleton",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1IVmRaCSKRxioND0E2idq7p8jf_S1pRNFLJIvolv3j8Q/edit",
+      "title": "XAC Right USB Port",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Wc5OLiDRTCvHSW0wnryEy0x_dWs1DSlteBllssXaRbY/edit",
+      "title": "XAC via Wingman XE tester",
+      "filename": "XACviaXE.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1tJGpeBdGeXqgobJI8YBQwhIOo043UbXtgHnlA2ZCrfQ/edit",
+      "title": "XBox 360 for PC Configuration",
+      "filename": "x360pc.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1oAVQpP8HdvpJC7a7veH1ExB2DVul4Hr_Lr85rWoylNw/edit",
+      "title": "XBox 360 for PC UltraStik with Bluetooth mouse",
+      "filename": "x360pc.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1c03aqZQp7ZN9VLUMZ6gnXXRV5benDkIOyktNhf7T-Pc/edit",
+      "title": "XBox 360 for PC UltraStik",
+      "filename": "x360pc.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GnpuUEey8Y1g8jM3gL104Y339Cz90YVivuz5cM0EmD4/edit",
+      "title": "XBox 360 for PC with Bluetooth Mouse",
+      "filename": "x360pcbt.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1H6u09WSp14QSn5clduHecbKiwoy2eJA20rxNv8BIVzg/edit",
+      "title": "Zelda Breath of the Wild",
+      "filename": "ZeldaBotW.csv",
+      "status": "DUPLICATE",
+      "snapshotSha256": "ae87d3ce5f7aefe2f5beb4a17f2379c65a8a16026a81bc5a72acc7b62a2a8e76"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1FvPgmq0oLIalHUbV__A7ndvl409g4EqNI3yyk9LqIaM/edit",
+      "title": "any_direction test",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1M1zPW5hHPi0LotFTXmIQpUBdTekRunZjkUNPbNaq1aY/edit",
+      "title": "iPad Bluetooth Mouse",
+      "filename": "ipad.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Dr4yCBJl77O69lPgE7wOyoKXiDIih0LqC_Z0rAzZDyg/edit",
+      "title": "multiplex inputs",
+      "filename": "default.csv",
+      "status": "REJECTED_NOT_PROFILE",
+      "reason": "Factory, device, demo, or generic configuration."
+    }
+  ]
+}

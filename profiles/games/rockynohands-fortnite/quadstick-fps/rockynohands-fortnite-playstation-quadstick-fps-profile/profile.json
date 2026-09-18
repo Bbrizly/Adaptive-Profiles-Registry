@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "rockynohands-fortnite-playstation-quadstick-fps-profile",
+  "title": "RockyNoHands Fortnite — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "rockynohands-fortnite"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1TYt6AkPdCEFPAV1qVGYTKcWIQrq6lASYBhMh9kHiN9o/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "a20b2fab96aa6eb1661592cb66bf518dabfd8c4e8c3c6ca762f8e22e690bcb6d"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

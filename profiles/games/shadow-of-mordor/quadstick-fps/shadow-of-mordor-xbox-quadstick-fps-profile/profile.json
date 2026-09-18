@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "shadow-of-mordor-xbox-quadstick-fps-profile",
+  "title": "Shadow of Mordor — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "shadow-of-mordor"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1kjHtZpt7wgWAcrDtMqw9eJu7W8v48BRS18PLVV8YaEU/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "af120616c1ab3bb5eea52424a08bdc228040227199c61fdf7b28f0a156358d28"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

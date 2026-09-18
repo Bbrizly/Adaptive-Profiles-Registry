@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-gardians-of-the-galaxy-beta-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Gardians of the Galaxy BETA — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-gardians-of-the-galaxy-beta"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "steam-lego",
+  "kind": "game",
+  "name": "Steam Lego",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1bsPy-MyRKVKAKdhdnaq8Zj_gMswvbsQRqDzda4Yv5RM/edit",
+    "title": "QuadStick public configuration catalog — Steam Lego"
+  }
+}

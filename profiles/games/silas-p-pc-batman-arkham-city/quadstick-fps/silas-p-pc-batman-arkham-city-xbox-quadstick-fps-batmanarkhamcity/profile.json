@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-batman-arkham-city-xbox-quadstick-fps-batmanarkhamcity",
+  "title": "Silas P. (PC)/Batman Arkham City — BatmanArkhamCity",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-batman-arkham-city"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1FR4vZQKxkJmP4Us-DWljjs19xrzc_cQWsCdzTdt61FU/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "423ce08a6085201e634df3f2fa5ced56384b561e81c99566fc0391d92631fc1b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

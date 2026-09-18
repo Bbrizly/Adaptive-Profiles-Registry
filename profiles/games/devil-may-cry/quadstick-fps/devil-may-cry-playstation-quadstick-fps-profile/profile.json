@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "devil-may-cry-playstation-quadstick-fps-profile",
+  "title": "Devil May Cry — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "devil-may-cry"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1z-Oeg_swPyB_zCjG8_qCzZoKZ-hN8GKqM3C7k3ltzns/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "30a5b5b7234caeef7e1feead8cfb699fdc12e5a4b1e6d602a1bdb40fbccc7f63"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-helldivers-ii-xbox-quadstick-fps-helldivers-ii",
+  "title": "Silas P. (PC)/Helldivers II — Helldivers II",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-helldivers-ii"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "70df8ba5d9b2400bb29e7009502477f58b5b0db704aebdda0e7df57ee425784c"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

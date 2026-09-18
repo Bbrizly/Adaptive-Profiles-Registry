@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "portal2-for-xbox-quadstick-fps-profile",
+  "title": "Portal2 for — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "portal2-for"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/16iyqEcHa-2ocCqdTnrzyC6zp64WT3wcF_PeH0IBK8AY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "fad3aa134a6169fb00bc3f1a4a649231532bfb62b9440d49b94da362c77b7474"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

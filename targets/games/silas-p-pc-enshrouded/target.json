@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-enshrouded",
+  "kind": "game",
+  "name": "Silas P. (PC)/Enshrouded",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1jDxHP_SIoWuSiV33EuFAzYJwMPa0PoZyKdreXSS6THU/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Enshrouded"
+  }
+}

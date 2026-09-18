@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "portal2",
+  "kind": "game",
+  "name": "Portal2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1Ln3qyIe6yuKSKrvttKVskS_At7BjtPzyhmMVmWk-DI8/edit",
+    "title": "QuadStick public configuration catalog — Portal2"
+  }
+}

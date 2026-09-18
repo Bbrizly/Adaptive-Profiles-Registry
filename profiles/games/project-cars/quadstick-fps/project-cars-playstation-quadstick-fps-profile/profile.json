@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "project-cars-playstation-quadstick-fps-profile",
+  "title": "Project Cars — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "project-cars"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "06700de5634c5e007249a18883df40a0c9e48bc281d8423d42a581d89695e34e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

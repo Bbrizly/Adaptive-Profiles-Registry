@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-far-cry-4",
+  "kind": "game",
+  "name": "Silas P. (PC)/Far Cry 4",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1eVkzxsTS4fW-BK7y3OCP0YMdK4OewhhRmqrO10vzgeg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Far Cry 4 PC"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-sniper-ghost-warrior-2",
+  "kind": "game",
+  "name": "Silas P. (PC)/Sniper Ghost Warrior 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KsfIAu-nZf_cBJptGG2lZcuIKFK_b4M6uQ-hiLp4dNU/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Sniper Ghost Warrior 2"
+  }
+}

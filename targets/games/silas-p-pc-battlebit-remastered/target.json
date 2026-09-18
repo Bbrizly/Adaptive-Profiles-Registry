@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-battlebit-remastered",
+  "kind": "game",
+  "name": "Silas P. (PC)/BattleBit Remastered",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1avRnDQFKaYxDyeCy_4zgpHG4sgwEDbxgnZYF2Fn0bdg/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/BattleBit Remastered PC"
+  }
+}

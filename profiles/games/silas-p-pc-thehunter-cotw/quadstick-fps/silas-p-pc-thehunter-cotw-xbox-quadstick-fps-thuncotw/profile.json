@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-thehunter-cotw-xbox-quadstick-fps-thuncotw",
+  "title": "Silas P. (PC)/theHunter CotW — thunCotW",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-thehunter-cotw"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1a5TmCr6TaVpMZAfPG1yOjtfwZ0lxgGqPMUxFm6Hrmiw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "8e942baf649598089fed92e7b506b13d5475fcf3de8299bf48627cb5bb117c5f"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

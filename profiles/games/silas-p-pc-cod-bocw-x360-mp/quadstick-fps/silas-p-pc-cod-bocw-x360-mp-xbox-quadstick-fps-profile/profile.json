@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-bocw-x360-mp-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/CoD BOCW x360 MP — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-cod-bocw-x360-mp"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1obdIB9mXtT3LVMWaylADG3Ay6hh4GPcwZktzCSmBfTY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "628050318f25d863cd01f6758e40f28d4ac95935130db66d5350215c53b14e0e"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

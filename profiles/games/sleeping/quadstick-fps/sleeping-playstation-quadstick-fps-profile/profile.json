@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "sleeping-playstation-quadstick-fps-profile",
+  "title": "Sleeping — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "sleeping"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/199VMHYy_iDW8tEP6jhvcyyK3EefdMlC3S2TEHe2nUkE/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "e6f1254fd9b537b57a63df99b0fa43e46276a85153dc8f29f0352117c6128b8c"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-advanced-warfare-playstation-quadstick-fps-profile",
+  "title": "Call of Duty Advanced Warfare — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "call-of-duty-advanced-warfare"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/17y_EwxKpmMEgKcu2T2sq9bxB-_UPVwX-ZqQB611_SW0/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "6d98f14b5af7896063ce41143f4d85e1d109043f412fefbeec1891a8740b8c92"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

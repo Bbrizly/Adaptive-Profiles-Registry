@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "mx-vs-atv-supercross-encore-steam-xbox-quadstick-fps-profile",
+  "title": "MX vs ATV Supercross Encore - Steam — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "mx-vs-atv-supercross-encore-steam"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1KAlwXwUDLDZBJdDMx06HrVbtfATt-6dGPZ2JuFIPSyo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "fc312610fde5b63ad689e3b9df28337db61c8b3b2f06c4b80c835447e1100aa8"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

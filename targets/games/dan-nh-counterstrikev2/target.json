@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "dan-nh-counterstrikev2",
+  "kind": "game",
+  "name": "Dan NH/Counterstrikev2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/Counterstrikev2"
+  }
+}

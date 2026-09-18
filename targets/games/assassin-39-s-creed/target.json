@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "id": "assassin-39-s-creed",
+  "kind": "game",
+  "name": "Assassin&#39;s Creed",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc",
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/157QhirxtPjGIYf0DIaiiQ6bhxTD6GYuCz4gryrJEDIQ/edit",
+    "title": "QuadStick public configuration catalog — Assassin&#39;s Creed PC X360"
+  }
+}

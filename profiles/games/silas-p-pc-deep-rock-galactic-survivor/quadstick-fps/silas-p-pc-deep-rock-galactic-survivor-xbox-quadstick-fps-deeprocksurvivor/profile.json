@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-deep-rock-galactic-survivor-xbox-quadstick-fps-deeprocksurvivor",
+  "title": "Silas P. (PC)/Deep Rock Galactic: Survivor — DeepRockSurvivor",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-deep-rock-galactic-survivor"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1exH00SUYKmG5ecrh4pk4eLW7IRUQNb5tF-FCZryA40o/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "86e0c28324aa74337514999763c0b6e7858222e69e97319e2f532732025b98c0"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "battlefield-xbox-quadstick-fps-profile",
+  "title": "Battlefield — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "battlefield"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1EJTXtVnhs0MnDsbe3soK6KnWs8IB9dD7fjivMTUaThg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "33ae82ba7ccec85a2c26281ef480a6d77d2ca6da12f8ef8184fab5bd2dcf2705"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

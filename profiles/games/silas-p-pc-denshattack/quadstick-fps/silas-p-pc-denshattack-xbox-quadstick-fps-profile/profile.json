@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-denshattack-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/Denshattack — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-denshattack"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1cejbrI7y7HyY7H9LVqum6adXiRUbcoiSS18gGGR2YUQ/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "ed0c410ad8329f2f395382a97878b4c13641ec0b3e9b8029bbd7cb6e5e4036e4"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "matt-victor-codmw",
+  "kind": "game",
+  "name": "Matt Victor CODMW",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1nkiCnbG_kxJL6suR6DlPK610tDJjel8sY86eyTYgQdA/edit",
+    "title": "QuadStick public configuration catalog — Matt Victor CODMW"
+  }
+}

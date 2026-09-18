@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-black-ops-6-single-player-x360-qmp4",
+  "kind": "game",
+  "name": "Silas P. (PC)/CoD Black Ops 6 - Single Player x360 (QMP4)",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/19BUAl_q8GHpsQiBYeLw0dcw4dDt67BmO4nmbmpxVh-w/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/CoD Black Ops 6 - Single Player x360 (QMP4)"
+  }
+}

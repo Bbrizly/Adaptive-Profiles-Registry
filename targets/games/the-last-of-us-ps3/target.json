@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "the-last-of-us-ps3",
+  "kind": "game",
+  "name": "The Last of Us PS3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1U25oAf1iMuUMLdIcGIrvf74fO3FTKTxghbsrqVlF8w0/edit",
+    "title": "QuadStick public configuration catalog — The Last of Us PS3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "id": "battlefield",
+  "kind": "game",
+  "name": "Battlefield",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation",
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1flfJtOlE3xmoyouULZSl4HIsbEETRLeufdoIuGu0T64/edit",
+    "title": "QuadStick public configuration catalog — Battlefield PS4"
+  }
+}

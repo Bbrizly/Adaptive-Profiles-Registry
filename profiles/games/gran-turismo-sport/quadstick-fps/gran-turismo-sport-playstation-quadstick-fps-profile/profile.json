@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "gran-turismo-sport-playstation-quadstick-fps-profile",
+  "title": "Gran Turismo Sport — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "gran-turismo-sport"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1nkM6KY8jIOm1rOjZ6ImgiE0w2W8w8QZ8E2C1JMRCycY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "8d6653a07398101eadaeb02bb33b106b22dd66c06b27babcdd00f33c8c139904"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

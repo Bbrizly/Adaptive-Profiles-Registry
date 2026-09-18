@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-warhammer-40k-darktide",
+  "kind": "game",
+  "name": "Silas P. (PC)/Warhammer 40k - Darktide",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1UtCK_yeJdrcU32kI70HVLqyw4eiCUsOloHrHGAamO08/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Warhammer 40k - Darktide"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "dan-nh-copy-of-lol",
+  "kind": "game",
+  "name": "Dan NH/Copy of LOL",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
+    "title": "QuadStick public configuration catalog — Dan NH/Copy of LOL"
+  }
+}

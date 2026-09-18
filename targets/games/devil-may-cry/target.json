@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "devil-may-cry",
+  "kind": "game",
+  "name": "Devil May Cry",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1z-Oeg_swPyB_zCjG8_qCzZoKZ-hN8GKqM3C7k3ltzns/edit",
+    "title": "QuadStick public configuration catalog — Devil May Cry"
+  }
+}

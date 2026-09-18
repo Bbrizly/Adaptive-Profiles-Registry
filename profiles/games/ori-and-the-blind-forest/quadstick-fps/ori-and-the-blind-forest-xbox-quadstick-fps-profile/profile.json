@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "ori-and-the-blind-forest-xbox-quadstick-fps-profile",
+  "title": "Ori and the Blind Forest - — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "ori-and-the-blind-forest"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1fyEffI1NS0xQKTO1cibLJ5F9JqAO9o_-1u8ePhRnsd8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "2433529dc47e6f7b7bac9213890580b50d7217a8973e1cd14a6a0bbaf095c23d"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-cod-modern-warfare-iii-wz-2-0-x360-qmp4-xbox-quadstick-fps-zzcodwzmp3",
+  "title": "Silas P. (PC)/CoD Modern Warfare III - WZ 2.0 x360 (QMP4) — zzCoDWZMP3",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-cod-modern-warfare-iii-wz-2-0-x360-qmp4"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1eSkMSW4EAAjzR_Bisgjj0m-RRPhJ24XMvwDkHDzTZC8/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "9140fa133cf3540af053d8d6c895dc3bf8824d5b3dc1f1e2510eb21247e15e7b"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

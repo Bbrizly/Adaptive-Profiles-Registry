@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-advanced-warfare-xbox-quadstick-fps-profile",
+  "title": "Call of Duty Advanced Warfare — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "call-of-duty-advanced-warfare"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "18f98ed1e31b323f15d2153cd6f33abb98a6bb77b56b2b1b6d00c0ea0838129a"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

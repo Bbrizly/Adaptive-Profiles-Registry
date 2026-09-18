@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "destiny-playstation-quadstick-fps-profile",
+  "title": "Destiny — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "destiny"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1SQouaAS7jkhmTpQ5TxwFAicCPwor9qXv7r-ostKDAH0/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "9368931ebc63c0d8dd3019fd00e9506e873feb95ffcef4007214a9fac21568f6"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

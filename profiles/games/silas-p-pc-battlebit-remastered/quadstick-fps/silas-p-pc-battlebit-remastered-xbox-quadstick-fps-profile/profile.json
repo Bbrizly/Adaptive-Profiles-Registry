@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-battlebit-remastered-xbox-quadstick-fps-profile",
+  "title": "Silas P. (PC)/BattleBit Remastered — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-battlebit-remastered"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1avRnDQFKaYxDyeCy_4zgpHG4sgwEDbxgnZYF2Fn0bdg/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "8c81169cbe11288181d47584acd50ebcefac9458f8df87f5cf1a1da443e1d09f"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-max-payne-3",
+  "kind": "game",
+  "name": "Silas P. (PC)/Max Payne 3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1j9ud1kPYXCsY6DrM5ZMMKA1gURUfXLP-r8XOBAE_4zI/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Max Payne 3"
+  }
+}

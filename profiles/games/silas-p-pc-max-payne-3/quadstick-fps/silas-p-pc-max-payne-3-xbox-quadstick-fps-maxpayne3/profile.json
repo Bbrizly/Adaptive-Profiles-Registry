@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-max-payne-3-xbox-quadstick-fps-maxpayne3",
+  "title": "Silas P. (PC)/Max Payne 3 — MaxPayne3",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-max-payne-3"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1j9ud1kPYXCsY6DrM5ZMMKA1gURUfXLP-r8XOBAE_4zI/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "b348d4f1754fab9a2e714bebde8d0e1ddc3a2b16b43c1f99718b28f8c97d3332"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

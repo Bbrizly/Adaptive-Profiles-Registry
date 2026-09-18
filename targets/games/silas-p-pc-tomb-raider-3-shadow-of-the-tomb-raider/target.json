@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-tomb-raider-3-shadow-of-the-tomb-raider",
+  "kind": "game",
+  "name": "Silas P. (PC)/Tomb Raider 3 - Shadow of the Tomb Raider",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1wElQ_s-7YjNTYch0Zgr2UqcCHp1VtXc7TwDZbvKw7eo/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Tomb Raider 3 - Shadow of the Tomb Raider"
+  }
+}

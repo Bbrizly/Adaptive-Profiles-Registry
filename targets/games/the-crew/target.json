@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "the-crew",
+  "kind": "game",
+  "name": "The Crew",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1D5XnTVhZJc8QM9TSzCMzJKfnPHR9tadhCOP5pz1q6xk/edit",
+    "title": "QuadStick public configuration catalog — The Crew"
+  }
+}

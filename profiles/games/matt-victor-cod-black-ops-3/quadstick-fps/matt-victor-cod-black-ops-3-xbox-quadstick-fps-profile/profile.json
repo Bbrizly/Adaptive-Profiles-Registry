@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "matt-victor-cod-black-ops-3-xbox-quadstick-fps-profile",
+  "title": "Matt Victor COD Black Ops 3 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "matt-victor-cod-black-ops-3"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "544215aeb6ae89ac1e6d8a6e5c782119ad640c4702847433c9d8695e18df5e62"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

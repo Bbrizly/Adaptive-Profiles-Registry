@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-the-last-of-us-part-ii",
+  "kind": "game",
+  "name": "Silas P. (PC)/The Last of Us Part II",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/195oQ56RWrCN6UIyWCcOluT0kcUojij3Hv8aSO-vkM5I/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/The Last of Us Part II"
+  }
+}

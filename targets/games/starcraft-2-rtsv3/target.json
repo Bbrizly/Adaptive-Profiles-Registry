@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "starcraft-2-rtsv3",
+  "kind": "game",
+  "name": "StarCraft 2 RTSv3",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1jR6oxtk7-nTecGm2Na77sQSvAv7QUNDKiaQ6ECM3O8A/edit",
+    "title": "QuadStick public configuration catalog — StarCraft 2 RTSv3"
+  }
+}

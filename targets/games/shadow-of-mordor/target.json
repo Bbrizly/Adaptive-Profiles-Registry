@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "shadow-of-mordor",
+  "kind": "game",
+  "name": "Shadow of Mordor",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1EcG67yp8_PxZE-V4RMFMninY0G43Wlal4TyM-c-S_Ok/edit",
+    "title": "QuadStick public configuration catalog — Shadow of Mordor PC"
+  }
+}

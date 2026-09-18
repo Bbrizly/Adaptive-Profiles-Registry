@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-eurotruck-simulator-2",
+  "kind": "game",
+  "name": "Silas P. (PC)/Eurotruck Simulator 2",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "switch"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ahAn9pJFb_4eRSlsPkB-tQy3pUtOlZbIt8xk0JtzEIA/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Eurotruck Simulator 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "star-wars-battlefront-xbox-quadstick-fps-profile",
+  "title": "Star Wars Battlefront — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "star-wars-battlefront"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1fFYwT32xukGVdq9CTnL_Sv4zB1a-zMZqgi34s3EGVFY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "7fd19f311d8776e1efd884c9def9aa8be722bce0aaa38cd80a7657331a6eb411"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

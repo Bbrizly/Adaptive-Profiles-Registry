@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-playstation-quadstick-fps-profile",
+  "title": "Call of Duty — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "call-of-duty"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/18TzKdbmJ_gmthciivPeVyoMBFnD1aPKqTZngK4WW6kA/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "2cefdb1af35e5e13857eff479a8f3b6523fee0caca9721da52379020368667cf"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

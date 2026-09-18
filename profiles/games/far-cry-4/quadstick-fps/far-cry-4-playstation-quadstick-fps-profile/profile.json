@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "far-cry-4-playstation-quadstick-fps-profile",
+  "title": "Far Cry 4 — profile",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "far-cry-4"
+  },
+  "platform": "playstation",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/11y7DgYio3LH-uxSr8OxFFWeIiPXa_cabC6guIGLiXnk/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "f2490e8178a8c6e4f3b2cfa36d40ba3841ebea2f20546ab69611da1be8baee28"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

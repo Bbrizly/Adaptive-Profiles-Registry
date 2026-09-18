@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty-advanced-warfare",
+  "kind": "game",
+  "name": "Call of Duty Advanced Warfare",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation",
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit",
+    "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare XBox One"
+  }
+}

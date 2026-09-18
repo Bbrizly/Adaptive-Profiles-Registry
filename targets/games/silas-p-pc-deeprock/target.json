@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-deeprock",
+  "kind": "game",
+  "name": "Silas P. (PC)/DeepRock",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1KoYF9fnW9oe8Dmdg_xFGKT1yTzlniSvhgaCShyQF0Lk/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/DeepRock"
+  }
+}

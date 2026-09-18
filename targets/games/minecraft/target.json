@@ -12,9 +12,9 @@
   ],
   "platforms": [
     "pc",
-    "xbox",
     "playstation",
-    "switch"
+    "switch",
+    "xbox"
   ],
   "actions": [
     {

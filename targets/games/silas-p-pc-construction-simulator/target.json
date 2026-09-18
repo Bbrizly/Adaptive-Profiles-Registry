@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-construction-simulator",
+  "kind": "game",
+  "name": "Silas P. (PC)/Construction-Simulator",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "xbox"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1vuug3D-TykDBeZsNet1cLpgiIsHqFzV6HJ2Mk_rIfmw/edit",
+    "title": "QuadStick public configuration catalog — Silas P. (PC)/Construction-Simulator"
+  }
+}

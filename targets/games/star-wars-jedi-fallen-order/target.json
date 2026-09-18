@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "id": "star-wars-jedi-fallen-order",
+  "kind": "game",
+  "name": "Star Wars Jedi: Fallen Order",
+  "aliases": [
+    "Jedi: Fallen Order",
+    "Fallen Order"
+  ],
+  "categories": [
+    "gaming",
+    "action-adventure"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [
+    {
+      "id": "move",
+      "name": "Move",
+      "category": "movement",
+      "kind": "axis-2d"
+    },
+    {
+      "id": "look",
+      "name": "Look",
+      "category": "movement",
+      "kind": "pointer"
+    },
+    {
+      "id": "attack",
+      "name": "Attack",
+      "category": "combat",
+      "kind": "digital"
+    },
+    {
+      "id": "block",
+      "name": "Parry / Block",
+      "category": "combat",
+      "kind": "digital"
+    },
+    {
+      "id": "jump",
+      "name": "Jump",
+      "category": "movement",
+      "kind": "digital"
+    },
+    {
+      "id": "evade",
+      "name": "Evade",
+      "category": "movement",
+      "kind": "digital"
+    },
+    {
+      "id": "force-attack",
+      "name": "Force Attack",
+      "category": "combat",
+      "kind": "digital"
+    },
+    {
+      "id": "interact",
+      "name": "Interact",
+      "category": "gameplay",
+      "kind": "digital"
+    },
+    {
+      "id": "heal",
+      "name": "Heal",
+      "category": "gameplay",
+      "kind": "digital"
+    },
+    {
+      "id": "sprint",
+      "name": "Sprint",
+      "category": "movement",
+      "kind": "digital"
+    },
+    {
+      "id": "map",
+      "name": "Map",
+      "category": "menu",
+      "kind": "menu"
+    },
+    {
+      "id": "pause",
+      "name": "Pause / Menu",
+      "category": "menu",
+      "kind": "menu"
+    }
+  ],
+  "source": {
+    "url": "https://www.ea.com/able/resources/star-wars/jedi-fallen-order/pc/text-manual",
+    "title": "Star Wars Jedi: Fallen Order PC Text Manual"
+  }
+}

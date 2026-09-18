@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-the-finals-pc-quadstick-fps-thefinals",
+  "title": "Silas P. (PC)/the Finals — theFinals",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-the-finals"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Wuw6JOyKBHtRdQlafGWFMtRw9Ze_vUK098rTN73qTLo/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "bb270a56b8147f8e0c274eb065e4710f08ada3f861f63c21b140e50442979f9a"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

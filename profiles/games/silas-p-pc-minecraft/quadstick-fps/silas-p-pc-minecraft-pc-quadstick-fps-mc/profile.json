@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "silas-p-pc-minecraft-pc-quadstick-fps-mc",
+  "title": "Silas P. (PC)/Minecraft — Mc",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact CSV snapshot is preserved; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "silas-p-pc-minecraft"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1lY5kjL9I5rToU5-dj28Lt5Zyndemn6fgZASw1C5DgTY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "11e5e80700168e91d1561273b213e1cdbb25ff80534e166b8a3e4c4a0993e07f"
+  },
+  "revision": 1,
+  "createdAt": "2026-09-18",
+  "updatedAt": "2026-09-18"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "call-of-duty",
+  "kind": "game",
+  "name": "Call of Duty",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "playstation"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/18TzKdbmJ_gmthciivPeVyoMBFnD1aPKqTZngK4WW6kA/edit",
+    "title": "QuadStick public configuration catalog — Call of Duty"
+  }
+}

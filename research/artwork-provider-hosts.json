@@ -1,0 +1,6 @@
+{
+  "hosts": [
+    "shared.akamai.steamstatic.com",
+    "upload.wikimedia.org"
+  ]
+}

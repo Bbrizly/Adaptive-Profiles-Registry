@@ -17,3 +17,23 @@ assert.equal(v2.targets.some(target => /^(?:Matt Victor|RockyNoHands|Steamy Bisc
 assert.equal(v2.targets.some(target => /(?: - Steam|-$|^LOL$|^Portal2$|^StarCitizen$)/i.test(target.name)), false);
 assert.equal(v2.targets.some(target => ['League of Legends', 'Fortnite', 'PUBG', 'Call of Duty: Modern Warfare'].includes(target.name) && /^(?:Matt Victor|RockyNoHands)\b/i.test(target.name)), false);
 console.log('Registry compatibility tests passed.');
+
+function artworkTarget(artwork, artworkStatus) {
+  return {
+    schemaVersion: 2, id: 'fixture-target', kind: 'game', name: 'Fixture', aliases: [],
+    categories: [], platforms: ['pc'], actions: [], source: { url: 'https://example.com', title: 'Fixture' },
+    ...(artwork ? { artwork } : {}), ...(artworkStatus ? { artworkStatus } : {}),
+  };
+}
+function errorsFor(target) { return validateRegistry({ targets: [{ file: '/tmp/target.json', data: target }], devices: [], profiles: [] }); }
+const verified = { kind: 'wikimedia', url: 'https://upload.wikimedia.org/wikipedia/commons/example.jpg', provider: 'wikimedia', nativeWidth: 1200, nativeHeight: 675, contentSha256: 'a'.repeat(64), attribution: 'Artist', license: 'CC BY-SA' };
+assert.deepEqual(errorsFor(artworkTarget(verified)), []);
+assert.match(errorsFor(artworkTarget({ ...verified, url: 'http://upload.wikimedia.org/example.jpg' }))[0], /HTTPS/);
+assert.match(errorsFor(artworkTarget({ ...verified, url: 'https://commons.wikimedia.org/example.jpg' }))[0], /allowed provider host/);
+assert.match(errorsFor(artworkTarget({ ...verified, nativeHeight: undefined }))[0], /dimensions/);
+assert.match(errorsFor(artworkTarget({ ...verified, contentSha256: undefined }))[0], /contentSha256/);
+assert.match(errorsFor(artworkTarget({ ...verified, attribution: '' }))[0], /attribution/);
+assert.match(errorsFor(artworkTarget({ ...verified }, 'unavailable'))[0], /mutually exclusive/);
+assert.match(errorsFor(artworkTarget(undefined, 'pending'))[0], /artworkStatus invalid/);
+assert.deepEqual(errorsFor(artworkTarget({ kind: 'generated', url: 'https://raw.githubusercontent.com/example.svg', attribution: 'Adaptive Profiles', license: 'Adaptive Profiles terms' })), []);
+console.log('Artwork validation tests passed.');

@@ -6,6 +6,8 @@ export const ROOT = path.resolve(import.meta.dirname, '..');
 const slug = /^[a-z0-9]+(?:-+[a-z0-9]+)*$/;
 const inputKinds = new Set(['digital', 'axis-1d', 'axis-2d', 'pointer']);
 const behaviors = new Set(['normal', 'tap', 'hold', 'toggle', 'repeat']);
+const artworkStatuses = new Set(['unavailable', 'needs_review']);
+const artworkHosts = new Set(read(path.join(ROOT, 'research/artwork-provider-hosts.json')).hosts);
 
 function files(root) {
   if (!fs.existsSync(root)) return [];
@@ -19,6 +21,24 @@ function files(root) {
 function read(file) { return JSON.parse(fs.readFileSync(file, 'utf8')); }
 function requireSlug(value, label) { if (typeof value !== 'string' || !slug.test(value)) throw new Error(`${label} must be a slug`); }
 function unique(values, label) { if (new Set(values).size !== values.length) throw new Error(`Duplicate ${label}`); }
+function validateArtwork(data, label) {
+  if (data.artworkStatus !== undefined && !artworkStatuses.has(data.artworkStatus)) throw new Error(`${label}.artworkStatus invalid`);
+  if (data.artwork && data.artworkStatus !== undefined) throw new Error(`${label}: artwork and artworkStatus are mutually exclusive`);
+  if (!data.artwork) return;
+  const artwork = data.artwork;
+  if (!['steam', 'wikimedia', 'generated'].includes(artwork.kind)) throw new Error(`${label}.artwork.kind invalid`);
+  if (!artwork.url || !artwork.attribution || !artwork.license) throw new Error(`${label}: artwork url/attribution/license required`);
+  if (artwork.kind === 'generated') return;
+  let url;
+  try { url = new URL(artwork.url); } catch { throw new Error(`${label}: artwork URL invalid`); }
+  if (url.protocol !== 'https:' || url.port || !artworkHosts.has(url.hostname)) throw new Error(`${label}: artwork URL must use HTTPS and an allowed provider host`);
+  const hasDimensions = artwork.nativeWidth !== undefined || artwork.nativeHeight !== undefined;
+  if (hasDimensions && (!Number.isInteger(artwork.nativeWidth) || artwork.nativeWidth <= 0 || !Number.isInteger(artwork.nativeHeight) || artwork.nativeHeight <= 0)) throw new Error(`${label}: artwork dimensions invalid`);
+  if (artwork.contentSha256 !== undefined && !/^[a-f0-9]{64}$/.test(artwork.contentSha256)) throw new Error(`${label}: artwork contentSha256 invalid`);
+  // Existing Steam records predate the provenance fields. New remote records
+  // identify themselves with provider and must carry auditable binary metadata.
+  if (artwork.provider !== undefined && (!hasDimensions || artwork.contentSha256 === undefined)) throw new Error(`${label}: remote artwork requires native dimensions and contentSha256`);
+}
 
 export function loadRegistry() {
   const targets = files(path.join(ROOT, 'targets')).filter(file => path.basename(file) === 'target.json').map(file => ({ file, data: read(file) }));
@@ -31,7 +51,7 @@ export function validateRegistry(registry = loadRegistry()) {
   const targetById = new Map(); const deviceById = new Map(); const errors = [];
   const check = (fn) => { try { fn(); } catch (error) { errors.push(error.message); } };
   for (const { file, data } of registry.targets) check(() => {
-    const label = path.relative(ROOT, file); if (data.schemaVersion !== 2) throw new Error(`${label}: schemaVersion must be 2`); requireSlug(data.id, `${label}.id`); if (!['game', 'software'].includes(data.kind)) throw new Error(`${label}: invalid kind`); if (!data.name || !Array.isArray(data.platforms) || !data.platforms.length) throw new Error(`${label}: name/platforms required`); unique(data.platforms, `${label} platforms`); if (!Array.isArray(data.actions)) throw new Error(`${label}: actions required`); unique(data.actions.map(action => action.id), `${label} actions`); for (const action of data.actions) requireSlug(action.id, `${label}.action.id`); if (!data.source?.url || !data.source?.title) throw new Error(`${label}: source required`); new URL(data.source.url); if (targetById.has(data.id)) throw new Error(`${label}: duplicate target id`); targetById.set(data.id, data);
+    const label = path.relative(ROOT, file); if (data.schemaVersion !== 2) throw new Error(`${label}: schemaVersion must be 2`); requireSlug(data.id, `${label}.id`); if (!['game', 'software'].includes(data.kind)) throw new Error(`${label}: invalid kind`); if (!data.name || !Array.isArray(data.platforms) || !data.platforms.length) throw new Error(`${label}: name/platforms required`); unique(data.platforms, `${label} platforms`); if (!Array.isArray(data.actions)) throw new Error(`${label}: actions required`); unique(data.actions.map(action => action.id), `${label} actions`); for (const action of data.actions) requireSlug(action.id, `${label}.action.id`); if (!data.source?.url || !data.source?.title) throw new Error(`${label}: source required`); new URL(data.source.url); validateArtwork(data, label); if (targetById.has(data.id)) throw new Error(`${label}: duplicate target id`); targetById.set(data.id, data);
   });
   for (const { file, data } of registry.devices) check(() => {
     const label = path.relative(ROOT, file); if (data.schemaVersion !== 2) throw new Error(`${label}: schemaVersion must be 2`); requireSlug(data.id, `${label}.id`); if (!data.name || !data.manufacturer || !Array.isArray(data.inputs) || !data.inputs.length) throw new Error(`${label}: invalid device`); unique(data.inputs.map(input => input.id), `${label} inputs`); for (const input of data.inputs) { requireSlug(input.id, `${label}.input.id`); if (!input.name || !inputKinds.has(input.kind)) throw new Error(`${label}: invalid input`); } if (deviceById.has(data.id)) throw new Error(`${label}: duplicate device id`); deviceById.set(data.id, data);

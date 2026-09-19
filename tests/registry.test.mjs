@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import { buildIndexes, loadRegistry, validateRegistry } from '../tools/registry.mjs';
+import { collectArtworkCandidates, fetchValidatedImage, titleMatch } from '../tools/enrich-game-artwork.mjs';
 
 const registry = loadRegistry();
 assert.deepEqual(validateRegistry(registry), []);
@@ -41,3 +42,44 @@ assert.match(errorsFor(artworkTarget({ ...verified, provider: null }))[0], /prov
 assert.deepEqual(errorsFor(artworkTarget({ kind: 'steam', url: 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1/header.jpg', source: 'https://store.steampowered.com/app/1/', fallbackPath: 'artwork/games/fixture-target.svg', attribution: 'Steam store artwork', license: 'third-party' })), []);
 assert.deepEqual(errorsFor(artworkTarget({ kind: 'generated', url: 'https://raw.githubusercontent.com/example.svg', attribution: 'Adaptive Profiles', license: 'Adaptive Profiles terms' })), []);
 console.log('Artwork validation tests passed.');
+
+// Artwork enrichment safety/fixture tests. Every fetch is mocked; this test file
+// must remain network-free and should exercise the same public seams as the CLI.
+const png = (width = 120, height = 80) => Uint8Array.from([
+  0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0, 0, 0, 13, 0x49, 0x48, 0x44, 0x52,
+  width >>> 24, width >>> 16 & 255, width >>> 8 & 255, width & 255, height >>> 24, height >>> 16 & 255, height >>> 8 & 255, height & 255,
+]);
+const response = (body, type = 'image/png', status = 200, extra = {}) => ({ ok: status >= 200 && status < 300, status, headers: { get: key => ({ 'content-type': type, 'content-length': body?.byteLength ?? body?.length, ...extra })[key.toLowerCase()] ?? null }, arrayBuffer: async () => body.buffer.slice(body.byteOffset, body.byteOffset + body.byteLength), json: async () => body });
+const fetchMap = routes => async url => routes[url] || response(new Uint8Array(), 'text/plain', 404);
+const steamImage = 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/123/0123456789abcdef0123456789abcdef01234567/header.jpg';
+const targetFixture = (id, name, aliases = [], appId = 123) => ({ schemaVersion: 2, id, kind: 'game', name, aliases, platforms: ['pc'], actions: [], source: { url: 'https://example.com', title: name }, metadata: { steam: { appId, name } } });
+
+assert.equal(titleMatch(targetFixture('alias-game', 'Star Game', ['SG']), 'SG').matched, true, 'aliases match conservatively');
+assert.equal(titleMatch(targetFixture('ambiguous-game', 'Star Game', ['Star']), 'Star Game Deluxe').matched, false, 'weak/conflicting title match is rejected');
+await assert.rejects(() => fetchValidatedImage('https://shared.akamai.steamstatic.com.evil.test/store_item_assets/steam/apps/1/header.jpg', fetchMap({})), /host\/protocol/);
+await assert.rejects(() => fetchValidatedImage('http://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1/header.jpg', fetchMap({})), /host\/protocol/);
+await assert.rejects(() => fetchValidatedImage('https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1/not-artwork.jpg', fetchMap({})), /path not allowed/);
+await fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(png()) }));
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(png(), 'application/octet-stream') })), /content type/);
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(new Uint8Array(), 'image/png', 503) })), /HTTP 503/);
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(new Uint8Array(10 * 1024 * 1024 + 1)) })), /byte limit/);
+const redirect = 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/123/header.jpg';
+await assert.rejects(() => fetchValidatedImage(redirect, fetchMap({ [redirect]: response(new Uint8Array(), '', 302, { location: redirect }) })), /redirect limit/);
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(Uint8Array.from([1, 2, 3])) })), /signature/);
+await assert.rejects(() => fetchValidatedImage(steamImage.replace('.jpg', '.bmp'), fetchMap({})), /path not allowed/);
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(png(1, 80)) })), /dimensions/);
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(png(5000, 5000)) })), /pixel budget/);
+await assert.rejects(() => fetchValidatedImage(steamImage, fetchMap({ [steamImage]: response(png(12000, 12000)) })), /pixel budget|decode allocation/);
+
+const artworkApi = 'https://store.steampowered.com/api/appdetails?appids=123&l=english';
+const duplicateTarget = targetFixture('duplicate-game', 'Star Game', [], 123);
+const acceptedRoutes = {
+  [artworkApi]: response({ '123': { data: { name: 'Star Game', steam_appid: 123, header_image: steamImage } } }, 'application/json'),
+  [steamImage]: response(png()),
+};
+const ledger = await collectArtworkCandidates({ registry: { targets: [{ data: duplicateTarget }, { data: targetFixture('missing-game', 'Missing Game', [], null) }], devices: [], profiles: [] }, fetchImpl: fetchMap(acceptedRoutes) });
+assert.equal(ledger.find(item => item.targetId === 'duplicate-game' && item.provider === 'steam').status, 'accepted');
+assert.equal(ledger.some(item => item.status === 'duplicate'), false, 'one target does not self-duplicate');
+const duplicateLedger = await collectArtworkCandidates({ registry: { targets: [{ data: duplicateTarget }, { data: targetFixture('duplicate-game-two', 'Star Game', [], 123) }], devices: [], profiles: [] }, fetchImpl: fetchMap(acceptedRoutes) });
+assert.equal(duplicateLedger.filter(item => item.status === 'duplicate').length, 1, 'duplicate hashes are ledgered');
+console.log('Artwork enrichment safety tests passed.');

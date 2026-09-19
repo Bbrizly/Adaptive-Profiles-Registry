@@ -12,7 +12,7 @@ const headers = { 'User-Agent': 'Adaptive-Profiles-Registry/1.0 (public metadata
 // These are unambiguous title aliases for targets whose community label is
 // abbreviated, platform-specific, or uses a franchise shorthand.  We only
 // use an alias when it points at the exact game represented by the target.
-const knownSteamApps = {
+export const knownSteamApps = {
   'assassin-s-creed': 311560,
   'batman-arkham-city': 200260,
   'batman-arkham-knight': 208650,

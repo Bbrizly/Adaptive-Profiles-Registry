@@ -4064,7 +4064,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
         "source": "https://store.steampowered.com/app/553850/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/helldivers-ii.svg"
       },
       "metadata": {
         "steam": {
@@ -4150,7 +4151,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
         "source": "https://store.steampowered.com/app/1583230/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/high-on-life.svg"
       }
     },
     {
@@ -4201,7 +4203,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
         "source": "https://store.steampowered.com/app/990080/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/hogwarts-legacy.svg"
       }
     },
     {
@@ -4226,7 +4229,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
         "source": "https://store.steampowered.com/app/1151640/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/horizon-zero-dawn.svg"
       },
       "metadata": {
         "steam": {
@@ -4277,7 +4281,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
         "source": "https://store.steampowered.com/app/594650/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/hunt-showdown.svg"
       },
       "metadata": {
         "steam": {
@@ -4346,7 +4351,7 @@
         "path": "artwork/games/hytale.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hytale.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4411,7 +4416,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
         "source": "https://store.steampowered.com/app/2677660/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/indiana-jones-and-the-great-circle.svg"
       }
     },
     {
@@ -4461,7 +4467,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
         "source": "https://store.steampowered.com/app/1426210/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/it-takes-two.svg"
       }
     },
     {
@@ -4521,7 +4528,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
         "source": "https://store.steampowered.com/app/638230/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/journey.svg"
       }
     },
     {
@@ -4586,7 +4594,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg",
         "source": "https://store.steampowered.com/app/8190/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/just-cause-2.svg"
       }
     },
     {
@@ -4637,7 +4646,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
         "source": "https://store.steampowered.com/app/1771300/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/kingdom-come-deliverance-ii.svg"
       }
     },
     {
@@ -4662,7 +4672,7 @@
         "path": "artwork/games/league-of-legends.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/league-of-legends.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4726,9 +4736,9 @@
           ],
           "rating": {
             "score": 96.96,
-            "positive": 495401,
+            "positive": 495402,
             "negative": 15531,
-            "total": 510932
+            "total": 510933
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -4884,9 +4894,9 @@
           ],
           "rating": {
             "score": 93.77,
-            "positive": 42543,
+            "positive": 42544,
             "negative": 2827,
-            "total": 45370
+            "total": 45371
           },
           "metacritic": 78,
           "fetchedAt": "2026-09-18"
@@ -4943,9 +4953,9 @@
           ],
           "rating": {
             "score": 87.03,
-            "positive": 56058,
+            "positive": 56057,
             "negative": 8353,
-            "total": 64411
+            "total": 64410
           },
           "metacritic": 87,
           "fetchedAt": "2026-09-18"
@@ -4978,11 +4988,36 @@
         "title": "QuadStick public configuration catalog — Metal Gear Snake Eater"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/metal-gear-snake-eater.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/metal-gear-snake-eater.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg",
+        "source": "https://store.steampowered.com/app/2131650/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/metal-gear-snake-eater.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 2131650,
+          "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+          "url": "https://store.steampowered.com/app/2131650/",
+          "description": "Metal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series.",
+          "releaseDate": "Oct 24, 2023",
+          "genres": [
+            "Action"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 89.48,
+            "positive": 6320,
+            "negative": 743,
+            "total": 7063
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -5003,11 +5038,36 @@
         "title": "QuadStick public configuration catalog — Microsoft Flight Simulator"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/microsoft-flight-simulator.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/microsoft-flight-simulator.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+        "source": "https://store.steampowered.com/app/1250410/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/microsoft-flight-simulator.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 1250410,
+          "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+          "url": "https://store.steampowered.com/app/1250410/",
+          "description": "From gliders and helicopters to wide-body jets, fly highly detailed and accurate aircraft in the Microsoft Flight Simulator 40th Anniversary Edition. The world is at your fingertips.",
+          "releaseDate": "Aug 25, 2026",
+          "genres": [
+            "Simulation"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 78.68,
+            "positive": 57481,
+            "negative": 15580,
+            "total": 73061
+          },
+          "metacritic": 91,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -5445,11 +5505,39 @@
         "title": "QuadStick public configuration catalog — Need for Speed Heat"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/need-for-speed-heat.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-heat.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
+        "source": "https://store.steampowered.com/app/1222680/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/need-for-speed-heat.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 1222680,
+          "name": "Need for Speed™ Heat",
+          "url": "https://store.steampowered.com/app/1222680/",
+          "description": "Hustle by day and risk it all at night in Need for Speed™ Heat Deluxe Edition, a white-knuckle street racer, where the lines of the law fade as the sun starts to set.",
+          "releaseDate": "Jun 4, 2020",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Racing",
+            "Sports"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 84.23,
+            "positive": 129653,
+            "negative": 24269,
+            "total": 153922
+          },
+          "metacritic": 72,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -5496,11 +5584,36 @@
         "title": "QuadStick public configuration catalog — Ori and the Blind Forest"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/ori-and-the-blind-forest.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg",
+        "source": "https://store.steampowered.com/app/387290/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/ori-and-the-blind-forest.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 387290,
+          "name": "Ori and the Blind Forest: Definitive Edition",
+          "url": "https://store.steampowered.com/app/387290/",
+          "description": "“Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios.",
+          "releaseDate": "Apr 27, 2016",
+          "genres": [
+            "Action"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 95.05,
+            "positive": 67995,
+            "negative": 3538,
+            "total": 71533
+          },
+          "metacritic": 88,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -5548,9 +5661,9 @@
           ],
           "rating": {
             "score": 74.97,
-            "positive": 169674,
-            "negative": 56652,
-            "total": 226326
+            "positive": 169682,
+            "negative": 56653,
+            "total": 226335
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -5607,9 +5720,9 @@
           ],
           "rating": {
             "score": 89.35,
-            "positive": 602920,
-            "negative": 71843,
-            "total": 674763
+            "positive": 602923,
+            "negative": 71842,
+            "total": 674765
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -5674,9 +5787,9 @@
           ],
           "rating": {
             "score": 45.79,
-            "positive": 30078,
+            "positive": 30079,
             "negative": 35611,
-            "total": 65689
+            "total": 65690
           },
           "metacritic": 66,
           "fetchedAt": "2026-09-18"
@@ -5741,9 +5854,9 @@
           ],
           "rating": {
             "score": 80.37,
-            "positive": 60173,
+            "positive": 60174,
             "negative": 14699,
-            "total": 74872
+            "total": 74873
           },
           "metacritic": 84,
           "fetchedAt": "2026-09-18"
@@ -5807,8 +5920,8 @@
           "rating": {
             "score": 74.54,
             "positive": 17178,
-            "negative": 5866,
-            "total": 23044
+            "negative": 5867,
+            "total": 23045
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -5858,9 +5971,9 @@
           ],
           "rating": {
             "score": 98.7,
-            "positive": 460837,
+            "positive": 460849,
             "negative": 6047,
-            "total": 466884
+            "total": 466896
           },
           "metacritic": 95,
           "fetchedAt": "2026-09-18"
@@ -5918,11 +6031,38 @@
         "title": "QuadStick public configuration catalog — Project CARS"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/project-cars.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg",
+        "source": "https://store.steampowered.com/app/234630/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/project-cars.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 234630,
+          "name": "Project CARS",
+          "url": "https://store.steampowered.com/app/234630/",
+          "description": "THE ULTIMATE DRIVER JOURNEY delivers the soul of motor racing in the world’s most beautiful, authentic, and technically-advanced racing game.",
+          "releaseDate": "May 6, 2015",
+          "genres": [
+            "Racing",
+            "Simulation",
+            "Sports"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 79.38,
+            "positive": 11461,
+            "negative": 2977,
+            "total": 14438
+          },
+          "metacritic": 83,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -5943,11 +6083,39 @@
         "title": "QuadStick public configuration catalog — PUBG"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/pubg.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/pubg.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+        "source": "https://store.steampowered.com/app/578080/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/pubg.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "url": "https://store.steampowered.com/app/578080/",
+          "description": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
+          "releaseDate": "Dec 21, 2017",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "Free To Play"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 60.55,
+            "positive": 1668379,
+            "negative": 1087061,
+            "total": 2755440
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -5995,9 +6163,9 @@
           ],
           "rating": {
             "score": 92.99,
-            "positive": 352146,
-            "negative": 26539,
-            "total": 378685
+            "positive": 352150,
+            "negative": 26541,
+            "total": 378691
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6061,9 +6229,9 @@
           ],
           "rating": {
             "score": 92.43,
-            "positive": 20086,
+            "positive": 20091,
             "negative": 1646,
-            "total": 21732
+            "total": 21737
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6152,9 +6320,9 @@
           ],
           "rating": {
             "score": 92.48,
-            "positive": 850589,
-            "negative": 69127,
-            "total": 919716
+            "positive": 850639,
+            "negative": 69125,
+            "total": 919764
           },
           "metacritic": 93,
           "fetchedAt": "2026-09-18"
@@ -6246,9 +6414,9 @@
           ],
           "rating": {
             "score": 96.69,
-            "positive": 34053,
+            "positive": 34054,
             "negative": 1165,
-            "total": 35218
+            "total": 35219
           },
           "metacritic": 89,
           "fetchedAt": "2026-09-18"
@@ -6324,9 +6492,9 @@
           ],
           "rating": {
             "score": 97.27,
-            "positive": 271922,
-            "negative": 7645,
-            "total": 279567
+            "positive": 271928,
+            "negative": 7646,
+            "total": 279574
           },
           "metacritic": 91,
           "fetchedAt": "2026-09-18"
@@ -6378,9 +6546,9 @@
           ],
           "rating": {
             "score": 97.78,
-            "positive": 309258,
-            "negative": 7015,
-            "total": 316273
+            "positive": 309272,
+            "negative": 7016,
+            "total": 316288
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6422,14 +6590,38 @@
         "releaseDate": null,
         "genres": [],
         "platforms": [],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 1172620,
+          "name": "Sea of Thieves: 2026 Edition",
+          "url": "https://store.steampowered.com/app/1172620/",
+          "description": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, intense battles, vanquishing sea monsters and more. Dive in with this revised edition of the game, which includes access to digital bonus media.",
+          "releaseDate": "Jun 3, 2020",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 88.62,
+            "positive": 330489,
+            "negative": 42453,
+            "total": 372942
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/sea-of-thieves.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sea-of-thieves.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+        "source": "https://store.steampowered.com/app/1172620/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/sea-of-thieves.svg"
       }
     },
     {
@@ -6450,11 +6642,34 @@
         "title": "QuadStick public configuration catalog — Shadow of Mordor"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/shadow-of-mordor.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg",
+        "source": "https://store.steampowered.com/app/241930/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/shadow-of-mordor.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 241930,
+          "name": "Middle-earth™: Shadow of Mordor™",
+          "url": "https://store.steampowered.com/app/241930/",
+          "description": "Fight through Mordor and uncover the truth of the spirit that compels you, discover the origins of the Rings of Power, build your legend and ultimately confront the evil of Sauron in this new chronicle of Middle-earth.",
+          "releaseDate": "Sep 30, 2014",
+          "genres": [],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 92.52,
+            "positive": 90006,
+            "negative": 7278,
+            "total": 97284
+          },
+          "metacritic": 84,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -6489,14 +6704,38 @@
           "Microsoft Windows",
           "Xbox Series X and Series S"
         ],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 1036890,
+          "name": "Shadow Warrior 3: Definitive Edition",
+          "url": "https://store.steampowered.com/app/1036890/",
+          "description": "Take an adrenaline-fueled journey through a mythical Japanese realm in the Definitive Edition of Shadow Warrior 3, packed with new features, and enjoy an ultraviolent blend of fast-paced gunplay, razor-sharp melee combat, and spectacular free-running movement.",
+          "releaseDate": "Mar 1, 2022",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 68.87,
+            "positive": 3902,
+            "negative": 1764,
+            "total": 5666
+          },
+          "metacritic": 71,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/shadow-warrior-3.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-warrior-3.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036890/header.jpg",
+        "source": "https://store.steampowered.com/app/1036890/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/shadow-warrior-3.svg"
       }
     },
     {
@@ -6558,9 +6797,9 @@
           ],
           "rating": {
             "score": 79.12,
-            "positive": 13035,
+            "positive": 13036,
             "negative": 3440,
-            "total": 16475
+            "total": 16476
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6620,10 +6859,10 @@
             "windows"
           ],
           "rating": {
-            "score": 69.52,
-            "positive": 62358,
-            "negative": 27344,
-            "total": 89702
+            "score": 69.51,
+            "positive": 62364,
+            "negative": 27350,
+            "total": 89714
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6665,14 +6904,40 @@
         "releaseDate": null,
         "genres": [],
         "platforms": [],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 307690,
+          "name": "Sleeping Dogs: Definitive Edition",
+          "url": "https://store.steampowered.com/app/307690/",
+          "description": "The Definitive Edition of the critically acclaimed, award winning open-world action adventure, reworked, rebuilt and re-mastered for the new generation. With all previously available DLC included and a wealth of tech and visual improvements, Hong Kong has never felt so alive.",
+          "releaseDate": "Oct 8, 2014",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Racing"
+          ],
+          "platforms": [
+            "windows",
+            "mac"
+          ],
+          "rating": {
+            "score": 94.1,
+            "positive": 75018,
+            "negative": 4700,
+            "total": 79718
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/sleeping.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sleeping.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
+        "source": "https://store.steampowered.com/app/307690/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/sleeping.svg"
       }
     },
     {
@@ -6709,9 +6974,9 @@
           ],
           "rating": {
             "score": 82.06,
-            "positive": 23331,
-            "negative": 5102,
-            "total": 28433
+            "positive": 23334,
+            "negative": 5103,
+            "total": 28437
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -6777,9 +7042,9 @@
           ],
           "rating": {
             "score": 91.28,
-            "positive": 57670,
+            "positive": 57673,
             "negative": 5511,
-            "total": 63181
+            "total": 63184
           },
           "metacritic": 78,
           "fetchedAt": "2026-09-18"
@@ -6846,9 +7111,9 @@
           ],
           "rating": {
             "score": 83.74,
-            "positive": 25608,
-            "negative": 4973,
-            "total": 30581
+            "positive": 25614,
+            "negative": 4974,
+            "total": 30588
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -7027,9 +7292,9 @@
           ],
           "rating": {
             "score": 96.92,
-            "positive": 123069,
-            "negative": 3913,
-            "total": 126982
+            "positive": 123074,
+            "negative": 3915,
+            "total": 126989
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7320,9 +7585,9 @@
           ],
           "rating": {
             "score": 88.43,
-            "positive": 155121,
-            "negative": 20301,
-            "total": 175422
+            "positive": 155125,
+            "negative": 20302,
+            "total": 175427
           },
           "metacritic": 81,
           "fetchedAt": "2026-09-18"
@@ -7405,9 +7670,9 @@
           ],
           "rating": {
             "score": 56.9,
-            "positive": 99807,
-            "negative": 75597,
-            "total": 175404
+            "positive": 99809,
+            "negative": 75598,
+            "total": 175407
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7499,14 +7764,39 @@
         "releaseDate": null,
         "genres": [],
         "platforms": [],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 646910,
+          "name": "The Crew™ 2",
+          "url": "https://store.steampowered.com/app/646910/",
+          "description": "Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. New: play The Crew 2 offline or online with the new Hybrid mode, available now!",
+          "releaseDate": "Jun 28, 2018",
+          "genres": [
+            "Action",
+            "Massively Multiplayer",
+            "Racing"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 77.58,
+            "positive": 77311,
+            "negative": 22343,
+            "total": 99654
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/the-crew.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
+        "source": "https://store.steampowered.com/app/646910/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/the-crew.svg"
       }
     },
     {
@@ -7543,9 +7833,9 @@
           ],
           "rating": {
             "score": 78.22,
-            "positive": 216207,
-            "negative": 60203,
-            "total": 276410
+            "positive": 216215,
+            "negative": 60208,
+            "total": 276423
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7625,14 +7915,38 @@
         "releaseDate": "2020-01-01",
         "genres": [],
         "platforms": [],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 2531310,
+          "name": "The Last of Us™ Part II Remastered",
+          "url": "https://store.steampowered.com/app/2531310/",
+          "description": "Experience the winner of over 300 Game of the Year awards, now on PC. Discover Ellie and Abby’s story with graphical enhancements, gameplay modes like the roguelike survival experience No Return, and more.",
+          "releaseDate": "Apr 3, 2025",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 90.93,
+            "positive": 50441,
+            "negative": 5031,
+            "total": 55472
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/the-last-of-us-part-ii.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-part-ii.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+        "source": "https://store.steampowered.com/app/2531310/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/the-last-of-us-part-ii.svg"
       }
     },
     {
@@ -7711,14 +8025,37 @@
           "Microsoft Windows",
           "Xbox Series X and Series S"
         ],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 292030,
+          "name": "The Witcher 3: Wild Hunt - Complete Edition",
+          "url": "https://store.steampowered.com/app/292030/",
+          "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+          "releaseDate": "May 18, 2015",
+          "genres": [
+            "RPG"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 96.76,
+            "positive": 859457,
+            "negative": 28809,
+            "total": 888266
+          },
+          "metacritic": 93,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/the-witcher-3-wild-hunt.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-witcher-3-wild-hunt.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+        "source": "https://store.steampowered.com/app/292030/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/the-witcher-3-wild-hunt.svg"
       }
     },
     {
@@ -7756,9 +8093,9 @@
           ],
           "rating": {
             "score": 89.08,
-            "positive": 180868,
+            "positive": 180879,
             "negative": 22171,
-            "total": 203039
+            "total": 203050
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -7890,9 +8227,9 @@
           ],
           "rating": {
             "score": 95.65,
-            "positive": 273876,
-            "negative": 12458,
-            "total": 286334
+            "positive": 273890,
+            "negative": 12460,
+            "total": 286350
           },
           "metacritic": 86,
           "fetchedAt": "2026-09-18"
@@ -7925,11 +8262,38 @@
         "title": "QuadStick public configuration catalog — Tomb Raider"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/tomb-raider.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
+        "source": "https://store.steampowered.com/app/203160/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 203160,
+          "name": "Tomb Raider Game of the Year",
+          "url": "https://store.steampowered.com/app/203160/",
+          "description": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+          "releaseDate": "Mar 4, 2013",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows",
+            "mac"
+          ],
+          "rating": {
+            "score": 96.02,
+            "positive": 259614,
+            "negative": 10759,
+            "total": 270373
+          },
+          "metacritic": 86,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -7950,11 +8314,37 @@
         "title": "QuadStick public configuration catalog — Tomb Raider 1"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/tomb-raider-1.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-1.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg",
+        "source": "https://store.steampowered.com/app/224960/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider-1.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 224960,
+          "name": "Tomb Raider I (1996)",
+          "url": "https://store.steampowered.com/app/224960/",
+          "description": "Adventurer Lara Croft has been hired to recover the pieces of an ancient artifact known as the Scion. With her fearless acrobatic style she runs, jumps, swims and climbs her way towards the truth of its origin and powers - leaving only a trail of empty tombs and gun-cartridges in her wake.",
+          "releaseDate": "Nov 28, 2012",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 85.49,
+            "positive": 3971,
+            "negative": 674,
+            "total": 4645
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -7975,11 +8365,39 @@
         "title": "QuadStick public configuration catalog — Tomb Raider 2 - Rise of the Tomb Raider"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+        "source": "https://store.steampowered.com/app/391220/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 391220,
+          "name": "Rise of the Tomb Raider™",
+          "url": "https://store.steampowered.com/app/391220/",
+          "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new “Blood Ties” story, then defend it against a zombie invasion in “Lara’s Nightmare”.",
+          "releaseDate": "Feb 9, 2016",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows",
+            "mac",
+            "linux"
+          ],
+          "rating": {
+            "score": 94.18,
+            "positive": 147094,
+            "negative": 9094,
+            "total": 156188
+          },
+          "metacritic": 86,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -8000,11 +8418,39 @@
         "title": "QuadStick public configuration catalog — Tomb Raider 3 - Shadow of the Tomb Raider"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg",
+        "source": "https://store.steampowered.com/app/750920/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg"
+      },
+      "metadata": {
+        "steam": {
+          "provider": "steam",
+          "appId": 750920,
+          "name": "Shadow of the Tomb Raider: Definitive Edition",
+          "url": "https://store.steampowered.com/app/750920/",
+          "description": "As Lara Croft races to save the world from a Maya apocalypse, she must become the Tomb Raider she is destined to be.",
+          "releaseDate": "Sep 14, 2018",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "platforms": [
+            "windows",
+            "mac",
+            "linux"
+          ],
+          "rating": {
+            "score": 84.6,
+            "positive": 74788,
+            "negative": 13609,
+            "total": 88397
+          },
+          "metacritic": 77,
+          "fetchedAt": "2026-09-18"
+        }
       }
     },
     {
@@ -8034,14 +8480,37 @@
         "releaseDate": "2007-07-30",
         "genres": [],
         "platforms": [],
-        "fetchedAt": "2026-09-18"
+        "fetchedAt": "2026-09-18",
+        "steam": {
+          "provider": "steam",
+          "appId": 2395210,
+          "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+          "url": "https://store.steampowered.com/app/2395210/",
+          "description": "Play the fully-remastered Tony Hawk’s™ Pro Skater™ & Tony Hawk’s™ Pro Skater™ 2 games in one epic collection, rebuilt from the ground up in incredible HD.",
+          "releaseDate": "Oct 3, 2023",
+          "genres": [
+            "Sports"
+          ],
+          "platforms": [
+            "windows"
+          ],
+          "rating": {
+            "score": 90.54,
+            "positive": 4228,
+            "negative": 442,
+            "total": 4670
+          },
+          "metacritic": null,
+          "fetchedAt": "2026-09-18"
+        }
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/tony-hawk.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tony-hawk.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg",
+        "source": "https://store.steampowered.com/app/2395210/",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tony-hawk.svg"
       }
     },
     {
@@ -8077,10 +8546,10 @@
             "windows"
           ],
           "rating": {
-            "score": 92.76,
-            "positive": 18146,
-            "negative": 1417,
-            "total": 19563
+            "score": 92.75,
+            "positive": 18147,
+            "negative": 1418,
+            "total": 19565
           },
           "metacritic": 79,
           "fetchedAt": "2026-09-18"
@@ -8270,9 +8739,9 @@
           ],
           "rating": {
             "score": 93.83,
-            "positive": 516418,
-            "negative": 33933,
-            "total": 550351
+            "positive": 516483,
+            "negative": 33950,
+            "total": 550433
           },
           "metacritic": 89,
           "fetchedAt": "2026-09-18"
@@ -8321,10 +8790,10 @@
             "windows"
           ],
           "rating": {
-            "score": 71.75,
-            "positive": 99691,
-            "negative": 39246,
-            "total": 138937
+            "score": 71.74,
+            "positive": 99688,
+            "negative": 39267,
+            "total": 138955
           },
           "metacritic": null,
           "fetchedAt": "2026-09-18"
@@ -8374,9 +8843,9 @@
           ],
           "rating": {
             "score": 84,
-            "positive": 189785,
-            "negative": 36152,
-            "total": 225937
+            "positive": 189798,
+            "negative": 36154,
+            "total": 225952
           },
           "metacritic": 82,
           "fetchedAt": "2026-09-18"
@@ -8572,9 +9041,9 @@
           ],
           "rating": {
             "score": 79.68,
-            "positive": 80667,
+            "positive": 80666,
             "negative": 20574,
-            "total": 101241
+            "total": 101240
           },
           "metacritic": 80,
           "fetchedAt": "2026-09-18"
@@ -8659,9 +9128,9 @@
           ],
           "rating": {
             "score": 76.36,
-            "positive": 119545,
-            "negative": 37013,
-            "total": 156558
+            "positive": 119546,
+            "negative": 37014,
+            "total": 156560
           },
           "metacritic": 81,
           "fetchedAt": "2026-09-18"

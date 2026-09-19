@@ -61,6 +61,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
     "source": "https://store.steampowered.com/app/204100/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/max-payne-3.svg"
   }
 }

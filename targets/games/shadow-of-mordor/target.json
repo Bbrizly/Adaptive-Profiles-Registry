@@ -20,7 +20,8 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg",
     "source": "https://store.steampowered.com/app/241930/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/shadow-of-mordor.svg"
   },
   "metadata": {
     "steam": {

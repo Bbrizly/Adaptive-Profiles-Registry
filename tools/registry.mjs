@@ -40,6 +40,7 @@ function validateArtwork(data, label) {
   const hasDimensions = artwork.nativeWidth !== undefined || artwork.nativeHeight !== undefined;
   if (hasDimensions && (!Number.isInteger(artwork.nativeWidth) || artwork.nativeWidth <= 0 || !Number.isInteger(artwork.nativeHeight) || artwork.nativeHeight <= 0)) throw new Error(`${label}: artwork dimensions invalid`);
   if (artwork.contentSha256 !== undefined && !/^[a-f0-9]{64}$/.test(artwork.contentSha256)) throw new Error(`${label}: artwork contentSha256 invalid`);
+  if (artwork.provider !== undefined && (typeof artwork.provider !== 'string' || !artwork.provider.trim())) throw new Error(`${label}: artwork provider invalid`);
   // Existing Steam records predate the provenance fields. Their exact legacy
   // shape is the only remote exception; all new remote records are auditable.
   const legacySteam = isLegacySteamArtwork(data, artwork);

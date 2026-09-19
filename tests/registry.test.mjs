@@ -35,5 +35,7 @@ assert.match(errorsFor(artworkTarget({ ...verified, contentSha256: undefined }))
 assert.match(errorsFor(artworkTarget({ ...verified, attribution: '' }))[0], /attribution/);
 assert.match(errorsFor(artworkTarget({ ...verified }, 'unavailable'))[0], /mutually exclusive/);
 assert.match(errorsFor(artworkTarget(undefined, 'pending'))[0], /artworkStatus invalid/);
+assert.match(errorsFor(artworkTarget({ ...verified, provider: undefined }))[0], /provider/);
+assert.deepEqual(errorsFor(artworkTarget({ kind: 'steam', url: 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1/header.jpg', source: 'https://store.steampowered.com/app/1/', fallbackPath: 'artwork/games/fixture-target.svg', attribution: 'Steam store artwork', license: 'third-party' })), []);
 assert.deepEqual(errorsFor(artworkTarget({ kind: 'generated', url: 'https://raw.githubusercontent.com/example.svg', attribution: 'Adaptive Profiles', license: 'Adaptive Profiles terms' })), []);
 console.log('Artwork validation tests passed.');

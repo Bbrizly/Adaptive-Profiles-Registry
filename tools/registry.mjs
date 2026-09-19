@@ -21,6 +21,11 @@ function files(root) {
 function read(file) { return JSON.parse(fs.readFileSync(file, 'utf8')); }
 function requireSlug(value, label) { if (typeof value !== 'string' || !slug.test(value)) throw new Error(`${label} must be a slug`); }
 function unique(values, label) { if (new Set(values).size !== values.length) throw new Error(`Duplicate ${label}`); }
+function isLegacySteamArtwork(data, artwork) {
+  return artwork.kind === 'steam' && artwork.provider === undefined
+    && typeof artwork.source === 'string' && artwork.source.startsWith('https://store.steampowered.com/')
+    && artwork.fallbackPath === `artwork/games/${data.id}.svg`;
+}
 function validateArtwork(data, label) {
   if (data.artworkStatus !== undefined && !artworkStatuses.has(data.artworkStatus)) throw new Error(`${label}.artworkStatus invalid`);
   if (data.artwork && data.artworkStatus !== undefined) throw new Error(`${label}: artwork and artworkStatus are mutually exclusive`);
@@ -35,9 +40,11 @@ function validateArtwork(data, label) {
   const hasDimensions = artwork.nativeWidth !== undefined || artwork.nativeHeight !== undefined;
   if (hasDimensions && (!Number.isInteger(artwork.nativeWidth) || artwork.nativeWidth <= 0 || !Number.isInteger(artwork.nativeHeight) || artwork.nativeHeight <= 0)) throw new Error(`${label}: artwork dimensions invalid`);
   if (artwork.contentSha256 !== undefined && !/^[a-f0-9]{64}$/.test(artwork.contentSha256)) throw new Error(`${label}: artwork contentSha256 invalid`);
-  // Existing Steam records predate the provenance fields. New remote records
-  // identify themselves with provider and must carry auditable binary metadata.
-  if (artwork.provider !== undefined && (!hasDimensions || artwork.contentSha256 === undefined)) throw new Error(`${label}: remote artwork requires native dimensions and contentSha256`);
+  // Existing Steam records predate the provenance fields. Their exact legacy
+  // shape is the only remote exception; all new remote records are auditable.
+  const legacySteam = isLegacySteamArtwork(data, artwork);
+  if (!legacySteam && artwork.provider === undefined) throw new Error(`${label}: remote artwork requires provider`);
+  if (!legacySteam && (!hasDimensions || artwork.contentSha256 === undefined)) throw new Error(`${label}: remote artwork requires native dimensions and contentSha256`);
 }
 
 export function loadRegistry() {

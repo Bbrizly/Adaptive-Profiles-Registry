@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1PPRpvCOOLHu93RdLa5dyWMk3XGTZecDDBC9bW0TYisE/edit",
     "title": "QuadStick public configuration catalog — Super Mario Odyssey"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/super-mario-odyssey.svg"
 }

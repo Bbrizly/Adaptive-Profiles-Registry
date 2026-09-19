@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1Fbt4mCdJzMYwdO09o9Mv3suQDNQ8kAMfvxaY1QMHQJ0/edit",
     "title": "QuadStick public configuration catalog — Rocket League"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/rocket-league.svg"
 }

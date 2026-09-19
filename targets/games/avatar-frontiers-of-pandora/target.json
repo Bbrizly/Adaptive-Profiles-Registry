@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1c9vz84_v9iX2Wk3Dagz6Ek7SZSpUiz5f8Xfbq2gD7y8/edit",
     "title": "QuadStick public configuration catalog — Avatar - Frontiers of Pandora"
   },
-  "artworkStatus": "unavailable"
+  "artworkStatus": "unavailable",
+  "artworkFallbackPath": "artwork/games/avatar-frontiers-of-pandora.svg"
 }

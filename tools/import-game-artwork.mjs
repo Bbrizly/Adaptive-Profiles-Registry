@@ -30,6 +30,7 @@ for (const [targetId, file] of [...targetFiles].sort(([a], [b]) => a.localeCompa
   const record = acceptedByTarget.get(targetId);
   delete target.artwork;
   delete target.artworkStatus;
+  delete target.artworkFallbackPath;
   if (record) {
     target.artwork = {
       kind: record.provider === 'steam' ? 'steam' : 'wikimedia',
@@ -53,6 +54,7 @@ for (const [targetId, file] of [...targetFiles].sort(([a], [b]) => a.localeCompa
     const commonsUnavailable = records.filter(item => item.provider === 'wikimedia').length > 0 && records.filter(item => item.provider === 'wikimedia').every(item => item.status === 'unavailable' && item.reason.includes('no conservatively matching licensed Commons artwork'));
     const status = steamNoAlias && commonsUnavailable ? 'unavailable' : 'needs_review';
     target.artworkStatus = status;
+    target.artworkFallbackPath = `artwork/games/${targetId}.svg`;
     counts[status === 'unavailable' ? 'unavailable' : 'needsReview'] += 1;
   }
   fs.writeFileSync(file, `${JSON.stringify(target, null, 2)}\n`);

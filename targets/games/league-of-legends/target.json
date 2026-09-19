@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
     "title": "QuadStick public configuration catalog — League of Legends"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/league-of-legends.svg"
 }

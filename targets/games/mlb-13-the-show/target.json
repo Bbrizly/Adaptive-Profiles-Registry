@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1LOEaUmdGfa-eQUuc7vLhCQkXRDZFXIo0JcKPCm4MEYY/edit",
     "title": "QuadStick public configuration catalog — MLB 13: The Show"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/mlb-13-the-show.svg"
 }

@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1gNTQ9jN5cG_ONfApZf0Au4WreNVpJ_BjaYMC7Llwp14/edit",
     "title": "QuadStick public configuration catalog — Forza Motorsport 5"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/forza-motorsport-5.svg"
 }

@@ -40,5 +40,6 @@
       "fetchedAt": "2026-09-18"
     }
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/007-first-light.svg"
 }

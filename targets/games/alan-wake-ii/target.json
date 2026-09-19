@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/10u6sdeXQrGstrgyEd9F0vVVlNhZbO7Mpa6eV3Csw04w/edit",
     "title": "QuadStick public configuration catalog — Alan Wake II"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/alan-wake-ii.svg"
 }

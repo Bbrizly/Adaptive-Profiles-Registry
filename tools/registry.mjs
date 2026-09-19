@@ -28,6 +28,11 @@ function isLegacySteamArtwork(data, artwork) {
 }
 function validateArtwork(data, label) {
   if (data.artworkStatus !== undefined && !artworkStatuses.has(data.artworkStatus)) throw new Error(`${label}.artworkStatus invalid`);
+  if (data.artworkFallbackPath !== undefined) {
+    if (typeof data.artworkFallbackPath !== 'string' || data.artworkFallbackPath !== `artwork/games/${data.id}.svg`) throw new Error(`${label}.artworkFallbackPath invalid`);
+    if (!data.artworkStatus) throw new Error(`${label}.artworkFallbackPath requires artworkStatus`);
+    if (data.artwork) throw new Error(`${label}: artworkFallbackPath cannot coexist with artwork`);
+  }
   if (data.artwork && data.artworkStatus !== undefined) throw new Error(`${label}: artwork and artworkStatus are mutually exclusive`);
   if (!data.artwork) return;
   const artwork = data.artwork;

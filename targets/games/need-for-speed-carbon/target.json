@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
     "title": "QuadStick public configuration catalog — Need for Speed: Carbon"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/need-for-speed-carbon.svg"
 }

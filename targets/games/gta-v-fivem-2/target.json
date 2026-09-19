@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1W0Drr2pAvjEfoIyyF83bRYJvbMVoY19ZQXLt0nT2MKc/edit",
     "title": "QuadStick public configuration catalog — GTA V FiveM 2"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/gta-v-fivem-2.svg"
 }

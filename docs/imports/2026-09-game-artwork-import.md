@@ -15,7 +15,7 @@ Every imported remote record contains the provider, conservative match method, c
 
 ## Canonical artwork policy
 
-Accepted verified remote artwork is stored in `target.artwork`. Generated SVGs were removed from canonical target metadata. The deterministic SVGs remain in `artwork/games/*.svg` as Worker fallback assets only; they are not presented as official artwork and are not counted as accepted artwork. Unresolved targets have no `artwork` field and carry only `artworkStatus`.
+Accepted verified remote artwork is stored in `target.artwork`. Generated SVGs were removed from canonical target metadata. The deterministic SVGs remain in `artwork/games/*.svg` as Worker fallback assets only; they are not presented as official artwork and are not counted as accepted artwork. Unresolved targets have no `artwork` field and carry `artworkStatus` plus a top-level `artworkFallbackPath`; accepted verified artwork keeps its fallback path inside `artwork.fallbackPath`.
 
 The five `unavailable` targets have no checked-in Steam app ID/alias and no conservatively matching licensed Commons result. `needs_review` covers provider rejection, ambiguous Commons matches, duplicate content, invalid/disallowed delivery paths, and provider rate-limit failures. No questionable or guessed artwork was imported.
 

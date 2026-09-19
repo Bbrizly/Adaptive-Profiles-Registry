@@ -31,5 +31,6 @@
     "platforms": [],
     "fetchedAt": "2026-09-18"
   },
-  "artworkStatus": "unavailable"
+  "artworkStatus": "unavailable",
+  "artworkFallbackPath": "artwork/games/battlefield.svg"
 }

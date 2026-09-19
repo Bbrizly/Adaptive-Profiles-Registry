@@ -9,6 +9,10 @@ assert.equal(v1.schemaVersion, 1);
 assert.equal(v2.schemaVersion, 2);
 assert.equal(v2.targets.filter(target => target.kind === 'game').length, v1.games.length);
 assert.deepEqual(v2.profiles.filter(profile => profile.target.kind === 'software'), []);
+const unresolvedArtwork = v2.targets.filter(target => target.kind === 'game' && target.artworkStatus);
+assert.equal(unresolvedArtwork.length, 47);
+assert.ok(unresolvedArtwork.every(target => !target.artwork && target.artworkFallbackPath === `artwork/games/${target.id}.svg`));
+assert.ok(v2.targets.filter(target => target.artwork?.kind === 'steam' || target.artwork?.kind === 'wikimedia').every(target => target.artwork.fallbackPath === `artwork/games/${target.id}.svg`));
 const knight = v2.targets.find(target => target.name === 'Batman Arkham Knight');
 assert.equal(knight?.id, 'batman-arkham-knight');
 assert.equal(v2.targets.some(target => /^(?:Dan NH|Silas P\. \(PC\)|Heiko|Steamy Biscuit)\//i.test(target.name)), false);
@@ -19,11 +23,11 @@ assert.equal(v2.targets.some(target => /(?: - Steam|-$|^LOL$|^Portal2$|^StarCiti
 assert.equal(v2.targets.some(target => ['League of Legends', 'Fortnite', 'PUBG', 'Call of Duty: Modern Warfare'].includes(target.name) && /^(?:Matt Victor|RockyNoHands)\b/i.test(target.name)), false);
 console.log('Registry compatibility tests passed.');
 
-function artworkTarget(artwork, artworkStatus) {
+function artworkTarget(artwork, artworkStatus, artworkFallbackPath) {
   return {
     schemaVersion: 2, id: 'fixture-target', kind: 'game', name: 'Fixture', aliases: [],
     categories: [], platforms: ['pc'], actions: [], source: { url: 'https://example.com', title: 'Fixture' },
-    ...(artwork ? { artwork } : {}), ...(artworkStatus ? { artworkStatus } : {}),
+    ...(artwork ? { artwork } : {}), ...(artworkStatus ? { artworkStatus } : {}), ...(artworkFallbackPath ? { artworkFallbackPath } : {}),
   };
 }
 function errorsFor(target) { return validateRegistry({ targets: [{ file: '/tmp/target.json', data: target }], devices: [], profiles: [] }); }
@@ -36,6 +40,10 @@ assert.match(errorsFor(artworkTarget({ ...verified, contentSha256: undefined }))
 assert.match(errorsFor(artworkTarget({ ...verified, attribution: '' }))[0], /attribution/);
 assert.match(errorsFor(artworkTarget({ ...verified }, 'unavailable'))[0], /mutually exclusive/);
 assert.match(errorsFor(artworkTarget(undefined, 'pending'))[0], /artworkStatus invalid/);
+assert.deepEqual(errorsFor(artworkTarget(undefined, 'unavailable', 'artwork/games/fixture-target.svg')), []);
+assert.match(errorsFor(artworkTarget(undefined, 'unavailable', 'artwork/games/other.svg'))[0], /artworkFallbackPath invalid/);
+assert.match(errorsFor(artworkTarget(undefined, undefined, 'artwork/games/fixture-target.svg'))[0], /requires artworkStatus/);
+assert.match(errorsFor(artworkTarget(verified, 'unavailable', 'artwork/games/fixture-target.svg'))[0], /mutually exclusive|cannot coexist/);
 assert.match(errorsFor(artworkTarget({ ...verified, provider: undefined }))[0], /provider/);
 assert.match(errorsFor(artworkTarget({ ...verified, provider: '' }))[0], /provider/);
 assert.match(errorsFor(artworkTarget({ ...verified, provider: null }))[0], /provider/);

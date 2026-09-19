@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1REebj5PEBOYgY72BAWqxbluikm04CCL-s_htF0AH9-0/edit",
     "title": "QuadStick public configuration catalog — FSX/P3D"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/fsx-p3d.svg"
 }

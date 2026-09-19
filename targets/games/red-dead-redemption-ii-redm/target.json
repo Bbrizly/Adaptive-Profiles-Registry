@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1rPul7lBH6xX-DwGFI6ek2ZCzkmAeAHlGabI8KHI1CdY/edit",
     "title": "QuadStick public configuration catalog — Red Dead Redemption II - RedM"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/red-dead-redemption-ii-redm.svg"
 }

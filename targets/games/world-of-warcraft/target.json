@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
     "title": "QuadStick public configuration catalog — World of Warcraft"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/world-of-warcraft.svg"
 }

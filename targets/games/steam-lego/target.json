@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1bsPy-MyRKVKAKdhdnaq8Zj_gMswvbsQRqDzda4Yv5RM/edit",
     "title": "QuadStick public configuration catalog — Steam Lego"
   },
-  "artworkStatus": "unavailable"
+  "artworkStatus": "unavailable",
+  "artworkFallbackPath": "artwork/games/steam-lego.svg"
 }

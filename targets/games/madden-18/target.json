@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1FTnXJB8mv70-Vl-qmilzwxpANm9c0yVmtyb8rOEdH_g/edit",
     "title": "QuadStick public configuration catalog — Madden 18"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/madden-18.svg"
 }

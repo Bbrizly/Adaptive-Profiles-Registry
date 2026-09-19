@@ -15,5 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/16iyqEcHa-2ocCqdTnrzyC6zp64WT3wcF_PeH0IBK8AY/edit",
     "title": "QuadStick public configuration catalog — Portal2 for"
   },
-  "artworkStatus": "needs_review"
+  "artworkStatus": "needs_review",
+  "artworkFallbackPath": "artwork/games/portal2-for.svg"
 }

@@ -5,6 +5,7 @@ import { ROOT, loadRegistry } from './registry.mjs';
 
 const aliasMap = JSON.parse(fs.readFileSync(path.join(ROOT, 'research/game-artwork-aliases.json'), 'utf8'));
 const MAX_BYTES = 10 * 1024 * 1024;
+const MAX_JSON_BYTES = 2 * 1024 * 1024;
 const MAX_REDIRECTS = 3;
 const MAX_PIXELS = 16_000_000;
 const MAX_DECODE_BYTES = 64 * 1024 * 1024;
@@ -51,9 +52,15 @@ async function request(url, fetchImpl, hosts, redirects = 0, validate = () => {}
   return { response, url: current.toString() };
 }
 
-async function readBounded(response) {
+async function cancelBody(response) {
+  if (!response.body?.getReader) return;
+  const reader = response.body.getReader();
+  try { await reader.cancel(); } catch { /* best effort cleanup before rejecting */ } finally { reader.releaseLock?.(); }
+}
+
+async function readBounded(response, limit = MAX_BYTES) {
   const declared = Number(response.headers?.get?.('content-length'));
-  if (Number.isFinite(declared) && declared > MAX_BYTES) throw new Error('response byte limit exceeded');
+  if (Number.isFinite(declared) && declared > limit) { await cancelBody(response); throw new Error('response byte limit exceeded'); }
   if (response.body?.getReader) {
     const reader = response.body.getReader();
     const chunks = []; let total = 0;
@@ -63,8 +70,8 @@ async function readBounded(response) {
         if (next.done) break;
         const chunk = new Uint8Array(next.value);
         total += chunk.byteLength;
-        if (total > MAX_BYTES) {
-          await reader.cancel();
+        if (total > limit) {
+          try { await reader.cancel(); } catch { /* best effort cleanup before rejecting */ }
           throw new Error('response byte limit exceeded');
         }
         chunks.push(chunk);
@@ -75,8 +82,13 @@ async function readBounded(response) {
     return bytes;
   }
   const bytes = new Uint8Array(await response.arrayBuffer());
-  if (bytes.byteLength > MAX_BYTES) throw new Error('response byte limit exceeded');
+  if (bytes.byteLength > limit) throw new Error('response byte limit exceeded');
   return bytes;
+}
+
+async function readJsonBounded(response) {
+  const bytes = await readBounded(response, MAX_JSON_BYTES);
+  return JSON.parse(new TextDecoder().decode(bytes));
 }
 
 function u16(bytes, offset) { return (bytes[offset] << 8) | bytes[offset + 1]; }
@@ -147,13 +159,16 @@ async function steamCandidate(target, fetchImpl) {
   const appId = steamAppId(target);
   if (!appId) return result(target.id, 'steam', 'unavailable', 'none', 0, 'no existing Steam app ID or checked-in alias');
   const api = `https://store.steampowered.com/api/appdetails?appids=${encodeURIComponent(appId)}&l=english`;
-  const { response } = await request(api, fetchImpl, STEAM_API_HOSTS);
-  const data = (await response.json())[String(appId)]?.data;
-  if (!data) return result(target.id, 'steam', 'unavailable', 'steam-app-id', 0, 'Steam app details unavailable');
+  let data;
+  try {
+    const { response } = await request(api, fetchImpl, STEAM_API_HOSTS);
+    data = (await readJsonBounded(response))[String(appId)]?.data;
+  } catch (error) { return result(target.id, 'steam', 'unavailable', 'steam-app-id', 0, `Steam metadata request failed: ${error.message}`, { discoveryUrl: api }); }
+  if (!data) return result(target.id, 'steam', 'unavailable', 'steam-app-id', 0, 'Steam app details unavailable', { discoveryUrl: api });
   const match = titleMatch(target, data.name);
-  if (!match.matched) return result(target.id, 'steam', 'ambiguous', match.method, 0, 'Steam metadata title does not conservatively agree');
+  if (!match.matched) return result(target.id, 'steam', 'ambiguous', match.method, 0, 'Steam metadata title does not conservatively agree', { discoveryUrl: api });
   const imageUrl = steamImageUrl(data);
-  if (!imageUrl) return result(target.id, 'steam', 'unavailable', match.method, match.confidence, 'Steam metadata has no image URL');
+  if (!imageUrl) return result(target.id, 'steam', 'unavailable', match.method, match.confidence, 'Steam metadata has no image URL', { discoveryUrl: api });
   try {
     const image = await fetchValidatedImage(imageUrl, fetchImpl);
     return result(target.id, 'steam', 'accepted', match.method, match.confidence, 'validated Steam artwork', { discoveryUrl: api, sourceUrl: data.steam_appid ? `https://store.steampowered.com/app/${data.steam_appid}/` : api, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, contentSha256: image.contentSha256 });
@@ -173,7 +188,7 @@ async function commonsCandidates(target, fetchImpl) {
   const query = encodeURIComponent(target.name);
   const api = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${query}&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|mime|extmetadata&format=json&origin=*`;
   const { response } = await request(api, fetchImpl, DISCOVERY_HOSTS);
-  const pages = Object.values((await response.json()).query?.pages || {}).sort((a, b) => String(a.title || '').localeCompare(String(b.title || '')));
+  const pages = Object.values((await readJsonBounded(response)).query?.pages || {}).sort((a, b) => String(a.title || '').localeCompare(String(b.title || '')));
   const candidates = [];
   for (const page of pages) {
     const info = page.imageinfo?.[0]; const match = titleMatch(target, String(page.title || '').replace(/^File:/i, '').replace(/\.[^.]+$/, '').replace(/\s*\([^)]*\)$/, ''));
@@ -186,7 +201,7 @@ async function commonsCandidates(target, fetchImpl) {
     try {
       const delivery = allowedUrl(info.url, DELIVERY_HOSTS);
       if (delivery.hostname !== 'upload.wikimedia.org') throw new Error('Wikimedia image host not allowed');
-      const author = usableAttribution(extValue(info.extmetadata, 'Artist') || extValue(info.extmetadata, 'Credit'));
+      const author = usableAttribution(extValue(info.extmetadata, 'Artist')) || usableAttribution(extValue(info.extmetadata, 'Credit'));
       if (!author) throw new Error('Commons candidate has no usable author/attribution');
       const image = await fetchValidatedImage(delivery.toString(), fetchImpl);
       const licenseUrl = extValue(info.extmetadata, 'LicenseUrl') || null;

@@ -171,7 +171,7 @@ async function steamCandidate(target, fetchImpl) {
   if (!imageUrl) return result(target.id, 'steam', 'unavailable', match.method, match.confidence, 'Steam metadata has no image URL', { discoveryUrl: api });
   try {
     const image = await fetchValidatedImage(imageUrl, fetchImpl);
-    return result(target.id, 'steam', 'accepted', match.method, match.confidence, 'validated Steam artwork', { discoveryUrl: api, sourceUrl: data.steam_appid ? `https://store.steampowered.com/app/${data.steam_appid}/` : api, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, contentSha256: image.contentSha256 });
+    return result(target.id, 'steam', 'accepted', match.method, match.confidence, 'validated Steam artwork', { discoveryUrl: api, sourceUrl: data.steam_appid ? `https://store.steampowered.com/app/${data.steam_appid}/` : api, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, nativeWidth: image.width, nativeHeight: image.height, contentSha256: image.contentSha256, attribution: 'Steam store artwork', license: 'third-party' });
   } catch (error) { return result(target.id, 'steam', 'rejected', match.method, match.confidence, error.message, { discoveryUrl: api, imageUrl }); }
 }
 
@@ -206,7 +206,7 @@ async function commonsCandidates(target, fetchImpl) {
       const image = await fetchValidatedImage(delivery.toString(), fetchImpl);
       const licenseUrl = extValue(info.extmetadata, 'LicenseUrl') || null;
       const attribution = author ? `${author} — ${license.toUpperCase()}` : null;
-      candidates.push(result(target.id, 'wikimedia', 'accepted', match.method, match.confidence, 'validated Wikimedia Commons artwork', { discoveryUrl: api, sourceUrl, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, contentSha256: image.contentSha256, author, license: license.toUpperCase(), licenseUrl, attribution }));
+    candidates.push(result(target.id, 'wikimedia', 'accepted', match.method, match.confidence, 'validated Wikimedia Commons artwork', { discoveryUrl: api, sourceUrl, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, nativeWidth: image.width, nativeHeight: image.height, contentSha256: image.contentSha256, author, license: license.toUpperCase(), licenseUrl, attribution }));
     } catch (error) { candidates.push(result(target.id, 'wikimedia', 'rejected', match.method, match.confidence, error.message, { discoveryUrl: api, sourceUrl, imageUrl: info.url })); }
   }
   const accepted = candidates.filter(candidate => candidate.status === 'accepted');
@@ -233,7 +233,7 @@ export async function collectArtworkCandidates({ registry = loadRegistry(), fetc
 
 export async function run({ fetchImpl = globalThis.fetch, output = path.join(ROOT, 'research/game-artwork-candidates.json') } = {}) {
   const records = await collectArtworkCandidates({ fetchImpl });
-  fs.writeFileSync(output, `${JSON.stringify({ generatedAt: '2026-09-19', policy: 'ledger-only; no target artwork or indexes modified', records }, null, 2)}\n`);
+  fs.writeFileSync(output, `${JSON.stringify({ generatedAt: '2026-09-19', policy: 'deterministic resolver ledger; only accepted, verified records may be imported into canonical targets', records }, null, 2)}\n`);
   return records;
 }
 

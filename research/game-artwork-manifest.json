@@ -1,7 +1,1264 @@
 {
-  "generatedAt": "2026-09-18",
-  "targetCount": 169,
-  "steamArtwork": 130,
-  "generatedFallbacks": 39,
-  "policy": "Every target has a local deterministic SVG fallback. External artwork is retained only for exact HTTPS Steam asset URLs on shared.akamai.steamstatic.com."
+  "generatedAt": "2026-09-19",
+  "searchScope": {
+    "targetKind": "game",
+    "targetCount": 169,
+    "aliases": "research/game-artwork-aliases.json",
+    "providers": [
+      "Steam Store appdetails + validated delivery image",
+      "Wikimedia Commons API + validated delivery image"
+    ],
+    "commands": [
+      "node tools/enrich-game-artwork.mjs",
+      "node tools/import-game-artwork.mjs",
+      "node tools/generate-safe-game-artwork.mjs",
+      "node tools/build-index.mjs",
+      "node tools/build-index.mjs",
+      "node tools/validate.mjs --check-index",
+      "node tests/registry.test.mjs"
+    ]
+  },
+  "policy": "Canonical target artwork contains only accepted verified remote candidates. Deterministic local SVGs are Worker fallback assets and are never official artwork.",
+  "counts": {
+    "targets": 169,
+    "acceptedSteam": 119,
+    "acceptedWikimedia": 3,
+    "unavailable": 5,
+    "needsReview": 42,
+    "duplicate": 2
+  },
+  "providerStatusCounts": {
+    "steam:rejected": 9,
+    "wikimedia:unavailable": 9,
+    "steam:unavailable": 39,
+    "steam:accepted": 119,
+    "wikimedia:rejected": 66,
+    "wikimedia:accepted": 3,
+    "wikimedia:ambiguous": 2,
+    "steam:duplicate": 2
+  },
+  "reasonCounts": {
+    "Steam image path not allowed": 9,
+    "no conservatively matching licensed Commons artwork": 9,
+    "no existing Steam app ID or checked-in alias": 39,
+    "validated Steam artwork": 119,
+    "unsupported or invalid content type": 4,
+    "HTTP 429": 62,
+    "validated Wikimedia Commons artwork": 3,
+    "multiple conservatively matching Commons files": 2,
+    "duplicate validated content of grand-theft-auto-5": 2
+  },
+  "targets": [
+    {
+      "targetId": "007-first-light",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "a-plague-tale-1-2",
+      "status": "unavailable",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "a-way-out",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1222700/",
+      "contentSha256": "55f3532f606d2c81b95ac2152bc5164b39496b0a9a821b82a40b8436d5f29b2b"
+    },
+    {
+      "targetId": "alan-wake-ii",
+      "status": "needs_review",
+      "candidateRecords": 3
+    },
+    {
+      "targetId": "apex-legends",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1172470/",
+      "contentSha256": "076313b77e3eaa0f4ff415a3fbcf939d3bb47bce8469d63cda4c7284da183985"
+    },
+    {
+      "targetId": "arc-raiders",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "assassin-s-creed",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/311560/",
+      "contentSha256": "2ca44256033674cc2cd225b2c268083a8bb9559bcf9113d5deb256ec23c6b6bd"
+    },
+    {
+      "targetId": "assassin-s-creed-iv-black-flag-resynced",
+      "status": "unavailable",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "assassin-s-creed-unity",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/289650/",
+      "contentSha256": "5979f04fd8f01c17295c537a616173b674b211224cbd6eee441a942e8b30331b"
+    },
+    {
+      "targetId": "avatar-frontiers-of-pandora",
+      "status": "unavailable",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "baldur-s-gate-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1086940/",
+      "contentSha256": "70f099749ece31e4ff2d017cbfafc47fd8cbe52e23eb26daec8dde4549576ccb"
+    },
+    {
+      "targetId": "batman-arkham-city",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/200260/",
+      "contentSha256": "f4bc433ccb7a3f65dc9f2f892148a0b58c9709685fa2ef3f9f59b62f65c955bc"
+    },
+    {
+      "targetId": "batman-arkham-knight",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/208650/",
+      "contentSha256": "a36e699b87b6da039cbab04afc6c13fba50770abd7a2ff33aff45e5c3452ac0d"
+    },
+    {
+      "targetId": "battlebit-remastered",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/671860/",
+      "contentSha256": "04ce2173f023ca743cf35586ca1a50c9157ea695f3c2bb2301dc73e9748404cd"
+    },
+    {
+      "targetId": "battlefield",
+      "status": "unavailable",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "battlefield-2042",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1517290/",
+      "contentSha256": "4811191051be2541e8fe46b4a74e3eab27a08223d4a83cab6735033160eb7e76"
+    },
+    {
+      "targetId": "battlefield-6",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2807960/",
+      "contentSha256": "ac852ff10b225f8dd88b44b63b1dc3cb3d56f7975aa3bbe4a522e14fc77be04f"
+    },
+    {
+      "targetId": "battlefield-v",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1238810/",
+      "contentSha256": "b7bf924cfcc08f2392d5bc7b262abf2bc0d752c07e44ce67288d8147d799ed82"
+    },
+    {
+      "targetId": "bioshock",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/7670/",
+      "contentSha256": "a3079c76c133d299736647c831b3424430ab3fc69004c8a957185876154111fa"
+    },
+    {
+      "targetId": "borderlands",
+      "status": "accepted",
+      "candidateRecords": 2,
+      "provider": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Borderlands_(12876448223).jpg",
+      "contentSha256": "1e243b00001dfc5c277fcdd1251ab5c37ccacecfc4754550684e2f482d3b9f9f"
+    },
+    {
+      "targetId": "call-of-duty",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1938090/",
+      "contentSha256": "cb3003ac6674e3a5383b12795deeeacc785ae3040991e6c4d7cbf7e8eb4a814d"
+    },
+    {
+      "targetId": "call-of-duty-advanced-warfare",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/209650/",
+      "contentSha256": "2c1c2b1909fad844954c8ec0d53837e67a640ea425efed1042dc0b292bc4cfc0"
+    },
+    {
+      "targetId": "call-of-duty-black-ops-6",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/4384550/",
+      "contentSha256": "517be712050c0d2cf92caa175b1ff31ccd4a037127c632dd6f1d0fe55f97457a"
+    },
+    {
+      "targetId": "call-of-duty-black-ops-cold-war",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1985810/",
+      "contentSha256": "1bceac25c115eb0e316b8fe2d3b8ae46d7030538f528d7afd3eecc087afa5465"
+    },
+    {
+      "targetId": "call-of-duty-black-ops-iii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/311210/",
+      "contentSha256": "e529637f2bf1d94ce47e988c3c9c9b7b944253847c5576136f6ea60b86247d2d"
+    },
+    {
+      "targetId": "call-of-duty-modern-warfare",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2000950/",
+      "contentSha256": "36ec345a41145bd19a1b43ca85f42c6c4b08c1b1b4441f9ee7f82cbbf530d6ab"
+    },
+    {
+      "targetId": "call-of-duty-modern-warfare-ii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/3595230/",
+      "contentSha256": "2403c191e22b204d511aba3bd72e8b55a3e35a561b2445a0d42bf1417eca4961"
+    },
+    {
+      "targetId": "call-of-duty-modern-warfare-iii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/3595270/",
+      "contentSha256": "085607e3e3c874954e6b7cb3abe4d844c9158e7b8044b060ff68fbe8549759c0"
+    },
+    {
+      "targetId": "chained-together",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "construction-simulator",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1273400/",
+      "contentSha256": "a5609e3049d937a86c35d32a4da049c4a8be002762ecbff0d299086d86af70e7"
+    },
+    {
+      "targetId": "control",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/870780/",
+      "contentSha256": "bd4c3f2d967908343f34b6013810da58a69ff1fabc691157e3d8a1bc8127928b"
+    },
+    {
+      "targetId": "cooking-simulator",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/641320/",
+      "contentSha256": "a625774be6cf01478fccd340f460bd2a62ddf95c3c85b36234ed12bf84269f43"
+    },
+    {
+      "targetId": "counter-strike-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/730/",
+      "contentSha256": "747527645619ecf6fbbec78aa543ab0c9a5be12f0bd7c17ccf559e1522678ded"
+    },
+    {
+      "targetId": "cyberpunk-2077",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1091500/",
+      "contentSha256": "b93e64874b844e41a3269e9be00c9fad8037e8a79d00535a8344542bd02c81e6"
+    },
+    {
+      "targetId": "dead-space",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1693980/",
+      "contentSha256": "879235d904d0733f28e0031ef5f609d8a98acf7d6adc9e50abe5bc5d0240f769"
+    },
+    {
+      "targetId": "deathloop",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1252330/",
+      "contentSha256": "2483b3730df22e6137809dfa36429743a84199cc5813e58cee5f032203f6b2f8"
+    },
+    {
+      "targetId": "deep-rock-galactic-survivor",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2321470/",
+      "contentSha256": "5d4c48ac6e5e19c325be4df45b6d16733e558477ac1d467ec78adb40e6e0582e"
+    },
+    {
+      "targetId": "deeprock",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/548430/",
+      "contentSha256": "9827c5c71bb8413d8f816fc0409c233d74309616fbae179116f801ec622b0376"
+    },
+    {
+      "targetId": "deliver-at-all-costs",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1880610/",
+      "contentSha256": "1695b4813f5c88969de4c7be04630285c4c4180a7a3c47aaa6fb256245658a18"
+    },
+    {
+      "targetId": "denshattack",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2524850/",
+      "contentSha256": "8228b60c03f34de7a7a20e2bd61b2800cc9bacb0b7bd61eb3f7d50cce83d36a4"
+    },
+    {
+      "targetId": "destiny",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1085660/",
+      "contentSha256": "9d1c5da71dc1c6adfedca29a01d17afa33b7842e051d7106bca66e65015e913a"
+    },
+    {
+      "targetId": "devil-may-cry",
+      "status": "needs_review",
+      "candidateRecords": 7
+    },
+    {
+      "targetId": "divinity-original-sin-ii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/435150/",
+      "contentSha256": "f8d6473f73d690aea00e73e5d3b3df6bcf336d5ab41b379081530ae9ea355b62"
+    },
+    {
+      "targetId": "doom",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/379720/",
+      "contentSha256": "111921bc88b8d40bb8867d987f6a24144a41f32c495e908c93ced5443a85e355"
+    },
+    {
+      "targetId": "dragon-quest-xi",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1295510/",
+      "contentSha256": "40677583c4d63d9fc4d58f5f0ddd0e899e0edf815a96b1b058c4194f3328d299"
+    },
+    {
+      "targetId": "elite-dangerous",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/359320/",
+      "contentSha256": "2b08e7e1326da7ba85e6b57ff5ac9de2b5648bc87df424590a92dc8a0644e9d9"
+    },
+    {
+      "targetId": "enshrouded",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1203620/",
+      "contentSha256": "b0e91dab8c3015532bf2d74589f6176e02bd37fdbf195e3811b0f94e6c3adc58"
+    },
+    {
+      "targetId": "euro-truck-simulator-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/227300/",
+      "contentSha256": "b1af927983fbb23542f0fcb2ef09b4bd9be3bc0d1e9531c56ae83064d1182f77"
+    },
+    {
+      "targetId": "far-cry-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/220240/",
+      "contentSha256": "402bee28397b036cc32537568bb0508e32861e73bc55a5f48cb405706e5506b4"
+    },
+    {
+      "targetId": "far-cry-4",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/298110/",
+      "contentSha256": "c6e01ea31e169a5d178d332a101b8d29b92f30273ef6db83b65c0f23d3021579"
+    },
+    {
+      "targetId": "far-cry-5",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/552520/",
+      "contentSha256": "f14fb7d6050a406a6eb499cd58e0338e8d1130102f4af91dd984771bea2c646a"
+    },
+    {
+      "targetId": "far-cry-6",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2369390/",
+      "contentSha256": "459c8105022b61c68ab88a1c645776c0a99d753a43e82c56dd9855aa356a0abf"
+    },
+    {
+      "targetId": "farming-simulator-17",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/447020/",
+      "contentSha256": "c2fc506b55d90ae95582fdc56b25fcb987a57f39fa1887945f489ec1245c1d09"
+    },
+    {
+      "targetId": "fishing-planet",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "flight-simulator-24",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2537590/",
+      "contentSha256": "756b8e2b151a687b0ca155571ac8976f7c630aba77a7a7a7356f67bf528b023b"
+    },
+    {
+      "targetId": "fortnite",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "forza-horizon-4",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1293830/",
+      "contentSha256": "89d1ec62f50e5244474ec67508f4712a9b5b5b23525068d3cff924d20df21039"
+    },
+    {
+      "targetId": "forza-motorsport-5",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "fpv-freerider",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/854250/",
+      "contentSha256": "6797c7cfdbb6e951a3700d901e6eabb0a346c03547df63b8f39bfededa3c4d65"
+    },
+    {
+      "targetId": "fsx-p3d",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "ghost-recon-wildlands",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/460930/",
+      "contentSha256": "eb0ee4cf63a1cc2862b0ed8750059f1a34822965b9ecafa1306b855fb1b4c39b"
+    },
+    {
+      "targetId": "ghostbusters",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1449280/",
+      "contentSha256": "53ab2371ccb2fac26c999ce3b26a4ea4738279593d6a24d50e68081f15fbcbca"
+    },
+    {
+      "targetId": "ghostrunner",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1139900/",
+      "contentSha256": "47a93f8cd3f36d2b0e1a9cdd65329cff40642280365405dba0e58944909cfda3"
+    },
+    {
+      "targetId": "ghosts",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "goat-simulator-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/850190/",
+      "contentSha256": "2d0923824476b0c22fe98f17698455243fa4d236711f8ff25f1661efeb33af5b"
+    },
+    {
+      "targetId": "gran-turismo-sport",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "grand-theft-auto",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "grand-theft-auto-5",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/3240220/",
+      "contentSha256": "5cf8f5568871796d18c15937ed3824497b94130b577cb354a524fd240dd394b7"
+    },
+    {
+      "targetId": "grand-theft-auto-v",
+      "status": "needs_review",
+      "candidateRecords": 1
+    },
+    {
+      "targetId": "gta-iv",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/12210/",
+      "contentSha256": "65a3cdc8aba61faa0761ae809150c7aacac50423a1207a6ff7b76569b712a2a4"
+    },
+    {
+      "targetId": "gta-v",
+      "status": "needs_review",
+      "candidateRecords": 1
+    },
+    {
+      "targetId": "gta-v-fivem-2",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "gta-v-redone-fivem-optimized",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "half-life",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/70/",
+      "contentSha256": "aa215e1ef35bf702ec7cb48087136486ae26f121baebd6b421be6b8851de2394"
+    },
+    {
+      "targetId": "halo-infinite",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1240440/",
+      "contentSha256": "2d6facea204bf4058960cc61c15c175e0183d1eb9b267b229e05fb6c61c1f63b"
+    },
+    {
+      "targetId": "helldivers-ii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/553850/",
+      "contentSha256": "101eb36e36b5c2cc09c41e13c881c729869b94e3eb4da1e2c6d5ea00c2ad43d0"
+    },
+    {
+      "targetId": "high-on-life",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1583230/",
+      "contentSha256": "adbacc7128bc578b6b8dba460321d2d0cdf8ec707809ed00d470cca18c37fa9f"
+    },
+    {
+      "targetId": "hogwarts-legacy",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/990080/",
+      "contentSha256": "8a7d79fb4a21649963817a4dce9c4c04ef64eb7b7e0c7917e1976804fcb378d8"
+    },
+    {
+      "targetId": "horizon-zero-dawn",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1151640/",
+      "contentSha256": "95971139817f59677278b82584523cf15d0ce57e1d3382e8753dd889e2d31334"
+    },
+    {
+      "targetId": "hunt-showdown",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "hytale",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "indiana-jones-and-the-great-circle",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2677660/",
+      "contentSha256": "1e5308a76bf9f778bbc6232559da88e9de43fb2ef4f5f408acdf1bbff67a8ff3"
+    },
+    {
+      "targetId": "it-takes-two",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1426210/",
+      "contentSha256": "67d0018628094dcbb3525a0c7c5a72629aa5952564d99ebf90a7f829bed5fa51"
+    },
+    {
+      "targetId": "journey",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/638230/",
+      "contentSha256": "33aa6281f6edf26a4b5bcd89f680bb7fb96b198aa29cfe17ca5210523b5b7d27"
+    },
+    {
+      "targetId": "just-cause-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/8190/",
+      "contentSha256": "b1b3f53a54a98355d462606695c4c26bc031593184fd9e507348b81bc8aa9179"
+    },
+    {
+      "targetId": "kingdom-come-deliverance-ii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1771300/",
+      "contentSha256": "dde4c2135930817a3fb26508a1a03ac65a06d3c6a92fa1b97510adf2f86dea19"
+    },
+    {
+      "targetId": "league-of-legends",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "lego-fortnite",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "lethal-company",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1966720/",
+      "contentSha256": "f96e4126ced620e55fa732b3055b3ab104601b9f58dd0f7e7760193305748673"
+    },
+    {
+      "targetId": "little-big-planet",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "madden",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "madden-18",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "marvel-s-guardians-of-the-galaxy",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1088850/",
+      "contentSha256": "f344349f843285f169574e295b72889ff1eb6304b84a388b000002df2cf1cd7e"
+    },
+    {
+      "targetId": "max-payne-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/204100/",
+      "contentSha256": "e27420290e96068b649c71c2e277a9654ccd84f8f2f12dfde80ec0c9a2ab62bf"
+    },
+    {
+      "targetId": "metal-gear-snake-eater",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2131650/",
+      "contentSha256": "c446d2104ef0b1e666131e76b198b3e402a0d1ae2bb301dcd18022c6786e91c1"
+    },
+    {
+      "targetId": "microsoft-flight-simulator",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1250410/",
+      "contentSha256": "11d2e8ab84207c234d471233a7b598f85bedba15ea2663eee24d7e73b92935a4"
+    },
+    {
+      "targetId": "minecraft",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "mlb-13-the-show",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "mx-vs-atv-supercross-encore",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/282050/",
+      "contentSha256": "1d0e27804696821f6972b6bc2d3ee9e05ec41fe28f55d6fc629ebc8cbae183ef"
+    },
+    {
+      "targetId": "mx-vs-atv-unleashed",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/359220/",
+      "contentSha256": "a88c6b698b79d9c30ffcdbc83e735446d1281e3e93c03560d2d606ce21484869"
+    },
+    {
+      "targetId": "nba-2k",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "nba-2k15",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "need-for-speed-carbon",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "need-for-speed-heat",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1222680/",
+      "contentSha256": "f61e3b999ae9c9fb0faaa492bb30434df0537f7e1c0d5f9f93440220be97fac1"
+    },
+    {
+      "targetId": "ori-and-the-blind-forest",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/387290/",
+      "contentSha256": "a2e922d8acbd2736af29680e7b00d115d5c92bd7a028f82a3ed0f798ef889f72"
+    },
+    {
+      "targetId": "path-of-exile-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2694490/",
+      "contentSha256": "62bbdd76a78b03fdfff9cd6846dd20d63f4b20b95f30ba78fbd428b0637d7bb7"
+    },
+    {
+      "targetId": "payday-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/218620/",
+      "contentSha256": "b38f785b20e72cc88db7ac22a970ece237d7c12d338117308ed76a3ca1d1d7c7"
+    },
+    {
+      "targetId": "payday-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1272080/",
+      "contentSha256": "9a599b7a95fe29939f1b10c9bae67967eba72a383b8d652bdb0df80bf242b655"
+    },
+    {
+      "targetId": "planetside-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/218230/",
+      "contentSha256": "9592403b64206e01d7cfb8aff8fcd80598eb6a8a3df9eae889434db55fa259bf"
+    },
+    {
+      "targetId": "police-simulator-patrol-officers",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/997010/",
+      "contentSha256": "9983f4728f62e466aa6d8e458163e4536580792a5a67ccfdd68ed006035333af"
+    },
+    {
+      "targetId": "portal-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/620/",
+      "contentSha256": "41d535fcc9663ba118cd808a9637547c3458869a52f0b541a211b60113c86faa"
+    },
+    {
+      "targetId": "portal2-for",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "project-cars",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/234630/",
+      "contentSha256": "ed901f599dfd2ad4918fee3b214bbaf0baee702bda2c5e2dee339c35abcc0bf5"
+    },
+    {
+      "targetId": "pubg",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/578080/",
+      "contentSha256": "acd549290767b2fc76a7efb7d7881e73530ab5432061b14e6d1095b5c5bd0892"
+    },
+    {
+      "targetId": "raft",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/648800/",
+      "contentSha256": "dd7c2f015f27c22dd9f9e2e5e1a5895162e4f0d349ea35f5c7ac6eb3d9c09768"
+    },
+    {
+      "targetId": "red-dead-redemption",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2668510/",
+      "contentSha256": "97a73571e540df7092dbf7bfc9f945e461291f14cc230b6d9010ec922ecb5067"
+    },
+    {
+      "targetId": "red-dead-redemption-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1174180/",
+      "contentSha256": "27aa89c336b381083a1b3e8de84ffbcb842219dabca97aabfcf707b1dd8c135c"
+    },
+    {
+      "targetId": "red-dead-redemption-ii-redm",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "red-dead-redemption-no-fishing",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "return-of-the-obra-dinn",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/653530/",
+      "contentSha256": "6417f53183fe871017950c05737c40292c201bc4d9041e2bb38b878c5bd6d8b7"
+    },
+    {
+      "targetId": "rocket-league",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "satisfactory",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/526870/",
+      "contentSha256": "985486dc8d67506f48c97406bcba656cfc1a421642572e9810b1963af1d3e04e"
+    },
+    {
+      "targetId": "schedule-i",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/3164500/",
+      "contentSha256": "742480b915747224736172b5dd249a266329e97a9687b02a4f0cba6ba83cfbc8"
+    },
+    {
+      "targetId": "sea-of-thieves",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1172620/",
+      "contentSha256": "5eb47fd6bef7ca9f81d6d7a8723e4c28a4adaa6f18e13139c27cc6e381500324"
+    },
+    {
+      "targetId": "shadow-of-mordor",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/241930/",
+      "contentSha256": "e2cea72a5cbaa6afaaf57f047d8d64611ee0555b861c21621e371b9b60bc339f"
+    },
+    {
+      "targetId": "shadow-warrior-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1036890/",
+      "contentSha256": "68e8eef79c68d5feb1b087381310b2fe69a67342a07f64959c530871a556f7fc"
+    },
+    {
+      "targetId": "shatterlinepc",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "six-days-in-fallujah",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1548850/",
+      "contentSha256": "e8e10f8babcae744b77a493607cc257fc2dbba6c7946ce455ad0ed425e8382ad"
+    },
+    {
+      "targetId": "skate",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/3354750/",
+      "contentSha256": "c9badec0415ed8c17a2817b3297060372d19469952145f658c47ed9f3f66fa93"
+    },
+    {
+      "targetId": "sleeping",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/307690/",
+      "contentSha256": "770bfdc8f7882c86e2c8ca92d9229ccdb5887c19b663d6e274c5b26250384bfb"
+    },
+    {
+      "targetId": "sniper-elite-3",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/238090/",
+      "contentSha256": "0424983b71151e1d65044e9704fc3551999d9f802f24a0240f4f28588f289f1b"
+    },
+    {
+      "targetId": "sniper-elite-4",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/312660/",
+      "contentSha256": "248ab9f3d65398e8ebb28d520f176fdb206912cbf4376b5f00ae11f3a5626fde"
+    },
+    {
+      "targetId": "sniper-elite-5",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1029690/",
+      "contentSha256": "1af53c4e4dd7341c2cbbc68618438a713511546bf1dd8bfd5a5299248e2bd679"
+    },
+    {
+      "targetId": "sniper-ghost-warrior-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/34870/",
+      "contentSha256": "b75e48e9f3719fe789bc7027878ca292b73f72d83297a584ee5398d24a1b35c1"
+    },
+    {
+      "targetId": "spindle",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1386750/",
+      "contentSha256": "3177b0592664b6172646c3bd391efbc155206447d2b91b02aed41a17475b1c19"
+    },
+    {
+      "targetId": "split-fiction",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2001120/",
+      "contentSha256": "011dbe23fdb3bb9905ebfb6d5d9658924826a526ec64770b829b7b556909fa85"
+    },
+    {
+      "targetId": "splitgate",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/677620/",
+      "contentSha256": "9e18a15c54cc33ab4982bf42a666920c62734a746b4d936f0fd343be3f0b5fdc"
+    },
+    {
+      "targetId": "star-citizen",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "star-wars-battlefront",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1237980/",
+      "contentSha256": "f88ee6b9dbc13911d3cb8650bbc0bc637e25a5e7fee00a5df930e39e762679f3"
+    },
+    {
+      "targetId": "star-wars-jedi-fallen-order",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1172380/",
+      "contentSha256": "4f0c576d244b2a48d04e179aebefb4c4562da85685297f5079aab34704a5f464"
+    },
+    {
+      "targetId": "starcraft-ii",
+      "status": "accepted",
+      "candidateRecords": 7,
+      "provider": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Starcraft_II_at_GamesCom_-_Flickr_-_Sergey_Galyonkin.jpg",
+      "contentSha256": "3845da2bf8eaa39609c05068ba5a84588162389ce532f8b5a3837396936d0ac8"
+    },
+    {
+      "targetId": "starfield",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1716740/",
+      "contentSha256": "f2859683835f5d8f2ed1757dadf1e5f775032b718d39d051f8e2f77e9bfa3eb5"
+    },
+    {
+      "targetId": "steam-lego",
+      "status": "unavailable",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "super-mario-odyssey",
+      "status": "needs_review",
+      "candidateRecords": 4
+    },
+    {
+      "targetId": "the-crew",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/646910/",
+      "contentSha256": "caef4b01c41fea939f19f08c9e76119b43f28d4360dc0cc1a1a8e7d02e8e6f77"
+    },
+    {
+      "targetId": "the-finals",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2073850/",
+      "contentSha256": "b699bad55fffcad37bb9f576cb7a1d0763ddf57e6b909ba7fbe6725daff680a4"
+    },
+    {
+      "targetId": "the-last-of-us",
+      "status": "needs_review",
+      "candidateRecords": 6
+    },
+    {
+      "targetId": "the-last-of-us-part-ii",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2531310/",
+      "contentSha256": "70a31088052497546e308715a3e754c6a9abedf6afde98768a2ec64205eace2b"
+    },
+    {
+      "targetId": "the-legend-of-zelda-breath-of-the-wild",
+      "status": "needs_review",
+      "candidateRecords": 4
+    },
+    {
+      "targetId": "the-witcher-3-wild-hunt",
+      "status": "accepted",
+      "candidateRecords": 6,
+      "provider": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Witcher_3_Wild_Hunt_-_Dialogue_options.jpg",
+      "contentSha256": "2fac9cd6fca337585137682092831339f664e2927865b173e407f405e5e2a39a"
+    },
+    {
+      "targetId": "thehunter-call-of-the-wild",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "tiny-tina-s-wonderlands",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1286680/",
+      "contentSha256": "93854ddc5db130c8d07b7ec298e14def2871bdeea80dcd062d6e8fd50ac1ce37"
+    },
+    {
+      "targetId": "titanfall-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1237970/",
+      "contentSha256": "83eae64937a58c40d92c8870f7170fe2baf8dc475d1caf3ec4cd6abecc210b95"
+    },
+    {
+      "targetId": "tomb-raider",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/203160/",
+      "contentSha256": "212db3d16532f7bc58d7562a6dfe1797c24fdedb09bd63e1d562720dfb30f8b0"
+    },
+    {
+      "targetId": "tomb-raider-1",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/224960/",
+      "contentSha256": "2b6240ccd90cfc70ae05fb7a79e415166f0de5bae8ee7d00642d0b2fac4fe457"
+    },
+    {
+      "targetId": "tomb-raider-2-rise-of-the-tomb-raider",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/391220/",
+      "contentSha256": "246d98e6685f5fd1f02b37e3f5e739d9bd4d9ec3b6d83f6322e4b43ad1ce8903"
+    },
+    {
+      "targetId": "tomb-raider-3-shadow-of-the-tomb-raider",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/750920/",
+      "contentSha256": "f6a0435708fc3084a84e8a48d5978506af5fbf16848cc43ec1f3595ab39fb57d"
+    },
+    {
+      "targetId": "tony-hawk",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2395210/",
+      "contentSha256": "253b44c9996f652c23bc66cfb79ab4d1574558ba33d62a7b99905a29f2c7c454"
+    },
+    {
+      "targetId": "trepang-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1164940/",
+      "contentSha256": "262ca6aef71463cfeb31be021444a711eba08a310ca9e02f834d8a21fd7dc15c"
+    },
+    {
+      "targetId": "tunic",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/553420/",
+      "contentSha256": "e286d36721ef046c20423eafe3a21940f97c467e894fd64e3fb698746395665e"
+    },
+    {
+      "targetId": "valheim",
+      "status": "needs_review",
+      "candidateRecords": 2
+    },
+    {
+      "targetId": "warhammer-40-000-darktide",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1361210/",
+      "contentSha256": "41899e77e15e6d1dfde709393a07559bed473db81e4774a79810b03a27a184ec"
+    },
+    {
+      "targetId": "warhammer-40-000-space-marine-2",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/2183900/",
+      "contentSha256": "a51adee3dc2155f8f3b111c6dd978c08cd781e7aa085ea5772fb96f642a02488"
+    },
+    {
+      "targetId": "way-of-the-hunter",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/1288320/",
+      "contentSha256": "7a9c49a52d4033928263388292239de01fc77e5303ea3ec623d6a040a3f7ad20"
+    },
+    {
+      "targetId": "wizard101",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/799960/",
+      "contentSha256": "1b554b65ae54b5804291c0a20070bf6a12a14496921d3edd2bd29b6917c9d641"
+    },
+    {
+      "targetId": "world-of-tanks",
+      "status": "needs_review",
+      "candidateRecords": 3
+    },
+    {
+      "targetId": "world-of-warcraft",
+      "status": "needs_review",
+      "candidateRecords": 10
+    },
+    {
+      "targetId": "world-of-warships",
+      "status": "accepted",
+      "candidateRecords": 1,
+      "provider": "steam",
+      "source": "https://store.steampowered.com/app/552990/",
+      "contentSha256": "232ffb91f67867a77bd090b74a2762924f504bcb26163971cecbf899c830d3cb"
+    },
+    {
+      "targetId": "xdefiant",
+      "status": "needs_review",
+      "candidateRecords": 2
+    }
+  ]
 }

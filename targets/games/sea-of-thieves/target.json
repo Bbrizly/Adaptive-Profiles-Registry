@@ -25,13 +25,37 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 1172620,
+      "name": "Sea of Thieves: 2026 Edition",
+      "url": "https://store.steampowered.com/app/1172620/",
+      "description": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, intense battles, vanquishing sea monsters and more. Dive in with this revised edition of the game, which includes access to digital bonus media.",
+      "releaseDate": "Jun 3, 2020",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 88.62,
+        "positive": 330489,
+        "negative": 42453,
+        "total": 372942
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/sea-of-thieves.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sea-of-thieves.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "source": "https://store.steampowered.com/app/1172620/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/sea-of-thieves.svg"
   }
 }

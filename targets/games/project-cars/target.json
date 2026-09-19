@@ -16,10 +16,37 @@
     "title": "QuadStick public configuration catalog — Project CARS"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/project-cars.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg",
+    "source": "https://store.steampowered.com/app/234630/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/project-cars.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 234630,
+      "name": "Project CARS",
+      "url": "https://store.steampowered.com/app/234630/",
+      "description": "THE ULTIMATE DRIVER JOURNEY delivers the soul of motor racing in the world’s most beautiful, authentic, and technically-advanced racing game.",
+      "releaseDate": "May 6, 2015",
+      "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 79.38,
+        "positive": 11461,
+        "negative": 2977,
+        "total": 14438
+      },
+      "metacritic": 83,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

@@ -16,10 +16,38 @@
     "title": "QuadStick public configuration catalog — PUBG"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/pubg.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/pubg.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+    "source": "https://store.steampowered.com/app/578080/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/pubg.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "url": "https://store.steampowered.com/app/578080/",
+      "description": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
+      "releaseDate": "Dec 21, 2017",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 60.55,
+        "positive": 1668379,
+        "negative": 1087061,
+        "total": 2755440
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

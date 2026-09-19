@@ -16,10 +16,36 @@
     "title": "QuadStick public configuration catalog — Ghost Recon Wildlands"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/ghost-recon-wildlands.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghost-recon-wildlands.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/header.jpg",
+    "source": "https://store.steampowered.com/app/460930/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/ghost-recon-wildlands.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 460930,
+      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "url": "https://store.steampowered.com/app/460930/",
+      "description": "Lead your elite team of Ghosts in this tactical third-person shooter. Explore a massive open world, infiltrate and destroy the deadly Santa Blanca cartel, and save Bolivia and its people.",
+      "releaseDate": "Mar 6, 2017",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 78.2,
+        "positive": 89876,
+        "negative": 25049,
+        "total": 114925
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

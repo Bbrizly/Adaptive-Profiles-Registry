@@ -25,13 +25,36 @@
     "releaseDate": "2007-07-30",
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2395210,
+      "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "url": "https://store.steampowered.com/app/2395210/",
+      "description": "Play the fully-remastered Tony Hawk’s™ Pro Skater™ & Tony Hawk’s™ Pro Skater™ 2 games in one epic collection, rebuilt from the ground up in incredible HD.",
+      "releaseDate": "Oct 3, 2023",
+      "genres": [
+        "Sports"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 90.54,
+        "positive": 4228,
+        "negative": 442,
+        "total": 4670
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/tony-hawk.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tony-hawk.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg",
+    "source": "https://store.steampowered.com/app/2395210/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/tony-hawk.svg"
   }
 }

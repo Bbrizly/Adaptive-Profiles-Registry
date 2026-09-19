@@ -9,6 +9,51 @@ const fetchedAt = '2026-09-18';
 const normalize = value => value.toLowerCase().replace(/[^a-z0-9]+/g, '');
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const headers = { 'User-Agent': 'Adaptive-Profiles-Registry/1.0 (public metadata enrichment)' };
+// These are unambiguous title aliases for targets whose community label is
+// abbreviated, platform-specific, or uses a franchise shorthand.  We only
+// use an alias when it points at the exact game represented by the target.
+const knownSteamApps = {
+  'assassin-s-creed': 311560,
+  'batman-arkham-city': 200260,
+  'batman-arkham-knight': 208650,
+  'call-of-duty-advanced-warfare': 209650,
+  'call-of-duty-black-ops-iii': 311210,
+  control: 870780,
+  deeprock: 548430,
+  destiny: 1085660,
+  'divinity-original-sin-ii': 435150,
+  'dragon-quest-xi': 1295510,
+  'fishing-planet': 380600,
+  'flight-simulator-24': 2537590,
+  'forza-horizon-4': 1293830,
+  'ghost-recon-wildlands': 460930,
+  ghostbusters: 1449280,
+  'grand-theft-auto-5': 3240220,
+  'grand-theft-auto-v': 3240220,
+  'gta-iv': 12210,
+  'gta-v': 3240220,
+  'helldivers-ii': 553850,
+  'horizon-zero-dawn': 1151640,
+  'hunt-showdown': 594650,
+  'metal-gear-snake-eater': 2131650,
+  'microsoft-flight-simulator': 1250410,
+  'need-for-speed-heat': 1222680,
+  'ori-and-the-blind-forest': 387290,
+  'project-cars': 234630,
+  pubg: 578080,
+  'sea-of-thieves': 1172620,
+  'shadow-of-mordor': 241930,
+  'shadow-warrior-3': 1036890,
+  sleeping: 307690,
+  'the-crew': 646910,
+  'the-last-of-us-part-ii': 2531310,
+  'the-witcher-3-wild-hunt': 292030,
+  'tomb-raider': 203160,
+  'tomb-raider-1': 224960,
+  'tomb-raider-2-rise-of-the-tomb-raider': 391220,
+  'tomb-raider-3-shadow-of-the-tomb-raider': 750920,
+  'tony-hawk': 2395210
+};
 const text = html => String(html || '').replace(/<br\s*\/?>(?=\S)/gi, '\n').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/gi, ' ').replace(/&amp;/gi, '&').replace(/&quot;/gi, '"').replace(/&#39;/gi, "'").replace(/\s+/g, ' ').trim();
 const xml = value => value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 function artworkSvg(target) {
@@ -18,6 +63,7 @@ function artworkSvg(target) {
 }
 async function json(url) { const response = await fetch(url, { headers }); if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); }
 async function steamMatch(target) {
+  if (knownSteamApps[target.id]) return { type: 'app', id: knownSteamApps[target.id], name: target.name, matchedBy: 'curated-alias' };
   const result = await json(`${steamSearch}?${new URLSearchParams({ term: target.name, l: 'english', cc: 'us' })}`);
   const aliases = [target.name, ...(target.aliases || [])].map(normalize);
   return (result.items || []).find(item => item.type === 'app' && aliases.includes(normalize(item.name))) || null;
@@ -44,5 +90,5 @@ for (const file of files) {
   fs.writeFileSync(file, `${JSON.stringify(target, null, 2)}\n`);
   await sleep(250);
 }
-fs.writeFileSync(path.join(ROOT, 'research', 'game-metadata-steam.json'), `${JSON.stringify({ provider: 'Steam Store public endpoints', fetchedAt, requested: files.length, matched, unresolved, notes: 'Steam artwork remains an external third-party URL; unresolved games receive deterministic generated SVG artwork.' }, null, 2)}\n`);
+fs.writeFileSync(path.join(ROOT, 'research', 'game-metadata-steam.json'), `${JSON.stringify({ provider: 'Steam Store public endpoints', fetchedAt, requested: files.length, matched, unresolved, curatedAliasMatches: Object.keys(knownSteamApps).length, notes: 'Steam artwork remains an external third-party URL; unresolved games receive deterministic generated SVG artwork.' }, null, 2)}\n`);
 console.log(`Free enrichment: ${matched} Steam matches, ${unresolved} generated-art fallbacks.`);

@@ -43,10 +43,10 @@
         "windows"
       ],
       "rating": {
-        "score": 89.01,
-        "positive": 22903,
-        "negative": 2829,
-        "total": 25732
+        "score": 89,
+        "positive": 22904,
+        "negative": 2830,
+        "total": 25734
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"

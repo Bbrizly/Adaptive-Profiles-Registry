@@ -25,13 +25,38 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 646910,
+      "name": "The Crew™ 2",
+      "url": "https://store.steampowered.com/app/646910/",
+      "description": "Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. New: play The Crew 2 offline or online with the new Hybrid mode, available now!",
+      "releaseDate": "Jun 28, 2018",
+      "genres": [
+        "Action",
+        "Massively Multiplayer",
+        "Racing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 77.58,
+        "positive": 77311,
+        "negative": 22343,
+        "total": 99654
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/the-crew.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
+    "source": "https://store.steampowered.com/app/646910/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/the-crew.svg"
   }
 }

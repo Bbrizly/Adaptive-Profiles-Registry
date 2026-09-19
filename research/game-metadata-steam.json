@@ -2,7 +2,8 @@
   "provider": "Steam Store public endpoints",
   "fetchedAt": "2026-09-18",
   "requested": 169,
-  "matched": 89,
-  "unresolved": 79,
+  "matched": 130,
+  "unresolved": 39,
+  "curatedAliasMatches": 40,
   "notes": "Steam artwork remains an external third-party URL; unresolved games receive deterministic generated SVG artwork."
 }

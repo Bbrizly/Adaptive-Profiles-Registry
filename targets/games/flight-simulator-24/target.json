@@ -16,10 +16,35 @@
     "title": "QuadStick public configuration catalog — Flight Simulator 24"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/flight-simulator-24.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/flight-simulator-24.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg",
+    "source": "https://store.steampowered.com/app/2537590/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/flight-simulator-24.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 2537590,
+      "name": "Microsoft Flight Simulator 2024",
+      "url": "https://store.steampowered.com/app/2537590/",
+      "description": "Explore the world with our largest fleet of aircraft and take simulation to new heights while pursuing your aviation career within Microsoft Flight Simulator 2024.",
+      "releaseDate": "Nov 19, 2024",
+      "genres": [
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 59.97,
+        "positive": 13499,
+        "negative": 9012,
+        "total": 22511
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

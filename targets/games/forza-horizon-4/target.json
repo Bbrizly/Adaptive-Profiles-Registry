@@ -16,10 +16,35 @@
     "title": "QuadStick public configuration catalog — Forza Horizon 4"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/forza-horizon-4.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-horizon-4.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
+    "source": "https://store.steampowered.com/app/1293830/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/forza-horizon-4.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1293830,
+      "name": "Forza Horizon 4",
+      "url": "https://store.steampowered.com/app/1293830/",
+      "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world.",
+      "releaseDate": "Mar 9, 2021",
+      "genres": [
+        "Racing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 90.86,
+        "positive": 275547,
+        "negative": 27706,
+        "total": 303253
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

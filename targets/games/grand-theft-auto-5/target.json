@@ -16,10 +16,37 @@
     "title": "QuadStick public configuration catalog — Grand Theft Auto 5"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/grand-theft-auto-5.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-5.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+    "source": "https://store.steampowered.com/app/3240220/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/grand-theft-auto-5.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+      "releaseDate": "Mar 4, 2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Racing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 82.99,
+        "positive": 186792,
+        "negative": 38285,
+        "total": 225077
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

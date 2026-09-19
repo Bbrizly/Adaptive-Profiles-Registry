@@ -16,10 +16,35 @@
     "title": "QuadStick public configuration catalog — Microsoft Flight Simulator"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/microsoft-flight-simulator.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/microsoft-flight-simulator.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+    "source": "https://store.steampowered.com/app/1250410/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/microsoft-flight-simulator.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1250410,
+      "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+      "url": "https://store.steampowered.com/app/1250410/",
+      "description": "From gliders and helicopters to wide-body jets, fly highly detailed and accurate aircraft in the Microsoft Flight Simulator 40th Anniversary Edition. The world is at your fingertips.",
+      "releaseDate": "Aug 25, 2026",
+      "genres": [
+        "Simulation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 78.68,
+        "positive": 57481,
+        "negative": 15580,
+        "total": 73061
+      },
+      "metacritic": 91,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

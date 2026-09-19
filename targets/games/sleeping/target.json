@@ -25,13 +25,39 @@
     "releaseDate": null,
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 307690,
+      "name": "Sleeping Dogs: Definitive Edition",
+      "url": "https://store.steampowered.com/app/307690/",
+      "description": "The Definitive Edition of the critically acclaimed, award winning open-world action adventure, reworked, rebuilt and re-mastered for the new generation. With all previously available DLC included and a wealth of tech and visual improvements, Hong Kong has never felt so alive.",
+      "releaseDate": "Oct 8, 2014",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Racing"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 94.1,
+        "positive": 75018,
+        "negative": 4700,
+        "total": 79718
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/sleeping.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sleeping.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
+    "source": "https://store.steampowered.com/app/307690/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/sleeping.svg"
   }
 }

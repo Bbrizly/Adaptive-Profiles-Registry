@@ -17,7 +17,7 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
     "source": "https://store.steampowered.com/app/311210/",
     "attribution": "Steam store artwork",
     "license": "third-party",
@@ -46,7 +46,8 @@
         "total": 233947
       },
       "metacritic": 73,
-      "fetchedAt": "2026-09-18"
+      "fetchedAt": "2026-09-18",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650"
     }
   }
 }

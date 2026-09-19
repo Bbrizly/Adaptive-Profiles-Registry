@@ -20,7 +20,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/9f0d16a4d9a826d62cddf7f5ea25d10b4b2f45b9/header_alt_assets_3.jpg?t=1789479538",
         "source": "https://store.steampowered.com/app/3768760/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -127,12 +127,13 @@
             "total": 102982
           },
           "metacritic": 78,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433",
         "source": "https://store.steampowered.com/app/1222700/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -222,12 +223,13 @@
             "total": 1069625
           },
           "metacritic": 88,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1789582450"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1789582450",
         "source": "https://store.steampowered.com/app/1172470/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -342,12 +344,13 @@
             "total": 22335
           },
           "metacritic": 74,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973",
         "source": "https://store.steampowered.com/app/311560/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -433,12 +436,13 @@
             "total": 85730
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1786632648"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1786632648",
         "source": "https://store.steampowered.com/app/289650/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -511,12 +515,13 @@
             "total": 858082
           },
           "metacritic": 96,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
         "source": "https://store.steampowered.com/app/1086940/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -542,7 +547,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057",
         "source": "https://store.steampowered.com/app/200260/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -570,7 +575,8 @@
             "total": 78293
           },
           "metacritic": 91,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057"
         }
       }
     },
@@ -593,7 +599,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372",
         "source": "https://store.steampowered.com/app/208650/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -621,7 +627,8 @@
             "total": 160006
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372"
         }
       }
     },
@@ -680,12 +687,13 @@
             "total": 146379
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg?t=1730393449"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg?t=1730393449",
         "source": "https://store.steampowered.com/app/671860/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -788,12 +796,13 @@
             "total": 325698
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359",
         "source": "https://store.steampowered.com/app/1517290/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -819,7 +828,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1789484400",
         "source": "https://store.steampowered.com/app/2807960/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -846,7 +855,8 @@
             "total": 368627
           },
           "metacritic": 82,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1789484400"
         }
       }
     },
@@ -903,12 +913,13 @@
             "total": 270070
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
         "source": "https://store.steampowered.com/app/1238810/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -934,7 +945,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622",
         "source": "https://store.steampowered.com/app/7670/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -962,7 +973,8 @@
             "total": 32220
           },
           "metacritic": 96,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622"
         }
       }
     },
@@ -1106,12 +1118,13 @@
             "total": 781848
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1789661058"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1789661058",
         "source": "https://store.steampowered.com/app/1938090/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1138,7 +1151,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113",
         "source": "https://store.steampowered.com/app/209650/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1165,7 +1178,8 @@
             "total": 25573
           },
           "metacritic": 78,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113"
         }
       }
     },
@@ -1207,12 +1221,13 @@
             "total": 16240
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/836828b783fc1208664d6c3f9fe88e9abf060813/header.jpg?t=1783699904"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/836828b783fc1208664d6c3f9fe88e9abf060813/header.jpg?t=1783699904",
         "source": "https://store.steampowered.com/app/4384550/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1257,12 +1272,13 @@
             "total": 23561
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1780964053"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1780964053",
         "source": "https://store.steampowered.com/app/1985810/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1288,7 +1304,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
         "source": "https://store.steampowered.com/app/311210/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1317,7 +1333,8 @@
             "total": 233947
           },
           "metacritic": 73,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650"
         }
       }
     },
@@ -1369,12 +1386,13 @@
             "total": 45489
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798",
         "source": "https://store.steampowered.com/app/2000950/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1419,12 +1437,13 @@
             "total": 29783
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532",
         "source": "https://store.steampowered.com/app/3595230/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1484,12 +1503,13 @@
             "total": 22935
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604",
         "source": "https://store.steampowered.com/app/3595270/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1588,12 +1608,13 @@
             "total": 14630
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1784210925"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1784210925",
         "source": "https://store.steampowered.com/app/1273400/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1650,12 +1671,13 @@
             "total": 64219
           },
           "metacritic": 85,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969",
         "source": "https://store.steampowered.com/app/870780/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1716,12 +1738,13 @@
             "total": 19724
           },
           "metacritic": 64,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/8e52427e8dfcfcd7f407fe1a82b19b2f46cd7ff7/header.jpg?t=1780667817"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/8e52427e8dfcfcd7f407fe1a82b19b2f46cd7ff7/header.jpg?t=1780667817",
         "source": "https://store.steampowered.com/app/641320/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1747,7 +1770,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
         "source": "https://store.steampowered.com/app/730/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1776,7 +1799,8 @@
             "total": 9865418
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637"
         }
       }
     },
@@ -1836,12 +1860,13 @@
             "total": 980652
           },
           "metacritic": 86,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
         "source": "https://store.steampowered.com/app/1091500/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1897,12 +1922,13 @@
             "total": 71031
           },
           "metacritic": 87,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576",
         "source": "https://store.steampowered.com/app/1693980/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1928,7 +1954,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg?t=1750785409",
         "source": "https://store.steampowered.com/app/1252330/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -1955,7 +1981,8 @@
             "total": 30480
           },
           "metacritic": 87,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg?t=1750785409"
         }
       }
     },
@@ -1997,12 +2024,13 @@
             "total": 48295
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272",
         "source": "https://store.steampowered.com/app/2321470/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2028,7 +2056,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445",
         "source": "https://store.steampowered.com/app/548430/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2055,7 +2083,8 @@
             "total": 380045
           },
           "metacritic": 85,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445"
         }
       }
     },
@@ -2114,12 +2143,13 @@
             "total": 431
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1770910832"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1770910832",
         "source": "https://store.steampowered.com/app/1880610/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2165,12 +2195,13 @@
             "total": 3491
           },
           "metacritic": 88,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1787841983"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1787841983",
         "source": "https://store.steampowered.com/app/2524850/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2227,12 +2258,13 @@
             "total": 662030
           },
           "metacritic": 83,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
         "source": "https://store.steampowered.com/app/1085660/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2295,7 +2327,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123",
         "source": "https://store.steampowered.com/app/435150/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2325,7 +2357,8 @@
             "total": 206066
           },
           "metacritic": 93,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123"
         }
       }
     },
@@ -2378,12 +2411,13 @@
             "total": 221705
           },
           "metacritic": 85,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
         "source": "https://store.steampowered.com/app/379720/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2409,7 +2443,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986",
         "source": "https://store.steampowered.com/app/1295510/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2437,7 +2471,8 @@
             "total": 12146
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986"
         }
       }
     },
@@ -2503,12 +2538,13 @@
             "total": 107688
           },
           "metacritic": 80,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg?t=1759842966"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg?t=1759842966",
         "source": "https://store.steampowered.com/app/359320/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2573,12 +2609,13 @@
             "total": 105706
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102",
         "source": "https://store.steampowered.com/app/1203620/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2626,12 +2663,13 @@
             "total": 943349
           },
           "metacritic": 79,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1785394779"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1785394779",
         "source": "https://store.steampowered.com/app/227300/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2693,12 +2731,13 @@
             "total": 133654
           },
           "metacritic": 88,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057",
         "source": "https://store.steampowered.com/app/220240/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2761,12 +2800,13 @@
             "total": 73899
           },
           "metacritic": 80,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767",
         "source": "https://store.steampowered.com/app/298110/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2828,12 +2868,13 @@
             "total": 189172
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg?t=1785365694"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg?t=1785365694",
         "source": "https://store.steampowered.com/app/552520/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2895,12 +2936,13 @@
             "total": 35725
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg?t=1785280646"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg?t=1785280646",
         "source": "https://store.steampowered.com/app/2369390/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -2961,12 +3003,13 @@
             "total": 25950
           },
           "metacritic": 69,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
         "source": "https://store.steampowered.com/app/447020/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3047,7 +3090,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
         "source": "https://store.steampowered.com/app/2537590/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3074,7 +3117,8 @@
             "total": 22511
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449"
         }
       }
     },
@@ -3197,7 +3241,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342",
         "source": "https://store.steampowered.com/app/1293830/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3224,7 +3268,8 @@
             "total": 303253
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342"
         }
       }
     },
@@ -3308,12 +3353,13 @@
             "total": 347
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg?t=1692728515"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg?t=1692728515",
         "source": "https://store.steampowered.com/app/854250/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3364,7 +3410,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1789566646",
         "source": "https://store.steampowered.com/app/460930/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3392,7 +3438,8 @@
             "total": 114925
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1789566646"
         }
       }
     },
@@ -3444,12 +3491,13 @@
             "total": 2606
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449280/header.jpg?t=1607351334"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449280/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449280/header.jpg?t=1607351334",
         "source": "https://store.steampowered.com/app/1449280/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3504,12 +3552,13 @@
             "total": 66826
           },
           "metacritic": 81,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg?t=1786099137"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg?t=1786099137",
         "source": "https://store.steampowered.com/app/1139900/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3593,12 +3642,13 @@
             "total": 15964
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1789721681"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1789721681",
         "source": "https://store.steampowered.com/app/850190/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3700,7 +3750,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
         "source": "https://store.steampowered.com/app/3240220/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3729,7 +3779,8 @@
             "total": 225077
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
         }
       }
     },
@@ -3752,7 +3803,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
         "source": "https://store.steampowered.com/app/3240220/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3781,7 +3832,8 @@
             "total": 225077
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
         }
       }
     },
@@ -3804,7 +3856,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
         "source": "https://store.steampowered.com/app/12210/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3832,7 +3884,8 @@
             "total": 203813
           },
           "metacritic": 90,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564"
         }
       }
     },
@@ -3855,7 +3908,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
         "source": "https://store.steampowered.com/app/3240220/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -3884,7 +3937,8 @@
             "total": 225077
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
         }
       }
     },
@@ -3978,12 +4032,13 @@
             "total": 164172
           },
           "metacritic": 96,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
         "source": "https://store.steampowered.com/app/70/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4030,12 +4085,13 @@
             "total": 181199
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
         "source": "https://store.steampowered.com/app/1240440/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4061,7 +4117,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784",
         "source": "https://store.steampowered.com/app/553850/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4088,7 +4144,8 @@
             "total": 1162790
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784"
         }
       }
     },
@@ -4143,12 +4200,13 @@
             "total": 25734
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1784209886"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1784209886",
         "source": "https://store.steampowered.com/app/1583230/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4195,12 +4253,13 @@
             "total": 373583
           },
           "metacritic": 83,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1788224492"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1788224492",
         "source": "https://store.steampowered.com/app/990080/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4226,7 +4285,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
         "source": "https://store.steampowered.com/app/1151640/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4255,7 +4314,8 @@
             "total": 128281
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788"
         }
       }
     },
@@ -4408,12 +4468,13 @@
             "total": 20702
           },
           "metacritic": 87,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
         "source": "https://store.steampowered.com/app/2677660/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4459,12 +4520,13 @@
             "total": 269885
           },
           "metacritic": 89,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
         "source": "https://store.steampowered.com/app/1426210/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4520,12 +4582,13 @@
             "total": 38568
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg?t=1729099361"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg?t=1729099361",
         "source": "https://store.steampowered.com/app/638230/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4586,12 +4649,13 @@
             "total": 51596
           },
           "metacritic": 84,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1782912561"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1782912561",
         "source": "https://store.steampowered.com/app/8190/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4638,12 +4702,13 @@
             "total": 195754
           },
           "metacritic": 89,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
         "source": "https://store.steampowered.com/app/1771300/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4741,12 +4806,13 @@
             "total": 510933
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
         "source": "https://store.steampowered.com/app/1966720/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4871,7 +4937,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
         "source": "https://store.steampowered.com/app/1088850/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4899,7 +4965,8 @@
             "total": 45371
           },
           "metacritic": 78,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517"
         }
       }
     },
@@ -4958,12 +5025,13 @@
             "total": 64410
           },
           "metacritic": 87,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg?t=1718391374"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg?t=1718391374",
         "source": "https://store.steampowered.com/app/204100/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -4989,7 +5057,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg?t=1737564722",
         "source": "https://store.steampowered.com/app/2131650/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5016,7 +5084,8 @@
             "total": 7063
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg?t=1737564722"
         }
       }
     },
@@ -5039,7 +5108,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433",
         "source": "https://store.steampowered.com/app/1250410/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5066,7 +5135,8 @@
             "total": 73061
           },
           "metacritic": 91,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433"
         }
       }
     },
@@ -5341,7 +5411,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719",
         "source": "https://store.steampowered.com/app/282050/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5370,7 +5440,8 @@
             "total": 834
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719"
         }
       }
     },
@@ -5393,7 +5464,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012",
         "source": "https://store.steampowered.com/app/359220/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5421,7 +5492,8 @@
             "total": 699
           },
           "metacritic": 71,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012"
         }
       }
     },
@@ -5506,7 +5578,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
         "source": "https://store.steampowered.com/app/1222680/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5536,7 +5608,8 @@
             "total": 153922
           },
           "metacritic": 72,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224"
         }
       }
     },
@@ -5585,7 +5658,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
         "source": "https://store.steampowered.com/app/387290/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5612,7 +5685,8 @@
             "total": 71533
           },
           "metacritic": 88,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651"
         }
       }
     },
@@ -5635,7 +5709,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
         "source": "https://store.steampowered.com/app/2694490/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5666,7 +5740,8 @@
             "total": 226335
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213"
         }
       }
     },
@@ -5725,12 +5800,13 @@
             "total": 674765
           },
           "metacritic": 79,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107",
         "source": "https://store.steampowered.com/app/218620/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5792,12 +5868,13 @@
             "total": 65690
           },
           "metacritic": 66,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/161aa248d7bee649f3a37fbc54189952b281b7a2/header.jpg?t=1787667081"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/161aa248d7bee649f3a37fbc54189952b281b7a2/header.jpg?t=1787667081",
         "source": "https://store.steampowered.com/app/1272080/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5859,12 +5936,13 @@
             "total": 74873
           },
           "metacritic": 84,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/86a0f9e8396733762ba9aff37169498e603c38b5/header.jpg?t=1765498236"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/86a0f9e8396733762ba9aff37169498e603c38b5/header.jpg?t=1765498236",
         "source": "https://store.steampowered.com/app/218230/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5924,12 +6002,13 @@
             "total": 23045
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/91aefad15cb27e4c8f03e519a5b3d3a9daa4d31d/header.jpg?t=1789143123"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/91aefad15cb27e4c8f03e519a5b3d3a9daa4d31d/header.jpg?t=1789143123",
         "source": "https://store.steampowered.com/app/997010/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -5976,12 +6055,13 @@
             "total": 466896
           },
           "metacritic": 95,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
         "source": "https://store.steampowered.com/app/620/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6032,7 +6112,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg?t=1667844333",
         "source": "https://store.steampowered.com/app/234630/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6061,7 +6141,8 @@
             "total": 14438
           },
           "metacritic": 83,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg?t=1667844333"
         }
       }
     },
@@ -6084,7 +6165,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086",
         "source": "https://store.steampowered.com/app/578080/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6114,7 +6195,8 @@
             "total": 2755440
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086"
         }
       }
     },
@@ -6168,12 +6250,13 @@
             "total": 378691
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
         "source": "https://store.steampowered.com/app/648800/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6234,12 +6317,13 @@
             "total": 21737
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
         "source": "https://store.steampowered.com/app/2668510/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6325,12 +6409,13 @@
             "total": 919764
           },
           "metacritic": 93,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
         "source": "https://store.steampowered.com/app/1174180/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6419,12 +6504,13 @@
             "total": 35219
           },
           "metacritic": 89,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg?t=1686697594"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg?t=1686697594",
         "source": "https://store.steampowered.com/app/653530/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6497,12 +6583,13 @@
             "total": 279574
           },
           "metacritic": 91,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1788349095"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1788349095",
         "source": "https://store.steampowered.com/app/526870/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6551,12 +6638,13 @@
             "total": 316288
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977",
         "source": "https://store.steampowered.com/app/3164500/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6612,12 +6700,13 @@
             "total": 372942
           },
           "metacritic": null,
-          "fetchedAt": "2026-09-18"
+          "fetchedAt": "2026-09-18",
+          "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456"
         }
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
         "source": "https://store.steampowered.com/app/1172620/",
         "attribution": "Steam store artwork",
         "license": "third-party",
@@ -6870,7 +6959,7 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/79c5a87b61a396cc6e6b69e3a083727f175dea83/header.jpg?t=1788891347",
         "source": "https://store.steampowered.com/app/3354750/",
         "attribution": "Steam store artwork",
         "license": "third-party",

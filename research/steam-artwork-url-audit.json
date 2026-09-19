@@ -1,0 +1,781 @@
+{
+  "provider": "Steam Store public appdetails endpoint",
+  "auditedAt": "2026-09-19",
+  "results": [
+    {
+      "id": "007-first-light",
+      "appId": 3768760,
+      "status": "invalid_header_image"
+    },
+    {
+      "id": "a-way-out",
+      "appId": 1222700,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433"
+    },
+    {
+      "id": "apex-legends",
+      "appId": 1172470,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1789582450"
+    },
+    {
+      "id": "arc-raiders",
+      "appId": 1808500,
+      "status": "invalid_header_image"
+    },
+    {
+      "id": "assassin-s-creed",
+      "appId": 311560,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973"
+    },
+    {
+      "id": "assassin-s-creed-unity",
+      "appId": 289650,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1786632648"
+    },
+    {
+      "id": "baldur-s-gate-3",
+      "appId": 1086940,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040"
+    },
+    {
+      "id": "batman-arkham-city",
+      "appId": 200260,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057"
+    },
+    {
+      "id": "batman-arkham-knight",
+      "appId": 208650,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372"
+    },
+    {
+      "id": "battlebit-remastered",
+      "appId": 671860,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg?t=1730393449"
+    },
+    {
+      "id": "battlefield-2042",
+      "appId": 1517290,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359"
+    },
+    {
+      "id": "battlefield-6",
+      "appId": 2807960,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1789484400"
+    },
+    {
+      "id": "battlefield-v",
+      "appId": 1238810,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365"
+    },
+    {
+      "id": "bioshock",
+      "appId": 7670,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622"
+    },
+    {
+      "id": "call-of-duty",
+      "appId": 1938090,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1789661058"
+    },
+    {
+      "id": "call-of-duty-advanced-warfare",
+      "appId": 209650,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113"
+    },
+    {
+      "id": "call-of-duty-black-ops-6",
+      "appId": 4384550,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/836828b783fc1208664d6c3f9fe88e9abf060813/header.jpg?t=1783699904"
+    },
+    {
+      "id": "call-of-duty-black-ops-cold-war",
+      "appId": 1985810,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1780964053"
+    },
+    {
+      "id": "call-of-duty-black-ops-iii",
+      "appId": 311210,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650"
+    },
+    {
+      "id": "call-of-duty-modern-warfare",
+      "appId": 2000950,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798"
+    },
+    {
+      "id": "call-of-duty-modern-warfare-ii",
+      "appId": 3595230,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532"
+    },
+    {
+      "id": "call-of-duty-modern-warfare-iii",
+      "appId": 3595270,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604"
+    },
+    {
+      "id": "chained-together",
+      "appId": 2567870,
+      "status": "invalid_header_image"
+    },
+    {
+      "id": "construction-simulator",
+      "appId": 1273400,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1784210925"
+    },
+    {
+      "id": "control",
+      "appId": 870780,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969"
+    },
+    {
+      "id": "cooking-simulator",
+      "appId": 641320,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/8e52427e8dfcfcd7f407fe1a82b19b2f46cd7ff7/header.jpg?t=1780667817"
+    },
+    {
+      "id": "counter-strike-2",
+      "appId": 730,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637"
+    },
+    {
+      "id": "cyberpunk-2077",
+      "appId": 1091500,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077"
+    },
+    {
+      "id": "dead-space",
+      "appId": 1693980,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576"
+    },
+    {
+      "id": "deathloop",
+      "appId": 1252330,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg?t=1750785409"
+    },
+    {
+      "id": "deep-rock-galactic-survivor",
+      "appId": 2321470,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272"
+    },
+    {
+      "id": "deeprock",
+      "appId": 548430,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445"
+    },
+    {
+      "id": "deliver-at-all-costs",
+      "appId": 1880610,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1770910832"
+    },
+    {
+      "id": "denshattack",
+      "appId": 2524850,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1787841983"
+    },
+    {
+      "id": "destiny",
+      "appId": 1085660,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889"
+    },
+    {
+      "id": "divinity-original-sin-ii",
+      "appId": 435150,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123"
+    },
+    {
+      "id": "doom",
+      "appId": 379720,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856"
+    },
+    {
+      "id": "dragon-quest-xi",
+      "appId": 1295510,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986"
+    },
+    {
+      "id": "elite-dangerous",
+      "appId": 359320,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg?t=1759842966"
+    },
+    {
+      "id": "enshrouded",
+      "appId": 1203620,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102"
+    },
+    {
+      "id": "euro-truck-simulator-2",
+      "appId": 227300,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1785394779"
+    },
+    {
+      "id": "far-cry-3",
+      "appId": 220240,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057"
+    },
+    {
+      "id": "far-cry-4",
+      "appId": 298110,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767"
+    },
+    {
+      "id": "far-cry-5",
+      "appId": 552520,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg?t=1785365694"
+    },
+    {
+      "id": "far-cry-6",
+      "appId": 2369390,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg?t=1785280646"
+    },
+    {
+      "id": "farming-simulator-17",
+      "appId": 447020,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796"
+    },
+    {
+      "id": "fishing-planet",
+      "appId": 380600,
+      "status": "invalid_header_image"
+    },
+    {
+      "id": "flight-simulator-24",
+      "appId": 2537590,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449"
+    },
+    {
+      "id": "forza-horizon-4",
+      "appId": 1293830,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342"
+    },
+    {
+      "id": "fpv-freerider",
+      "appId": 854250,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg?t=1692728515"
+    },
+    {
+      "id": "ghost-recon-wildlands",
+      "appId": 460930,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1789566646"
+    },
+    {
+      "id": "ghostbusters",
+      "appId": 1449280,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449280/header.jpg?t=1607351334"
+    },
+    {
+      "id": "ghostrunner",
+      "appId": 1139900,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg?t=1786099137"
+    },
+    {
+      "id": "goat-simulator-3",
+      "appId": 850190,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1789721681"
+    },
+    {
+      "id": "grand-theft-auto-5",
+      "appId": 3240220,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
+    },
+    {
+      "id": "grand-theft-auto-v",
+      "appId": 3240220,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
+    },
+    {
+      "id": "gta-iv",
+      "appId": 12210,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564"
+    },
+    {
+      "id": "gta-v",
+      "appId": 3240220,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
+    },
+    {
+      "id": "half-life",
+      "appId": 70,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462"
+    },
+    {
+      "id": "halo-infinite",
+      "appId": 1240440,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322"
+    },
+    {
+      "id": "helldivers-ii",
+      "appId": 553850,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784"
+    },
+    {
+      "id": "high-on-life",
+      "appId": 1583230,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1784209886"
+    },
+    {
+      "id": "hogwarts-legacy",
+      "appId": 990080,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1788224492"
+    },
+    {
+      "id": "horizon-zero-dawn",
+      "appId": 1151640,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788"
+    },
+    {
+      "id": "hunt-showdown",
+      "appId": 594650,
+      "status": "invalid_header_image"
+    },
+    {
+      "id": "indiana-jones-and-the-great-circle",
+      "appId": 2677660,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392"
+    },
+    {
+      "id": "it-takes-two",
+      "appId": 1426210,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376"
+    },
+    {
+      "id": "journey",
+      "appId": 638230,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg?t=1729099361"
+    },
+    {
+      "id": "just-cause-2",
+      "appId": 8190,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1782912561"
+    },
+    {
+      "id": "kingdom-come-deliverance-ii",
+      "appId": 1771300,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568"
+    },
+    {
+      "id": "lethal-company",
+      "appId": 1966720,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053"
+    },
+    {
+      "id": "marvel-s-guardians-of-the-galaxy",
+      "appId": 1088850,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517"
+    },
+    {
+      "id": "max-payne-3",
+      "appId": 204100,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg?t=1718391374"
+    },
+    {
+      "id": "metal-gear-snake-eater",
+      "appId": 2131650,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg?t=1737564722"
+    },
+    {
+      "id": "microsoft-flight-simulator",
+      "appId": 1250410,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433"
+    },
+    {
+      "id": "mx-vs-atv-supercross-encore",
+      "appId": 282050,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719"
+    },
+    {
+      "id": "mx-vs-atv-unleashed",
+      "appId": 359220,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012"
+    },
+    {
+      "id": "need-for-speed-heat",
+      "appId": 1222680,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224"
+    },
+    {
+      "id": "ori-and-the-blind-forest",
+      "appId": 387290,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651"
+    },
+    {
+      "id": "path-of-exile-2",
+      "appId": 2694490,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213"
+    },
+    {
+      "id": "payday-2",
+      "appId": 218620,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107"
+    },
+    {
+      "id": "payday-3",
+      "appId": 1272080,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/161aa248d7bee649f3a37fbc54189952b281b7a2/header.jpg?t=1787667081"
+    },
+    {
+      "id": "planetside-2",
+      "appId": 218230,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/86a0f9e8396733762ba9aff37169498e603c38b5/header.jpg?t=1765498236"
+    },
+    {
+      "id": "police-simulator-patrol-officers",
+      "appId": 997010,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/91aefad15cb27e4c8f03e519a5b3d3a9daa4d31d/header.jpg?t=1789143123"
+    },
+    {
+      "id": "portal-2",
+      "appId": 620,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004"
+    },
+    {
+      "id": "project-cars",
+      "appId": 234630,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg?t=1667844333"
+    },
+    {
+      "id": "pubg",
+      "appId": 578080,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086"
+    },
+    {
+      "id": "raft",
+      "appId": 648800,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011"
+    },
+    {
+      "id": "red-dead-redemption",
+      "appId": 2668510,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266"
+    },
+    {
+      "id": "red-dead-redemption-2",
+      "appId": 1174180,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961"
+    },
+    {
+      "id": "return-of-the-obra-dinn",
+      "appId": 653530,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg?t=1686697594"
+    },
+    {
+      "id": "satisfactory",
+      "appId": 526870,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1788349095"
+    },
+    {
+      "id": "schedule-i",
+      "appId": 3164500,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977"
+    },
+    {
+      "id": "sea-of-thieves",
+      "appId": 1172620,
+      "status": "verified",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456"
+    },
+    {
+      "id": "shadow-of-mordor",
+      "appId": 241930,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '241930')"
+    },
+    {
+      "id": "shadow-warrior-3",
+      "appId": 1036890,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1036890')"
+    },
+    {
+      "id": "six-days-in-fallujah",
+      "appId": 1548850,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1548850')"
+    },
+    {
+      "id": "skate",
+      "appId": 3354750,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '3354750')"
+    },
+    {
+      "id": "sleeping",
+      "appId": 307690,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '307690')"
+    },
+    {
+      "id": "sniper-elite-3",
+      "appId": 238090,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '238090')"
+    },
+    {
+      "id": "sniper-elite-4",
+      "appId": 312660,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '312660')"
+    },
+    {
+      "id": "sniper-elite-5",
+      "appId": 1029690,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1029690')"
+    },
+    {
+      "id": "sniper-ghost-warrior-2",
+      "appId": 34870,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '34870')"
+    },
+    {
+      "id": "spindle",
+      "appId": 1386750,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1386750')"
+    },
+    {
+      "id": "split-fiction",
+      "appId": 2001120,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '2001120')"
+    },
+    {
+      "id": "splitgate",
+      "appId": 677620,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '677620')"
+    },
+    {
+      "id": "star-wars-battlefront",
+      "appId": 1237980,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1237980')"
+    },
+    {
+      "id": "star-wars-jedi-fallen-order",
+      "appId": 1172380,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1172380')"
+    },
+    {
+      "id": "starfield",
+      "appId": 1716740,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1716740')"
+    },
+    {
+      "id": "the-crew",
+      "appId": 646910,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '646910')"
+    },
+    {
+      "id": "the-finals",
+      "appId": 2073850,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '2073850')"
+    },
+    {
+      "id": "the-last-of-us-part-ii",
+      "appId": 2531310,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '2531310')"
+    },
+    {
+      "id": "the-witcher-3-wild-hunt",
+      "appId": 292030,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '292030')"
+    },
+    {
+      "id": "thehunter-call-of-the-wild",
+      "appId": 518790,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '518790')"
+    },
+    {
+      "id": "tiny-tina-s-wonderlands",
+      "appId": 1286680,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1286680')"
+    },
+    {
+      "id": "titanfall-2",
+      "appId": 1237970,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1237970')"
+    },
+    {
+      "id": "tomb-raider",
+      "appId": 203160,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '203160')"
+    },
+    {
+      "id": "tomb-raider-1",
+      "appId": 224960,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '224960')"
+    },
+    {
+      "id": "tomb-raider-2-rise-of-the-tomb-raider",
+      "appId": 391220,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '391220')"
+    },
+    {
+      "id": "tomb-raider-3-shadow-of-the-tomb-raider",
+      "appId": 750920,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '750920')"
+    },
+    {
+      "id": "tony-hawk",
+      "appId": 2395210,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '2395210')"
+    },
+    {
+      "id": "trepang-2",
+      "appId": 1164940,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '1164940')"
+    },
+    {
+      "id": "tunic",
+      "appId": 553420,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '553420')"
+    },
+    {
+      "id": "valheim",
+      "appId": 892970,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '892970')"
+    },
+    {
+      "id": "warhammer-40-000-darktide",
+      "appId": 1361210,
+      "status": "error",
+      "reason": "Unexpected token '<', \"<HTML><HEA\"... is not valid JSON"
+    },
+    {
+      "id": "warhammer-40-000-space-marine-2",
+      "appId": 2183900,
+      "status": "error",
+      "reason": "Cannot read properties of null (reading '2183900')"
+    },
+    {
+      "id": "way-of-the-hunter",
+      "appId": 1288320,
+      "status": "error",
+      "reason": "Unexpected token '<', \"<HTML><HEA\"... is not valid JSON"
+    },
+    {
+      "id": "wizard101",
+      "appId": 799960,
+      "status": "error",
+      "reason": "Unexpected token '<', \"<HTML><HEA\"... is not valid JSON"
+    },
+    {
+      "id": "world-of-tanks",
+      "appId": 1407200,
+      "status": "error",
+      "reason": "Unexpected token '<', \"<HTML><HEA\"... is not valid JSON"
+    },
+    {
+      "id": "world-of-warships",
+      "appId": 552990,
+      "status": "error",
+      "reason": "Unexpected token '<', \"<HTML><HEA\"... is not valid JSON"
+    }
+  ]
+}

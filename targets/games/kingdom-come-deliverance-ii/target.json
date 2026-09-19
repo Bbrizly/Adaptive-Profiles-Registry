@@ -33,9 +33,9 @@
       ],
       "rating": {
         "score": 93.92,
-        "positive": 183836,
-        "negative": 11902,
-        "total": 195738
+        "positive": 183853,
+        "negative": 11901,
+        "total": 195754
       },
       "metacritic": 89,
       "fetchedAt": "2026-09-18"
@@ -46,7 +46,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
     "source": "https://store.steampowered.com/app/1771300/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/kingdom-come-deliverance-ii.svg"
+    "license": "third-party"
   }
 }

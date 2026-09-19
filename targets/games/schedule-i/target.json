@@ -35,9 +35,9 @@
       ],
       "rating": {
         "score": 97.78,
-        "positive": 309258,
-        "negative": 7015,
-        "total": 316273
+        "positive": 309272,
+        "negative": 7016,
+        "total": 316288
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"
@@ -48,7 +48,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
     "source": "https://store.steampowered.com/app/3164500/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/schedule-i.svg"
+    "license": "third-party"
   }
 }

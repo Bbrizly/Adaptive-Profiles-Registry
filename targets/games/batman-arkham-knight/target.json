@@ -16,10 +16,36 @@
     "title": "QuadStick public configuration catalog — Batman Arkham Knight"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/batman-arkham-knight.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+    "source": "https://store.steampowered.com/app/208650/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/batman-arkham-knight.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 208650,
+      "name": "Batman™: Arkham Knight",
+      "url": "https://store.steampowered.com/app/208650/",
+      "description": "Batman™: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile.",
+      "releaseDate": "Jun 23, 2015",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.71,
+        "positive": 143544,
+        "negative": 16462,
+        "total": 160006
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

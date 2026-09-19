@@ -16,10 +16,35 @@
     "title": "QuadStick public configuration catalog — DeepRock"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/deeprock.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/deeprock.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
+    "source": "https://store.steampowered.com/app/548430/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/deeprock.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 548430,
+      "name": "Deep Rock Galactic",
+      "url": "https://store.steampowered.com/app/548430/",
+      "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring dwarven space miners, procedurally-generated destructible environments, and endless hordes of alien monsters. Explore cave systems, mine for minerals, and work together to survive!",
+      "releaseDate": "May 13, 2020",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 97.11,
+        "positive": 369065,
+        "negative": 10980,
+        "total": 380045
+      },
+      "metacritic": 85,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

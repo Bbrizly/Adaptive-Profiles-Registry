@@ -34,9 +34,9 @@
       ],
       "rating": {
         "score": 97.27,
-        "positive": 271922,
-        "negative": 7645,
-        "total": 279567
+        "positive": 271928,
+        "negative": 7646,
+        "total": 279574
       },
       "metacritic": 91,
       "fetchedAt": "2026-09-18"
@@ -47,7 +47,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
     "source": "https://store.steampowered.com/app/526870/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/satisfactory.svg"
+    "license": "third-party"
   }
 }

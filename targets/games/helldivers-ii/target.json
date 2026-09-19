@@ -16,10 +16,34 @@
     "title": "QuadStick public configuration catalog — Helldivers II"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/helldivers-ii.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/helldivers-ii.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+    "source": "https://store.steampowered.com/app/553850/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 553850,
+      "name": "HELLDIVERS™ 2",
+      "url": "https://store.steampowered.com/app/553850/",
+      "description": "The Galaxy’s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+      "releaseDate": "Feb 8, 2024",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 75.58,
+        "positive": 878788,
+        "negative": 284002,
+        "total": 1162790
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

@@ -16,10 +16,40 @@
     "title": "QuadStick public configuration catalog — Fishing Planet"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/fishing-planet.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
+    "source": "https://store.steampowered.com/app/380600/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/fishing-planet.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 380600,
+      "name": "Fishing Planet",
+      "url": "https://store.steampowered.com/app/380600/",
+      "description": "Fishing Planet® is a highly realistic first-person online multiplayer fishing simulator. Developed by avid fishing enthusiasts to bring you the full thrill of actual angling on your PC. Free-to-Play and just a download away!",
+      "releaseDate": "Aug 28, 2017",
+      "genres": [
+        "Massively Multiplayer",
+        "Simulation",
+        "Sports",
+        "Free To Play"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": {
+        "score": 86.85,
+        "positive": 67324,
+        "negative": 10197,
+        "total": 77521
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

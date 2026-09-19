@@ -47,9 +47,9 @@
       ],
       "rating": {
         "score": 92.48,
-        "positive": 850589,
-        "negative": 69127,
-        "total": 919716
+        "positive": 850639,
+        "negative": 69125,
+        "total": 919764
       },
       "metacritic": 93,
       "fetchedAt": "2026-09-18"
@@ -60,7 +60,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
     "source": "https://store.steampowered.com/app/1174180/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/red-dead-redemption-2.svg"
+    "license": "third-party"
   }
 }

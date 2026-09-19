@@ -25,13 +25,38 @@
     "releaseDate": "2020-09-22",
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 870780,
+      "name": "CONTROL Ultimate Edition",
+      "url": "https://store.steampowered.com/app/870780/",
+      "description": "Winner of over 80 awards, CONTROL is a visually stunning third-person action-adventure that will keep you on the edge of your seat.",
+      "releaseDate": "Aug 27, 2020",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 86.03,
+        "positive": 55249,
+        "negative": 8970,
+        "total": 64219
+      },
+      "metacritic": 85,
+      "fetchedAt": "2026-09-18"
+    }
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/control.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/control.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/header.jpg",
+    "source": "https://store.steampowered.com/app/870780/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/control.svg"
   }
 }

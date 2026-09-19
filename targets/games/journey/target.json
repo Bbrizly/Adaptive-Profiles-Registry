@@ -42,9 +42,9 @@
       ],
       "rating": {
         "score": 94.07,
-        "positive": 36280,
+        "positive": 36281,
         "negative": 2287,
-        "total": 38567
+        "total": 38568
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"
@@ -55,7 +55,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
     "source": "https://store.steampowered.com/app/638230/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/journey.svg"
+    "license": "third-party"
   }
 }

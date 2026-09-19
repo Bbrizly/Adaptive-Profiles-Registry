@@ -16,10 +16,37 @@
     "title": "QuadStick public configuration catalog — Call of Duty: Black Ops III"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/call-of-duty-black-ops-iii.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-black-ops-iii.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+    "source": "https://store.steampowered.com/app/311210/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/call-of-duty-black-ops-iii.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 311210,
+      "name": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210/",
+      "description": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
+      "releaseDate": "Nov 5, 2015",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 85.17,
+        "positive": 199249,
+        "negative": 34698,
+        "total": 233947
+      },
+      "metacritic": 73,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

@@ -16,10 +16,36 @@
     "title": "QuadStick public configuration catalog — Dragon Quest XI"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/dragon-quest-xi.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dragon-quest-xi.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg",
+    "source": "https://store.steampowered.com/app/1295510/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/dragon-quest-xi.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1295510,
+      "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
+      "url": "https://store.steampowered.com/app/1295510/",
+      "description": "The Definitive Edition includes the critically acclaimed DRAGON QUEST XI, plus additional scenarios, orchestral soundtrack, 2D mode and more! Whether you are a longtime fan or a new adventurer, this is the ultimate DQXI experience.",
+      "releaseDate": "Dec 4, 2020",
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.73,
+        "positive": 11263,
+        "negative": 883,
+        "total": 12146
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

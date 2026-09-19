@@ -32,9 +32,9 @@
       ],
       "rating": {
         "score": 82.06,
-        "positive": 23331,
-        "negative": 5102,
-        "total": 28433
+        "positive": 23334,
+        "negative": 5103,
+        "total": 28437
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"
@@ -45,7 +45,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg",
     "source": "https://store.steampowered.com/app/238090/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/sniper-elite-3.svg"
+    "license": "third-party"
   }
 }

@@ -16,10 +16,37 @@
     "title": "QuadStick public configuration catalog — Need for Speed Heat"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/need-for-speed-heat.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-heat.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
+    "source": "https://store.steampowered.com/app/1222680/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 1222680,
+      "name": "Need for Speed™ Heat",
+      "url": "https://store.steampowered.com/app/1222680/",
+      "description": "Hustle by day and risk it all at night in Need for Speed™ Heat Deluxe Edition, a white-knuckle street racer, where the lines of the law fade as the sun starts to set.",
+      "releaseDate": "Jun 4, 2020",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Racing",
+        "Sports"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 84.23,
+        "positive": 129653,
+        "negative": 24269,
+        "total": 153922
+      },
+      "metacritic": 72,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

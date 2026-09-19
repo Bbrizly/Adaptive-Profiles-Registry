@@ -47,8 +47,8 @@
       "rating": {
         "score": 74.54,
         "positive": 17178,
-        "negative": 5866,
-        "total": 23044
+        "negative": 5867,
+        "total": 23045
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"
@@ -59,7 +59,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
     "source": "https://store.steampowered.com/app/997010/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/police-simulator-patrol-officers.svg"
+    "license": "third-party"
   }
 }

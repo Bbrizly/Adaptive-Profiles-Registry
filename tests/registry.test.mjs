@@ -50,6 +50,7 @@ const png = (width = 120, height = 80) => Uint8Array.from([
   width >>> 24, width >>> 16 & 255, width >>> 8 & 255, width & 255, height >>> 24, height >>> 16 & 255, height >>> 8 & 255, height & 255,
 ]);
 const response = (body, type = 'image/png', status = 200, extra = {}) => ({ ok: status >= 200 && status < 300, status, headers: { get: key => ({ 'content-type': type, 'content-length': body?.byteLength ?? body?.length, ...extra })[key.toLowerCase()] ?? null }, arrayBuffer: async () => body.buffer.slice(body.byteOffset, body.byteOffset + body.byteLength), json: async () => body });
+const streamResponse = (chunks, type = 'image/png', status = 200) => { let index = 0; let cancelled = false; return { ok: status >= 200 && status < 300, status, headers: { get: key => ({ 'content-type': type })[key.toLowerCase()] ?? null }, body: { getReader: () => ({ read: async () => index < chunks.length ? { done: false, value: chunks[index++] } : { done: true }, cancel: async () => { cancelled = true; }, releaseLock: () => {} }) }, get cancelled() { return cancelled; } }; };
 const fetchMap = routes => async url => routes[url] || response(new Uint8Array(), 'text/plain', 404);
 const steamImage = 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/123/0123456789abcdef0123456789abcdef01234567/header.jpg';
 const targetFixture = (id, name, aliases = [], appId = 123) => ({ schemaVersion: 2, id, kind: 'game', name, aliases, platforms: ['pc'], actions: [], source: { url: 'https://example.com', title: name }, metadata: { steam: { appId, name } } });
@@ -108,4 +109,15 @@ const redirectCommons = 'https://upload.wikimedia.org/wikipedia/commons/d/de/Red
 const redirectCommonsBad = 'https://upload.wikimedia.org/wikipedia/commons-not-allowed/d/de/Redirect_Commons_Game.png';
 await assert.rejects(() => fetchValidatedImage(redirectCommons, fetchMap({ [redirectCommons]: response(new Uint8Array(), '', 302, { location: redirectCommonsBad }) })), /path not allowed/);
 await assert.rejects(() => fetchValidatedImage(commonsImage, fetchMap({ [commonsImage]: response(png(), 'image/png', 200, { 'content-length': String(10 * 1024 * 1024 + 1) }) })), /byte limit/);
+const streamedOversize = streamResponse([new Uint8Array(6 * 1024 * 1024), new Uint8Array(4 * 1024 * 1024 + 1)]);
+await assert.rejects(() => fetchValidatedImage(commonsImage, fetchMap({ [commonsImage]: streamedOversize })), /byte limit/);
+assert.equal(streamedOversize.cancelled, true, 'streaming byte limit cancels before unbounded accumulation');
+const noAuthorCommonsApi = 'https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=No%20Author%20Game&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|mime|extmetadata&format=json&origin=*';
+const noAuthorTarget = targetFixture('no-author-game', 'No Author Game', [], null);
+const noAuthorPage = commonsPage('CC BY 4.0', commonsImage, { Artist: { value: '   ' }, Credit: { value: '' } });
+const noAuthorLedger = await collectArtworkCandidates({ registry: { targets: [{ data: noAuthorTarget }], devices: [], profiles: [] }, fetchImpl: fetchMap({ [noAuthorCommonsApi]: response({ query: { pages: { 1: { ...noAuthorPage, title: 'File:No Author Game.png' } } } }, 'application/json') }) });
+const noAuthorRecord = noAuthorLedger.find(item => item.provider === 'wikimedia');
+assert.equal(noAuthorRecord.status, 'rejected');
+assert.match(noAuthorRecord.reason, /no usable author/);
+assert.equal(noAuthorRecord.author, null);
 console.log('Artwork enrichment safety tests passed.');

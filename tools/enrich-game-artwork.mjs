@@ -54,6 +54,26 @@ async function request(url, fetchImpl, hosts, redirects = 0, validate = () => {}
 async function readBounded(response) {
   const declared = Number(response.headers?.get?.('content-length'));
   if (Number.isFinite(declared) && declared > MAX_BYTES) throw new Error('response byte limit exceeded');
+  if (response.body?.getReader) {
+    const reader = response.body.getReader();
+    const chunks = []; let total = 0;
+    try {
+      while (true) {
+        const next = await reader.read();
+        if (next.done) break;
+        const chunk = new Uint8Array(next.value);
+        total += chunk.byteLength;
+        if (total > MAX_BYTES) {
+          await reader.cancel();
+          throw new Error('response byte limit exceeded');
+        }
+        chunks.push(chunk);
+      }
+    } finally { reader.releaseLock?.(); }
+    const bytes = new Uint8Array(total); let offset = 0;
+    for (const chunk of chunks) { bytes.set(chunk, offset); offset += chunk.byteLength; }
+    return bytes;
+  }
   const bytes = new Uint8Array(await response.arrayBuffer());
   if (bytes.byteLength > MAX_BYTES) throw new Error('response byte limit exceeded');
   return bytes;
@@ -141,6 +161,10 @@ async function steamCandidate(target, fetchImpl) {
 }
 
 function extValue(meta, key) { return meta?.[key]?.value || meta?.[key]?.source || ''; }
+function usableAttribution(value) {
+  const text = String(value || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/gi, ' ').trim().replace(/\s+/g, ' ');
+  return text || null;
+}
 function commonsLicense(value) {
   const normalized = normalize(value).replace(/\s+international$/, '').replace(/\s+(?:version\s+)?\d+(?:\s+\d+)*\s*$/, '').trim();
   return COMMONS_LICENSES.has(normalized) ? normalized : null;
@@ -162,8 +186,9 @@ async function commonsCandidates(target, fetchImpl) {
     try {
       const delivery = allowedUrl(info.url, DELIVERY_HOSTS);
       if (delivery.hostname !== 'upload.wikimedia.org') throw new Error('Wikimedia image host not allowed');
+      const author = usableAttribution(extValue(info.extmetadata, 'Artist') || extValue(info.extmetadata, 'Credit'));
+      if (!author) throw new Error('Commons candidate has no usable author/attribution');
       const image = await fetchValidatedImage(delivery.toString(), fetchImpl);
-      const author = extValue(info.extmetadata, 'Artist') || null;
       const licenseUrl = extValue(info.extmetadata, 'LicenseUrl') || null;
       const attribution = author ? `${author} — ${license.toUpperCase()}` : null;
       candidates.push(result(target.id, 'wikimedia', 'accepted', match.method, match.confidence, 'validated Wikimedia Commons artwork', { discoveryUrl: api, sourceUrl, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, contentSha256: image.contentSha256, author, license: license.toUpperCase(), licenseUrl, attribution }));

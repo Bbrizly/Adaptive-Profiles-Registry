@@ -16,7 +16,7 @@ const artworkSvg = target => {
 const isTrustedSteamArtwork = target => {
   if (target.artwork?.kind !== 'steam' || !target.artwork.url) return false;
   const url = new URL(target.artwork.url);
-  return url.protocol === 'https:' && url.hostname === STEAM_ART_HOST && /^\/store_item_assets\/steam\/apps\/\d+\/header\.jpg$/.test(url.pathname);
+  return url.protocol === 'https:' && url.hostname === STEAM_ART_HOST && /^\/store_item_assets\/steam\/apps\/\d+\/(?:[a-f0-9]+\/)?header(?:_alt_assets_\d+)?\.jpg$/i.test(url.pathname);
 };
 
 const targetDir = path.join(ROOT, 'targets', 'games');

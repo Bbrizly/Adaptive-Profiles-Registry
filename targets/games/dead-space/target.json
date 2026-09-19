@@ -55,6 +55,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
     "source": "https://store.steampowered.com/app/1693980/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/dead-space.svg"
   }
 }

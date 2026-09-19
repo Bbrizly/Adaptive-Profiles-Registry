@@ -23,7 +23,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
         "source": "https://store.steampowered.com/app/3768760/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/007-first-light.svg"
       },
       "metadata": {
         "steam": {
@@ -73,7 +74,7 @@
         "path": "artwork/games/a-plague-tale-1-2.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/a-plague-tale-1-2.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -134,7 +135,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
         "source": "https://store.steampowered.com/app/1222700/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/a-way-out.svg"
       }
     },
     {
@@ -159,7 +161,7 @@
         "path": "artwork/games/alan-wake-ii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/alan-wake-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -228,7 +230,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
         "source": "https://store.steampowered.com/app/1172470/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/apex-legends.svg"
       }
     },
     {
@@ -253,7 +256,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
         "source": "https://store.steampowered.com/app/1808500/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/arc-raiders.svg"
       },
       "metadata": {
         "steam": {
@@ -323,7 +327,7 @@
         "path": "artwork/games/assassin-s-creed.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -348,7 +352,7 @@
         "path": "artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -413,7 +417,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
         "source": "https://store.steampowered.com/app/289650/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/assassin-s-creed-unity.svg"
       }
     },
     {
@@ -438,7 +443,7 @@
         "path": "artwork/games/avatar-frontiers-of-pandora.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/avatar-frontiers-of-pandora.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -490,7 +495,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
         "source": "https://store.steampowered.com/app/1086940/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/baldur-s-gate-3.svg"
       }
     },
     {
@@ -515,7 +521,7 @@
         "path": "artwork/games/batman-arkham-city.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-city.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -540,7 +546,7 @@
         "path": "artwork/games/batman-arkham-knight.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-knight.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -606,7 +612,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg",
         "source": "https://store.steampowered.com/app/671860/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/battlebit-remastered.svg"
       }
     },
     {
@@ -647,7 +654,7 @@
         "path": "artwork/games/battlefield.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -713,7 +720,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg",
         "source": "https://store.steampowered.com/app/1517290/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/battlefield-2042.svg"
       }
     },
     {
@@ -738,7 +746,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
         "source": "https://store.steampowered.com/app/2807960/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/battlefield-6.svg"
       },
       "metadata": {
         "steam": {
@@ -826,7 +835,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
         "source": "https://store.steampowered.com/app/1238810/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/battlefield-v.svg"
       }
     },
     {
@@ -851,7 +861,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg",
         "source": "https://store.steampowered.com/app/7670/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/bioshock.svg"
       },
       "metadata": {
         "steam": {
@@ -968,7 +979,7 @@
         "path": "artwork/games/borderlands.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/borderlands.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -1027,7 +1038,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
         "source": "https://store.steampowered.com/app/1938090/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty.svg"
       }
     },
     {
@@ -1053,7 +1065,7 @@
         "path": "artwork/games/call-of-duty-advanced-warfare.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-advanced-warfare.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -1102,7 +1114,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/header.jpg",
         "source": "https://store.steampowered.com/app/4384550/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-black-ops-6.svg"
       }
     },
     {
@@ -1151,7 +1164,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
         "source": "https://store.steampowered.com/app/1985810/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-black-ops-cold-war.svg"
       }
     },
     {
@@ -1176,7 +1190,7 @@
         "path": "artwork/games/call-of-duty-black-ops-iii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-black-ops-iii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -1235,7 +1249,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
         "source": "https://store.steampowered.com/app/2000950/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-modern-warfare.svg"
       }
     },
     {
@@ -1284,7 +1299,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/header.jpg",
         "source": "https://store.steampowered.com/app/3595230/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-modern-warfare-ii.svg"
       }
     },
     {
@@ -1348,7 +1364,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/header.jpg",
         "source": "https://store.steampowered.com/app/3595270/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-modern-warfare-iii.svg"
       }
     },
     {
@@ -1400,7 +1417,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
         "source": "https://store.steampowered.com/app/2567870/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/chained-together.svg"
       }
     },
     {
@@ -1450,7 +1468,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
         "source": "https://store.steampowered.com/app/1273400/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/construction-simulator.svg"
       }
     },
     {
@@ -1487,7 +1506,7 @@
         "path": "artwork/games/control.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/control.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -1552,7 +1571,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/header.jpg",
         "source": "https://store.steampowered.com/app/641320/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/cooking-simulator.svg"
       }
     },
     {
@@ -1577,7 +1597,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
         "source": "https://store.steampowered.com/app/730/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/counter-strike-2.svg"
       },
       "metadata": {
         "steam": {
@@ -1670,7 +1691,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
         "source": "https://store.steampowered.com/app/1091500/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/cyberpunk-2077.svg"
       }
     },
     {
@@ -1730,7 +1752,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
         "source": "https://store.steampowered.com/app/1693980/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/dead-space.svg"
       }
     },
     {
@@ -1755,7 +1778,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg",
         "source": "https://store.steampowered.com/app/1252330/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/deathloop.svg"
       },
       "metadata": {
         "steam": {
@@ -1828,7 +1852,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg",
         "source": "https://store.steampowered.com/app/2321470/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/deep-rock-galactic-survivor.svg"
       }
     },
     {
@@ -1853,7 +1878,7 @@
         "path": "artwork/games/deeprock.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/deeprock.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -1919,7 +1944,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg",
         "source": "https://store.steampowered.com/app/1880610/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/deliver-at-all-costs.svg"
       }
     },
     {
@@ -1969,7 +1995,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/header.jpg",
         "source": "https://store.steampowered.com/app/2524850/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/denshattack.svg"
       }
     },
     {
@@ -2006,7 +2033,7 @@
         "path": "artwork/games/destiny.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/destiny.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2043,7 +2070,7 @@
         "path": "artwork/games/devil-may-cry.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/devil-may-cry.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2068,7 +2095,7 @@
         "path": "artwork/games/divinity-original-sin-ii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/divinity-original-sin-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2128,7 +2155,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
         "source": "https://store.steampowered.com/app/379720/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/doom.svg"
       }
     },
     {
@@ -2153,7 +2181,7 @@
         "path": "artwork/games/dragon-quest-xi.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/dragon-quest-xi.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2226,7 +2254,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg",
         "source": "https://store.steampowered.com/app/359320/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/elite-dangerous.svg"
       }
     },
     {
@@ -2295,7 +2324,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
         "source": "https://store.steampowered.com/app/1203620/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/enshrouded.svg"
       }
     },
     {
@@ -2347,7 +2377,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
         "source": "https://store.steampowered.com/app/227300/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/euro-truck-simulator-2.svg"
       }
     },
     {
@@ -2413,7 +2444,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
         "source": "https://store.steampowered.com/app/220240/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/far-cry-3.svg"
       }
     },
     {
@@ -2480,7 +2512,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
         "source": "https://store.steampowered.com/app/298110/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/far-cry-4.svg"
       }
     },
     {
@@ -2546,7 +2579,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
         "source": "https://store.steampowered.com/app/552520/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/far-cry-5.svg"
       }
     },
     {
@@ -2612,7 +2646,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
         "source": "https://store.steampowered.com/app/2369390/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/far-cry-6.svg"
       }
     },
     {
@@ -2677,7 +2712,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg",
         "source": "https://store.steampowered.com/app/447020/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/farming-simulator-17.svg"
       }
     },
     {
@@ -2702,7 +2738,7 @@
         "path": "artwork/games/fishing-planet.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fishing-planet.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2727,7 +2763,7 @@
         "path": "artwork/games/flight-simulator-24.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/flight-simulator-24.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2827,7 +2863,7 @@
         "path": "artwork/games/fortnite.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fortnite.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2852,7 +2888,7 @@
         "path": "artwork/games/forza-horizon-4.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-horizon-4.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2877,7 +2913,7 @@
         "path": "artwork/games/forza-motorsport-5.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsport-5.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2943,7 +2979,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg",
         "source": "https://store.steampowered.com/app/854250/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/fpv-freerider.svg"
       }
     },
     {
@@ -2968,7 +3005,7 @@
         "path": "artwork/games/fsx-p3d.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fsx-p3d.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -2993,7 +3030,7 @@
         "path": "artwork/games/ghost-recon-wildlands.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghost-recon-wildlands.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3030,7 +3067,7 @@
         "path": "artwork/games/ghostbusters.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghostbusters.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3089,7 +3126,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg",
         "source": "https://store.steampowered.com/app/1139900/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/ghostrunner.svg"
       }
     },
     {
@@ -3126,7 +3164,7 @@
         "path": "artwork/games/ghosts.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghosts.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3177,7 +3215,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/header.jpg",
         "source": "https://store.steampowered.com/app/850190/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/goat-simulator-3.svg"
       }
     },
     {
@@ -3216,7 +3255,7 @@
         "path": "artwork/games/gran-turismo-sport.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gran-turismo-sport.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3253,7 +3292,7 @@
         "path": "artwork/games/grand-theft-auto.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3278,7 +3317,7 @@
         "path": "artwork/games/grand-theft-auto-5.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-5.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3303,7 +3342,7 @@
         "path": "artwork/games/grand-theft-auto-v.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto-v.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3328,7 +3367,7 @@
         "path": "artwork/games/gta-iv.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-iv.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3353,7 +3392,7 @@
         "path": "artwork/games/gta-v.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3378,7 +3417,7 @@
         "path": "artwork/games/gta-v-fivem-2.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-fivem-2.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3403,7 +3442,7 @@
         "path": "artwork/games/gta-v-redone-fivem-optimized.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-redone-fivem-optimized.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3454,7 +3493,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg",
         "source": "https://store.steampowered.com/app/70/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/half-life.svg"
       }
     },
     {
@@ -3505,7 +3545,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/header.jpg",
         "source": "https://store.steampowered.com/app/1240440/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/halo-infinite.svg"
       }
     },
     {
@@ -3530,7 +3571,7 @@
         "path": "artwork/games/helldivers-ii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/helldivers-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3592,7 +3633,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
         "source": "https://store.steampowered.com/app/1583230/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/high-on-life.svg"
       }
     },
     {
@@ -3643,7 +3685,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
         "source": "https://store.steampowered.com/app/990080/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/hogwarts-legacy.svg"
       }
     },
     {
@@ -3668,7 +3711,7 @@
         "path": "artwork/games/horizon-zero-dawn.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/horizon-zero-dawn.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3693,7 +3736,7 @@
         "path": "artwork/games/hunt-showdown.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hunt-showdown.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3738,7 +3781,7 @@
         "path": "artwork/games/hytale.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hytale.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -3803,7 +3846,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
         "source": "https://store.steampowered.com/app/2677660/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/indiana-jones-and-the-great-circle.svg"
       }
     },
     {
@@ -3853,7 +3897,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
         "source": "https://store.steampowered.com/app/1426210/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/it-takes-two.svg"
       }
     },
     {
@@ -3913,7 +3958,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
         "source": "https://store.steampowered.com/app/638230/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/journey.svg"
       }
     },
     {
@@ -3978,7 +4024,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg",
         "source": "https://store.steampowered.com/app/8190/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/just-cause-2.svg"
       }
     },
     {
@@ -4029,7 +4076,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
         "source": "https://store.steampowered.com/app/1771300/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/kingdom-come-deliverance-ii.svg"
       }
     },
     {
@@ -4054,7 +4102,7 @@
         "path": "artwork/games/league-of-legends.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/league-of-legends.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4079,7 +4127,7 @@
         "path": "artwork/games/lego-fortnite.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lego-fortnite.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4131,7 +4179,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
         "source": "https://store.steampowered.com/app/1966720/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/lethal-company.svg"
       }
     },
     {
@@ -4168,7 +4217,7 @@
         "path": "artwork/games/little-big-planet.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/little-big-planet.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4205,7 +4254,7 @@
         "path": "artwork/games/madden.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4230,7 +4279,7 @@
         "path": "artwork/games/madden-18.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden-18.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4255,7 +4304,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/header.jpg",
         "source": "https://store.steampowered.com/app/1088850/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/marvel-s-guardians-of-the-galaxy.svg"
       },
       "metadata": {
         "steam": {
@@ -4346,7 +4396,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
         "source": "https://store.steampowered.com/app/204100/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/max-payne-3.svg"
       }
     },
     {
@@ -4371,7 +4422,7 @@
         "path": "artwork/games/metal-gear-snake-eater.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/metal-gear-snake-eater.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4396,7 +4447,7 @@
         "path": "artwork/games/microsoft-flight-simulator.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/microsoft-flight-simulator.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4623,7 +4674,7 @@
         "path": "artwork/games/minecraft.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4648,7 +4699,7 @@
         "path": "artwork/games/mlb-13-the-show.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mlb-13-the-show.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4673,7 +4724,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg",
         "source": "https://store.steampowered.com/app/282050/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/mx-vs-atv-supercross-encore.svg"
       },
       "metadata": {
         "steam": {
@@ -4724,7 +4776,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg",
         "source": "https://store.steampowered.com/app/359220/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/mx-vs-atv-unleashed.svg"
       },
       "metadata": {
         "steam": {
@@ -4786,7 +4839,7 @@
         "path": "artwork/games/nba-2k.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4811,7 +4864,7 @@
         "path": "artwork/games/nba-2k15.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k15.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4836,7 +4889,7 @@
         "path": "artwork/games/need-for-speed-heat.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-heat.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4861,7 +4914,7 @@
         "path": "artwork/games/need-for-speed-carbon.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-carbon.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4887,7 +4940,7 @@
         "path": "artwork/games/ori-and-the-blind-forest.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ori-and-the-blind-forest.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -4912,7 +4965,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
         "source": "https://store.steampowered.com/app/2694490/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/path-of-exile-2.svg"
       },
       "metadata": {
         "steam": {
@@ -5006,7 +5060,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
         "source": "https://store.steampowered.com/app/218620/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/payday-2.svg"
       }
     },
     {
@@ -5072,7 +5127,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
         "source": "https://store.steampowered.com/app/1272080/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/payday-3.svg"
       }
     },
     {
@@ -5138,7 +5194,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/header.jpg",
         "source": "https://store.steampowered.com/app/218230/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/planetside-2.svg"
       }
     },
     {
@@ -5202,7 +5259,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
         "source": "https://store.steampowered.com/app/997010/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/police-simulator-patrol-officers.svg"
       }
     },
     {
@@ -5253,7 +5311,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
         "source": "https://store.steampowered.com/app/620/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/portal-2.svg"
       }
     },
     {
@@ -5278,7 +5337,7 @@
         "path": "artwork/games/portal2-for.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/portal2-for.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5303,7 +5362,7 @@
         "path": "artwork/games/project-cars.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/project-cars.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5328,7 +5387,7 @@
         "path": "artwork/games/pubg.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/pubg.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5389,7 +5448,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
         "source": "https://store.steampowered.com/app/648800/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/raft.svg"
       }
     },
     {
@@ -5454,7 +5514,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg",
         "source": "https://store.steampowered.com/app/2668510/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/red-dead-redemption.svg"
       }
     },
     {
@@ -5479,7 +5540,7 @@
         "path": "artwork/games/red-dead-redemption-no-fishing.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-no-fishing.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5544,7 +5605,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
         "source": "https://store.steampowered.com/app/1174180/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/red-dead-redemption-2.svg"
       }
     },
     {
@@ -5569,7 +5631,7 @@
         "path": "artwork/games/red-dead-redemption-ii-redm.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-ii-redm.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5637,7 +5699,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg",
         "source": "https://store.steampowered.com/app/653530/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/return-of-the-obra-dinn.svg"
       }
     },
     {
@@ -5662,7 +5725,7 @@
         "path": "artwork/games/rocket-league.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rocket-league.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5714,7 +5777,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
         "source": "https://store.steampowered.com/app/526870/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/satisfactory.svg"
       }
     },
     {
@@ -5767,7 +5831,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
         "source": "https://store.steampowered.com/app/3164500/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/schedule-i.svg"
       }
     },
     {
@@ -5804,7 +5869,7 @@
         "path": "artwork/games/sea-of-thieves.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sea-of-thieves.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5829,7 +5894,7 @@
         "path": "artwork/games/shadow-of-mordor.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5871,7 +5936,7 @@
         "path": "artwork/games/shadow-warrior-3.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-warrior-3.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5896,7 +5961,7 @@
         "path": "artwork/games/shatterlinepc.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shatterlinepc.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -5946,7 +6011,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/header.jpg",
         "source": "https://store.steampowered.com/app/1548850/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/six-days-in-fallujah.svg"
       }
     },
     {
@@ -6008,7 +6074,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/header.jpg",
         "source": "https://store.steampowered.com/app/3354750/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/skate.svg"
       }
     },
     {
@@ -6045,7 +6112,7 @@
         "path": "artwork/games/sleeping.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/sleeping.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6095,7 +6162,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg",
         "source": "https://store.steampowered.com/app/238090/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/sniper-elite-3.svg"
       }
     },
     {
@@ -6162,7 +6230,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg",
         "source": "https://store.steampowered.com/app/312660/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/sniper-elite-4.svg"
       }
     },
     {
@@ -6230,7 +6299,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
         "source": "https://store.steampowered.com/app/1029690/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/sniper-elite-5.svg"
       }
     },
     {
@@ -6279,7 +6349,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34870/header.jpg",
         "source": "https://store.steampowered.com/app/34870/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/sniper-ghost-warrior-2.svg"
       }
     },
     {
@@ -6343,7 +6414,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386750/header.jpg",
         "source": "https://store.steampowered.com/app/1386750/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/spindle.svg"
       }
     },
     {
@@ -6408,7 +6480,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
         "source": "https://store.steampowered.com/app/2001120/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/split-fiction.svg"
       }
     },
     {
@@ -6433,7 +6506,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677620/header.jpg",
         "source": "https://store.steampowered.com/app/677620/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/splitgate.svg"
       },
       "metadata": {
         "steam": {
@@ -6485,7 +6559,7 @@
         "path": "artwork/games/star-citizen.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/star-citizen.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6553,7 +6627,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg",
         "source": "https://store.steampowered.com/app/1237980/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/star-wars-battlefront.svg"
       }
     },
     {
@@ -6698,7 +6773,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
         "source": "https://store.steampowered.com/app/1172380/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/star-wars-jedi-fallen-order.svg"
       }
     },
     {
@@ -6723,7 +6799,7 @@
         "path": "artwork/games/starcraft-ii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6782,7 +6858,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
         "source": "https://store.steampowered.com/app/1716740/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/starfield.svg"
       }
     },
     {
@@ -6807,7 +6884,7 @@
         "path": "artwork/games/steam-lego.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/steam-lego.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6832,7 +6909,7 @@
         "path": "artwork/games/super-mario-odyssey.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/super-mario-odyssey.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6869,7 +6946,7 @@
         "path": "artwork/games/the-crew.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-crew.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6919,7 +6996,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
         "source": "https://store.steampowered.com/app/2073850/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/the-finals.svg"
       }
     },
     {
@@ -6957,7 +7035,7 @@
         "path": "artwork/games/the-last-of-us.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -6994,7 +7072,7 @@
         "path": "artwork/games/the-last-of-us-part-ii.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-part-ii.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7037,7 +7115,7 @@
         "path": "artwork/games/the-legend-of-zelda-breath-of-the-wild.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-legend-of-zelda-breath-of-the-wild.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7080,7 +7158,7 @@
         "path": "artwork/games/the-witcher-3-wild-hunt.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-witcher-3-wild-hunt.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7131,7 +7209,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
         "source": "https://store.steampowered.com/app/518790/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/thehunter-call-of-the-wild.svg"
       }
     },
     {
@@ -7199,7 +7278,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
         "source": "https://store.steampowered.com/app/1286680/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tiny-tina-s-wonderlands.svg"
       }
     },
     {
@@ -7263,7 +7343,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
         "source": "https://store.steampowered.com/app/1237970/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/titanfall-2.svg"
       }
     },
     {
@@ -7288,7 +7369,7 @@
         "path": "artwork/games/tomb-raider.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7313,7 +7394,7 @@
         "path": "artwork/games/tomb-raider-1.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-1.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7338,7 +7419,7 @@
         "path": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7363,7 +7444,7 @@
         "path": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7400,7 +7481,7 @@
         "path": "artwork/games/tony-hawk.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tony-hawk.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7450,7 +7531,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg",
         "source": "https://store.steampowered.com/app/1164940/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/trepang-2.svg"
       }
     },
     {
@@ -7512,7 +7594,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg",
         "source": "https://store.steampowered.com/app/553420/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tunic.svg"
       }
     },
     {
@@ -7640,7 +7723,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
         "source": "https://store.steampowered.com/app/892970/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/valheim.svg"
       }
     },
     {
@@ -7691,7 +7775,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
         "source": "https://store.steampowered.com/app/1361210/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/warhammer-40-000-darktide.svg"
       }
     },
     {
@@ -7742,7 +7827,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
         "source": "https://store.steampowered.com/app/2183900/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/warhammer-40-000-space-marine-2.svg"
       }
     },
     {
@@ -7805,7 +7891,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg",
         "source": "https://store.steampowered.com/app/1288320/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/way-of-the-hunter.svg"
       }
     },
     {
@@ -7874,7 +7961,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg",
         "source": "https://store.steampowered.com/app/799960/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/wizard101.svg"
       }
     },
     {
@@ -7937,7 +8025,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407200/header.jpg",
         "source": "https://store.steampowered.com/app/1407200/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/world-of-tanks.svg"
       }
     },
     {
@@ -7962,7 +8051,7 @@
         "path": "artwork/games/world-of-warcraft.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/world-of-warcraft.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     },
     {
@@ -7987,7 +8076,8 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/header.jpg",
         "source": "https://store.steampowered.com/app/552990/",
         "attribution": "Steam store artwork",
-        "license": "third-party"
+        "license": "third-party",
+        "fallbackPath": "artwork/games/world-of-warships.svg"
       },
       "metadata": {
         "steam": {
@@ -8057,7 +8147,7 @@
         "path": "artwork/games/xdefiant.svg",
         "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/xdefiant.svg",
         "attribution": "Adaptive Profiles",
-        "license": "MIT"
+        "license": "Adaptive Profiles terms"
       }
     }
   ],

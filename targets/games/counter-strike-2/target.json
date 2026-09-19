@@ -20,7 +20,8 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
     "source": "https://store.steampowered.com/app/730/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/counter-strike-2.svg"
   },
   "metadata": {
     "steam": {

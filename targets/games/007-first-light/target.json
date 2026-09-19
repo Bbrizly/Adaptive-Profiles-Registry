@@ -20,7 +20,8 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
     "source": "https://store.steampowered.com/app/3768760/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/007-first-light.svg"
   },
   "metadata": {
     "steam": {

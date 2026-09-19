@@ -16,10 +16,36 @@
     "title": "QuadStick public configuration catalog — Tomb Raider 1"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/tomb-raider-1.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider-1.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg",
+    "source": "https://store.steampowered.com/app/224960/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/tomb-raider-1.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 224960,
+      "name": "Tomb Raider I (1996)",
+      "url": "https://store.steampowered.com/app/224960/",
+      "description": "Adventurer Lara Croft has been hired to recover the pieces of an ancient artifact known as the Scion. With her fearless acrobatic style she runs, jumps, swims and climbs her way towards the truth of its origin and powers - leaving only a trail of empty tombs and gun-cartridges in her wake.",
+      "releaseDate": "Nov 28, 2012",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 85.49,
+        "positive": 3971,
+        "negative": 674,
+        "total": 4645
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

@@ -21,7 +21,8 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg",
     "source": "https://store.steampowered.com/app/387290/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/ori-and-the-blind-forest.svg"
   },
   "metadata": {
     "steam": {

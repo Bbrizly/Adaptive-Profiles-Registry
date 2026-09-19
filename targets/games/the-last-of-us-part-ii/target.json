@@ -25,13 +25,37 @@
     "releaseDate": "2020-01-01",
     "genres": [],
     "platforms": [],
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "steam": {
+      "provider": "steam",
+      "appId": 2531310,
+      "name": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310/",
+      "description": "Experience the winner of over 300 Game of the Year awards, now on PC. Discover Ellie and Abby’s story with graphical enhancements, gameplay modes like the roguelike survival experience No Return, and more.",
+      "releaseDate": "Apr 3, 2025",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 90.93,
+        "positive": 50441,
+        "negative": 5031,
+        "total": 55472
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/the-last-of-us-part-ii.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us-part-ii.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+    "source": "https://store.steampowered.com/app/2531310/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/the-last-of-us-part-ii.svg"
   }
 }

@@ -16,10 +16,37 @@
     "title": "QuadStick public configuration catalog — Tomb Raider"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/tomb-raider.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/tomb-raider.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
+    "source": "https://store.steampowered.com/app/203160/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/tomb-raider.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 203160,
+      "name": "Tomb Raider Game of the Year",
+      "url": "https://store.steampowered.com/app/203160/",
+      "description": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+      "releaseDate": "Mar 4, 2013",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 96.02,
+        "positive": 259614,
+        "negative": 10759,
+        "total": 270373
+      },
+      "metacritic": 86,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

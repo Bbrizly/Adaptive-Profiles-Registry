@@ -9,7 +9,7 @@ This import ran the checked-in deterministic resolver against every one of the 1
 - 5 unresolved targets marked `unavailable`.
 - 42 unresolved targets marked `needs_review`.
 - 2 duplicate accepted-content candidates were retained in the ledger and were not imported (`grand-theft-auto-v` and `gta-v` duplicate `grand-theft-auto-5`).
-- 338 provider candidate records were written: 122 accepted, 2 duplicate, 9 rejected Steam, 66 rejected Wikimedia, 39 unavailable Steam, 9 unavailable Wikimedia, and 2 ambiguous Wikimedia records.
+- 249 provider candidate records were written: 122 accepted, 2 duplicate, 9 rejected Steam, 66 rejected Wikimedia, 39 unavailable Steam, 9 unavailable Wikimedia, and 2 ambiguous Wikimedia records.
 
 Every imported remote record contains the provider, conservative match method, confidence, native dimensions, downloaded-content SHA-256, attribution, license, source URL, and validated delivery URL. The complete candidate records, provider/status counts, reason counts, target list, source URLs, and imported hashes are in [`research/game-artwork-candidates.json`](../../research/game-artwork-candidates.json) and [`research/game-artwork-manifest.json`](../../research/game-artwork-manifest.json).
 

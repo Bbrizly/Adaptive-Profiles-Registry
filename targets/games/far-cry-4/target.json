@@ -62,6 +62,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
     "source": "https://store.steampowered.com/app/298110/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/far-cry-4.svg"
   }
 }

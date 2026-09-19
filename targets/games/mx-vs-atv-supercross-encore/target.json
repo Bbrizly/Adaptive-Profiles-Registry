@@ -20,7 +20,8 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg",
     "source": "https://store.steampowered.com/app/282050/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/mx-vs-atv-supercross-encore.svg"
   },
   "metadata": {
     "steam": {

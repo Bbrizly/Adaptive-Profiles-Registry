@@ -140,6 +140,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
     "source": "https://store.steampowered.com/app/1172380/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/star-wars-jedi-fallen-order.svg"
   }
 }

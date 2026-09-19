@@ -54,6 +54,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
     "source": "https://store.steampowered.com/app/2000950/",
     "attribution": "Steam store artwork",
-    "license": "third-party"
+    "license": "third-party",
+    "fallbackPath": "artwork/games/call-of-duty-modern-warfare.svg"
   }
 }

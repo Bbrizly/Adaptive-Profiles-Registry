@@ -1,0 +1,7 @@
+{
+  "generatedAt": "2026-09-18",
+  "targetCount": 169,
+  "steamArtwork": 90,
+  "generatedFallbacks": 79,
+  "policy": "Every target has a local deterministic SVG fallback. External artwork is retained only for exact HTTPS Steam asset URLs on shared.akamai.steamstatic.com."
+}

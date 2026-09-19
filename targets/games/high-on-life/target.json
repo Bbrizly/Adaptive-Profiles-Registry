@@ -43,10 +43,10 @@
         "windows"
       ],
       "rating": {
-        "score": 89.01,
-        "positive": 22903,
-        "negative": 2829,
-        "total": 25732
+        "score": 89,
+        "positive": 22904,
+        "negative": 2830,
+        "total": 25734
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"
@@ -57,7 +57,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
     "source": "https://store.steampowered.com/app/1583230/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/high-on-life.svg"
+    "license": "third-party"
   }
 }

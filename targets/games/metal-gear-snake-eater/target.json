@@ -16,10 +16,34 @@
     "title": "QuadStick public configuration catalog — Metal Gear Snake Eater"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/metal-gear-snake-eater.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/metal-gear-snake-eater.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg",
+    "source": "https://store.steampowered.com/app/2131650/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 2131650,
+      "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+      "url": "https://store.steampowered.com/app/2131650/",
+      "description": "Metal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series.",
+      "releaseDate": "Oct 24, 2023",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 89.48,
+        "positive": 6320,
+        "negative": 743,
+        "total": 7063
+      },
+      "metacritic": null,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

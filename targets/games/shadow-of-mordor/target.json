@@ -16,10 +16,32 @@
     "title": "QuadStick public configuration catalog — Shadow of Mordor"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/shadow-of-mordor.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shadow-of-mordor.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg",
+    "source": "https://store.steampowered.com/app/241930/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 241930,
+      "name": "Middle-earth™: Shadow of Mordor™",
+      "url": "https://store.steampowered.com/app/241930/",
+      "description": "Fight through Mordor and uncover the truth of the spirit that compels you, discover the origins of the Rings of Power, build your legend and ultimately confront the evil of Sauron in this new chronicle of Middle-earth.",
+      "releaseDate": "Sep 30, 2014",
+      "genres": [],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 92.52,
+        "positive": 90006,
+        "negative": 7278,
+        "total": 97284
+      },
+      "metacritic": 84,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

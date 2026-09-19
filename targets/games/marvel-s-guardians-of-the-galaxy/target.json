@@ -20,8 +20,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/header.jpg",
     "source": "https://store.steampowered.com/app/1088850/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/marvel-s-guardians-of-the-galaxy.svg"
+    "license": "third-party"
   },
   "metadata": {
     "steam": {
@@ -40,9 +39,9 @@
       ],
       "rating": {
         "score": 93.77,
-        "positive": 42543,
+        "positive": 42544,
         "negative": 2827,
-        "total": 45370
+        "total": 45371
       },
       "metacritic": 78,
       "fetchedAt": "2026-09-18"

@@ -16,10 +16,36 @@
     "title": "QuadStick public configuration catalog — GTA IV"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/gta-iv.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-iv.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "source": "https://store.steampowered.com/app/12210/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/gta-iv.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 12210,
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "url": "https://store.steampowered.com/app/12210/",
+      "description": "Niko Bellic, Johnny Klebitz and Luis Lopez all have one thing in common - they live in the worst city in America. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don't.",
+      "releaseDate": "Mar 24, 2020",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 83.35,
+        "positive": 169871,
+        "negative": 33942,
+        "total": 203813
+      },
+      "metacritic": 90,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

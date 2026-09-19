@@ -17,10 +17,35 @@
     "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/call-of-duty-advanced-warfare.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/call-of-duty-advanced-warfare.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg",
+    "source": "https://store.steampowered.com/app/209650/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/call-of-duty-advanced-warfare.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 209650,
+      "name": "Call of Duty®: Advanced Warfare - Gold Edition",
+      "url": "https://store.steampowered.com/app/209650/",
+      "description": "Call of Duty®: Advanced Warfare envisions a powerful future, where both technology and tactics have evolved to usher in a new era of combat for the franchise.Power Changes Everything.",
+      "releaseDate": "Nov 3, 2014",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 65.31,
+        "positive": 16703,
+        "negative": 8870,
+        "total": 25573
+      },
+      "metacritic": 78,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

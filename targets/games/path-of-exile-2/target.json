@@ -20,8 +20,7 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
     "source": "https://store.steampowered.com/app/2694490/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/path-of-exile-2.svg"
+    "license": "third-party"
   },
   "metadata": {
     "steam": {
@@ -43,9 +42,9 @@
       ],
       "rating": {
         "score": 74.97,
-        "positive": 169674,
-        "negative": 56652,
-        "total": 226326
+        "positive": 169682,
+        "negative": 56653,
+        "total": 226335
       },
       "metacritic": null,
       "fetchedAt": "2026-09-18"

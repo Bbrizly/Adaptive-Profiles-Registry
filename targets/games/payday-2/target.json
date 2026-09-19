@@ -48,9 +48,9 @@
       ],
       "rating": {
         "score": 89.35,
-        "positive": 602920,
-        "negative": 71843,
-        "total": 674763
+        "positive": 602923,
+        "negative": 71842,
+        "total": 674765
       },
       "metacritic": 79,
       "fetchedAt": "2026-09-18"
@@ -61,7 +61,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
     "source": "https://store.steampowered.com/app/218620/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/payday-2.svg"
+    "license": "third-party"
   }
 }

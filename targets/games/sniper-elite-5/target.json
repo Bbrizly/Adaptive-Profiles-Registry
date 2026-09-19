@@ -50,9 +50,9 @@
       ],
       "rating": {
         "score": 83.74,
-        "positive": 25608,
-        "negative": 4973,
-        "total": 30581
+        "positive": 25614,
+        "negative": 4974,
+        "total": 30588
       },
       "metacritic": 79,
       "fetchedAt": "2026-09-18"
@@ -63,7 +63,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
     "source": "https://store.steampowered.com/app/1029690/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/sniper-elite-5.svg"
+    "license": "third-party"
   }
 }

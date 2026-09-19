@@ -48,9 +48,9 @@
       ],
       "rating": {
         "score": 87.03,
-        "positive": 56058,
+        "positive": 56057,
         "negative": 8353,
-        "total": 64411
+        "total": 64410
       },
       "metacritic": 87,
       "fetchedAt": "2026-09-18"
@@ -61,7 +61,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
     "source": "https://store.steampowered.com/app/204100/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/max-payne-3.svg"
+    "license": "third-party"
   }
 }

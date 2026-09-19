@@ -33,9 +33,9 @@
       ],
       "rating": {
         "score": 98.7,
-        "positive": 460837,
+        "positive": 460849,
         "negative": 6047,
-        "total": 466884
+        "total": 466896
       },
       "metacritic": 95,
       "fetchedAt": "2026-09-18"
@@ -46,7 +46,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
     "source": "https://store.steampowered.com/app/620/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/portal-2.svg"
+    "license": "third-party"
   }
 }

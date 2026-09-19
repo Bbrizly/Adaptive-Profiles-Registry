@@ -16,10 +16,36 @@
     "title": "QuadStick public configuration catalog — Batman Arkham City"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/batman-arkham-city.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/batman-arkham-city.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg",
+    "source": "https://store.steampowered.com/app/200260/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/batman-arkham-city.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 200260,
+      "name": "Batman: Arkham City - Game of the Year Edition",
+      "url": "https://store.steampowered.com/app/200260/",
+      "description": "Get Batman: Arkham City and all DLC for one low price with the release of the GOTY Edition!",
+      "releaseDate": "Sep 7, 2012",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 96.19,
+        "positive": 75307,
+        "negative": 2986,
+        "total": 78293
+      },
+      "metacritic": 91,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

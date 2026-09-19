@@ -47,9 +47,9 @@
       ],
       "rating": {
         "score": 90.13,
-        "positive": 18656,
+        "positive": 18659,
         "negative": 2043,
-        "total": 20699
+        "total": 20702
       },
       "metacritic": 87,
       "fetchedAt": "2026-09-18"
@@ -60,7 +60,6 @@
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
     "source": "https://store.steampowered.com/app/2677660/",
     "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/indiana-jones-and-the-great-circle.svg"
+    "license": "third-party"
   }
 }

@@ -16,10 +16,38 @@
     "title": "QuadStick public configuration catalog — Divinity Original Sin II"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/divinity-original-sin-ii.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/divinity-original-sin-ii.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+    "source": "https://store.steampowered.com/app/435150/",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/divinity-original-sin-ii.svg"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 435150,
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "url": "https://store.steampowered.com/app/435150/",
+      "description": "The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God.",
+      "releaseDate": "Sep 14, 2017",
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": {
+        "score": 95.64,
+        "positive": 197075,
+        "negative": 8991,
+        "total": 206066
+      },
+      "metacritic": 93,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

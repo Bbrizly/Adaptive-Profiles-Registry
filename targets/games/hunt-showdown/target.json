@@ -16,10 +16,34 @@
     "title": "QuadStick public configuration catalog — Hunt: Showdown"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/hunt-showdown.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hunt-showdown.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
+    "source": "https://store.steampowered.com/app/594650/",
+    "attribution": "Steam store artwork",
+    "license": "third-party"
+  },
+  "metadata": {
+    "steam": {
+      "provider": "steam",
+      "appId": 594650,
+      "name": "Hunt: Showdown 1896",
+      "url": "https://store.steampowered.com/app/594650/",
+      "description": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
+      "releaseDate": "Aug 27, 2019",
+      "genres": [
+        "Action"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "rating": {
+        "score": 73.72,
+        "positive": 205467,
+        "negative": 73258,
+        "total": 278725
+      },
+      "metacritic": 81,
+      "fetchedAt": "2026-09-18"
+    }
   }
 }

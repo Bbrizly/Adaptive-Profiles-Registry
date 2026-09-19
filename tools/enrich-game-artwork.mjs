@@ -20,9 +20,8 @@ const COMMONS_LICENSES = new Set(['public domain', 'cc0', 'cc by', 'cc by sa']);
 const headers = { 'User-Agent': 'Adaptive-Profiles-Registry/1.0 (artwork research; contact repository maintainer)' };
 
 const normalize = value => String(value || '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, ' ').trim().replace(/\s+/g, ' ');
-const compact = value => normalize(value).replace(/ /g, '');
 const sorted = value => [...value].sort((a, b) => a.targetId.localeCompare(b.targetId) || a.provider.localeCompare(b.provider) || a.status.localeCompare(b.status));
-const result = (targetId, provider, status, matchMethod, confidence, reason, extra = {}) => ({ discoveryUrl: null, sourceUrl: null, targetId, provider, matchMethod, confidence, reason, imageUrl: null, imageWidth: null, imageHeight: null, contentSha256: null, status, ...extra });
+const result = (targetId, provider, status, matchMethod, confidence, reason, extra = {}) => ({ discoveryUrl: null, sourceUrl: null, targetId, provider, matchMethod, confidence, reason, imageUrl: null, imageWidth: null, imageHeight: null, contentSha256: null, author: null, license: null, licenseUrl: null, attribution: null, status, ...extra });
 
 function allowedUrl(value, hosts) {
   let url;
@@ -31,14 +30,22 @@ function allowedUrl(value, hosts) {
   return url;
 }
 
-async function request(url, fetchImpl, hosts, redirects = 0) {
+function validateDeliveryPath(url) {
+  const location = allowedUrl(url, DELIVERY_HOSTS);
+  if (location.hostname === 'shared.akamai.steamstatic.com' && !/^\/store_item_assets\/steam\/apps\/\d+\/(?:[a-f0-9]{40}\/)?(?:header|capsule_616x353|library_hero)\.(?:jpg|jpeg|png|webp)$/.test(location.pathname)) throw new Error('Steam image path not allowed');
+  if (location.hostname === 'upload.wikimedia.org' && !/^\/wikipedia\/commons\//.test(location.pathname)) throw new Error('Wikimedia image path not allowed');
+  return location;
+}
+
+async function request(url, fetchImpl, hosts, redirects = 0, validate = () => {}) {
   const current = allowedUrl(url, hosts);
+  validate(current.toString());
   const response = await fetchImpl(current.toString(), { headers, redirect: 'manual' });
   if ([301, 302, 303, 307, 308].includes(response.status)) {
     if (redirects >= MAX_REDIRECTS) throw new Error('redirect limit exceeded');
     const location = response.headers?.get?.('location');
     if (!location) throw new Error('redirect without location');
-    return request(new URL(location, current).toString(), fetchImpl, hosts, redirects + 1);
+    return request(new URL(location, current).toString(), fetchImpl, hosts, redirects + 1, validate);
   }
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return { response, url: current.toString() };
@@ -86,10 +93,7 @@ function signature(bytes, format) {
 }
 
 export async function fetchValidatedImage(imageUrl, fetchImpl = globalThis.fetch) {
-  const imageLocation = allowedUrl(imageUrl, DELIVERY_HOSTS);
-  if (imageLocation.hostname === 'shared.akamai.steamstatic.com' && !/^\/store_item_assets\/steam\/apps\/\d+\/(?:[a-f0-9]{40}\/)?(?:header|capsule_616x353|library_hero)\.(?:jpg|jpeg|png|webp)$/.test(imageLocation.pathname)) throw new Error('Steam image path not allowed');
-  if (imageLocation.hostname === 'upload.wikimedia.org' && !/^\/wikipedia\/commons\//.test(imageLocation.pathname)) throw new Error('Wikimedia image path not allowed');
-  const { response, url } = await request(imageUrl, fetchImpl, DELIVERY_HOSTS);
+  const { response, url } = await request(imageUrl, fetchImpl, DELIVERY_HOSTS, 0, validateDeliveryPath);
   const type = (response.headers?.get?.('content-type') || '').split(';', 1)[0].toLowerCase();
   const format = IMAGE_TYPES.get(type);
   if (!format) throw new Error('unsupported or invalid content type');
@@ -137,29 +141,36 @@ async function steamCandidate(target, fetchImpl) {
 }
 
 function extValue(meta, key) { return meta?.[key]?.value || meta?.[key]?.source || ''; }
+function commonsLicense(value) {
+  const normalized = normalize(value).replace(/\s+international$/, '').replace(/\s+(?:version\s+)?\d+(?:\s+\d+)*\s*$/, '').trim();
+  return COMMONS_LICENSES.has(normalized) ? normalized : null;
+}
 async function commonsCandidates(target, fetchImpl) {
   const query = encodeURIComponent(target.name);
   const api = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${query}&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|mime|extmetadata&format=json&origin=*`;
   const { response } = await request(api, fetchImpl, DISCOVERY_HOSTS);
-  const pages = Object.values((await response.json()).query?.pages || {});
+  const pages = Object.values((await response.json()).query?.pages || {}).sort((a, b) => String(a.title || '').localeCompare(String(b.title || '')));
   const candidates = [];
   for (const page of pages) {
     const info = page.imageinfo?.[0]; const match = titleMatch(target, String(page.title || '').replace(/^File:/i, '').replace(/\.[^.]+$/, '').replace(/\s*\([^)]*\)$/, ''));
-    if (!info || !match.matched) continue;
-    const license = normalize(extValue(info.extmetadata, 'LicenseShortName'));
-    if (!COMMONS_LICENSES.has(license)) continue;
-    if (!info.url) continue;
+    if (!match.matched) continue;
+    const sourceUrl = info?.descriptionurl || `https://commons.wikimedia.org/wiki/${encodeURIComponent(page.title).replace(/%20/g, '_')}`;
+    if (!info) { candidates.push(result(target.id, 'wikimedia', 'rejected', match.method, match.confidence, 'Commons candidate has no image metadata', { discoveryUrl: api, sourceUrl })); continue; }
+    const license = commonsLicense(extValue(info.extmetadata, 'LicenseShortName'));
+    if (!license) { candidates.push(result(target.id, 'wikimedia', 'rejected', match.method, match.confidence, 'Commons candidate has a disallowed license', { discoveryUrl: api, sourceUrl, imageUrl: info.url || null })); continue; }
+    if (!info.url) { candidates.push(result(target.id, 'wikimedia', 'rejected', match.method, match.confidence, 'Commons candidate has no delivery URL', { discoveryUrl: api, sourceUrl })); continue; }
     try {
       const delivery = allowedUrl(info.url, DELIVERY_HOSTS);
-      if (delivery.hostname !== 'upload.wikimedia.org') continue;
+      if (delivery.hostname !== 'upload.wikimedia.org') throw new Error('Wikimedia image host not allowed');
       const image = await fetchValidatedImage(delivery.toString(), fetchImpl);
-      const author = extValue(info.extmetadata, 'Artist') || 'Unknown author';
+      const author = extValue(info.extmetadata, 'Artist') || null;
       const licenseUrl = extValue(info.extmetadata, 'LicenseUrl') || null;
-      const attribution = `${author} — ${license.toUpperCase()}`;
-      candidates.push(result(target.id, 'wikimedia', 'accepted', match.method, match.confidence, 'validated Wikimedia Commons artwork', { discoveryUrl: api, sourceUrl: `https://commons.wikimedia.org/wiki/${encodeURIComponent(page.title).replace(/%20/g, '_')}`, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, contentSha256: image.contentSha256, author, license: license.toUpperCase(), licenseUrl, attribution }));
-    } catch (error) { candidates.push(result(target.id, 'wikimedia', 'rejected', match.method, match.confidence, error.message, { discoveryUrl: api, sourceUrl: info.descriptionurl || api, imageUrl: info.url })); }
+      const attribution = author ? `${author} — ${license.toUpperCase()}` : null;
+      candidates.push(result(target.id, 'wikimedia', 'accepted', match.method, match.confidence, 'validated Wikimedia Commons artwork', { discoveryUrl: api, sourceUrl, imageUrl: image.url, imageWidth: image.width, imageHeight: image.height, contentSha256: image.contentSha256, author, license: license.toUpperCase(), licenseUrl, attribution }));
+    } catch (error) { candidates.push(result(target.id, 'wikimedia', 'rejected', match.method, match.confidence, error.message, { discoveryUrl: api, sourceUrl, imageUrl: info.url })); }
   }
-  if (candidates.length > 1) return candidates.map(candidate => ({ ...candidate, status: 'ambiguous', reason: 'multiple conservatively matching Commons files' }));
+  const accepted = candidates.filter(candidate => candidate.status === 'accepted');
+  if (accepted.length > 1) for (const candidate of accepted) { candidate.status = 'ambiguous'; candidate.reason = 'multiple conservatively matching Commons files'; }
   return candidates;
 }
 

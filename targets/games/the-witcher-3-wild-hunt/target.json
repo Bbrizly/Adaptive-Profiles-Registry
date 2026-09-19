@@ -56,11 +56,18 @@
     }
   },
   "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
-    "source": "https://store.steampowered.com/app/292030/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
+    "kind": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Witcher_3_Wild_Hunt_-_Dialogue_options.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Witcher_3_Wild_Hunt_-_Dialogue_options.jpg",
+    "provider": "wikimedia",
+    "matchMethod": "conservative-title-alias",
+    "confidence": 0.86,
+    "nativeWidth": 1920,
+    "nativeHeight": 1080,
+    "contentSha256": "2fac9cd6fca337585137682092831339f664e2927865b173e407f405e5e2a39a",
+    "attribution": "BANDAI NAMCO Europe — CC BY",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "fallbackPath": "artwork/games/the-witcher-3-wild-hunt.svg"
   }
 }

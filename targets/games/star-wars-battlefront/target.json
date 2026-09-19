@@ -60,8 +60,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg?t=1777393769",
     "source": "https://store.steampowered.com/app/1237980/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "f88ee6b9dbc13911d3cb8650bbc0bc637e25a5e7fee00a5df930e39e762679f3",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/star-wars-battlefront.svg"

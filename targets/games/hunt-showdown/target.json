@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1bWHewoqFhR5UbttJAw4rFexc_Ah4zAymVnJZM3hBIM0/edit",
     "title": "QuadStick public configuration catalog — Hunt: Showdown"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
-    "source": "https://store.steampowered.com/app/594650/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/hunt-showdown.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -46,5 +38,6 @@
       "metacritic": 81,
       "fetchedAt": "2026-09-18"
     }
-  }
+  },
+  "artworkStatus": "needs_review"
 }

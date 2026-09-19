@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1nGuH55WN7QiRDbTg2Ovec9f1Vm_0OQm6ASE0iwpzI1U/edit",
     "title": "QuadStick public configuration catalog — GTA IV"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-    "source": "https://store.steampowered.com/app/12210/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/gta-iv.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -48,5 +40,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+    "source": "https://store.steampowered.com/app/12210/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "65a3cdc8aba61faa0761ae809150c7aacac50423a1207a6ff7b76569b712a2a4",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/gta-iv.svg"
   }
 }

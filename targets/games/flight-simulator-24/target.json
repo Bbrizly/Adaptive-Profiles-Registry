@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1nnljEgobdSer46u8tl_sirSDFZJ6MxOfi7BzoLHf8OI/edit",
     "title": "QuadStick public configuration catalog — Flight Simulator 24"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
-    "source": "https://store.steampowered.com/app/2537590/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/flight-simulator-24.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -47,5 +39,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
+    "source": "https://store.steampowered.com/app/2537590/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "756b8e2b151a687b0ca155571ac8976f7c630aba77a7a7a7356f67bf528b023b",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/flight-simulator-24.svg"
   }
 }

@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1wElQ_s-7YjNTYch0Zgr2UqcCHp1VtXc7TwDZbvKw7eo/edit",
     "title": "QuadStick public configuration catalog — Tomb Raider 3 - Shadow of the Tomb Raider"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg",
-    "source": "https://store.steampowered.com/app/750920/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -49,5 +41,19 @@
       "metacritic": 77,
       "fetchedAt": "2026-09-18"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg?t=1765239925",
+    "source": "https://store.steampowered.com/app/750920/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "f6a0435708fc3084a84e8a48d5978506af5fbf16848cc43ec1f3595ab39fb57d",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg"
   }
 }

@@ -44,6 +44,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/836828b783fc1208664d6c3f9fe88e9abf060813/header.jpg?t=1783699904",
     "source": "https://store.steampowered.com/app/4384550/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "517be712050c0d2cf92caa175b1ff31ccd4a037127c632dd6f1d0fe55f97457a",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/call-of-duty-black-ops-6.svg"

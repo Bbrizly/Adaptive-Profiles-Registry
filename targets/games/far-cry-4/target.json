@@ -62,6 +62,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767",
     "source": "https://store.steampowered.com/app/298110/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "c6e01ea31e169a5d178d332a101b8d29b92f30273ef6db83b65c0f23d3021579",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/far-cry-4.svg"

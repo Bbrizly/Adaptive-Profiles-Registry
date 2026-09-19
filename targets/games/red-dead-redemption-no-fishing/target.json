@@ -15,11 +15,5 @@
     "url": "https://docs.google.com/spreadsheets/d/1fIqst8Ir7Vbq5ydwsD_G1w29xz7qDsPQkNVaSqmbxL4/edit",
     "title": "QuadStick public configuration catalog — Red Dead Redemption - No fishing"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/red-dead-redemption-no-fishing.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-no-fishing.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "needs_review"
 }

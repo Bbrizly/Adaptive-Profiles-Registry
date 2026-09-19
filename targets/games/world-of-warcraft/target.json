@@ -15,11 +15,5 @@
     "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
     "title": "QuadStick public configuration catalog — World of Warcraft"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/world-of-warcraft.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/world-of-warcraft.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "needs_review"
 }

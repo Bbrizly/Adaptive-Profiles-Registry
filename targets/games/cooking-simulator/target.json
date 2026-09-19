@@ -60,6 +60,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/8e52427e8dfcfcd7f407fe1a82b19b2f46cd7ff7/header.jpg?t=1780667817",
     "source": "https://store.steampowered.com/app/641320/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "a625774be6cf01478fccd340f460bd2a62ddf95c3c85b36234ed12bf84269f43",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/cooking-simulator.svg"

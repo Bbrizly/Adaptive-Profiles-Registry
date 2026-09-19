@@ -46,6 +46,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1789721681",
     "source": "https://store.steampowered.com/app/850190/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "2d0923824476b0c22fe98f17698455243fa4d236711f8ff25f1661efeb33af5b",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/goat-simulator-3.svg"

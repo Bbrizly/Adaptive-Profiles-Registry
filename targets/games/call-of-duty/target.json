@@ -54,6 +54,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1789661058",
     "source": "https://store.steampowered.com/app/1938090/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "cb3003ac6674e3a5383b12795deeeacc785ae3040991e6c4d7cbf7e8eb4a814d",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/call-of-duty.svg"

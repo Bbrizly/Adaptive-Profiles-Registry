@@ -60,6 +60,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
     "source": "https://store.steampowered.com/app/2668510/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "97a73571e540df7092dbf7bfc9f945e461291f14cc230b6d9010ec922ecb5067",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/red-dead-redemption.svg"

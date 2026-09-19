@@ -51,8 +51,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg?t=1754500878",
     "source": "https://store.steampowered.com/app/2395210/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "253b44c9996f652c23bc66cfb79ab4d1574558ba33d62a7b99905a29f2c7c454",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/tony-hawk.svg"

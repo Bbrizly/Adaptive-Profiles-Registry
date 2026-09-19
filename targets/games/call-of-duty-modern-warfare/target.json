@@ -54,6 +54,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798",
     "source": "https://store.steampowered.com/app/2000950/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "36ec345a41145bd19a1b43ca85f42c6c4b08c1b1b4441f9ee7f82cbbf530d6ab",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/call-of-duty-modern-warfare.svg"

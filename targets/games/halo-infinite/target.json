@@ -46,6 +46,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
     "source": "https://store.steampowered.com/app/1240440/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "2d6facea204bf4058960cc61c15c175e0183d1eb9b267b229e05fb6c61c1f63b",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/halo-infinite.svg"

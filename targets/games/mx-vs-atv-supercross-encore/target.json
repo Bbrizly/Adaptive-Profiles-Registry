@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1KAlwXwUDLDZBJdDMx06HrVbtfATt-6dGPZ2JuFIPSyo/edit",
     "title": "QuadStick public configuration catalog — MX vs ATV Supercross Encore"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719",
-    "source": "https://store.steampowered.com/app/282050/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/mx-vs-atv-supercross-encore.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -49,5 +41,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719",
+    "source": "https://store.steampowered.com/app/282050/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "1d0e27804696821f6972b6bc2d3ee9e05ec41fe28f55d6fc629ebc8cbae183ef",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/mx-vs-atv-supercross-encore.svg"
   }
 }

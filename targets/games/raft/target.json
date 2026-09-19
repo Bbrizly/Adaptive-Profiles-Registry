@@ -56,6 +56,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
     "source": "https://store.steampowered.com/app/648800/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "dd7c2f015f27c22dd9f9e2e5e1a5895162e4f0d349ea35f5c7ac6eb3d9c09768",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/raft.svg"

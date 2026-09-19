@@ -42,8 +42,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/6fda8341b3559754cf71ca839e69460c3e54479e/header.jpg?t=1775125249",
     "source": "https://store.steampowered.com/app/1548850/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "e8e10f8babcae744b77a493607cc257fc2dbba6c7946ce455ad0ed425e8382ad",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/six-days-in-fallujah.svg"

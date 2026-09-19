@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1koueOeAvLoSw_P6SQnL50G46Vc-KXjdiePo3G_FedDw/edit",
     "title": "QuadStick public configuration catalog — Divinity Original Sin II"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123",
-    "source": "https://store.steampowered.com/app/435150/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/divinity-original-sin-ii.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -50,5 +42,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123",
+    "source": "https://store.steampowered.com/app/435150/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "f8d6473f73d690aea00e73e5d3b3df6bcf336d5ab41b379081530ae9ea355b62",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/divinity-original-sin-ii.svg"
   }
 }

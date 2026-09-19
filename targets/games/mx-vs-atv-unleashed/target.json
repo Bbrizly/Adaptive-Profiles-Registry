@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1Uc2IR9Em5cAySG8K1quFcYKzZek9MsgnqzGlcGOL0WQ/edit",
     "title": "QuadStick public configuration catalog — MX vs ATV Unleashed"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012",
-    "source": "https://store.steampowered.com/app/359220/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/mx-vs-atv-unleashed.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -48,5 +40,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012",
+    "source": "https://store.steampowered.com/app/359220/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "a88c6b698b79d9c30ffcdbc83e735446d1281e3e93c03560d2d606ce21484869",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/mx-vs-atv-unleashed.svg"
   }
 }

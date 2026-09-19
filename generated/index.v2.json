@@ -18,14 +18,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1NfU7uvp3EZFWCTizgdQDEM7cFl4xe7Wu5VnpToJ8B8E/edit",
         "title": "QuadStick public configuration catalog — 007 First Light"
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/9f0d16a4d9a826d62cddf7f5ea25d10b4b2f45b9/header_alt_assets_3.jpg?t=1789479538",
-        "source": "https://store.steampowered.com/app/3768760/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/007-first-light.svg"
-      },
       "metadata": {
         "steam": {
           "provider": "steam",
@@ -50,7 +42,8 @@
           "metacritic": 84,
           "fetchedAt": "2026-09-18"
         }
-      }
+      },
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -69,13 +62,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1H-BEo678Amwp9JwEH9Ek3mhR26fdvGoS81ulqWGmftc/edit",
         "title": "QuadStick public configuration catalog — A Plague Tale 1+2"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/a-plague-tale-1-2.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/a-plague-tale-1-2.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "unavailable"
     },
     {
       "schemaVersion": 2,
@@ -135,6 +122,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433",
         "source": "https://store.steampowered.com/app/1222700/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "55f3532f606d2c81b95ac2152bc5164b39496b0a9a821b82a40b8436d5f29b2b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/a-way-out.svg"
@@ -157,13 +150,7 @@
         "url": "https://docs.google.com/spreadsheets/d/10u6sdeXQrGstrgyEd9F0vVVlNhZbO7Mpa6eV3Csw04w/edit",
         "title": "QuadStick public configuration catalog — Alan Wake II"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/alan-wake-ii.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/alan-wake-ii.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -231,6 +218,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1789582450",
         "source": "https://store.steampowered.com/app/1172470/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "076313b77e3eaa0f4ff415a3fbcf939d3bb47bce8469d63cda4c7284da183985",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/apex-legends.svg"
@@ -252,14 +245,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit",
         "title": "QuadStick public configuration catalog — ARC Raiders"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
-        "source": "https://store.steampowered.com/app/1808500/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/arc-raiders.svg"
       },
       "metadata": {
         "steam": {
@@ -284,7 +269,8 @@
           "metacritic": null,
           "fetchedAt": "2026-09-18"
         }
-      }
+      },
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -352,6 +338,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973",
         "source": "https://store.steampowered.com/app/311560/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2ca44256033674cc2cd225b2c268083a8bb9559bcf9113d5deb256ec23c6b6bd",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/assassin-s-creed.svg"
@@ -374,13 +366,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1ssATHDzzXmztD72iqOSQV4QZ4k_TXx3DdOhQaaiP4bw/edit",
         "title": "QuadStick public configuration catalog — Assassin's Creed IV - Black Flag Resynced"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/assassin-s-creed-iv-black-flag-resynced.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "unavailable"
     },
     {
       "schemaVersion": 2,
@@ -444,6 +430,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1786632648",
         "source": "https://store.steampowered.com/app/289650/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "5979f04fd8f01c17295c537a616173b674b211224cbd6eee441a942e8b30331b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/assassin-s-creed-unity.svg"
@@ -466,13 +458,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1c9vz84_v9iX2Wk3Dagz6Ek7SZSpUiz5f8Xfbq2gD7y8/edit",
         "title": "QuadStick public configuration catalog — Avatar - Frontiers of Pandora"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/avatar-frontiers-of-pandora.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/avatar-frontiers-of-pandora.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "unavailable"
     },
     {
       "schemaVersion": 2,
@@ -523,6 +509,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
         "source": "https://store.steampowered.com/app/1086940/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "70f099749ece31e4ff2d017cbfafc47fd8cbe52e23eb26daec8dde4549576ccb",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/baldur-s-gate-3.svg"
@@ -544,14 +536,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1FR4vZQKxkJmP4Us-DWljjs19xrzc_cQWsCdzTdt61FU/edit",
         "title": "QuadStick public configuration catalog — Batman Arkham City"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057",
-        "source": "https://store.steampowered.com/app/200260/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/batman-arkham-city.svg"
       },
       "metadata": {
         "steam": {
@@ -578,6 +562,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057",
+        "source": "https://store.steampowered.com/app/200260/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f4bc433ccb7a3f65dc9f2f892148a0b58c9709685fa2ef3f9f59b62f65c955bc",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/batman-arkham-city.svg"
       }
     },
     {
@@ -596,14 +594,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Sl8nEFG4hnXOsvw3PB-OFNETfBGUq3S8AUM8oGP009o/edit",
         "title": "QuadStick public configuration catalog — Batman Arkham Knight"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372",
-        "source": "https://store.steampowered.com/app/208650/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/batman-arkham-knight.svg"
       },
       "metadata": {
         "steam": {
@@ -630,6 +620,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372",
+        "source": "https://store.steampowered.com/app/208650/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a36e699b87b6da039cbab04afc6c13fba50770abd7a2ff33aff45e5c3452ac0d",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/batman-arkham-knight.svg"
       }
     },
     {
@@ -695,6 +699,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg?t=1730393449",
         "source": "https://store.steampowered.com/app/671860/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "04ce2173f023ca743cf35586ca1a50c9157ea695f3c2bb2301dc73e9748404cd",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/battlebit-remastered.svg"
@@ -733,13 +743,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/battlefield.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "unavailable"
     },
     {
       "schemaVersion": 2,
@@ -804,6 +808,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359",
         "source": "https://store.steampowered.com/app/1517290/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "4811191051be2541e8fe46b4a74e3eab27a08223d4a83cab6735033160eb7e76",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/battlefield-2042.svg"
@@ -825,14 +835,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1h-0w0iTHO4oXhp5SS2XmfuKLZc2uCEF_DW64qkWPsNM/edit",
         "title": "QuadStick public configuration catalog — Battlefield 6"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1789484400",
-        "source": "https://store.steampowered.com/app/2807960/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/battlefield-6.svg"
       },
       "metadata": {
         "steam": {
@@ -858,6 +860,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1789484400"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1789484400",
+        "source": "https://store.steampowered.com/app/2807960/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "ac852ff10b225f8dd88b44b63b1dc3cb3d56f7975aa3bbe4a522e14fc77be04f",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/battlefield-6.svg"
       }
     },
     {
@@ -921,6 +937,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
         "source": "https://store.steampowered.com/app/1238810/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b7bf924cfcc08f2392d5bc7b262abf2bc0d752c07e44ce67288d8147d799ed82",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/battlefield-v.svg"
@@ -942,14 +964,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1IzWBk_Au7t5DmvdXl1SgmRYHl1rlfQxRobcTsKi-lVM/edit",
         "title": "QuadStick public configuration catalog — BioShock"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622",
-        "source": "https://store.steampowered.com/app/7670/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/bioshock.svg"
       },
       "metadata": {
         "steam": {
@@ -976,6 +990,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622",
+        "source": "https://store.steampowered.com/app/7670/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a3079c76c133d299736647c831b3424430ab3fc69004c8a957185876154111fa",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/bioshock.svg"
       }
     },
     {
@@ -1063,11 +1091,19 @@
         "fetchedAt": "2026-09-18"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/borderlands.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/borderlands.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "wikimedia",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Borderlands_%2812876448223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Borderlands_(12876448223).jpg",
+        "provider": "wikimedia",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 3600,
+        "nativeHeight": 2250,
+        "contentSha256": "1e243b00001dfc5c277fcdd1251ab5c37ccacecfc4754550684e2f482d3b9f9f",
+        "attribution": "greyloch from Washington, DC, area, U.S.A. — CC BY SA",
+        "license": "CC BY SA",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "fallbackPath": "artwork/games/borderlands.svg"
       }
     },
     {
@@ -1126,6 +1162,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1789661058",
         "source": "https://store.steampowered.com/app/1938090/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "cb3003ac6674e3a5383b12795deeeacc785ae3040991e6c4d7cbf7e8eb4a814d",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/call-of-duty.svg"
@@ -1148,14 +1190,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit",
         "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113",
-        "source": "https://store.steampowered.com/app/209650/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/call-of-duty-advanced-warfare.svg"
       },
       "metadata": {
         "steam": {
@@ -1181,6 +1215,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113",
+        "source": "https://store.steampowered.com/app/209650/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2c1c2b1909fad844954c8ec0d53837e67a640ea425efed1042dc0b292bc4cfc0",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-advanced-warfare.svg"
       }
     },
     {
@@ -1229,6 +1277,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/836828b783fc1208664d6c3f9fe88e9abf060813/header.jpg?t=1783699904",
         "source": "https://store.steampowered.com/app/4384550/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "517be712050c0d2cf92caa175b1ff31ccd4a037127c632dd6f1d0fe55f97457a",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/call-of-duty-black-ops-6.svg"
@@ -1280,6 +1334,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1780964053",
         "source": "https://store.steampowered.com/app/1985810/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "1bceac25c115eb0e316b8fe2d3b8ae46d7030538f528d7afd3eecc087afa5465",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/call-of-duty-black-ops-cold-war.svg"
@@ -1301,14 +1361,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1v8m-dcp3lBb9d4fL0jb_53U1Kjy9co1wQU0MW3mRzvc/edit",
         "title": "QuadStick public configuration catalog — Call of Duty: Black Ops III"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
-        "source": "https://store.steampowered.com/app/311210/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/call-of-duty-black-ops-iii.svg"
       },
       "metadata": {
         "steam": {
@@ -1336,6 +1388,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
+        "source": "https://store.steampowered.com/app/311210/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "e529637f2bf1d94ce47e988c3c9c9b7b944253847c5576136f6ea60b86247d2d",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/call-of-duty-black-ops-iii.svg"
       }
     },
     {
@@ -1394,6 +1460,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798",
         "source": "https://store.steampowered.com/app/2000950/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "36ec345a41145bd19a1b43ca85f42c6c4b08c1b1b4441f9ee7f82cbbf530d6ab",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/call-of-duty-modern-warfare.svg"
@@ -1445,6 +1517,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532",
         "source": "https://store.steampowered.com/app/3595230/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2403c191e22b204d511aba3bd72e8b55a3e35a561b2445a0d42bf1417eca4961",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/call-of-duty-modern-warfare-ii.svg"
@@ -1511,6 +1589,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604",
         "source": "https://store.steampowered.com/app/3595270/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "085607e3e3c874954e6b7cb3abe4d844c9158e7b8044b060ff68fbe8549759c0",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/call-of-duty-modern-warfare-iii.svg"
@@ -1560,14 +1644,7 @@
           "fetchedAt": "2026-09-18"
         }
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
-        "source": "https://store.steampowered.com/app/2567870/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/chained-together.svg"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -1616,6 +1693,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1784210925",
         "source": "https://store.steampowered.com/app/1273400/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a5609e3049d937a86c35d32a4da049c4a8be002762ecbff0d299086d86af70e7",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/construction-simulator.svg"
@@ -1679,6 +1762,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969",
         "source": "https://store.steampowered.com/app/870780/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "bd4c3f2d967908343f34b6013810da58a69ff1fabc691157e3d8a1bc8127928b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/control.svg"
@@ -1746,6 +1835,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/8e52427e8dfcfcd7f407fe1a82b19b2f46cd7ff7/header.jpg?t=1780667817",
         "source": "https://store.steampowered.com/app/641320/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a625774be6cf01478fccd340f460bd2a62ddf95c3c85b36234ed12bf84269f43",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/cooking-simulator.svg"
@@ -1767,14 +1862,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
         "title": "QuadStick public configuration catalog — Counter-Strike 2"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
-        "source": "https://store.steampowered.com/app/730/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/counter-strike-2.svg"
       },
       "metadata": {
         "steam": {
@@ -1802,6 +1889,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
+        "source": "https://store.steampowered.com/app/730/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "747527645619ecf6fbbec78aa543ab0c9a5be12f0bd7c17ccf559e1522678ded",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/counter-strike-2.svg"
       }
     },
     {
@@ -1868,6 +1969,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
         "source": "https://store.steampowered.com/app/1091500/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b93e64874b844e41a3269e9be00c9fad8037e8a79d00535a8344542bd02c81e6",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/cyberpunk-2077.svg"
@@ -1930,6 +2037,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576",
         "source": "https://store.steampowered.com/app/1693980/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "879235d904d0733f28e0031ef5f609d8a98acf7d6adc9e50abe5bc5d0240f769",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/dead-space.svg"
@@ -1951,14 +2064,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1cDHb5PUQRLySYwuJM0OFSyCAZQixkV6qcYpWDyxY1Uw/edit",
         "title": "QuadStick public configuration catalog — Deathloop"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg?t=1750785409",
-        "source": "https://store.steampowered.com/app/1252330/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/deathloop.svg"
       },
       "metadata": {
         "steam": {
@@ -1984,6 +2089,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg?t=1750785409"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg?t=1750785409",
+        "source": "https://store.steampowered.com/app/1252330/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2483b3730df22e6137809dfa36429743a84199cc5813e58cee5f032203f6b2f8",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/deathloop.svg"
       }
     },
     {
@@ -2032,6 +2151,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272",
         "source": "https://store.steampowered.com/app/2321470/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "5d4c48ac6e5e19c325be4df45b6d16733e558477ac1d467ec78adb40e6e0582e",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/deep-rock-galactic-survivor.svg"
@@ -2053,14 +2178,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KoYF9fnW9oe8Dmdg_xFGKT1yTzlniSvhgaCShyQF0Lk/edit",
         "title": "QuadStick public configuration catalog — DeepRock"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445",
-        "source": "https://store.steampowered.com/app/548430/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/deeprock.svg"
       },
       "metadata": {
         "steam": {
@@ -2086,6 +2203,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445",
+        "source": "https://store.steampowered.com/app/548430/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "9827c5c71bb8413d8f816fc0409c233d74309616fbae179116f801ec622b0376",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/deeprock.svg"
       }
     },
     {
@@ -2151,6 +2282,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1770910832",
         "source": "https://store.steampowered.com/app/1880610/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "1695b4813f5c88969de4c7be04630285c4c4180a7a3c47aaa6fb256245658a18",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/deliver-at-all-costs.svg"
@@ -2203,6 +2340,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1787841983",
         "source": "https://store.steampowered.com/app/2524850/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "8228b60c03f34de7a7a20e2bd61b2800cc9bacb0b7bd61eb3f7d50cce83d36a4",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/denshattack.svg"
@@ -2266,6 +2409,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
         "source": "https://store.steampowered.com/app/1085660/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "9d1c5da71dc1c6adfedca29a01d17afa33b7842e051d7106bca66e65015e913a",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/destiny.svg"
@@ -2300,13 +2449,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/devil-may-cry.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/devil-may-cry.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -2324,14 +2467,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1koueOeAvLoSw_P6SQnL50G46Vc-KXjdiePo3G_FedDw/edit",
         "title": "QuadStick public configuration catalog — Divinity Original Sin II"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123",
-        "source": "https://store.steampowered.com/app/435150/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/divinity-original-sin-ii.svg"
       },
       "metadata": {
         "steam": {
@@ -2360,6 +2495,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg?t=1765811123",
+        "source": "https://store.steampowered.com/app/435150/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f8d6473f73d690aea00e73e5d3b3df6bcf336d5ab41b379081530ae9ea355b62",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/divinity-original-sin-ii.svg"
       }
     },
     {
@@ -2419,6 +2568,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
         "source": "https://store.steampowered.com/app/379720/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "111921bc88b8d40bb8867d987f6a24144a41f32c495e908c93ced5443a85e355",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/doom.svg"
@@ -2440,14 +2595,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fJY9kqrby3eMNfSWXghyM-_WlN8HxuJhDidV7fPRsQA/edit",
         "title": "QuadStick public configuration catalog — Dragon Quest XI"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986",
-        "source": "https://store.steampowered.com/app/1295510/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/dragon-quest-xi.svg"
       },
       "metadata": {
         "steam": {
@@ -2474,6 +2621,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986",
+        "source": "https://store.steampowered.com/app/1295510/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "40677583c4d63d9fc4d58f5f0ddd0e899e0edf815a96b1b058c4194f3328d299",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/dragon-quest-xi.svg"
       }
     },
     {
@@ -2546,6 +2707,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg?t=1759842966",
         "source": "https://store.steampowered.com/app/359320/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2b08e7e1326da7ba85e6b57ff5ac9de2b5648bc87df424590a92dc8a0644e9d9",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/elite-dangerous.svg"
@@ -2617,6 +2784,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102",
         "source": "https://store.steampowered.com/app/1203620/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b0e91dab8c3015532bf2d74589f6176e02bd37fdbf195e3811b0f94e6c3adc58",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/enshrouded.svg"
@@ -2671,6 +2844,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1785394779",
         "source": "https://store.steampowered.com/app/227300/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b1af927983fbb23542f0fcb2ef09b4bd9be3bc0d1e9531c56ae83064d1182f77",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/euro-truck-simulator-2.svg"
@@ -2739,6 +2918,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057",
         "source": "https://store.steampowered.com/app/220240/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "402bee28397b036cc32537568bb0508e32861e73bc55a5f48cb405706e5506b4",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/far-cry-3.svg"
@@ -2808,6 +2993,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767",
         "source": "https://store.steampowered.com/app/298110/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "c6e01ea31e169a5d178d332a101b8d29b92f30273ef6db83b65c0f23d3021579",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/far-cry-4.svg"
@@ -2876,6 +3067,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg?t=1785365694",
         "source": "https://store.steampowered.com/app/552520/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f14fb7d6050a406a6eb499cd58e0338e8d1130102f4af91dd984771bea2c646a",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/far-cry-5.svg"
@@ -2944,6 +3141,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg?t=1785280646",
         "source": "https://store.steampowered.com/app/2369390/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "459c8105022b61c68ab88a1c645776c0a99d753a43e82c56dd9855aa356a0abf",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/far-cry-6.svg"
@@ -3011,6 +3214,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
         "source": "https://store.steampowered.com/app/447020/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "c2fc506b55d90ae95582fdc56b25fcb987a57f39fa1887945f489ec1245c1d09",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/farming-simulator-17.svg"
@@ -3032,14 +3241,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
         "title": "QuadStick public configuration catalog — Fishing Planet"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
-        "source": "https://store.steampowered.com/app/380600/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/fishing-planet.svg"
       },
       "metadata": {
         "steam": {
@@ -3069,7 +3270,8 @@
           "metacritic": null,
           "fetchedAt": "2026-09-18"
         }
-      }
+      },
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3087,14 +3289,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nnljEgobdSer46u8tl_sirSDFZJ6MxOfi7BzoLHf8OI/edit",
         "title": "QuadStick public configuration catalog — Flight Simulator 24"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
-        "source": "https://store.steampowered.com/app/2537590/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/flight-simulator-24.svg"
       },
       "metadata": {
         "steam": {
@@ -3120,6 +3314,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
+        "source": "https://store.steampowered.com/app/2537590/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "756b8e2b151a687b0ca155571ac8976f7c630aba77a7a7a7356f67bf528b023b",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/flight-simulator-24.svg"
       }
     },
     {
@@ -3214,13 +3422,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/fortnite.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fortnite.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3238,14 +3440,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1-fXz7Uazyok9o5EGzDGS8W__zpGZgwJ5qCJEtm1xTRc/edit",
         "title": "QuadStick public configuration catalog — Forza Horizon 4"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342",
-        "source": "https://store.steampowered.com/app/1293830/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/forza-horizon-4.svg"
       },
       "metadata": {
         "steam": {
@@ -3271,6 +3465,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342",
+        "source": "https://store.steampowered.com/app/1293830/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "89d1ec62f50e5244474ec67508f4712a9b5b5b23525068d3cff924d20df21039",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/forza-horizon-4.svg"
       }
     },
     {
@@ -3290,13 +3498,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1gNTQ9jN5cG_ONfApZf0Au4WreNVpJ_BjaYMC7Llwp14/edit",
         "title": "QuadStick public configuration catalog — Forza Motorsport 5"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/forza-motorsport-5.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/forza-motorsport-5.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3361,6 +3563,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854250/header.jpg?t=1692728515",
         "source": "https://store.steampowered.com/app/854250/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "6797c7cfdbb6e951a3700d901e6eabb0a346c03547df63b8f39bfededa3c4d65",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/fpv-freerider.svg"
@@ -3383,13 +3591,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1REebj5PEBOYgY72BAWqxbluikm04CCL-s_htF0AH9-0/edit",
         "title": "QuadStick public configuration catalog — FSX/P3D"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/fsx-p3d.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fsx-p3d.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3407,14 +3609,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1DYEpmgqINMeUBvxCpKxay6Wdr7RK_mENIej7zhs7LLE/edit",
         "title": "QuadStick public configuration catalog — Ghost Recon Wildlands"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1789566646",
-        "source": "https://store.steampowered.com/app/460930/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/ghost-recon-wildlands.svg"
       },
       "metadata": {
         "steam": {
@@ -3441,6 +3635,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1789566646"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1789566646",
+        "source": "https://store.steampowered.com/app/460930/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "eb0ee4cf63a1cc2862b0ed8750059f1a34822965b9ecafa1306b855fb1b4c39b",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/ghost-recon-wildlands.svg"
       }
     },
     {
@@ -3499,6 +3707,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449280/header.jpg?t=1607351334",
         "source": "https://store.steampowered.com/app/1449280/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "53ab2371ccb2fac26c999ce3b26a4ea4738279593d6a24d50e68081f15fbcbca",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/ghostbusters.svg"
@@ -3560,6 +3774,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg?t=1786099137",
         "source": "https://store.steampowered.com/app/1139900/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "47a93f8cd3f36d2b0e1a9cdd65329cff40642280365405dba0e58944909cfda3",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/ghostrunner.svg"
@@ -3594,13 +3814,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/ghosts.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/ghosts.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3650,6 +3864,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1789721681",
         "source": "https://store.steampowered.com/app/850190/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2d0923824476b0c22fe98f17698455243fa4d236711f8ff25f1661efeb33af5b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/goat-simulator-3.svg"
@@ -3686,13 +3906,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/gran-turismo-sport.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gran-turismo-sport.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3723,13 +3937,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/grand-theft-auto.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/grand-theft-auto.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3747,14 +3955,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1EhNKF-FZqwb01XEF6_elpDEJASjb-QB3QQ-jgZ0nbJ4/edit",
         "title": "QuadStick public configuration catalog — Grand Theft Auto 5"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-        "source": "https://store.steampowered.com/app/3240220/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/grand-theft-auto-5.svg"
       },
       "metadata": {
         "steam": {
@@ -3782,6 +3982,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+        "source": "https://store.steampowered.com/app/3240220/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "5cf8f5568871796d18c15937ed3824497b94130b577cb354a524fd240dd394b7",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/grand-theft-auto-5.svg"
       }
     },
     {
@@ -3801,14 +4015,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1TRP_eylzZEzMQTKoY26hHLYQrrGJ_wjJGDLu6h6ZtmY/edit",
         "title": "QuadStick public configuration catalog — Grand Theft Auto V"
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-        "source": "https://store.steampowered.com/app/3240220/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/grand-theft-auto-v.svg"
-      },
       "metadata": {
         "steam": {
           "provider": "steam",
@@ -3835,7 +4041,8 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
         }
-      }
+      },
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3853,14 +4060,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nGuH55WN7QiRDbTg2Ovec9f1Vm_0OQm6ASE0iwpzI1U/edit",
         "title": "QuadStick public configuration catalog — GTA IV"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-        "source": "https://store.steampowered.com/app/12210/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/gta-iv.svg"
       },
       "metadata": {
         "steam": {
@@ -3887,6 +4086,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+        "source": "https://store.steampowered.com/app/12210/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "65a3cdc8aba61faa0761ae809150c7aacac50423a1207a6ff7b76569b712a2a4",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/gta-iv.svg"
       }
     },
     {
@@ -3905,14 +4118,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1aEzDToS8IrLfdTpFECgtcpSmdG0szkd2djNlVnmiGls/edit",
         "title": "QuadStick public configuration catalog — GTA V"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-        "source": "https://store.steampowered.com/app/3240220/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/gta-v.svg"
       },
       "metadata": {
         "steam": {
@@ -3940,7 +4145,8 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782"
         }
-      }
+      },
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3959,13 +4165,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1W0Drr2pAvjEfoIyyF83bRYJvbMVoY19ZQXLt0nT2MKc/edit",
         "title": "QuadStick public configuration catalog — GTA V FiveM 2"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/gta-v-fivem-2.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-fivem-2.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -3984,13 +4184,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1o9FChx_Mz2Vjc-GQM9EWOT6U5K89ocWJFnKECPKPPiY/edit",
         "title": "QuadStick public configuration catalog — GTA V Redone (FiveM optimized)"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/gta-v-redone-fivem-optimized.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/gta-v-redone-fivem-optimized.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4040,6 +4234,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
         "source": "https://store.steampowered.com/app/70/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "aa215e1ef35bf702ec7cb48087136486ae26f121baebd6b421be6b8851de2394",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/half-life.svg"
@@ -4093,6 +4293,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
         "source": "https://store.steampowered.com/app/1240440/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2d6facea204bf4058960cc61c15c175e0183d1eb9b267b229e05fb6c61c1f63b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/halo-infinite.svg"
@@ -4114,14 +4320,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1TJ2tPevqx6VV8rDVJ9Bj8kfo7iEyTwuez1gHBn1TUuc/edit",
         "title": "QuadStick public configuration catalog — Helldivers II"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784",
-        "source": "https://store.steampowered.com/app/553850/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/helldivers-ii.svg"
       },
       "metadata": {
         "steam": {
@@ -4147,6 +4345,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784",
+        "source": "https://store.steampowered.com/app/553850/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "101eb36e36b5c2cc09c41e13c881c729869b94e3eb4da1e2c6d5ea00c2ad43d0",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/helldivers-ii.svg"
       }
     },
     {
@@ -4208,6 +4420,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1784209886",
         "source": "https://store.steampowered.com/app/1583230/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "adbacc7128bc578b6b8dba460321d2d0cdf8ec707809ed00d470cca18c37fa9f",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/high-on-life.svg"
@@ -4261,6 +4479,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1788224492",
         "source": "https://store.steampowered.com/app/990080/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "8a7d79fb4a21649963817a4dce9c4c04ef64eb7b7e0c7917e1976804fcb378d8",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/hogwarts-legacy.svg"
@@ -4282,14 +4506,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1hhc_QZ17rB2V01hXQ6jBQ81bFuvmoF958-wE2wjHHyM/edit",
         "title": "QuadStick public configuration catalog — Horizon Zero Dawn"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
-        "source": "https://store.steampowered.com/app/1151640/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/horizon-zero-dawn.svg"
       },
       "metadata": {
         "steam": {
@@ -4317,6 +4533,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
+        "source": "https://store.steampowered.com/app/1151640/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "95971139817f59677278b82584523cf15d0ce57e1d3382e8753dd889e2d31334",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/horizon-zero-dawn.svg"
       }
     },
     {
@@ -4335,14 +4565,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1bWHewoqFhR5UbttJAw4rFexc_Ah4zAymVnJZM3hBIM0/edit",
         "title": "QuadStick public configuration catalog — Hunt: Showdown"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
-        "source": "https://store.steampowered.com/app/594650/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/hunt-showdown.svg"
       },
       "metadata": {
         "steam": {
@@ -4367,7 +4589,8 @@
           "metacritic": 81,
           "fetchedAt": "2026-09-18"
         }
-      }
+      },
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4406,13 +4629,7 @@
         ],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/hytale.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/hytale.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4476,6 +4693,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
         "source": "https://store.steampowered.com/app/2677660/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "1e5308a76bf9f778bbc6232559da88e9de43fb2ef4f5f408acdf1bbff67a8ff3",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/indiana-jones-and-the-great-circle.svg"
@@ -4528,6 +4751,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
         "source": "https://store.steampowered.com/app/1426210/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "67d0018628094dcbb3525a0c7c5a72629aa5952564d99ebf90a7f829bed5fa51",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/it-takes-two.svg"
@@ -4590,6 +4819,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg?t=1729099361",
         "source": "https://store.steampowered.com/app/638230/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "33aa6281f6edf26a4b5bcd89f680bb7fb96b198aa29cfe17ca5210523b5b7d27",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/journey.svg"
@@ -4657,6 +4892,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1782912561",
         "source": "https://store.steampowered.com/app/8190/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b1b3f53a54a98355d462606695c4c26bc031593184fd9e507348b81bc8aa9179",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/just-cause-2.svg"
@@ -4710,6 +4951,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
         "source": "https://store.steampowered.com/app/1771300/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "dde4c2135930817a3fb26508a1a03ac65a06d3c6a92fa1b97510adf2f86dea19",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/kingdom-come-deliverance-ii.svg"
@@ -4732,13 +4979,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1b68GWVhGb-FjisWD0AVK9o-8m5Ne6Yfil80_SgGmWu0/edit",
         "title": "QuadStick public configuration catalog — League of Legends"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/league-of-legends.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/league-of-legends.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4757,13 +4998,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1cxHQSWFEsKnOqvL0ZKc8OUKGKR9TOsiWnMAbP8iGuV4/edit",
         "title": "QuadStick public configuration catalog — LEGO Fortnite"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/lego-fortnite.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/lego-fortnite.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4814,6 +5049,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
         "source": "https://store.steampowered.com/app/1966720/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f96e4126ced620e55fa732b3055b3ab104601b9f58dd0f7e7760193305748673",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/lethal-company.svg"
@@ -4848,13 +5089,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/little-big-planet.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/little-big-planet.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4885,13 +5120,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/madden.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4910,13 +5139,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1FTnXJB8mv70-Vl-qmilzwxpANm9c0yVmtyb8rOEdH_g/edit",
         "title": "QuadStick public configuration catalog — Madden 18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/madden-18.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/madden-18.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -4934,14 +5157,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
         "title": "QuadStick public configuration catalog — Marvel's Guardians of the Galaxy"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
-        "source": "https://store.steampowered.com/app/1088850/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/marvel-s-guardians-of-the-galaxy.svg"
       },
       "metadata": {
         "steam": {
@@ -4968,6 +5183,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
+        "source": "https://store.steampowered.com/app/1088850/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f344349f843285f169574e295b72889ff1eb6304b84a388b000002df2cf1cd7e",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/marvel-s-guardians-of-the-galaxy.svg"
       }
     },
     {
@@ -5033,6 +5262,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg?t=1718391374",
         "source": "https://store.steampowered.com/app/204100/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "e27420290e96068b649c71c2e277a9654ccd84f8f2f12dfde80ec0c9a2ab62bf",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/max-payne-3.svg"
@@ -5054,14 +5289,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1nMMkPHaEJ92uMN8kKmKy3-SFIg8KOCBbRFbCIurLYQE/edit",
         "title": "QuadStick public configuration catalog — Metal Gear Snake Eater"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg?t=1737564722",
-        "source": "https://store.steampowered.com/app/2131650/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/metal-gear-snake-eater.svg"
       },
       "metadata": {
         "steam": {
@@ -5087,6 +5314,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg?t=1737564722"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg?t=1737564722",
+        "source": "https://store.steampowered.com/app/2131650/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "c446d2104ef0b1e666131e76b198b3e402a0d1ae2bb301dcd18022c6786e91c1",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/metal-gear-snake-eater.svg"
       }
     },
     {
@@ -5105,14 +5346,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1EaItmqYCPUmKiZo9qTN5JDBc5yq9u1YnGy3yCbW7NJA/edit",
         "title": "QuadStick public configuration catalog — Microsoft Flight Simulator"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433",
-        "source": "https://store.steampowered.com/app/1250410/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/microsoft-flight-simulator.svg"
       },
       "metadata": {
         "steam": {
@@ -5138,6 +5371,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433",
+        "source": "https://store.steampowered.com/app/1250410/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "11d2e8ab84207c234d471233a7b598f85bedba15ea2663eee24d7e73b92935a4",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/microsoft-flight-simulator.svg"
       }
     },
     {
@@ -5359,13 +5606,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/minecraft.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/minecraft.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -5384,13 +5625,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1LOEaUmdGfa-eQUuc7vLhCQkXRDZFXIo0JcKPCm4MEYY/edit",
         "title": "QuadStick public configuration catalog — MLB 13: The Show"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/mlb-13-the-show.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/mlb-13-the-show.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -5408,14 +5643,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KAlwXwUDLDZBJdDMx06HrVbtfATt-6dGPZ2JuFIPSyo/edit",
         "title": "QuadStick public configuration catalog — MX vs ATV Supercross Encore"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719",
-        "source": "https://store.steampowered.com/app/282050/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/mx-vs-atv-supercross-encore.svg"
       },
       "metadata": {
         "steam": {
@@ -5443,6 +5670,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282050/header.jpg?t=1562057719",
+        "source": "https://store.steampowered.com/app/282050/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "1d0e27804696821f6972b6bc2d3ee9e05ec41fe28f55d6fc629ebc8cbae183ef",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/mx-vs-atv-supercross-encore.svg"
       }
     },
     {
@@ -5461,14 +5702,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1Uc2IR9Em5cAySG8K1quFcYKzZek9MsgnqzGlcGOL0WQ/edit",
         "title": "QuadStick public configuration catalog — MX vs ATV Unleashed"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012",
-        "source": "https://store.steampowered.com/app/359220/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/mx-vs-atv-unleashed.svg"
       },
       "metadata": {
         "steam": {
@@ -5495,6 +5728,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359220/header.jpg?t=1727858012",
+        "source": "https://store.steampowered.com/app/359220/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a88c6b698b79d9c30ffcdbc83e735446d1281e3e93c03560d2d606ce21484869",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/mx-vs-atv-unleashed.svg"
       }
     },
     {
@@ -5526,13 +5773,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/nba-2k.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -5551,13 +5792,7 @@
         "url": "https://docs.google.com/spreadsheets/d/18JLSBlnmrpy0Z-o2ADCDmIwjXNhz-flX9-wq3tdVjFc/edit",
         "title": "QuadStick public configuration catalog — NBA 2K15"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/nba-2k15.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/nba-2k15.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -5575,14 +5810,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1tzBf62nX51i4lfui-Yk-Ep7qUjh3gcx8KLUPjwRt5WI/edit",
         "title": "QuadStick public configuration catalog — Need for Speed Heat"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
-        "source": "https://store.steampowered.com/app/1222680/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/need-for-speed-heat.svg"
       },
       "metadata": {
         "steam": {
@@ -5611,6 +5838,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
+        "source": "https://store.steampowered.com/app/1222680/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f61e3b999ae9c9fb0faaa492bb30434df0537f7e1c0d5f9f93440220be97fac1",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/need-for-speed-heat.svg"
       }
     },
     {
@@ -5630,13 +5871,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
         "title": "QuadStick public configuration catalog — Need for Speed: Carbon"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/need-for-speed-carbon.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-carbon.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -5655,14 +5890,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1fyEffI1NS0xQKTO1cibLJ5F9JqAO9o_-1u8ePhRnsd8/edit",
         "title": "QuadStick public configuration catalog — Ori and the Blind Forest"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
-        "source": "https://store.steampowered.com/app/387290/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/ori-and-the-blind-forest.svg"
       },
       "metadata": {
         "steam": {
@@ -5688,6 +5915,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
+        "source": "https://store.steampowered.com/app/387290/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a2e922d8acbd2736af29680e7b00d115d5c92bd7a028f82a3ed0f798ef889f72",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/ori-and-the-blind-forest.svg"
       }
     },
     {
@@ -5706,14 +5947,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1CgvoZXE67qvRp6gXd4Pnw8sOIVajQDo4CBi4nGvS-7M/edit",
         "title": "QuadStick public configuration catalog — Path of Exile 2"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
-        "source": "https://store.steampowered.com/app/2694490/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/path-of-exile-2.svg"
       },
       "metadata": {
         "steam": {
@@ -5743,6 +5976,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
+        "source": "https://store.steampowered.com/app/2694490/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "62bbdd76a78b03fdfff9cd6846dd20d63f4b20b95f30ba78fbd428b0637d7bb7",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/path-of-exile-2.svg"
       }
     },
     {
@@ -5808,6 +6055,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107",
         "source": "https://store.steampowered.com/app/218620/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b38f785b20e72cc88db7ac22a970ece237d7c12d338117308ed76a3ca1d1d7c7",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/payday-2.svg"
@@ -5876,6 +6129,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/161aa248d7bee649f3a37fbc54189952b281b7a2/header.jpg?t=1787667081",
         "source": "https://store.steampowered.com/app/1272080/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "9a599b7a95fe29939f1b10c9bae67967eba72a383b8d652bdb0df80bf242b655",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/payday-3.svg"
@@ -5944,6 +6203,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/86a0f9e8396733762ba9aff37169498e603c38b5/header.jpg?t=1765498236",
         "source": "https://store.steampowered.com/app/218230/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "9592403b64206e01d7cfb8aff8fcd80598eb6a8a3df9eae889434db55fa259bf",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/planetside-2.svg"
@@ -6010,6 +6275,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/91aefad15cb27e4c8f03e519a5b3d3a9daa4d31d/header.jpg?t=1789143123",
         "source": "https://store.steampowered.com/app/997010/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "9983f4728f62e466aa6d8e458163e4536580792a5a67ccfdd68ed006035333af",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/police-simulator-patrol-officers.svg"
@@ -6063,6 +6334,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
         "source": "https://store.steampowered.com/app/620/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "41d535fcc9663ba118cd808a9637547c3458869a52f0b541a211b60113c86faa",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/portal-2.svg"
@@ -6085,13 +6362,7 @@
         "url": "https://docs.google.com/spreadsheets/d/16iyqEcHa-2ocCqdTnrzyC6zp64WT3wcF_PeH0IBK8AY/edit",
         "title": "QuadStick public configuration catalog — Portal2 for"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/portal2-for.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/portal2-for.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -6109,14 +6380,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1zyAcJIwOFUmcwP4bPy4TtF6TR1ydH08JJvtJbijvTuo/edit",
         "title": "QuadStick public configuration catalog — Project CARS"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg?t=1667844333",
-        "source": "https://store.steampowered.com/app/234630/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/project-cars.svg"
       },
       "metadata": {
         "steam": {
@@ -6144,6 +6407,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg?t=1667844333"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234630/header.jpg?t=1667844333",
+        "source": "https://store.steampowered.com/app/234630/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "ed901f599dfd2ad4918fee3b214bbaf0baee702bda2c5e2dee339c35abcc0bf5",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/project-cars.svg"
       }
     },
     {
@@ -6162,14 +6439,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1KgW6_1QT6Th3OSxZrC7olMb9KsfTQ-GGUvvXFG6--Ro/edit",
         "title": "QuadStick public configuration catalog — PUBG"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086",
-        "source": "https://store.steampowered.com/app/578080/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/pubg.svg"
       },
       "metadata": {
         "steam": {
@@ -6198,6 +6467,20 @@
           "fetchedAt": "2026-09-18",
           "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086",
+        "source": "https://store.steampowered.com/app/578080/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "acd549290767b2fc76a7efb7d7881e73530ab5432061b14e6d1095b5c5bd0892",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/pubg.svg"
       }
     },
     {
@@ -6258,6 +6541,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
         "source": "https://store.steampowered.com/app/648800/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "dd7c2f015f27c22dd9f9e2e5e1a5895162e4f0d349ea35f5c7ac6eb3d9c09768",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/raft.svg"
@@ -6325,6 +6614,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
         "source": "https://store.steampowered.com/app/2668510/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "97a73571e540df7092dbf7bfc9f945e461291f14cc230b6d9010ec922ecb5067",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/red-dead-redemption.svg"
@@ -6347,13 +6642,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1fIqst8Ir7Vbq5ydwsD_G1w29xz7qDsPQkNVaSqmbxL4/edit",
         "title": "QuadStick public configuration catalog — Red Dead Redemption - No fishing"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/red-dead-redemption-no-fishing.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-no-fishing.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -6417,6 +6706,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
         "source": "https://store.steampowered.com/app/1174180/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "27aa89c336b381083a1b3e8de84ffbcb842219dabca97aabfcf707b1dd8c135c",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/red-dead-redemption-2.svg"
@@ -6439,13 +6734,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1rPul7lBH6xX-DwGFI6ek2ZCzkmAeAHlGabI8KHI1CdY/edit",
         "title": "QuadStick public configuration catalog — Red Dead Redemption II - RedM"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/red-dead-redemption-ii-redm.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/red-dead-redemption-ii-redm.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -6512,6 +6801,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg?t=1686697594",
         "source": "https://store.steampowered.com/app/653530/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "6417f53183fe871017950c05737c40292c201bc4d9041e2bb38b878c5bd6d8b7",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/return-of-the-obra-dinn.svg"
@@ -6534,13 +6829,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1Fbt4mCdJzMYwdO09o9Mv3suQDNQ8kAMfvxaY1QMHQJ0/edit",
         "title": "QuadStick public configuration catalog — Rocket League"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/rocket-league.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/rocket-league.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -6591,6 +6880,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1788349095",
         "source": "https://store.steampowered.com/app/526870/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "985486dc8d67506f48c97406bcba656cfc1a421642572e9810b1963af1d3e04e",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/satisfactory.svg"
@@ -6646,6 +6941,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977",
         "source": "https://store.steampowered.com/app/3164500/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "742480b915747224736172b5dd249a266329e97a9687b02a4f0cba6ba83cfbc8",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/schedule-i.svg"
@@ -6708,6 +7009,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
         "source": "https://store.steampowered.com/app/1172620/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "5eb47fd6bef7ca9f81d6d7a8723e4c28a4adaa6f18e13139c27cc6e381500324",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/sea-of-thieves.svg"
@@ -6730,14 +7037,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1EcG67yp8_PxZE-V4RMFMninY0G43Wlal4TyM-c-S_Ok/edit",
         "title": "QuadStick public configuration catalog — Shadow of Mordor"
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg",
-        "source": "https://store.steampowered.com/app/241930/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/shadow-of-mordor.svg"
-      },
       "metadata": {
         "steam": {
           "provider": "steam",
@@ -6759,6 +7058,20 @@
           "metacritic": 84,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg?t=1780594906",
+        "source": "https://store.steampowered.com/app/241930/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "e2cea72a5cbaa6afaaf57f047d8d64611ee0555b861c21621e371b9b60bc339f",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/shadow-of-mordor.svg"
       }
     },
     {
@@ -6820,8 +7133,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036890/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036890/header.jpg?t=1728947655",
         "source": "https://store.steampowered.com/app/1036890/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "68e8eef79c68d5feb1b087381310b2fe69a67342a07f64959c530871a556f7fc",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/shadow-warrior-3.svg"
@@ -6844,13 +7163,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1Bgo68cyJWQS3Gfr94eVCE8uoRd7rEV3HNqyR-pPpSI8/edit",
         "title": "QuadStick public configuration catalog — ShatterlinePC"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/shatterlinepc.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/shatterlinepc.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -6896,8 +7209,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/6fda8341b3559754cf71ca839e69460c3e54479e/header.jpg?t=1775125249",
         "source": "https://store.steampowered.com/app/1548850/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "e8e10f8babcae744b77a493607cc257fc2dbba6c7946ce455ad0ed425e8382ad",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/six-days-in-fallujah.svg"
@@ -6961,6 +7280,12 @@
         "kind": "steam",
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/79c5a87b61a396cc6e6b69e3a083727f175dea83/header.jpg?t=1788891347",
         "source": "https://store.steampowered.com/app/3354750/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "c9badec0415ed8c17a2817b3297060372d19469952145f658c47ed9f3f66fa93",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/skate.svg"
@@ -7022,8 +7347,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg?t=1766070052",
         "source": "https://store.steampowered.com/app/307690/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "770bfdc8f7882c86e2c8ca92d9229ccdb5887c19b663d6e274c5b26250384bfb",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/sleeping.svg"
@@ -7073,8 +7404,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg?t=1601483606",
         "source": "https://store.steampowered.com/app/238090/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "0424983b71151e1d65044e9704fc3551999d9f802f24a0240f4f28588f289f1b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/sniper-elite-3.svg"
@@ -7141,8 +7478,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg?t=1681207252",
         "source": "https://store.steampowered.com/app/312660/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "248ab9f3d65398e8ebb28d520f176fdb206912cbf4376b5f00ae11f3a5626fde",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/sniper-elite-4.svg"
@@ -7210,8 +7553,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
         "source": "https://store.steampowered.com/app/1029690/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "1af53c4e4dd7341c2cbbc68618438a713511546bf1dd8bfd5a5299248e2bd679",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/sniper-elite-5.svg"
@@ -7260,8 +7609,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34870/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34870/header.jpg?t=1728377753",
         "source": "https://store.steampowered.com/app/34870/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b75e48e9f3719fe789bc7027878ca292b73f72d83297a584ee5398d24a1b35c1",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/sniper-ghost-warrior-2.svg"
@@ -7325,8 +7680,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386750/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386750/7f55633b638f19db30df6e3e6acdb5c901b8b124/header.jpg?t=1788521860",
         "source": "https://store.steampowered.com/app/1386750/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "3177b0592664b6172646c3bd391efbc155206447d2b91b02aed41a17475b1c19",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/spindle.svg"
@@ -7391,8 +7752,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
         "source": "https://store.steampowered.com/app/2001120/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "011dbe23fdb3bb9905ebfb6d5d9658924826a526ec64770b829b7b556909fa85",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/split-fiction.svg"
@@ -7414,14 +7781,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1ItLzZubgqt3t6Ja4H-4V9bJZCM0SmG_7CZmFojoBrsA/edit",
         "title": "QuadStick public configuration catalog — Splitgate"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677620/header.jpg",
-        "source": "https://store.steampowered.com/app/677620/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/splitgate.svg"
       },
       "metadata": {
         "steam": {
@@ -7449,6 +7808,20 @@
           "metacritic": null,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677620/header.jpg?t=1663343172",
+        "source": "https://store.steampowered.com/app/677620/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "9e18a15c54cc33ab4982bf42a666920c62734a746b4d936f0fd343be3f0b5fdc",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/splitgate.svg"
       }
     },
     {
@@ -7468,13 +7841,7 @@
         "url": "https://docs.google.com/spreadsheets/d/19_MZUi1vrrAvcPyYMKs3s9V2NWNR6pELQm8R_aY-KE8/edit",
         "title": "QuadStick public configuration catalog — Star Citizen"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/star-citizen.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/star-citizen.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -7538,8 +7905,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg?t=1777393769",
         "source": "https://store.steampowered.com/app/1237980/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f88ee6b9dbc13911d3cb8650bbc0bc637e25a5e7fee00a5df930e39e762679f3",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/star-wars-battlefront.svg"
@@ -7684,8 +8057,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg?t=1788256986",
         "source": "https://store.steampowered.com/app/1172380/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "4f0c576d244b2a48d04e179aebefb4c4562da85685297f5079aab34704a5f464",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/star-wars-jedi-fallen-order.svg"
@@ -7709,11 +8088,19 @@
         "title": "QuadStick public configuration catalog — StarCraft II"
       },
       "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/starcraft-ii.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-ii.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
+        "kind": "wikimedia",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Starcraft_II_at_GamesCom_-_Flickr_-_Sergey_Galyonkin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Starcraft_II_at_GamesCom_-_Flickr_-_Sergey_Galyonkin.jpg",
+        "provider": "wikimedia",
+        "matchMethod": "conservative-title-alias",
+        "confidence": 0.86,
+        "nativeWidth": 3872,
+        "nativeHeight": 2124,
+        "contentSha256": "3845da2bf8eaa39609c05068ba5a84588162389ce532f8b5a3837396936d0ac8",
+        "attribution": "Sergey Galyonkin from Kyiv, Ukraine — CC BY SA",
+        "license": "CC BY SA",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "fallbackPath": "artwork/games/starcraft-ii.svg"
       }
     },
     {
@@ -7769,8 +8156,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1786648030",
         "source": "https://store.steampowered.com/app/1716740/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f2859683835f5d8f2ed1757dadf1e5f775032b718d39d051f8e2f77e9bfa3eb5",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/starfield.svg"
@@ -7793,13 +8186,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1bsPy-MyRKVKAKdhdnaq8Zj_gMswvbsQRqDzda4Yv5RM/edit",
         "title": "QuadStick public configuration catalog — Steam Lego"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/steam-lego.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/steam-lego.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "unavailable"
     },
     {
       "schemaVersion": 2,
@@ -7818,13 +8205,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1PPRpvCOOLHu93RdLa5dyWMk3XGTZecDDBC9bW0TYisE/edit",
         "title": "QuadStick public configuration catalog — Super Mario Odyssey"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/super-mario-odyssey.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/super-mario-odyssey.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -7881,8 +8262,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg?t=1787130932",
         "source": "https://store.steampowered.com/app/646910/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "caef4b01c41fea939f19f08c9e76119b43f28d4360dc0cc1a1a8e7d02e8e6f77",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/the-crew.svg"
@@ -7932,8 +8319,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/61f55ef49a74c76bf9fda9ec35bc3101eeee2b3e/header.jpg?t=1789034839",
         "source": "https://store.steampowered.com/app/2073850/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "b699bad55fffcad37bb9f576cb7a1d0763ddf57e6b909ba7fbe6725daff680a4",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/the-finals.svg"
@@ -7969,13 +8362,7 @@
         "platforms": [],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/the-last-of-us.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-last-of-us.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -8031,8 +8418,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
         "source": "https://store.steampowered.com/app/2531310/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "70a31088052497546e308715a3e754c6a9abedf6afde98768a2ec64205eace2b",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/the-last-of-us-part-ii.svg"
@@ -8073,13 +8466,7 @@
         ],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/the-legend-of-zelda-breath-of-the-wild.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/the-legend-of-zelda-breath-of-the-wild.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -8139,11 +8526,18 @@
         }
       },
       "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
-        "source": "https://store.steampowered.com/app/292030/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
+        "kind": "wikimedia",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Witcher_3_Wild_Hunt_-_Dialogue_options.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Witcher_3_Wild_Hunt_-_Dialogue_options.jpg",
+        "provider": "wikimedia",
+        "matchMethod": "conservative-title-alias",
+        "confidence": 0.86,
+        "nativeWidth": 1920,
+        "nativeHeight": 1080,
+        "contentSha256": "2fac9cd6fca337585137682092831339f664e2927865b173e407f405e5e2a39a",
+        "attribution": "BANDAI NAMCO Europe — CC BY",
+        "license": "CC BY",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "fallbackPath": "artwork/games/the-witcher-3-wild-hunt.svg"
       }
     },
@@ -8190,14 +8584,7 @@
           "fetchedAt": "2026-09-18"
         }
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
-        "source": "https://store.steampowered.com/app/518790/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/thehunter-call-of-the-wild.svg"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -8261,8 +8648,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg?t=1737970341",
         "source": "https://store.steampowered.com/app/1286680/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "93854ddc5db130c8d07b7ec298e14def2871bdeea80dcd062d6e8fd50ac1ce37",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/tiny-tina-s-wonderlands.svg"
@@ -8326,8 +8719,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1779987598",
         "source": "https://store.steampowered.com/app/1237970/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "83eae64937a58c40d92c8870f7170fe2baf8dc475d1caf3ec4cd6abecc210b95",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/titanfall-2.svg"
@@ -8349,14 +8748,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1d4pDwktLYRuY8TM-XLKBApLJUd2UN2hOEk3RVSzp0UM/edit",
         "title": "QuadStick public configuration catalog — Tomb Raider"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
-        "source": "https://store.steampowered.com/app/203160/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/tomb-raider.svg"
       },
       "metadata": {
         "steam": {
@@ -8383,6 +8774,20 @@
           "metacritic": 86,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/9e67774e97cdd155f287146e62611eb445514ac6/header.jpg?t=1765220424",
+        "source": "https://store.steampowered.com/app/203160/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "212db3d16532f7bc58d7562a6dfe1797c24fdedb09bd63e1d562720dfb30f8b0",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider.svg"
       }
     },
     {
@@ -8401,14 +8806,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit",
         "title": "QuadStick public configuration catalog — Tomb Raider 1"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg",
-        "source": "https://store.steampowered.com/app/224960/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/tomb-raider-1.svg"
       },
       "metadata": {
         "steam": {
@@ -8434,6 +8831,20 @@
           "metacritic": null,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg?t=1729009969",
+        "source": "https://store.steampowered.com/app/224960/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "2b6240ccd90cfc70ae05fb7a79e415166f0de5bae8ee7d00642d0b2fac4fe457",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider-1.svg"
       }
     },
     {
@@ -8452,14 +8863,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1HTw9r3V8RGUVHxMxo7_XbTe52N586cVys4TJDnGszbQ/edit",
         "title": "QuadStick public configuration catalog — Tomb Raider 2 - Rise of the Tomb Raider"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
-        "source": "https://store.steampowered.com/app/391220/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
       },
       "metadata": {
         "steam": {
@@ -8487,6 +8890,20 @@
           "metacritic": 86,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg?t=1766187095",
+        "source": "https://store.steampowered.com/app/391220/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "246d98e6685f5fd1f02b37e3f5e739d9bd4d9ec3b6d83f6322e4b43ad1ce8903",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
       }
     },
     {
@@ -8505,14 +8922,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1wElQ_s-7YjNTYch0Zgr2UqcCHp1VtXc7TwDZbvKw7eo/edit",
         "title": "QuadStick public configuration catalog — Tomb Raider 3 - Shadow of the Tomb Raider"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg",
-        "source": "https://store.steampowered.com/app/750920/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg"
       },
       "metadata": {
         "steam": {
@@ -8540,6 +8949,20 @@
           "metacritic": 77,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg?t=1765239925",
+        "source": "https://store.steampowered.com/app/750920/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "f6a0435708fc3084a84e8a48d5978506af5fbf16848cc43ec1f3595ab39fb57d",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/tomb-raider-3-shadow-of-the-tomb-raider.svg"
       }
     },
     {
@@ -8595,8 +9018,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg?t=1754500878",
         "source": "https://store.steampowered.com/app/2395210/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "253b44c9996f652c23bc66cfb79ab4d1574558ba33d62a7b99905a29f2c7c454",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/tony-hawk.svg"
@@ -8646,8 +9075,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg?t=1765814715",
         "source": "https://store.steampowered.com/app/1164940/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "262ca6aef71463cfeb31be021444a711eba08a310ca9e02f834d8a21fd7dc15c",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/trepang-2.svg"
@@ -8709,8 +9144,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg?t=1783359656",
         "source": "https://store.steampowered.com/app/553420/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "e286d36721ef046c20423eafe3a21940f97c467e894fd64e3fb698746395665e",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/tunic.svg"
@@ -8836,14 +9277,7 @@
           "fetchedAt": "2026-09-18"
         }
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
-        "source": "https://store.steampowered.com/app/892970/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/valheim.svg"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -8890,8 +9324,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/f07ebcb73a34112ac61c54608b1f1ded7e45eb8a/header.jpg?t=1789492542",
         "source": "https://store.steampowered.com/app/1361210/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "41899e77e15e6d1dfde709393a07559bed473db81e4774a79810b03a27a184ec",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/warhammer-40-000-darktide.svg"
@@ -8942,8 +9382,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
         "source": "https://store.steampowered.com/app/2183900/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "a51adee3dc2155f8f3b111c6dd978c08cd781e7aa085ea5772fb96f642a02488",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/warhammer-40-000-space-marine-2.svg"
@@ -9006,8 +9452,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg?t=1774533447",
         "source": "https://store.steampowered.com/app/1288320/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "7a9c49a52d4033928263388292239de01fc77e5303ea3ec623d6a040a3f7ad20",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/way-of-the-hunter.svg"
@@ -9076,8 +9528,14 @@
       },
       "artwork": {
         "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg?t=1778853004",
         "source": "https://store.steampowered.com/app/799960/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "1b554b65ae54b5804291c0a20070bf6a12a14496921d3edd2bd29b6917c9d641",
         "attribution": "Steam store artwork",
         "license": "third-party",
         "fallbackPath": "artwork/games/wizard101.svg"
@@ -9138,14 +9596,7 @@
           "fetchedAt": "2026-09-18"
         }
       },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407200/header.jpg",
-        "source": "https://store.steampowered.com/app/1407200/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/world-of-tanks.svg"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -9164,13 +9615,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1_m0_7E8jn8m7yALngs3C-maUbZO11sN6Wq3YBYlzg-Q/edit",
         "title": "QuadStick public configuration catalog — World of Warcraft"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/world-of-warcraft.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/world-of-warcraft.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     },
     {
       "schemaVersion": 2,
@@ -9188,14 +9633,6 @@
       "source": {
         "url": "https://docs.google.com/spreadsheets/d/1TgkBFb_ZTvwcDaKHZ8XiglspZAK4Nd8ZxQr6hKUcAwc/edit",
         "title": "QuadStick public configuration catalog — World of Warships"
-      },
-      "artwork": {
-        "kind": "steam",
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/header.jpg",
-        "source": "https://store.steampowered.com/app/552990/",
-        "attribution": "Steam store artwork",
-        "license": "third-party",
-        "fallbackPath": "artwork/games/world-of-warships.svg"
       },
       "metadata": {
         "steam": {
@@ -9224,6 +9661,20 @@
           "metacritic": 81,
           "fetchedAt": "2026-09-18"
         }
+      },
+      "artwork": {
+        "kind": "steam",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/9f3c51cf5b0840dc216efea85951b2a616975bc8/header.jpg?t=1789037436",
+        "source": "https://store.steampowered.com/app/552990/",
+        "provider": "steam",
+        "matchMethod": "exact-title",
+        "confidence": 1,
+        "nativeWidth": 460,
+        "nativeHeight": 215,
+        "contentSha256": "232ffb91f67867a77bd090b74a2762924f504bcb26163971cecbf899c830d3cb",
+        "attribution": "Steam store artwork",
+        "license": "third-party",
+        "fallbackPath": "artwork/games/world-of-warships.svg"
       }
     },
     {
@@ -9260,13 +9711,7 @@
         ],
         "fetchedAt": "2026-09-18"
       },
-      "artwork": {
-        "kind": "generated",
-        "path": "artwork/games/xdefiant.svg",
-        "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/xdefiant.svg",
-        "attribution": "Adaptive Profiles",
-        "license": "Adaptive Profiles terms"
-      }
+      "artworkStatus": "needs_review"
     }
   ],
   "devices": [

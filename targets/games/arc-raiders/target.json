@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1j-7sSCQxk7AGqaBTKWZ0Jek3WGV56BjXANZNWaJTNHI/edit",
     "title": "QuadStick public configuration catalog — ARC Raiders"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
-    "source": "https://store.steampowered.com/app/1808500/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/arc-raiders.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -46,5 +38,6 @@
       "metacritic": null,
       "fetchedAt": "2026-09-18"
     }
-  }
+  },
+  "artworkStatus": "needs_review"
 }

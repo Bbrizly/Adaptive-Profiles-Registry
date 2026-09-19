@@ -41,12 +41,5 @@
       "fetchedAt": "2026-09-18"
     }
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
-    "source": "https://store.steampowered.com/app/518790/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/thehunter-call-of-the-wild.svg"
-  }
+  "artworkStatus": "needs_review"
 }

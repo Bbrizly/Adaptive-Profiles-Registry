@@ -60,8 +60,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg?t=1737970341",
     "source": "https://store.steampowered.com/app/1286680/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "93854ddc5db130c8d07b7ec298e14def2871bdeea80dcd062d6e8fd50ac1ce37",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/tiny-tina-s-wonderlands.svg"

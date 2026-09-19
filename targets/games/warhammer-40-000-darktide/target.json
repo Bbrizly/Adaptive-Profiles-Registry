@@ -43,8 +43,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/f07ebcb73a34112ac61c54608b1f1ded7e45eb8a/header.jpg?t=1789492542",
     "source": "https://store.steampowered.com/app/1361210/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "41899e77e15e6d1dfde709393a07559bed473db81e4774a79810b03a27a184ec",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/warhammer-40-000-darktide.svg"

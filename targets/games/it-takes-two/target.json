@@ -45,6 +45,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
     "source": "https://store.steampowered.com/app/1426210/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "67d0018628094dcbb3525a0c7c5a72629aa5952564d99ebf90a7f829bed5fa51",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/it-takes-two.svg"

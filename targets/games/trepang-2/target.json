@@ -42,8 +42,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg?t=1765814715",
     "source": "https://store.steampowered.com/app/1164940/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "262ca6aef71463cfeb31be021444a711eba08a310ca9e02f834d8a21fd7dc15c",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/trepang-2.svg"

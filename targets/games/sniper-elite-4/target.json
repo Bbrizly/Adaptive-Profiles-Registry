@@ -59,8 +59,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg?t=1681207252",
     "source": "https://store.steampowered.com/app/312660/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "248ab9f3d65398e8ebb28d520f176fdb206912cbf4376b5f00ae11f3a5626fde",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/sniper-elite-4.svg"

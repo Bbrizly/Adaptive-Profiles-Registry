@@ -31,11 +31,5 @@
     "platforms": [],
     "fetchedAt": "2026-09-18"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/battlefield.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/battlefield.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "unavailable"
 }

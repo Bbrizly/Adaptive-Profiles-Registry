@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1HTw9r3V8RGUVHxMxo7_XbTe52N586cVys4TJDnGszbQ/edit",
     "title": "QuadStick public configuration catalog — Tomb Raider 2 - Rise of the Tomb Raider"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
-    "source": "https://store.steampowered.com/app/391220/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -49,5 +41,19 @@
       "metacritic": 86,
       "fetchedAt": "2026-09-18"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg?t=1766187095",
+    "source": "https://store.steampowered.com/app/391220/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "246d98e6685f5fd1f02b37e3f5e739d9bd4d9ec3b6d83f6322e4b43ad1ce8903",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/tomb-raider-2-rise-of-the-tomb-raider.svg"
   }
 }

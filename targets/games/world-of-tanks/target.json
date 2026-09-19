@@ -53,12 +53,5 @@
       "fetchedAt": "2026-09-18"
     }
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407200/header.jpg",
-    "source": "https://store.steampowered.com/app/1407200/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/world-of-tanks.svg"
-  }
+  "artworkStatus": "needs_review"
 }

@@ -90,11 +90,5 @@
     "platforms": [],
     "fetchedAt": "2026-09-18"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/fortnite.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/fortnite.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "needs_review"
 }

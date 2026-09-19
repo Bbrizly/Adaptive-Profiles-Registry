@@ -56,6 +56,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433",
     "source": "https://store.steampowered.com/app/1222700/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "55f3532f606d2c81b95ac2152bc5164b39496b0a9a821b82a40b8436d5f29b2b",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/a-way-out.svg"

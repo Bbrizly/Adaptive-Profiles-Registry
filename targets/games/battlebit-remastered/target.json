@@ -61,6 +61,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg?t=1730393449",
     "source": "https://store.steampowered.com/app/671860/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "04ce2173f023ca743cf35586ca1a50c9157ea695f3c2bb2301dc73e9748404cd",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/battlebit-remastered.svg"

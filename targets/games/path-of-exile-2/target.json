@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1CgvoZXE67qvRp6gXd4Pnw8sOIVajQDo4CBi4nGvS-7M/edit",
     "title": "QuadStick public configuration catalog — Path of Exile 2"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
-    "source": "https://store.steampowered.com/app/2694490/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/path-of-exile-2.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -51,5 +43,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
+    "source": "https://store.steampowered.com/app/2694490/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "62bbdd76a78b03fdfff9cd6846dd20d63f4b20b95f30ba78fbd428b0637d7bb7",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/path-of-exile-2.svg"
   }
 }

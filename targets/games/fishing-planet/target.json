@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/11bLWBVmYePVPIrbMODz6w7fo6cmxF_VWQ1TS-Q3TDpU/edit",
     "title": "QuadStick public configuration catalog — Fishing Planet"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
-    "source": "https://store.steampowered.com/app/380600/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/fishing-planet.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -51,5 +43,6 @@
       "metacritic": null,
       "fetchedAt": "2026-09-18"
     }
-  }
+  },
+  "artworkStatus": "needs_review"
 }

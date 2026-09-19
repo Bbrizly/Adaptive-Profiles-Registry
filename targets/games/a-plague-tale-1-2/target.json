@@ -15,11 +15,5 @@
     "url": "https://docs.google.com/spreadsheets/d/1H-BEo678Amwp9JwEH9Ek3mhR26fdvGoS81ulqWGmftc/edit",
     "title": "QuadStick public configuration catalog — A Plague Tale 1+2"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/a-plague-tale-1-2.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/a-plague-tale-1-2.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "unavailable"
 }

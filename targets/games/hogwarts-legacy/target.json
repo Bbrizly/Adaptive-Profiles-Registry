@@ -46,6 +46,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1788224492",
     "source": "https://store.steampowered.com/app/990080/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "8a7d79fb4a21649963817a4dce9c4c04ef64eb7b7e0c7917e1976804fcb378d8",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/hogwarts-legacy.svg"

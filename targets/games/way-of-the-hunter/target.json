@@ -55,8 +55,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg?t=1774533447",
     "source": "https://store.steampowered.com/app/1288320/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "7a9c49a52d4033928263388292239de01fc77e5303ea3ec623d6a040a3f7ad20",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/way-of-the-hunter.svg"

@@ -32,11 +32,5 @@
     ],
     "fetchedAt": "2026-09-18"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/xdefiant.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/xdefiant.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "needs_review"
 }

@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1AT8kHoKi09UVtIgTgr-pneYj3eqh3kY1Dm88Xslm5bM/edit",
     "title": "QuadStick public configuration catalog — Tomb Raider 1"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg",
-    "source": "https://store.steampowered.com/app/224960/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/tomb-raider-1.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -47,5 +39,19 @@
       "metacritic": null,
       "fetchedAt": "2026-09-18"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg?t=1729009969",
+    "source": "https://store.steampowered.com/app/224960/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "2b6240ccd90cfc70ae05fb7a79e415166f0de5bae8ee7d00642d0b2fac4fe457",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/tomb-raider-1.svg"
   }
 }

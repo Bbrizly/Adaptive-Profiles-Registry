@@ -47,6 +47,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
     "source": "https://store.steampowered.com/app/1966720/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "f96e4126ced620e55fa732b3055b3ab104601b9f58dd0f7e7760193305748673",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/lethal-company.svg"

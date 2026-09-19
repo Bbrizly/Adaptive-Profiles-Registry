@@ -54,6 +54,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449280/header.jpg?t=1607351334",
     "source": "https://store.steampowered.com/app/1449280/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "53ab2371ccb2fac26c999ce3b26a4ea4738279593d6a24d50e68081f15fbcbca",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/ghostbusters.svg"

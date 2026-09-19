@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1EcG67yp8_PxZE-V4RMFMninY0G43Wlal4TyM-c-S_Ok/edit",
     "title": "QuadStick public configuration catalog — Shadow of Mordor"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg",
-    "source": "https://store.steampowered.com/app/241930/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/shadow-of-mordor.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -44,5 +36,19 @@
       "metacritic": 84,
       "fetchedAt": "2026-09-18"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg?t=1780594906",
+    "source": "https://store.steampowered.com/app/241930/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "e2cea72a5cbaa6afaaf57f047d8d64611ee0555b861c21621e371b9b60bc339f",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/shadow-of-mordor.svg"
   }
 }

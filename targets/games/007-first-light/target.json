@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1NfU7uvp3EZFWCTizgdQDEM7cFl4xe7Wu5VnpToJ8B8E/edit",
     "title": "QuadStick public configuration catalog — 007 First Light"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/9f0d16a4d9a826d62cddf7f5ea25d10b4b2f45b9/header_alt_assets_3.jpg?t=1789479538",
-    "source": "https://store.steampowered.com/app/3768760/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/007-first-light.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -47,5 +39,6 @@
       "metacritic": 84,
       "fetchedAt": "2026-09-18"
     }
-  }
+  },
+  "artworkStatus": "needs_review"
 }

@@ -61,6 +61,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1770910832",
     "source": "https://store.steampowered.com/app/1880610/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "1695b4813f5c88969de4c7be04630285c4c4180a7a3c47aaa6fb256245658a18",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/deliver-at-all-costs.svg"

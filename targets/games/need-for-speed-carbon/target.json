@@ -15,11 +15,5 @@
     "url": "https://docs.google.com/spreadsheets/d/1kj74D9IuKKJDgec5DVDSBJUsKuW7xcSfNUiaFp7R6lo/edit",
     "title": "QuadStick public configuration catalog — Need for Speed: Carbon"
   },
-  "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/need-for-speed-carbon.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/need-for-speed-carbon.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
-  }
+  "artworkStatus": "needs_review"
 }

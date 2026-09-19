@@ -16,14 +16,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1ZaLPyNIdSMCUkW0VAfhwdT40DGd5x_VoxgOH-TJoHs4/edit",
     "title": "QuadStick public configuration catalog — Call of Duty Advanced Warfare"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113",
-    "source": "https://store.steampowered.com/app/209650/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/call-of-duty-advanced-warfare.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -48,5 +40,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1785427113",
+    "source": "https://store.steampowered.com/app/209650/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "2c1c2b1909fad844954c8ec0d53837e67a640ea425efed1042dc0b292bc4cfc0",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/call-of-duty-advanced-warfare.svg"
   }
 }

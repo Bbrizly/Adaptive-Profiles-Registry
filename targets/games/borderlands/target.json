@@ -83,10 +83,18 @@
     "fetchedAt": "2026-09-18"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/borderlands.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/borderlands.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Borderlands_%2812876448223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Borderlands_(12876448223).jpg",
+    "provider": "wikimedia",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 3600,
+    "nativeHeight": 2250,
+    "contentSha256": "1e243b00001dfc5c277fcdd1251ab5c37ccacecfc4754550684e2f482d3b9f9f",
+    "attribution": "greyloch from Washington, DC, area, U.S.A. — CC BY SA",
+    "license": "CC BY SA",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fallbackPath": "artwork/games/borderlands.svg"
   }
 }

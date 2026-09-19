@@ -59,6 +59,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/91aefad15cb27e4c8f03e519a5b3d3a9daa4d31d/header.jpg?t=1789143123",
     "source": "https://store.steampowered.com/app/997010/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "9983f4728f62e466aa6d8e458163e4536580792a5a67ccfdd68ed006035333af",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/police-simulator-patrol-officers.svg"

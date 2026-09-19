@@ -60,6 +60,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1782912561",
     "source": "https://store.steampowered.com/app/8190/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "b1b3f53a54a98355d462606695c4c26bc031593184fd9e507348b81bc8aa9179",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/just-cause-2.svg"

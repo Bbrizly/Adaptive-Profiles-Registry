@@ -55,6 +55,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
     "source": "https://store.steampowered.com/app/1172620/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "5eb47fd6bef7ca9f81d6d7a8723e4c28a4adaa6f18e13139c27cc6e381500324",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/sea-of-thieves.svg"

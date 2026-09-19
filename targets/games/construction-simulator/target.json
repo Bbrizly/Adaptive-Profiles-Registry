@@ -45,6 +45,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1784210925",
     "source": "https://store.steampowered.com/app/1273400/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "a5609e3049d937a86c35d32a4da049c4a8be002762ecbff0d299086d86af70e7",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/construction-simulator.svg"

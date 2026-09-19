@@ -16,10 +16,18 @@
     "title": "QuadStick public configuration catalog — StarCraft II"
   },
   "artwork": {
-    "kind": "generated",
-    "path": "artwork/games/starcraft-ii.svg",
-    "url": "https://raw.githubusercontent.com/Bbrizly/Adaptive-Profiles-Registry/main/artwork/games/starcraft-ii.svg",
-    "attribution": "Adaptive Profiles",
-    "license": "Adaptive Profiles terms"
+    "kind": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Starcraft_II_at_GamesCom_-_Flickr_-_Sergey_Galyonkin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Starcraft_II_at_GamesCom_-_Flickr_-_Sergey_Galyonkin.jpg",
+    "provider": "wikimedia",
+    "matchMethod": "conservative-title-alias",
+    "confidence": 0.86,
+    "nativeWidth": 3872,
+    "nativeHeight": 2124,
+    "contentSha256": "3845da2bf8eaa39609c05068ba5a84588162389ce532f8b5a3837396936d0ac8",
+    "attribution": "Sergey Galyonkin from Kyiv, Ukraine — CC BY SA",
+    "license": "CC BY SA",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fallbackPath": "artwork/games/starcraft-ii.svg"
   }
 }

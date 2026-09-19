@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1cz0ZHhWYNRn-nMvGf_Z1myA22RaxEX804_xDwFVv1D4/edit",
     "title": "QuadStick public configuration catalog — Counter-Strike 2"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
-    "source": "https://store.steampowered.com/app/730/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/counter-strike-2.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -49,5 +41,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
+    "source": "https://store.steampowered.com/app/730/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "747527645619ecf6fbbec78aa543ab0c9a5be12f0bd7c17ccf559e1522678ded",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/counter-strike-2.svg"
   }
 }

@@ -61,6 +61,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057",
     "source": "https://store.steampowered.com/app/220240/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "402bee28397b036cc32537568bb0508e32861e73bc55a5f48cb405706e5506b4",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/far-cry-3.svg"

@@ -61,8 +61,14 @@
   },
   "artwork": {
     "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg?t=1778853004",
     "source": "https://store.steampowered.com/app/799960/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "1b554b65ae54b5804291c0a20070bf6a12a14496921d3edd2bd29b6917c9d641",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/wizard101.svg"

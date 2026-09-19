@@ -44,6 +44,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532",
     "source": "https://store.steampowered.com/app/3595230/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "2403c191e22b204d511aba3bd72e8b55a3e35a561b2445a0d42bf1417eca4961",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/call-of-duty-modern-warfare-ii.svg"

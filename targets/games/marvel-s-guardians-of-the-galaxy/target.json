@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1DZPX6DxypeULr8P3bVUMkgw4CdkdDOwMZ82efahhlng/edit",
     "title": "QuadStick public configuration catalog — Marvel's Guardians of the Galaxy"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
-    "source": "https://store.steampowered.com/app/1088850/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/marvel-s-guardians-of-the-galaxy.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -48,5 +40,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
+    "source": "https://store.steampowered.com/app/1088850/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "f344349f843285f169574e295b72889ff1eb6304b84a388b000002df2cf1cd7e",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/marvel-s-guardians-of-the-galaxy.svg"
   }
 }

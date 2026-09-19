@@ -15,14 +15,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1KoYF9fnW9oe8Dmdg_xFGKT1yTzlniSvhgaCShyQF0Lk/edit",
     "title": "QuadStick public configuration catalog — DeepRock"
   },
-  "artwork": {
-    "kind": "steam",
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445",
-    "source": "https://store.steampowered.com/app/548430/",
-    "attribution": "Steam store artwork",
-    "license": "third-party",
-    "fallbackPath": "artwork/games/deeprock.svg"
-  },
   "metadata": {
     "steam": {
       "provider": "steam",
@@ -47,5 +39,19 @@
       "fetchedAt": "2026-09-18",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445"
     }
+  },
+  "artwork": {
+    "kind": "steam",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1786014445",
+    "source": "https://store.steampowered.com/app/548430/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "9827c5c71bb8413d8f816fc0409c233d74309616fbae179116f801ec622b0376",
+    "attribution": "Steam store artwork",
+    "license": "third-party",
+    "fallbackPath": "artwork/games/deeprock.svg"
   }
 }

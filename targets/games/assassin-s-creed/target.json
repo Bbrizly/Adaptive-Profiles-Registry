@@ -64,6 +64,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973",
     "source": "https://store.steampowered.com/app/311560/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "2ca44256033674cc2cd225b2c268083a8bb9559bcf9113d5deb256ec23c6b6bd",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/assassin-s-creed.svg"

@@ -56,6 +56,12 @@
     "kind": "steam",
     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969",
     "source": "https://store.steampowered.com/app/870780/",
+    "provider": "steam",
+    "matchMethod": "exact-title",
+    "confidence": 1,
+    "nativeWidth": 460,
+    "nativeHeight": 215,
+    "contentSha256": "bd4c3f2d967908343f34b6013810da58a69ff1fabc691157e3d8a1bc8127928b",
     "attribution": "Steam store artwork",
     "license": "third-party",
     "fallbackPath": "artwork/games/control.svg"

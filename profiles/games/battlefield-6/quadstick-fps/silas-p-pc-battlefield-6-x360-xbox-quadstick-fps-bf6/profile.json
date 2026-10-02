@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "battlefield-6"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "31be5f2578a46e6460312cf8a6ae224c99a8112168bcad41e9d8cfcf8bdbeccf"
+    "sha256": "b6380f6cf0ee112ac42dd033c0b7d13bd57144196e9d31655fef2e839eb82d9b"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

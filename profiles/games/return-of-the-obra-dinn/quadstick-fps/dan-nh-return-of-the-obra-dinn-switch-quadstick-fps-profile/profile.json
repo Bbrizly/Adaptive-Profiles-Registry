@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "return-of-the-obra-dinn"
   },
-  "platform": "switch",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Dan NH"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "93859aab84bf4e93d6f4ebd25d91bc116d5e91d4399454d9d6733ab5708bd619"
+    "sha256": "cf7f3939fb633e93c6cc75c9bb8f8d59ba340aa2742267bd02aee1adb03a8ecc"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

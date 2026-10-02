@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "half-life"
   },
-  "platform": "pc",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "415a5493693c9f56f6b0d51d5ac2cdc779f1e3f3e0ceb312c66edc9365e5ebe6"
+    "sha256": "3e54fdaab4766e040e880bdeae1535e87fa57b8146b981c0564012dba91542c6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

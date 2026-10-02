@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "starfield"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "07232856e43d0fa5d126efef15892f54c915605ea9a85a07e7f2deea0ab303bb"
+    "sha256": "40a9f1b2399f2f9edd43455e9f2b3e6b241cf64d44067727e7d9d5597adcaaa6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

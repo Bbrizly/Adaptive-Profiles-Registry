@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "helldivers-ii"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "70df8ba5d9b2400bb29e7009502477f58b5b0db704aebdda0e7df57ee425784c"
+    "sha256": "a8a73efe91bc9deb392624d8d010fccf25afe376cdb3747f4b6dbbd4cc7efabb"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

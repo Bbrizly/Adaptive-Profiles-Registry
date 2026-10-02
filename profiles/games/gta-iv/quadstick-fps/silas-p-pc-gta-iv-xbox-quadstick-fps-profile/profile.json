@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "gta-iv"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "6423a82a51748fb0f217a94e5ed4ef3f28d0d071e49a68269f96b5e846b2acad"
+    "sha256": "de4578e3b8fec5903c3e7b7c1399050aa3017ae9d94dc94fcc13a17a3f27a25d"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

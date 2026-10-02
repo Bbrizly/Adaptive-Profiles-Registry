@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "tony-hawk"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b2a0fcececb230d59ec8cf0301ea9064d7c1951e9646861a2af0e6dedc59e95d"
+    "sha256": "f06c41d72c51273aa57bfebe5f353139641bc4e6d6c28d32815620dc30c2825f"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-modern-warfare-iii"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "9140fa133cf3540af053d8d6c895dc3bf8824d5b3dc1f1e2510eb21247e15e7b"
+    "sha256": "005acfba06179998c7c9676f047f0f6f3b8b9121061e54f903802aa492459328"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

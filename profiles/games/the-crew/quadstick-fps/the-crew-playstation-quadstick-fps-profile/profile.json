@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "the-crew"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ec193bc707bb47f753f86bc62bb90f91e0d5cb3a4743ddd0fc6608ccaa08dac6"
+    "sha256": "4051356eb39963d1f867aab3879a2d671f32899511abfdecd6066a7181a45710"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

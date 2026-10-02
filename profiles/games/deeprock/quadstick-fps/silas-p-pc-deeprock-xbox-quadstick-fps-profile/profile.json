@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "deeprock"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "139674e69d7f36c730d7cc5bb343b8a51f2fedc4ab14685f84455b8afa20f28c"
+    "sha256": "1463f2fdf34ca45760f11780586518c24d2e7007a3a37ccde014f0f9f7d9052c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

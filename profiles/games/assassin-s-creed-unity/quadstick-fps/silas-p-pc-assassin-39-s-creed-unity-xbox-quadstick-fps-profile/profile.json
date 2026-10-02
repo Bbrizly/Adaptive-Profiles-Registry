@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "assassin-s-creed-unity"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "35b2005c10c8c59f0055823d275dffc84e7ad88ddfc58332d199729b1cff1a44"
+    "sha256": "153cfa555ffb9f3ae14b69841a0d006274aa4a71066e9a1f967e40dca9b7d237"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

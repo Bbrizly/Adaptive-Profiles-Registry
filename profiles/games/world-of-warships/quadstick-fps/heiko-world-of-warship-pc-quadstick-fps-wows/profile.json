@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Heiko"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ebac7bf2fb9b1dd095a6a0d1a72e7ce16a00b38d5bcad210f4ff6af84e90470a"
+    "sha256": "1fa68ac35a139004c7f63828363835c8049a4538b64e4e001f1617d102db03db"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "spindle"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "cb6baad2e5b1682bcb8fde8bf4d152ed5fcaa1e2fcc6c6c66ef38d00cfe86acf"
+    "sha256": "1863ca70156ccb369d5e9386a4667021ac0567d95230c5f9841b9237fcd8f45c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

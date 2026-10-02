@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "tomb-raider"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Matt Victor"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "e0a593dc1cba6896673a16a8c0063267a1094cf1ab2423eaf9f8655b3140eafc"
+    "sha256": "db01678a8e44e6f736e7cfaf84b0fba74bcf0adf845e03085eca9ed39776dbe8"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

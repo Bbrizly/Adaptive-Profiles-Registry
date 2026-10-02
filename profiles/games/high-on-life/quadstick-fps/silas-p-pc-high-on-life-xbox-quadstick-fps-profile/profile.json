@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "high-on-life"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "15cebd1f5565fea3914b30781193d116ba5ca8f7280a71e1bd162ab25365501e"
+    "sha256": "6b9a22985a53a68d4c8a0ce96a3220656585f5abe8671896c2389174b5649bfa"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "dead-space"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "f530d5fc5234d17a3124e1394e4a4a925aabe66923e711cf95dbeb7e6bc19c07"
+    "sha256": "cad3b0a1b914ed1313027acdfc2db951578211ce2b94414af4aa95a169cc4e05"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

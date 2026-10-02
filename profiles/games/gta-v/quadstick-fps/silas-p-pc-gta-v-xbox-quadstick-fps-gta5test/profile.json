@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "gta-v"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "e27fc7a75dce29fdca905f577fea34572128c95c0f1f6265f9dbe54ea09ca9b2"
+    "sha256": "2396499250a183294da4aea0406dffc8a965972d7dc9548b956b47f62c6b8686"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "ghost-recon-wildlands"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "550f1396bb4fb0dd8ad3bb7e5f5dec917443e17a00d5060be7364a98458ef124"
+    "sha256": "5f89b51b9f2c6a93d6c069a0548976343026b71364219514a9c05ff3bbba8fb3"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

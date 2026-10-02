@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "shatterlinepc"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "03d2eaabbbcf27315f3470dafce1e3fe31b637da8777465e9beadd72873149c9"
+    "sha256": "4417a4ac13aee3b38986ff8327768aa8ec18abf97f367fdf23c547e2f177d2a6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

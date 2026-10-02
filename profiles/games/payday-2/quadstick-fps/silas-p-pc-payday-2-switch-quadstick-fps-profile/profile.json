@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "payday-2"
   },
-  "platform": "switch",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "62917d8bcac8c4e2e11c87a1163ecb1b7087231241fe83259d77afd57cdfcbba"
+    "sha256": "bdaae719644f16e77936868562371773a21d366d91a3f3fee194dd3bc6af68c9"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

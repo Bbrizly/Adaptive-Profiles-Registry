@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "a-plague-tale-1-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "1def1583fde02e5dd6989061c858e46a75045e5b2ba4a9c00b542d52f7b90d9b"
+    "sha256": "b1d19a4ed39e24ab2347d16c3f8f89eaaefdedd6ad910ed80410ca2403346ff8"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

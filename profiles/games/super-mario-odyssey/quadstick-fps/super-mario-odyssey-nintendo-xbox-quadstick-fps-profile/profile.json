@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "super-mario-odyssey"
   },
-  "platform": "xbox",
+  "platform": "switch",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "c2e0ebf48511bb40384e1831bc19e46efeae63d84437205c99ce0f187eb29d1b"
+    "sha256": "48877f445ebe8b39348552da0e8f8b2a0f62d3f4ed2d2d4a2bb913d869af93da"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "league-of-legends"
   },
-  "platform": "switch",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Dan NH"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "2ecf233a34f446fca98a62d03d76afb1f5daebb498eeaee34f962506c6430847"
+    "sha256": "d9d5e26b5e8a81a5f9c90af1b898bc64169771ecec77760b2e33d6870376d4ad"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

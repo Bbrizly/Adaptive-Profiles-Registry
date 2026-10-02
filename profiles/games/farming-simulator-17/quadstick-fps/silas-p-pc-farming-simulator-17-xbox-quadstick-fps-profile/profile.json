@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "farming-simulator-17"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "0a31ac5b1625d6055afa0bcf22d5c82e0425267837e22103ba3c7399bc8435c9"
+    "sha256": "7f85b7d276eda7d08de2283920e966b42df0bb3f7cabccde1ebf4dff95286479"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "007-first-light"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "1fec743fc69fee32290d49129d6f4e633f57d2df5c1b287b8b4ab010153b6cc6"
+    "sha256": "1f8e5351089c5c857be2c826d14c2f8b740ae57a68f67c8fc7d8355c2c09e1af"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

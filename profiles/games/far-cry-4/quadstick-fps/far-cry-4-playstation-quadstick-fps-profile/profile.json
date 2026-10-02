@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "far-cry-4"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "f2490e8178a8c6e4f3b2cfa36d40ba3841ebea2f20546ab69611da1be8baee28"
+    "sha256": "0e58aef52b9d71e397a8af94369d5137e6f07cf96b29fa26d497c1845c530194"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

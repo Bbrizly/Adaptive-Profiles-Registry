@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "halo-infinite"
   },
-  "platform": "switch",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "04f7ba9026b857c663d08ff7990a17ae2cf1f660db788422804fbf02e2a141dd"
+    "sha256": "af130597778462e7a085d3b6697ae5cc4221c12de3569f65722c6c1513acdc6e"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

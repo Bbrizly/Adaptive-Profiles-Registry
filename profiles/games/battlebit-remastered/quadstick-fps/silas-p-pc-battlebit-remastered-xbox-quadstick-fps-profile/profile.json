@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "battlebit-remastered"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8c81169cbe11288181d47584acd50ebcefac9458f8df87f5cf1a1da443e1d09f"
+    "sha256": "e33763df25dafda6a5d58191a3124858a1e6aaffd84a5ba91f35114bc0c02278"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

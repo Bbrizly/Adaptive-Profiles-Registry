@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "grand-theft-auto-v"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "dae0f72505c8e0e3f7846f39b668bdedb1366136337d3210e571f98bc0485702"
+    "sha256": "81f0e482c94ade013ed1e631beadc77749fbfd131888713cd7625f2e559c416b"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

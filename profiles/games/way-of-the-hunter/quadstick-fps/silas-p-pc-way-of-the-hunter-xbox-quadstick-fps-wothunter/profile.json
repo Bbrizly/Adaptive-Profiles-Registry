@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "way-of-the-hunter"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "3a92e291606837f5666ba616c8a677ce5aca1d5e02175b6086095ff7598be9c9"
+    "sha256": "de5f9625297c12400def99af8eddc1cc0293fcfa506d6757d76e1bfce369a586"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

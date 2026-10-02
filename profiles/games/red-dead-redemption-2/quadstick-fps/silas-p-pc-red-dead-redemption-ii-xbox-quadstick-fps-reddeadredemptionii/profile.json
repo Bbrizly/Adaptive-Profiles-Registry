@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "red-dead-redemption-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "40a8a400dcbfd4911a995b656cba9b39e55810d228671803bf8927dc6b0dccbb"
+    "sha256": "cd1a5993be51bf5428ac472c5da3ce446408f24420462a62aba92edfe5846084"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

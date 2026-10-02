@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "tomb-raider-2-rise-of-the-tomb-raider"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8346457e04e4f6af3ad5574c6a0ddfa40006f768d820de27d148e5db08ba8598"
+    "sha256": "e255b69799a1b8d34e082af7a0c434403cf6e27ce70f8eeae73fd3c92e127c17"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

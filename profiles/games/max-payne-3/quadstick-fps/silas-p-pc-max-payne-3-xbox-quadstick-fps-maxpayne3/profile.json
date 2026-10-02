@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "max-payne-3"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b348d4f1754fab9a2e714bebde8d0e1ddc3a2b16b43c1f99718b28f8c97d3332"
+    "sha256": "b3a29d14b310989bd8b86c5318586c4e7ae5f5beed2147398a3f69a3b0aaf718"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

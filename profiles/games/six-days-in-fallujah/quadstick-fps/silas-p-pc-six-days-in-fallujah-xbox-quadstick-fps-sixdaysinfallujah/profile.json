@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "six-days-in-fallujah"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "35a886d349147dae649da5abe2430f56b791bd755883c16173d7432dfeb5963a"
+    "sha256": "536a78b323be77217d169b0117e4fc6b595756d883638c644010f7a9ac566ea4"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

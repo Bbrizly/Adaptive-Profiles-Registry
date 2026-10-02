@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "lethal-company"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "33644b1804587d95fdb7fa3da996dd797ffc13b68375e13b223b4a539640b5cd"
+    "sha256": "eaa87a71c3c0cce41a75e839b4829dd310f9ec3d7c4e45e55e24be153ee8e3d6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

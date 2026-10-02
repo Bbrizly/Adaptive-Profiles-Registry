@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "titanfall-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "cf17340b01862b18df12bb75d779f1aa3459760e33f92665313eaa3e5ae7757d"
+    "sha256": "334c3e657158e131e61abf30a20d464a115d43d218d7cca5512835de29e72af1"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

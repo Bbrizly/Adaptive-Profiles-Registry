@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "sleeping"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "e6f1254fd9b537b57a63df99b0fa43e46276a85153dc8f29f0352117c6128b8c"
+    "sha256": "bf1c729ce4fef0fe5a9bf0f0d5ba94324e38515266c1df307d37205f1e6e07c5"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

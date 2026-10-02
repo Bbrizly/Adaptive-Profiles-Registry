@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "it-takes-two"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "7cf9dd4c30d870e8e3102e25caf363600cdf7a2e38ce671ea19405770da73752"
+    "sha256": "d502c63b7a43d325bb4e1379f52cb6e4c336aa32fc9f1aff2ab7c9428d31e624"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "ghostbusters"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "1bb09153dd2a2b1358ff6b56a24e3306a701cfa6a3186e3906ac2a3e770d2209"
+    "sha256": "943fc79b3cc467974930a60c019744224565675c418406484676fb41c58a39a5"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

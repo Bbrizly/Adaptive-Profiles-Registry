@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "star-citizen"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "69dfc8974af9eebb9c345a3c914d6e25c36d8640aca91db6e8935e72e2f44bb3"
+    "sha256": "9f98e01c6b4b4ef61bc2e7e848ea438c011bd5c6fea9b64469847d0c7dca6649"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

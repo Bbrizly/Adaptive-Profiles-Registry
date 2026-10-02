@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "cyberpunk-2077-pc-quadstick-fps-cyberpunk",
+  "title": "Cyberpunk 2077 — Cyberpunk",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "cyberpunk-2077"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Silas P."
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1xgeJK9MdQ-e5TfoFXC1fypyoQqCV4jCHI_2XukUbJzQ/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "f5f1fbcccfa6f6e34c60b9c59914332f4a7e13a1c1e59a43ce0d2cc70e0f1770"
+  },
+  "revision": 1,
+  "createdAt": "2026-10-02",
+  "updatedAt": "2026-10-02"
+}

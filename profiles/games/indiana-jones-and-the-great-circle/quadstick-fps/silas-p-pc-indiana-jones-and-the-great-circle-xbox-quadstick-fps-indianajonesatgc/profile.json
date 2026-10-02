@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "indiana-jones-and-the-great-circle"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "99b6cb62921974ef9d6bd51d7e4b1c5dad1401ad228872faaa3b128f300e778f"
+    "sha256": "fdb59eaa7c456f38dbb876b57ffde185ce4ee8f1cd2721234aa086ad71eb24b9"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

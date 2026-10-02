@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "horizon-zero-dawn"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "52f959ec764a9ec9ff03f4052d5d539c432c76f3b4da6e9058bf2ae675daf7ef"
+    "sha256": "deb1aca4941e66920fa1ecead1726e68a83bdda9895b9e9980d8b563ef9a2a20"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

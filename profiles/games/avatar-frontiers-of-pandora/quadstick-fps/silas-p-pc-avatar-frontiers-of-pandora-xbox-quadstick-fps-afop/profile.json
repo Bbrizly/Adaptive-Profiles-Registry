@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "avatar-frontiers-of-pandora"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "3f8325c68e1c4ceb37634b0574c0682269d08aaf05f0fdef6d1fb2c72750af29"
+    "sha256": "5646c05883127cb28ebb35ad5a308078646ac4983f55eca984c158812d542be0"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

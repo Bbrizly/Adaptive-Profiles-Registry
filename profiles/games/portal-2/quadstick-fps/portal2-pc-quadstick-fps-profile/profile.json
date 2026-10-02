@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "portal-2"
   },
-  "platform": "pc",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "94d1b9e9c8e15442619cc2a583c228e04412e87a6259129989334a582cb4e1a8"
+    "sha256": "b21f954f48bfd57f54ece735a8ad38f02ac37e2304573d98611b2a5142ff15e3"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "splitgate"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "7ef33ae87b97870d85b84c27d9cf26636f664d380f4d1457ac6fd43809ac2def"
+    "sha256": "ba47fd2032443427cae89f0ded502caf0647f5038b1c6b9d5f1bf43e46ff3641"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

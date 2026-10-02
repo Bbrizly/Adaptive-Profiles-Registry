@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "just-cause-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "50079047c186cf993e21250830abe0308db65459e4ecc4ca9aa85bc1230bbcbb"
+    "sha256": "9f8ab03155154be03383e01355ccc0d00ae307811ba664dff57c04b4793b6b2b"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

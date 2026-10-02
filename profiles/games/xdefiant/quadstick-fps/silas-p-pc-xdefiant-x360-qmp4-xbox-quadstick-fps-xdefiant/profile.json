@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "xdefiant"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "5e363f449a2c5ba2c0a0f65793f1f724e34999401b8e007a727bdc336ffa29e6"
+    "sha256": "05ab925d91537b75a74c2d2b73fd4108dfda1d0436c7e13f457b9ea53232d044"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

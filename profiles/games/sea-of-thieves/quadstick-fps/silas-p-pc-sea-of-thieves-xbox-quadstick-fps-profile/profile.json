@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "sea-of-thieves"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "7c432a379029310c1e65de59d46f6a9fdb100a6315a9e6025620fb3c994342c7"
+    "sha256": "9e302ddbfd22ec56280e8560e9ae3f3033107481828343a24278348aac084604"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

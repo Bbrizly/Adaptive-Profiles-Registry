@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-advanced-warfare"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "6d98f14b5af7896063ce41143f4d85e1d109043f412fefbeec1891a8740b8c92"
+    "sha256": "1c917b9768d6e2983376798cfe82ec5a2829289c43d6f8ff9378ca9cf040c490"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

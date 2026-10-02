@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "ghosts"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a0efe6300541081fd6fb6282390d454f05fda642657494960143bd31c73411d3"
+    "sha256": "38f80664fdfefc5b2bbb301c23a986ac10859108af75a42720279499ba69a750"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

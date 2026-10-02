@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "need-for-speed-carbon"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "6d5ef30eab27c755dd650f9db5b64777c08f0a74d223cb3c0ca2a28f84f6f2c5"
+    "sha256": "480eb83ebae58f019dd26cb41fd2e827fc965863d1353fc1d21ee70c1519014f"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

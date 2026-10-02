@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "03980fa90fb08d5b947950e2905a389614a1a6a549f5774a6a3c1a47edb9c10b"
+    "sha256": "aa36ba30b7ecd4fd5d3303245b1ce3463ec9ef77ff3d9c47441d4b6c8a98ef34"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

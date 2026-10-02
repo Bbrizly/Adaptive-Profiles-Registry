@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-modern-warfare-ii"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8b7e94120a9cc446761ab4ea3c0a3994adb717d1977dd50cefdf2dda2007825f"
+    "sha256": "41d669b67af2d14e6c9fe87e8a37be8db084be30e1cd89dc8c8fadc281a510dd"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

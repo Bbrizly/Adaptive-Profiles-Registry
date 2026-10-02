@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "ghostrunner"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "c77fdd43482718732a2cb21a51b73033d72ff916c1ae58726ef7bc46b12dc535"
+    "sha256": "69e67f0d51409ef84600f1ae8f6fa01fc29810e39862afaaf98f80b715467183"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

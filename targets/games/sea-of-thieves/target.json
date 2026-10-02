@@ -8,7 +8,8 @@
     "gaming"
   ],
   "platforms": [
-    "xbox"
+    "pc",
+    "unspecified"
   ],
   "actions": [],
   "source": {

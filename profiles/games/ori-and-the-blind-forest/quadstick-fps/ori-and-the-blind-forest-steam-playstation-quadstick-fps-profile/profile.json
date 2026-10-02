@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "ori-and-the-blind-forest"
   },
-  "platform": "playstation",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "50ad99b3188df515e85f622c1c41c07e8c926c80d84344f99238384bb51881f7"
+    "sha256": "32624cb0bfdd12bd8768726524cbeed3ecf3b0b45a68d1f6a8a1f9c2454905e5"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

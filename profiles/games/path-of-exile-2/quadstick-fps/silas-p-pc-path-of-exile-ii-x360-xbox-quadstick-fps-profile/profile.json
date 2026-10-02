@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "path-of-exile-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "dd1b6221df97ea7f8d2bebeed997a8efd9c40c65e12da7bd4aee31f6a4639ce0"
+    "sha256": "c3b9b7a342d93dfb1a18cb51a9d6013c0b758629ce5e7add62e16a3a655d5f54"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

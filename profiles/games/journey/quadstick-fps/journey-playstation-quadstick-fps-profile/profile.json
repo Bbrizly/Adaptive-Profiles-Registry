@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "journey"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a9839a2d68d714c8860cfe366af83f98ba2f6052df3d746cd600e36d3cf32eb2"
+    "sha256": "9de4800db682e3ee00136875aa0cc8960eab0c2f96def388ac11958148a2baf1"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

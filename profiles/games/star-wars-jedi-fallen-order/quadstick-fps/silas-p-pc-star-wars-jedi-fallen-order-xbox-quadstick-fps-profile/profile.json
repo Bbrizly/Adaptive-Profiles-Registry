@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "star-wars-jedi-fallen-order"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "c31cc62f0994b1ae88b4f6eea08639b27a2a1994cc77d0554bb307bde748e96a"
+    "sha256": "77cd68aecae6886206fc8ae110aa593152452f97afcd99a62ebb2a0c984a3fe3"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

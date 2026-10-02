@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Steamy Biscuit"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a73a7b56d36dfa3d5e9bd49e6135c36fe5a2cf97fcda3e282dfdeee7bba646e7"
+    "sha256": "286385653dcf0a3f7a66af9a9b67647c0eb8e0ea5de95043641b5045c773345c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

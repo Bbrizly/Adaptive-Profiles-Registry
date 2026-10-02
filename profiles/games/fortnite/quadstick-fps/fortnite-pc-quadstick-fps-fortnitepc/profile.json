@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "fortnite-pc-quadstick-fps-fortnitepc",
+  "title": "Fortnite — Fortnitepc",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "fortnite"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "RockyNoHands"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1wo9W9F8cI78hMxZ0yWny_laBtY1BzL5NOZ5hkarVGGY/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "603a4ab2cf6cc9160f725053d72d1d6adaa799dd5560a5d4e1d49b7f7ddf3f24"
+  },
+  "revision": 1,
+  "createdAt": "2026-10-02",
+  "updatedAt": "2026-10-02"
+}

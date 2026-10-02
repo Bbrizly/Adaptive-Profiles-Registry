@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "batman-arkham-knight"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Dan NH"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b0065a456e904f7af7210e527d9dc0b1badd3d33b3d65848c85f9fee3e593bde"
+    "sha256": "9603e710bc89f5c72c9c7d8b080038010664344fd6c333d3b25ec89eec1ffa2c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

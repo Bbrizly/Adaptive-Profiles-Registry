@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "portal-2-xbox-quadstick-fps-portal2x",
+  "title": "Portal 2 — portal2x",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "portal-2"
+  },
+  "platform": "xbox",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Unknown contributor"
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/12chbpPU4yCuxJ3DBBDoamhGblTaLfqhrENMxsxgvM2s/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "d804968a6009d9fc90935b88a85e947cac14001554338365179b5a23a1fbac02"
+  },
+  "revision": 1,
+  "createdAt": "2026-10-02",
+  "updatedAt": "2026-10-02"
+}

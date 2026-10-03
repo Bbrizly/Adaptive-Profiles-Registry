@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "cyberpunk-2077"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "1557e6076ba413073870b46c3fd4c87e21ff6fd8ecd2c75e432bee9829b6bba4"
+    "sha256": "44e9b9afa4d44b2a712ead47a0cff4340c1a91cc5a13297b97cd77559ea791f6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

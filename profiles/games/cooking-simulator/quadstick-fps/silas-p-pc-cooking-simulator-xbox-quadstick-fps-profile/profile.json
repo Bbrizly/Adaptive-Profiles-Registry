@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "cooking-simulator"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "9e3ae095d19f3c2977bcee2130adbc3a39f1d592c5eb2c37d6b85485eb330ec0"
+    "sha256": "7261942cc81db0754497b1eee0c1ac5bcc3e3a785c5730cc6fa7035d51051459"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

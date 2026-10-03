@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "a-way-out"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a2eeab609daf694ab02d32490b603bb8b5a7cf1bd16c440d69447dea7c2b519f"
+    "sha256": "bf99277ec0e799463b9ba5972be8b8c07561ee05be625c2574df578052692528"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

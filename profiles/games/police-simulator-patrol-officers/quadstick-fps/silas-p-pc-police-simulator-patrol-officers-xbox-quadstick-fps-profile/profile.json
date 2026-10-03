@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "police-simulator-patrol-officers"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "fcce1abf6182adaecb9b577a270bc561562f580592c4a3963d8283c591348078"
+    "sha256": "f2b9f360f1bb8b0752fd21093e3d32ffbba0b0e491ab00716ca35669d6286884"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

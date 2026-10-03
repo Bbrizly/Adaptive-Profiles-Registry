@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "nba-2k15"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "0b0e40b5c74e0ac91e89e44d306ee41a1de182b8221e9f268227e5251b699dae"
+    "sha256": "0b480cb5da1b97f49191d918290008cbdcfd18f70f1ed2c2837d2f66a837611c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

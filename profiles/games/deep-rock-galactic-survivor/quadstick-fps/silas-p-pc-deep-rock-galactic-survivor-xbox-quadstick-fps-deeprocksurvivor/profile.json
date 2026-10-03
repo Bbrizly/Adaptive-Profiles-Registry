@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "deep-rock-galactic-survivor"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "86e0c28324aa74337514999763c0b6e7858222e69e97319e2f532732025b98c0"
+    "sha256": "f73d7d01d6d18b0c52751901a31d95a580f551edb31934d85ab6b77ba9fccdf4"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

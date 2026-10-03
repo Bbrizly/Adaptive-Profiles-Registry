@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "chained-together"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b7901c4d77b2a294b80b0679150c836a6ef7380cfc2754c1ca3069b5f7bd2f1f"
+    "sha256": "b4e37dc46f3ab585643f3c621038c46ba8d13ac653cd35283ddfd900d30ed5cc"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

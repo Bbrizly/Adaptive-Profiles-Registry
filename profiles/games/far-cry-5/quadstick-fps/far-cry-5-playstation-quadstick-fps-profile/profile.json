@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "far-cry-5"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8e6af5c5598bed886009b7498a61568e1d48e01dcc9ef85a775a38c0925ecde9"
+    "sha256": "8b82f78a50ba5266fd5970778d175b0d560f5e103c62ac3d8c9fe64be7d23de8"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

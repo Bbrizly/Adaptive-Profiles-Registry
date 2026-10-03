@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "euro-truck-simulator-2"
   },
-  "platform": "switch",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a7f105186273cbf11997b462380c029edc71ffe20d5717cfb54d96f1cc5f52cc"
+    "sha256": "d8589f7e3f0c10341eeddcaf4564b50ee7a98ed495c95ea1590f7b0d78a15149"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

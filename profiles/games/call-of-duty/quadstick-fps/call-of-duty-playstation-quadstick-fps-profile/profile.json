@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "2cefdb1af35e5e13857eff479a8f3b6523fee0caca9721da52379020368667cf"
+    "sha256": "8a3492fcc959e1f9c6f77e8ddf660cd2729cf9ec2f0fbd9791feba8303851865"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

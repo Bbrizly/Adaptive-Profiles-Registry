@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "devil-may-cry"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "30a5b5b7234caeef7e1feead8cfb699fdc12e5a4b1e6d602a1bdb40fbccc7f63"
+    "sha256": "e26597fd32e90ef4df0971e6b31fdaac44681343e5982b9a5551893fbaebd03d"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

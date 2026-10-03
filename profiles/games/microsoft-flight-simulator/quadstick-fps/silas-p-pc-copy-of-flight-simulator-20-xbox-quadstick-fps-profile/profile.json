@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "microsoft-flight-simulator"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ca30e48c1951c43756a40670621144b470b381fe15145a08d30d62c480f82aaf"
+    "sha256": "9805e5ade71f1a016af2f72d743b2e6c2628ff3c57daa1b7ec6c526111f85bac"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

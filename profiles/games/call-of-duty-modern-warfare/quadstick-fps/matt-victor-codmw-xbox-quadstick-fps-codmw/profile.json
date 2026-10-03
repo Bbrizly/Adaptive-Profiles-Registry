@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-modern-warfare"
   },
-  "platform": "xbox",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Matt Victor"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "c1c4b962ce1d4abad13f523b611ce0a1dd6a3a4074b904c567a7e7fa902f119b"
+    "sha256": "35672e28c7a9c05308701d122d59453d921092d2a944472f46ba5650064c1468"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

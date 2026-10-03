@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "apex-legends"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a860bc5f9ca88acacd6061fe7a4a0d6ab8abde6493c445e057490121de917d20"
+    "sha256": "91197450904c73ca0159d57bcd105496a50b72f146178fb94b56b97b88815ff3"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

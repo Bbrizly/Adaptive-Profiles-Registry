@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "valheim"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b8dc711ca9fd17dad8ed8a3cf6bae7e75e332f15fc92eb395d784030719be28a"
+    "sha256": "9cf3fb51d70ce1b6a2b2c4cb82d4610187ee0671a6c0b4c5340085f194af9629"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

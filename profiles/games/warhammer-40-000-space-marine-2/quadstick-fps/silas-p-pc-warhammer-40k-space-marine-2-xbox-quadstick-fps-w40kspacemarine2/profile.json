@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "warhammer-40-000-space-marine-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "18bbd19342e12e5bc11348bea31a08740946ac27db08cd8485e47ca173542957"
+    "sha256": "e2f142a37d3bc002c639be61fc998e1aafb1daaea05222fd417ab74f3be17ca0"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

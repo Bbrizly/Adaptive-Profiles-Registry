@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "shadow-warrior-3"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ef00116ed60dbeed8c297c5ad40f76c7eea2f75a1e60b1311dad0c716f9403eb"
+    "sha256": "26e8f210d5cb4001951325a3470348c9424072c61816644b1463819b20cd969d"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

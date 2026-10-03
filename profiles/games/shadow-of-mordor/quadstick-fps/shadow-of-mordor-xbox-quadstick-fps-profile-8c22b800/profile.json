@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "shadow-of-mordor"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8c22b800f2f7a6fa797b8fbb66277456c33700f384f5d0cdd21ce0373d9dcdb9"
+    "sha256": "62e968ac1653046b09509ec124ab37a458f4a905ae396b07a471619bfe23d738"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "hytale"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "21b4dccfca27b40061da8ef6ee59aa9a83cd883a0fd292a564f9655a105a1b7d"
+    "sha256": "88d1b382ddfe2c641d5cbc7e46f01b7e89a84aa0486a7f45570fc9b84a8caef0"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

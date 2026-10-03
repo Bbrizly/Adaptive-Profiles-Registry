@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "gta-v-fivem-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "942fd985b49a8f80ffacce2108a9a9a886033414e75365641b3d27b475ba93aa"
+    "sha256": "1b4f55411afb355b202ce61be962b2001c2411ceb1f0fc5261bb1fe194f043cc"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

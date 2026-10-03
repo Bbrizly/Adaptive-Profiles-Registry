@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "the-witcher-3-wild-hunt"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "f4a9c26f57b42eb39b03d77ac759e7c3a6914232b9b2967e51276ae49a6f7522"
+    "sha256": "f96a0447a67afa2de6f311b95a88b2285bf4579ff6686b9d598cead533806e76"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

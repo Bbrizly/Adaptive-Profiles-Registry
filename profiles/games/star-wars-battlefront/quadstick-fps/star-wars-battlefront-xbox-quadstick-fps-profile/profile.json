@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "star-wars-battlefront"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "7fd19f311d8776e1efd884c9def9aa8be722bce0aaa38cd80a7657331a6eb411"
+    "sha256": "90249f6c516f291adf9a30d121de4fd930d1c3a5c84e51e6a6acd2c997781b15"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

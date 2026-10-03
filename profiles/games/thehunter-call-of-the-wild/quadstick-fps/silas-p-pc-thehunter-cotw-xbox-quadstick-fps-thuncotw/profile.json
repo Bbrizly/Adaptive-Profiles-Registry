@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "thehunter-call-of-the-wild"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8e942baf649598089fed92e7b506b13d5475fcf3de8299bf48627cb5bb117c5f"
+    "sha256": "6772fc7c3cf2494a1f2a5976f8fb960b2604062093665baa2efe35b38d0a1020"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

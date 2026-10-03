@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "world-of-tanks"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ea22f6135c17ae28c6172b9a7c1fd19707c88dbbbafb2d5c897e04ed0bfe6b81"
+    "sha256": "ff3f4ec14d094606f85f31e37e50678fdbb4a2491b434c1f02693453a7f83bbb"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

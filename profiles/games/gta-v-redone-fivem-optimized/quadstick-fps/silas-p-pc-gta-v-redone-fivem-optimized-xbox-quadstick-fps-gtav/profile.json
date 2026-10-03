@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "gta-v-redone-fivem-optimized"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "777dfc7862cb099222692300b4404a1f4426ffa4e285026d871f678a82e4df61"
+    "sha256": "263293e285a3f8f9a80788857fdc1696ca6a366eef54bc2223e2a8fbef03eaf4"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

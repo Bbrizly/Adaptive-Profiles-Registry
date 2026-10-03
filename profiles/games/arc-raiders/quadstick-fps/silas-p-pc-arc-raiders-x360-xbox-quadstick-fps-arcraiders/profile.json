@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "arc-raiders"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ca13cc0fdfb36e4fe2ccd71ace032e02ecaf506ad0a68858a7e42543a96d4e0a"
+    "sha256": "d16b07e329e80e52bd1d99441c485d6de544ee132efc193e1bafe5dd47342a9e"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

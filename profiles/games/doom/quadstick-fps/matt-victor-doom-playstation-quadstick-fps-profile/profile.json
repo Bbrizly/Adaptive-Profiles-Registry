@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "doom"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Matt Victor"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "55e5a4056af1685faf5745b8798645ce9b3431e9b37ad9f203db282025aece33"
+    "sha256": "840812ce1f7b6d56fbfff6e24cf57f8e95a16b3f2b787bde75f812ba44ca1f69"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

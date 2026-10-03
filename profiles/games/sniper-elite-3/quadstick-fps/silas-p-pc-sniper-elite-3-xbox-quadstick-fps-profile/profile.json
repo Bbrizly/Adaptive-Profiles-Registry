@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "sniper-elite-3"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "40bb63c122dbd598bdbbea1ab46f68fb2ea5c96f2cf77cf9f39b3caa5df809d2"
+    "sha256": "56e313d66e46e2b68a8fd88851b4b5fd80daf46ece000f9c006fe24990c101a6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

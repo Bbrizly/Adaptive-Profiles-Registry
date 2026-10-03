@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "deliver-at-all-costs"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "d533fea7c221c9344db127e61aa9f87657c104b453fe4b158675d5bfcf1a7f23"
+    "sha256": "0bdcf99defa68609c9a3e58d72eb0c8f5b6f95b000354b28378fb45ba1719049"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

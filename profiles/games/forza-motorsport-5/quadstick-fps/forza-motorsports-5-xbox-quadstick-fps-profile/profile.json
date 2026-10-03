@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "forza-motorsport-5"
   },
-  "platform": "xbox",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "dc58c696676f3628d9e13f63a340c5c201e4cdf6c9f930cac0fcd2fa8d700fb4"
+    "sha256": "e18742032271e9dc33d01944b0c38377b8fbfdabeaab0e27288ca958d64d180a"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

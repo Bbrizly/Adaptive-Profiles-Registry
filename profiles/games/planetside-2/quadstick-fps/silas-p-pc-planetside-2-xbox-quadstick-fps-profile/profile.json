@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "planetside-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "330e1f1be345400355d9b97eec9c14b4f13dafd947829e7c65adb70ff3caf516"
+    "sha256": "7bff90f31402893e0fd043cb61fa6625db6cf6fd4892b9056e391da9c1f51d9b"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

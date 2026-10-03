@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "mx-vs-atv-supercross-encore"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "fc312610fde5b63ad689e3b9df28337db61c8b3b2f06c4b80c835447e1100aa8"
+    "sha256": "5682ab0a5dce436c8e38bb8a5955b11a0eab95b94c91eea47a5cbd928b5a93d6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

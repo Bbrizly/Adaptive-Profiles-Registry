@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-black-ops-cold-war"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "628050318f25d863cd01f6758e40f28d4ac95935130db66d5350215c53b14e0e"
+    "sha256": "53e30426e173a344ef822171b791a0d0d676554575b758f3ac47cfdec551d427"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

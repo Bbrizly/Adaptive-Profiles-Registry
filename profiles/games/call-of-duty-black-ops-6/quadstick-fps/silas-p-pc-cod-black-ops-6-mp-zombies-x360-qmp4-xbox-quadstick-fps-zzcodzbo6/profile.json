@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-black-ops-6"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "a6d26567754c7b3204bb5e4affec2adf064081cd73491e3d0f4385bf5c69fedd"
+    "sha256": "50c45a4090c61a901106879ad299cc41ccbedbeecb143c64b71775ec2018e101"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

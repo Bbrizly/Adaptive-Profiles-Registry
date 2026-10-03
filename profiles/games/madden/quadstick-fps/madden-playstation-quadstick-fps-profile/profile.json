@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "madden"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b05531a31236e5e40d776e315befbc931dac96a84a09fa8ca5aca57b91a2da70"
+    "sha256": "3038be9841adc6f95b496b1d55cdf21855d749b368a99925f9b9954f200f63d8"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "goat-simulator-3"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "4d84e26c501effb8f3cfffdda9606e8c291f7aceb5fa52d1038095d2c94c7061"
+    "sha256": "1f3d4e59da19de5bf797f4e0989ed171ee6d77ae11c907d2108500f6833042ef"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

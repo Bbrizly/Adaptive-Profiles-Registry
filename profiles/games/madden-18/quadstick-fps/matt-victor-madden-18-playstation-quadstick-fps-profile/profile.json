@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "madden-18"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Matt Victor"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "b0c77d465ddc543c3c2c9c506dfef764c591da2f63095ce94e16ec57003a0761"
+    "sha256": "39703e7c00fb918f76b2187bb9579cd41971e5db438ea3831ea489bd53c19af6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

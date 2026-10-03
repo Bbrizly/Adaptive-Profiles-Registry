@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "tunic"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "138ff27bdff8c3086283dfee5e7f0a1b17ad6df0ed51084cd8ff5ff445a8b431"
+    "sha256": "914653e487c6b9dca6fcb27846f31290dc9e4db4332c3d5695371fc76ad6685a"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "the-last-of-us"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "cc6a42454a4e02ba9feb2f57a2efddca53ae08b5b369e053944ca30c78b223c2"
+    "sha256": "cfb59d5c425f8244a200573594e659801f57145dbbb172db938bbb1f0f92ae2a"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

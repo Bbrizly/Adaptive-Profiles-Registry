@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "peak-pc-quadstick-fps-peak",
+  "title": "Peak — Peak",
+  "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+  "target": {
+    "kind": "game",
+    "id": "peak"
+  },
+  "platform": "pc",
+  "deviceId": "quadstick-fps",
+  "semanticStatus": "unmapped",
+  "mappings": [],
+  "tags": [
+    "community",
+    "quadstick-catalog",
+    "unmapped"
+  ],
+  "contributor": {
+    "displayName": "Silas P."
+  },
+  "source": {
+    "type": "google-sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1N_WljzqAtyhxy6rvES1HdY45FTVreYo6RMRxBD843Rw/edit"
+  },
+  "snapshot": {
+    "file": "profile.csv",
+    "sha256": "866e1fc463b968a34675597680d1d39255703e4ee4fea01c27a346ab9fcc7fc9"
+  },
+  "revision": 1,
+  "createdAt": "2026-10-02",
+  "updatedAt": "2026-10-02"
+}

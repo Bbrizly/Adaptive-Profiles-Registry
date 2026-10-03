@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "sniper-ghost-warrior-2"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "2853fe27c9a33ec247789ce30e92449569f96acea65110e61ae14f89a40eb858"
+    "sha256": "d4d9b8b652241003face034e6610341ccdb0d4ddea874154366aa079c740236c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

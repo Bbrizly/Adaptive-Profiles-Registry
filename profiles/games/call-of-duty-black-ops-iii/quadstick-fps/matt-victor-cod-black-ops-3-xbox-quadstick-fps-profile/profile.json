@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "call-of-duty-black-ops-iii"
   },
-  "platform": "xbox",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Matt Victor"
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "544215aeb6ae89ac1e6d8a6e5c782119ad640c4702847433c9d8695e18df5e62"
+    "sha256": "7b4d0dafaadafc77eda12fa02e9649a64ee616ac24cafea09cb9e72464268117"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

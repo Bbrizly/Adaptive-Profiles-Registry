@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "red-dead-redemption-no-fishing"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "1b7d600660c7d91b0dab8c26ec918813f516cbdeb1dcc0562f37da913998ef96"
+    "sha256": "d654a4e0e99f43d4d4e0b61b080ffb55e0ab20059bff7eb76a6cb33887b360d6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "battlefield-2042"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "04f2dc530ee8d031e9ba4c44d04c76f3e56e644620d747a48a4e32856adf230c"
+    "sha256": "50dd7e17db67e3453fc3ad4babd56be579e920f97bd2dde8984d83f0d5d20cb6"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

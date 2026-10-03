@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "split-fiction"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "cafbf2d19f05d8f49b2b6f67abfd46b4fcd0e47aec0354927f6cd08d3415a719"
+    "sha256": "95d8d3ee008d2accf345b87d3988ae790b0508f975f1c881a0ef77df06958b32"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

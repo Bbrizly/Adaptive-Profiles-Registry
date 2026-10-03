@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "peak",
+  "kind": "game",
+  "name": "Peak",
+  "aliases": [],
+  "categories": [
+    "gaming"
+  ],
+  "platforms": [
+    "pc"
+  ],
+  "actions": [],
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/1N_WljzqAtyhxy6rvES1HdY45FTVreYo6RMRxBD843Rw/edit",
+    "title": "QuadStick public configuration catalog — Peak"
+  }
+}

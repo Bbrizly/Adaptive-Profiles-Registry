@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "metal-gear-snake-eater"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "cc94393073dd60d94560b10028d116bbf5a499fddfba34be00c45cfc1d6572bd"
+    "sha256": "7365c84845495588a9b40f72fc5aedd6671b5534ea96eedc8da38ba130262243"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

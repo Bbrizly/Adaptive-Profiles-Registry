@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "construction-simulator"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "09b17964e4a9f4a41a57f53f2db65b1d3439f945128f1fae9ce854cd084996ad"
+    "sha256": "764dab29517c405b315bc67c42a74be6c886d16b75f70aae1f77f220c72a3a94"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

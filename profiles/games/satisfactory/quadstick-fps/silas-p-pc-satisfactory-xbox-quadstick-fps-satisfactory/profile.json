@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "satisfactory"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "9db9887445908a558747e0ca72ad1b56fe534d32832f18f87bee377f66c3cb3b"
+    "sha256": "7857fd668cd02814f3c9af29fe3e5a85ae3271ebb891a6409cd3586c438acec3"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

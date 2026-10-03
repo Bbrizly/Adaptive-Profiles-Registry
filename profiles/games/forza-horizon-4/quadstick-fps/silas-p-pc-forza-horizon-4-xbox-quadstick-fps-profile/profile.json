@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "forza-horizon-4"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "757acd7527e94c7510a50cb48e2869df754d1a4e7a9b8bac78d4efc5415c75f2"
+    "sha256": "095d97a8ea1832154fa83c52fc8b41e57ed7f395385680bff47ce10aafbf4f18"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

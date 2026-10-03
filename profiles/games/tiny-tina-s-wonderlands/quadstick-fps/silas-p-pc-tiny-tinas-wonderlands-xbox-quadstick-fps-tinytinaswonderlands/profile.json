@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "tiny-tina-s-wonderlands"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "53875ca0986f37d529aad5bfc71e50fc5607a65c398cf77f62a3c65557b3b094"
+    "sha256": "77dd29c289e32aa429f9e43abca80a4f4888f8a2c87ef1d16a990e90818c0d65"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

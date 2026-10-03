@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "schedule-i"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8db4092ff7bab7d64d0a82067bd2966beffd5c5fc8eb561cf884fd2b5ad1a873"
+    "sha256": "ac08e31c0ceb4ffedcd6e03b535999ed65f5aa7cee7a8fae31b95481974611a3"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

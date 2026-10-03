@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "hunt-showdown"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "48c9abdbeb8095de8da2d4307da914743bf5039b3314d474207f026069b75f41"
+    "sha256": "40c6db338a95c4e2ffd4024c930bca9aedafc7fb775ca42b337feba48fe8d248"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

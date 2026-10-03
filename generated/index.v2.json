@@ -11,7 +11,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -62,7 +62,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -87,7 +87,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -150,7 +150,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -175,7 +175,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -246,7 +246,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -299,8 +299,7 @@
         "gaming"
       ],
       "platforms": [
-        "pc",
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -367,7 +366,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -392,7 +391,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -459,7 +458,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -538,7 +537,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -590,7 +589,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -642,7 +641,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -751,7 +750,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -819,7 +818,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -936,7 +935,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -1080,7 +1079,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -1141,7 +1140,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation",
+        "unspecified",
         "xbox"
       ],
       "actions": [],
@@ -1193,7 +1192,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1244,7 +1243,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1295,7 +1294,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -1348,7 +1347,8 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc",
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -1409,7 +1409,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1460,7 +1460,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1526,7 +1526,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1579,7 +1579,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1631,7 +1631,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1694,7 +1694,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1814,7 +1814,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1883,7 +1883,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -1996,7 +1996,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2047,7 +2047,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2098,7 +2098,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2166,7 +2166,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2218,7 +2218,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -2281,7 +2281,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -2372,8 +2372,8 @@
         "gaming"
       ],
       "platforms": [
-        "playstation",
-        "xbox"
+        "pc",
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -2434,7 +2434,7 @@
         "gaming"
       ],
       "platforms": [
-        "switch"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -2561,7 +2561,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2632,7 +2632,7 @@
         "gaming"
       ],
       "platforms": [
-        "switch"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2755,7 +2755,7 @@
       ],
       "platforms": [
         "pc",
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -2823,8 +2823,8 @@
         "gaming"
       ],
       "platforms": [
-        "playstation",
-        "xbox"
+        "pc",
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -2891,7 +2891,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -2959,7 +2959,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3081,7 +3081,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3137,7 +3137,6 @@
       "platforms": [
         "pc",
         "playstation",
-        "switch",
         "xbox"
       ],
       "actions": [
@@ -3232,7 +3231,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3283,7 +3282,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -3308,7 +3307,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -3376,7 +3375,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3401,7 +3400,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3453,7 +3452,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -3514,7 +3513,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3575,7 +3574,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -3612,7 +3611,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3704,7 +3703,8 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "playstation",
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -3794,7 +3794,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -3847,7 +3847,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3899,7 +3899,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3952,7 +3952,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -3977,7 +3977,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4002,7 +4002,7 @@
         "gaming"
       ],
       "platforms": [
-        "pc"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -4055,8 +4055,8 @@
         "gaming"
       ],
       "platforms": [
-        "switch",
-        "xbox"
+        "pc",
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -4108,7 +4108,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4159,7 +4159,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4223,7 +4223,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4276,7 +4276,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4329,7 +4329,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4379,7 +4379,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4424,7 +4424,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4491,7 +4491,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4543,7 +4543,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -4605,7 +4605,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4725,7 +4725,7 @@
         "gaming"
       ],
       "platforms": [
-        "switch"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4750,7 +4750,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4775,7 +4775,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4866,7 +4866,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -4903,7 +4903,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -4928,7 +4928,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -4980,7 +4980,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5048,7 +5048,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5099,7 +5099,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5153,10 +5153,7 @@
         "gaming"
       ],
       "platforms": [
-        "pc",
-        "playstation",
-        "switch",
-        "xbox"
+        "pc"
       ],
       "actions": [
         {
@@ -5402,7 +5399,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5455,7 +5452,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5544,7 +5541,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5569,7 +5566,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5623,7 +5620,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5648,7 +5645,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation",
+        "pc",
         "xbox"
       ],
       "actions": [],
@@ -5700,7 +5697,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5755,7 +5752,7 @@
         "gaming"
       ],
       "platforms": [
-        "switch"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5883,6 +5880,24 @@
     },
     {
       "schemaVersion": 2,
+      "id": "peak",
+      "kind": "game",
+      "name": "Peak",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "actions": [],
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1N_WljzqAtyhxy6rvES1HdY45FTVreYo6RMRxBD843Rw/edit",
+        "title": "QuadStick public configuration catalog — Peak"
+      }
+    },
+    {
+      "schemaVersion": 2,
       "id": "planetside-2",
       "kind": "game",
       "name": "PlanetSide 2",
@@ -5891,7 +5906,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -5959,7 +5974,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6025,7 +6040,8 @@
         "gaming"
       ],
       "platforms": [
-        "pc"
+        "unspecified",
+        "xbox"
       ],
       "actions": [],
       "source": {
@@ -6103,7 +6119,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6210,7 +6226,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6273,7 +6289,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -6340,7 +6356,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -6365,8 +6381,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation",
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6432,7 +6447,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6457,7 +6472,7 @@
         "gaming"
       ],
       "platforms": [
-        "switch"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -6527,7 +6542,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6552,7 +6567,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6606,7 +6621,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6661,7 +6676,8 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc",
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -6723,6 +6739,7 @@
         "gaming"
       ],
       "platforms": [
+        "pc",
         "xbox"
       ],
       "actions": [],
@@ -6771,7 +6788,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6837,7 +6854,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6862,7 +6879,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6913,7 +6930,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -6976,7 +6993,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -7039,7 +7056,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7090,7 +7107,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7158,7 +7175,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7227,7 +7244,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7277,7 +7294,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7342,7 +7359,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7408,7 +7425,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7461,7 +7478,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7486,7 +7503,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7559,8 +7576,7 @@
         "action-adventure"
       ],
       "platforms": [
-        "pc",
-        "xbox"
+        "pc"
       ],
       "actions": [
         {
@@ -7701,7 +7717,7 @@
         "gaming"
       ],
       "platforms": [
-        "switch"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7726,7 +7742,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -7811,7 +7827,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "switch"
       ],
       "actions": [],
       "source": {
@@ -7836,7 +7852,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -7949,8 +7965,8 @@
         "gaming"
       ],
       "platforms": [
-        "playstation",
-        "xbox"
+        "pc",
+        "playstation"
       ],
       "actions": [],
       "source": {
@@ -7987,7 +8003,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8048,7 +8064,8 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc",
+        "switch"
       ],
       "actions": [],
       "source": {
@@ -8091,7 +8108,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8157,7 +8174,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8209,7 +8226,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8278,7 +8295,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8343,7 +8360,7 @@
         "gaming"
       ],
       "platforms": [
-        "playstation"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -8395,7 +8412,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8446,7 +8463,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8499,7 +8516,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8552,7 +8569,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8612,7 +8629,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8663,7 +8680,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8728,8 +8745,7 @@
         "crafting"
       ],
       "platforms": [
-        "pc",
-        "xbox"
+        "pc"
       ],
       "actions": [
         {
@@ -8855,7 +8871,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8907,7 +8923,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -8959,7 +8975,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -9094,7 +9110,7 @@
       ],
       "platforms": [
         "pc",
-        "xbox"
+        "unspecified"
       ],
       "actions": [],
       "source": {
@@ -9236,7 +9252,7 @@
         "gaming"
       ],
       "platforms": [
-        "xbox"
+        "pc"
       ],
       "actions": [],
       "source": {
@@ -9377,7 +9393,7 @@
         "kind": "game",
         "id": "007-first-light"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9387,7 +9403,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9395,11 +9411,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1fec743fc69fee32290d49129d6f4e633f57d2df5c1b287b8b4ab010153b6cc6"
+        "sha256": "1f8e5351089c5c857be2c826d14c2f8b740ae57a68f67c8fc7d8355c2c09e1af"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9410,7 +9426,7 @@
         "kind": "game",
         "id": "a-plague-tale-1-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9420,7 +9436,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9428,11 +9444,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1def1583fde02e5dd6989061c858e46a75045e5b2ba4a9c00b542d52f7b90d9b"
+        "sha256": "b1d19a4ed39e24ab2347d16c3f8f89eaaefdedd6ad910ed80410ca2403346ff8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9443,7 +9459,7 @@
         "kind": "game",
         "id": "a-way-out"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9453,7 +9469,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9461,11 +9477,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a2eeab609daf694ab02d32490b603bb8b5a7cf1bd16c440d69447dea7c2b519f"
+        "sha256": "bf99277ec0e799463b9ba5972be8b8c07561ee05be625c2574df578052692528"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9476,7 +9492,7 @@
         "kind": "game",
         "id": "alan-wake-ii"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9486,7 +9502,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9494,11 +9510,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "beb209dd85995fba14e8f5125903d29285a535f9ed6543ad68e7f5646f0bb8f2"
+        "sha256": "a8585b72a84372411b4d15c8cfaa8570a6e34fa30a32b562dceef10621858f4c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9509,7 +9525,7 @@
         "kind": "game",
         "id": "apex-legends"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9519,7 +9535,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9527,11 +9543,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a860bc5f9ca88acacd6061fe7a4a0d6ab8abde6493c445e057490121de917d20"
+        "sha256": "91197450904c73ca0159d57bcd105496a50b72f146178fb94b56b97b88815ff3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9542,7 +9558,7 @@
         "kind": "game",
         "id": "apex-legends"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9552,7 +9568,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9560,11 +9576,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "552ae678d1e360601e0931f6a9cd098048e4f626a5f5844cd6a3e26946464309"
+        "sha256": "71d8abd273d2594044e63e16b05ab357c0e5ce89fe07fbcd94e6a92c84f94f84"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9575,7 +9591,7 @@
         "kind": "game",
         "id": "arc-raiders"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9585,7 +9601,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9593,11 +9609,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ca13cc0fdfb36e4fe2ccd71ace032e02ecaf506ad0a68858a7e42543a96d4e0a"
+        "sha256": "d16b07e329e80e52bd1d99441c485d6de544ee132efc193e1bafe5dd47342a9e"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9626,11 +9642,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "bdd1cdb920e29234fb9785ec8ce296c3f9fee8afaf12128f603e1fcea27222f3"
+        "sha256": "0c41255718f0d85909c3e1eb2ad0ecb63a4c7e3a8b5fa16df11ce23a3b6f0f10"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9641,7 +9657,7 @@
         "kind": "game",
         "id": "assassin-s-creed"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9659,11 +9675,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "7f0b052f21f2a9a6a3bf0c3b4f2d3e043f706cca3a59174fb71b20f6cbf8a311"
+        "sha256": "59d5a9c4a8d934a2ec3ebd96189d07b89bb3e98972eeee59905540f615b553fc"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9674,7 +9690,7 @@
         "kind": "game",
         "id": "assassin-s-creed-iv-black-flag-resynced"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9684,7 +9700,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9692,11 +9708,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a7115f4bda0aaadee638faad241d11e72962abd62911eeb9bd443a5819d845a7"
+        "sha256": "fe20916a38c19d61dbc2720d3df7a58616557ef7bc5bb526017dcfe0db83bb15"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9707,7 +9723,7 @@
         "kind": "game",
         "id": "assassin-s-creed-unity"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9717,7 +9733,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9725,11 +9741,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "35b2005c10c8c59f0055823d275dffc84e7ad88ddfc58332d199729b1cff1a44"
+        "sha256": "153cfa555ffb9f3ae14b69841a0d006274aa4a71066e9a1f967e40dca9b7d237"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9740,7 +9756,7 @@
         "kind": "game",
         "id": "avatar-frontiers-of-pandora"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9750,7 +9766,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9758,11 +9774,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "3f8325c68e1c4ceb37634b0574c0682269d08aaf05f0fdef6d1fb2c72750af29"
+        "sha256": "5646c05883127cb28ebb35ad5a308078646ac4983f55eca984c158812d542be0"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9783,7 +9799,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9791,11 +9807,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b3dd601f4e8e0cadb280993a7e2791f97a00ca47551718d380e03150d649d002"
+        "sha256": "e01da6f27935277b010e1ebb58fa7dbfc0d7d656e82f2f7cc403e87771b4a12f"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9806,7 +9822,7 @@
         "kind": "game",
         "id": "batman-arkham-city"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9816,7 +9832,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9824,11 +9840,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "423ce08a6085201e634df3f2fa5ced56384b561e81c99566fc0391d92631fc1b"
+        "sha256": "738dcfdda67ef8279926617e6cc5fa8271af8d6e77cfa76803e98e4747717a30"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9839,7 +9855,7 @@
         "kind": "game",
         "id": "batman-arkham-knight"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9849,7 +9865,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -9857,11 +9873,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b0065a456e904f7af7210e527d9dc0b1badd3d33b3d65848c85f9fee3e593bde"
+        "sha256": "9603e710bc89f5c72c9c7d8b080038010664344fd6c333d3b25ec89eec1ffa2c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9872,7 +9888,7 @@
         "kind": "game",
         "id": "battlebit-remastered"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9882,7 +9898,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9890,11 +9906,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8c81169cbe11288181d47584acd50ebcefac9458f8df87f5cf1a1da443e1d09f"
+        "sha256": "e33763df25dafda6a5d58191a3124858a1e6aaffd84a5ba91f35114bc0c02278"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9923,11 +9939,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ff0b2ad22f1010656059c0cfd3aa95811c0592f95a65ca645d75ac568fe58122"
+        "sha256": "ab4c27754a69cf53625341a4098f07a9881df9f7e201a91d91b211244f12a769"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9956,11 +9972,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "33ae82ba7ccec85a2c26281ef480a6d77d2ca6da12f8ef8184fab5bd2dcf2705"
+        "sha256": "61a27ad9f639d45b394e7e2da9695d87c370f9d56b7d748c7734b242580e7946"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -9971,7 +9987,7 @@
         "kind": "game",
         "id": "battlefield-2042"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -9981,7 +9997,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -9989,11 +10005,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "04f2dc530ee8d031e9ba4c44d04c76f3e56e644620d747a48a4e32856adf230c"
+        "sha256": "50dd7e17db67e3453fc3ad4babd56be579e920f97bd2dde8984d83f0d5d20cb6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10004,7 +10020,7 @@
         "kind": "game",
         "id": "battlefield-6"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10014,7 +10030,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10022,11 +10038,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "31be5f2578a46e6460312cf8a6ae224c99a8112168bcad41e9d8cfcf8bdbeccf"
+        "sha256": "b6380f6cf0ee112ac42dd033c0b7d13bd57144196e9d31655fef2e839eb82d9b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10047,7 +10063,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10055,11 +10071,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ef03296370faf047d7dae1c27b4e4072acc05a7997710493a45c8a3f7ee8fa8d"
+        "sha256": "cf3835e10e2af3051a0e3084d915ce4250efa0ee91f7be1fdd93ed16ee1c1244"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10070,7 +10086,7 @@
         "kind": "game",
         "id": "bioshock"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10088,11 +10104,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8ae7960405666167cc9ce3d2f75a35fa9528ea325e691f4cf551d3fc640352b7"
+        "sha256": "785fe20a77c3d64d30cdedb7e04f1992f70c4d4fa626f62fd3ffc57da10db2e1"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10122,11 +10138,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9f3c3467b45a52672885e8cd879c84b36ec517bd9a09f922639f793929c9bb6d"
+        "sha256": "6aa3c6a8026469cacdc432bffd59570541fb148e88f356065c9dee0161688114"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10137,7 +10153,7 @@
         "kind": "game",
         "id": "call-of-duty"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10155,11 +10171,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2cefdb1af35e5e13857eff479a8f3b6523fee0caca9721da52379020368667cf"
+        "sha256": "8a3492fcc959e1f9c6f77e8ddf660cd2729cf9ec2f0fbd9791feba8303851865"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10170,7 +10186,7 @@
         "kind": "game",
         "id": "call-of-duty-advanced-warfare"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10188,11 +10204,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6d98f14b5af7896063ce41143f4d85e1d109043f412fefbeec1891a8740b8c92"
+        "sha256": "1c917b9768d6e2983376798cfe82ec5a2829289c43d6f8ff9378ca9cf040c490"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10221,11 +10237,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "18f98ed1e31b323f15d2153cd6f33abb98a6bb77b56b2b1b6d00c0ea0838129a"
+        "sha256": "db22c601f05e38f14c55cb7a9333747daae82790956d8b46513a5ce7b2da6695"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10236,7 +10252,7 @@
         "kind": "game",
         "id": "call-of-duty-black-ops-6"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10246,7 +10262,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10254,11 +10270,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "5b6caa2088deb38f5f01460bf4689bffcef3bbcfa5acbdfc999002b716f23b6a"
+        "sha256": "95a57066be4f3bc4790e264e03f318e7c3b2421e123753bd89fac15281ab8511"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10269,7 +10285,7 @@
         "kind": "game",
         "id": "call-of-duty-black-ops-6"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10279,7 +10295,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10287,11 +10303,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2fe7090b0845481e8a09ffcbe40b208525cee9f600b384c121b5098d5e31e584"
+        "sha256": "f758c884503ae1e18f16921b68351e040b919d3ec105b8c3b0682af359d4ca53"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10302,7 +10318,7 @@
         "kind": "game",
         "id": "call-of-duty-black-ops-6"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10312,7 +10328,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10320,11 +10336,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a6d26567754c7b3204bb5e4affec2adf064081cd73491e3d0f4385bf5c69fedd"
+        "sha256": "50c45a4090c61a901106879ad299cc41ccbedbeecb143c64b71775ec2018e101"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10335,7 +10351,7 @@
         "kind": "game",
         "id": "call-of-duty-black-ops-cold-war"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10345,7 +10361,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10353,11 +10369,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "628050318f25d863cd01f6758e40f28d4ac95935130db66d5350215c53b14e0e"
+        "sha256": "53e30426e173a344ef822171b791a0d0d676554575b758f3ac47cfdec551d427"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10368,7 +10384,7 @@
         "kind": "game",
         "id": "call-of-duty-black-ops-iii"
       },
-      "platform": "xbox",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10378,7 +10394,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Matt Victor"
       },
       "source": {
         "type": "google-sheet",
@@ -10386,11 +10402,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "544215aeb6ae89ac1e6d8a6e5c782119ad640c4702847433c9d8695e18df5e62"
+        "sha256": "7b4d0dafaadafc77eda12fa02e9649a64ee616ac24cafea09cb9e72464268117"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10401,7 +10417,7 @@
         "kind": "game",
         "id": "call-of-duty-modern-warfare"
       },
-      "platform": "xbox",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10411,7 +10427,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Matt Victor"
       },
       "source": {
         "type": "google-sheet",
@@ -10419,11 +10435,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "c1c4b962ce1d4abad13f523b611ce0a1dd6a3a4074b904c567a7e7fa902f119b"
+        "sha256": "35672e28c7a9c05308701d122d59453d921092d2a944472f46ba5650064c1468"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10434,7 +10450,7 @@
         "kind": "game",
         "id": "call-of-duty-modern-warfare"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10444,7 +10460,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10452,11 +10468,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "008782931ac15b491c4ba5c06b1075847ec4b75d6a2f9fbe8bda6bc8c8b4cb29"
+        "sha256": "584455078faf795966c0ebad7ae27dbc8f6a99e3f623e64d37c7b612f9d4eedf"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10467,7 +10483,7 @@
         "kind": "game",
         "id": "call-of-duty-modern-warfare-ii"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10477,7 +10493,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10485,11 +10501,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8b7e94120a9cc446761ab4ea3c0a3994adb717d1977dd50cefdf2dda2007825f"
+        "sha256": "41d669b67af2d14e6c9fe87e8a37be8db084be30e1cd89dc8c8fadc281a510dd"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10500,7 +10516,7 @@
         "kind": "game",
         "id": "call-of-duty-modern-warfare-ii"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10510,7 +10526,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10518,11 +10534,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ecd7a10646ff73a0dc6d9ab96cb051dc22aceb3113cddd6a9a9a4b1d3f12806b"
+        "sha256": "5e1e8f921d18e29ccf2cf1fe0127851e25b135adde63f43d5d366ace33e67b31"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10533,7 +10549,7 @@
         "kind": "game",
         "id": "call-of-duty-modern-warfare-iii"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10543,7 +10559,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10551,11 +10567,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9140fa133cf3540af053d8d6c895dc3bf8824d5b3dc1f1e2510eb21247e15e7b"
+        "sha256": "005acfba06179998c7c9676f047f0f6f3b8b9121061e54f903802aa492459328"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10566,7 +10582,7 @@
         "kind": "game",
         "id": "chained-together"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10576,7 +10592,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10584,11 +10600,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b7901c4d77b2a294b80b0679150c836a6ef7380cfc2754c1ca3069b5f7bd2f1f"
+        "sha256": "b4e37dc46f3ab585643f3c621038c46ba8d13ac653cd35283ddfd900d30ed5cc"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10599,7 +10615,7 @@
         "kind": "game",
         "id": "construction-simulator"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10609,7 +10625,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10617,11 +10633,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "09b17964e4a9f4a41a57f53f2db65b1d3439f945128f1fae9ce854cd084996ad"
+        "sha256": "764dab29517c405b315bc67c42a74be6c886d16b75f70aae1f77f220c72a3a94"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10632,7 +10648,7 @@
         "kind": "game",
         "id": "control"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10642,7 +10658,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10650,11 +10666,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "070c19553a0f1522c5b449a20e0082f003c1de35f7f7ea0ec11d89bb61972e62"
+        "sha256": "b2d0106622bac83a64924630f8d3c2fee49daf775c7a802417a69b3f7636e851"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10665,7 +10681,7 @@
         "kind": "game",
         "id": "cooking-simulator"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10675,7 +10691,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10683,11 +10699,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9e3ae095d19f3c2977bcee2130adbc3a39f1d592c5eb2c37d6b85485eb330ec0"
+        "sha256": "7261942cc81db0754497b1eee0c1ac5bcc3e3a785c5730cc6fa7035d51051459"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10708,7 +10724,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -10716,11 +10732,44 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6fa5b933454d4ef7dddea49830b2ad36482b7fe12992454c046c4c6a3e0b9835"
+        "sha256": "00c4ebe102159670ea53e7006e3af3c6eb49b733778e7871b9a9707a42a5c374"
+      },
+      "revision": 2,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "cyberpunk-2077-pc-quadstick-fps-cyberpunk",
+      "title": "Cyberpunk 2077 — Cyberpunk",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "cyberpunk-2077"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Silas P."
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1xgeJK9MdQ-e5TfoFXC1fypyoQqCV4jCHI_2XukUbJzQ/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "f5f1fbcccfa6f6e34c60b9c59914332f4a7e13a1c1e59a43ce0d2cc70e0f1770"
       },
       "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "createdAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10731,7 +10780,7 @@
         "kind": "game",
         "id": "cyberpunk-2077"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10741,7 +10790,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10749,11 +10798,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "f5b94d89e679b30478d3da4bebc1ab90c84242e2d84e33766b2ffcfba856ce05"
+        "sha256": "58b3c6ea7c5e769247d3ca0acca687b952be9c057231fa3b29d4bf9a82b6d09b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10764,7 +10813,7 @@
         "kind": "game",
         "id": "cyberpunk-2077"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10774,7 +10823,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10782,11 +10831,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1557e6076ba413073870b46c3fd4c87e21ff6fd8ecd2c75e432bee9829b6bba4"
+        "sha256": "44e9b9afa4d44b2a712ead47a0cff4340c1a91cc5a13297b97cd77559ea791f6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10797,7 +10846,7 @@
         "kind": "game",
         "id": "dead-space"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10807,7 +10856,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10815,11 +10864,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6b5113e7cbd6047cc851e7238126c85b9cbc204ce02bf3f7c37a3eb47c20f0c8"
+        "sha256": "2455f32e7a771595f2223fd3c505d6896b75783857849e48d261688e8e675a53"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10830,7 +10879,7 @@
         "kind": "game",
         "id": "dead-space"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10840,7 +10889,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10848,11 +10897,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "f530d5fc5234d17a3124e1394e4a4a925aabe66923e711cf95dbeb7e6bc19c07"
+        "sha256": "cad3b0a1b914ed1313027acdfc2db951578211ce2b94414af4aa95a169cc4e05"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10881,11 +10930,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "03658d00d2d2df8439b74daa9834c6e638dfd3f8e50c92bd0c02fcc98e50e87e"
+        "sha256": "b65767aa8441a3ed578f553a1c06c32257dd4cc28aba1e404810acc79071041f"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10896,7 +10945,7 @@
         "kind": "game",
         "id": "deep-rock-galactic-survivor"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10906,7 +10955,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10914,11 +10963,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "86e0c28324aa74337514999763c0b6e7858222e69e97319e2f532732025b98c0"
+        "sha256": "f73d7d01d6d18b0c52751901a31d95a580f551edb31934d85ab6b77ba9fccdf4"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10929,7 +10978,7 @@
         "kind": "game",
         "id": "deeprock"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10939,7 +10988,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10947,11 +10996,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "139674e69d7f36c730d7cc5bb343b8a51f2fedc4ab14685f84455b8afa20f28c"
+        "sha256": "1463f2fdf34ca45760f11780586518c24d2e7007a3a37ccde014f0f9f7d9052c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10962,7 +11011,7 @@
         "kind": "game",
         "id": "deliver-at-all-costs"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -10972,7 +11021,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -10980,11 +11029,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "d533fea7c221c9344db127e61aa9f87657c104b453fe4b158675d5bfcf1a7f23"
+        "sha256": "0bdcf99defa68609c9a3e58d72eb0c8f5b6f95b000354b28378fb45ba1719049"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -10995,7 +11044,7 @@
         "kind": "game",
         "id": "denshattack"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11005,7 +11054,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11013,11 +11062,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ed0c410ad8329f2f395382a97878b4c13641ec0b3e9b8029bbd7cb6e5e4036e4"
+        "sha256": "ab6f9e5dba19ea9a687dbd327776ebec9102854e0524626eae0b2f4fdf922f2b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11028,7 +11077,7 @@
         "kind": "game",
         "id": "destiny"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11046,11 +11095,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9368931ebc63c0d8dd3019fd00e9506e873feb95ffcef4007214a9fac21568f6"
+        "sha256": "6e95a81eaaca113061f994e0ed3cfc1b6c65005c78cc62f585f27427141247ac"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11061,7 +11110,7 @@
         "kind": "game",
         "id": "devil-may-cry"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11079,11 +11128,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "30a5b5b7234caeef7e1feead8cfb699fdc12e5a4b1e6d602a1bdb40fbccc7f63"
+        "sha256": "e26597fd32e90ef4df0971e6b31fdaac44681343e5982b9a5551893fbaebd03d"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11104,7 +11153,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11112,11 +11161,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6de42f6b7930a30d0a7b761fa73a3e2d3d82b9e9e7e59f4667357876e303bbcf"
+        "sha256": "23a63d0c4fa00aff9ffb80fa54a41814a17ccfbc3e44163f5fb01494c279963e"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11127,7 +11176,7 @@
         "kind": "game",
         "id": "doom"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11137,7 +11186,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Matt Victor"
       },
       "source": {
         "type": "google-sheet",
@@ -11145,11 +11194,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "55e5a4056af1685faf5745b8798645ce9b3431e9b37ad9f203db282025aece33"
+        "sha256": "840812ce1f7b6d56fbfff6e24cf57f8e95a16b3f2b787bde75f812ba44ca1f69"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11160,7 +11209,7 @@
         "kind": "game",
         "id": "doom"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11170,7 +11219,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11178,11 +11227,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "e9e3ff7d6a32d7427c5f13b2291f4f42573464695a8caf057d1bf4b55135d77d"
+        "sha256": "8e3f08be5d3ca74f3a13b1690822fc294b290e8d3d08de3483d9c278f2b8df55"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11193,7 +11242,7 @@
         "kind": "game",
         "id": "dragon-quest-xi"
       },
-      "platform": "switch",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11203,7 +11252,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -11211,11 +11260,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "c17f7b2acb7c1b4bf22d4ea74ba6ac0695d8bdfe6c623f35f4f2c652ffe69ade"
+        "sha256": "af2f2361dee3471f1a63f5a0f113a5b7f3cf958b41fc4529964d44c67ce3b45b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11244,11 +11293,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "d34d4f737baf1826e7ccd4636dded1ea0217d9778d8a37f3a904c17f7806fc9e"
+        "sha256": "249f024eb09749a6c9cccef6d6c1cf2ad21d873acadeaf256779cb4d32722f16"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11259,7 +11308,7 @@
         "kind": "game",
         "id": "enshrouded"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11269,7 +11318,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11277,11 +11326,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "26012c047db391234f5e8078955958bbf78657c2fffc856c6bdfc90bbcd1694c"
+        "sha256": "d15f76fdc05b5e1e245f01a4a03648eea61df67118f5fd6ea7d8d57e21d0acc2"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11292,7 +11341,7 @@
         "kind": "game",
         "id": "euro-truck-simulator-2"
       },
-      "platform": "switch",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11302,7 +11351,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11310,11 +11359,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a7f105186273cbf11997b462380c029edc71ffe20d5717cfb54d96f1cc5f52cc"
+        "sha256": "d8589f7e3f0c10341eeddcaf4564b50ee7a98ed495c95ea1590f7b0d78a15149"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11335,7 +11384,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11343,11 +11392,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "21cf10cb6b5bec122bff111e3538670bee70af10c4b37ac2c8689685ed264ff5"
+        "sha256": "7bb6a2fc4ee97b4db38e342533a7c3fe3f5f5f5dd2e8221eb5bab0ea1253104a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11358,7 +11407,7 @@
         "kind": "game",
         "id": "far-cry-4"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11376,11 +11425,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "f2490e8178a8c6e4f3b2cfa36d40ba3841ebea2f20546ab69611da1be8baee28"
+        "sha256": "0e58aef52b9d71e397a8af94369d5137e6f07cf96b29fa26d497c1845c530194"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11401,7 +11450,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11409,11 +11458,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "31e10a6d8500688ba405b8fa2682d1c9680ee8508713b4359a02295ee2a6605e"
+        "sha256": "c16769a39a0fdf77354bb2d05fc9ac12216fe02554c2ea3aeff46ae568a3fa40"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11424,7 +11473,7 @@
         "kind": "game",
         "id": "far-cry-5"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11442,11 +11491,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8e6af5c5598bed886009b7498a61568e1d48e01dcc9ef85a775a38c0925ecde9"
+        "sha256": "8b82f78a50ba5266fd5970778d175b0d560f5e103c62ac3d8c9fe64be7d23de8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11457,7 +11506,7 @@
         "kind": "game",
         "id": "far-cry-5"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11467,7 +11516,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11475,11 +11524,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "36d86ca8b4b31e9ccbba7a86ccb6d73f15ea5f0e4c84fe0b357dc52b977bf50e"
+        "sha256": "310a60f91a9564a37916554beaa43275cd37be596bd064c2dab25c4c75f64dc6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11490,7 +11539,7 @@
         "kind": "game",
         "id": "far-cry-6"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11500,7 +11549,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11508,11 +11557,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "81d7a48ea01da66649fec7443bfb89e7d2de1dbb02919584d88a763cbd96949f"
+        "sha256": "a66559299d5b05135caae52e770e69cffffb2ea49e74e822d78598ca6565d755"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11523,7 +11572,7 @@
         "kind": "game",
         "id": "farming-simulator-17"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11533,7 +11582,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11541,11 +11590,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "0a31ac5b1625d6055afa0bcf22d5c82e0425267837e22103ba3c7399bc8435c9"
+        "sha256": "7f85b7d276eda7d08de2283920e966b42df0bb3f7cabccde1ebf4dff95286479"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11566,7 +11615,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Steamy Biscuit"
       },
       "source": {
         "type": "google-sheet",
@@ -11574,11 +11623,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a73a7b56d36dfa3d5e9bd49e6135c36fe5a2cf97fcda3e282dfdeee7bba646e7"
+        "sha256": "286385653dcf0a3f7a66af9a9b67647c0eb8e0ea5de95043641b5045c773345c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11589,7 +11638,7 @@
         "kind": "game",
         "id": "flight-simulator-24"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11599,7 +11648,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11607,11 +11656,44 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9ff44167b40871bf236eedbf96b957943522c0230ff9cefec1553ed48a7f6b4c"
+        "sha256": "793d82f75f847b3ac3778f04a486bb0f6e9f8e20e0ae9f38070806b4be6f8bad"
+      },
+      "revision": 2,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "fortnite-pc-quadstick-fps-fortnitepc",
+      "title": "Fortnite — Fortnitepc",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "fortnite"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "RockyNoHands"
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1wo9W9F8cI78hMxZ0yWny_laBtY1BzL5NOZ5hkarVGGY/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "603a4ab2cf6cc9160f725053d72d1d6adaa799dd5560a5d4e1d49b7f7ddf3f24"
       },
       "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "createdAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11632,7 +11714,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "RockyNoHands"
       },
       "source": {
         "type": "google-sheet",
@@ -11640,11 +11722,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a20b2fab96aa6eb1661592cb66bf518dabfd8c4e8c3c6ca762f8e22e690bcb6d"
+        "sha256": "66c5471df37999691f293207fcae260ad607ca74bbd1e94c4c3d5818ddc62d3e"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11673,11 +11755,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "d212e60b6adec68b6291a45174235f92c57b1076ed78c21ffcbf54b6b5227764"
+        "sha256": "47a604693a5881382c8c3270cafd33adabc011290290dae0b5f525c54fd6d441"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11688,7 +11770,7 @@
         "kind": "game",
         "id": "forza-horizon-4"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11698,7 +11780,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11706,11 +11788,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "757acd7527e94c7510a50cb48e2869df754d1a4e7a9b8bac78d4efc5415c75f2"
+        "sha256": "095d97a8ea1832154fa83c52fc8b41e57ed7f395385680bff47ce10aafbf4f18"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11721,7 +11803,7 @@
         "kind": "game",
         "id": "forza-motorsport-5"
       },
-      "platform": "xbox",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11739,11 +11821,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "dc58c696676f3628d9e13f63a340c5c201e4cdf6c9f930cac0fcd2fa8d700fb4"
+        "sha256": "e18742032271e9dc33d01944b0c38377b8fbfdabeaab0e27288ca958d64d180a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11754,7 +11836,7 @@
         "kind": "game",
         "id": "fpv-freerider"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11772,11 +11854,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "e45800554c125e36e11d62015a7878bffaf24517bf05567cc346d54358f4b448"
+        "sha256": "b7bdf64a2f2d1eed33ce0bc3fe4fa7ce90b5283e44b58b5e6a9eea746284231d"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11787,7 +11869,7 @@
         "kind": "game",
         "id": "fsx-p3d"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11797,7 +11879,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11805,11 +11887,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "edf6bd7e5e6e881e321ec4729875753871bf31d83ca3ffca05148450c636f8d6"
+        "sha256": "70a9c6eaebee4a15b4053970c20802386a9664b413b72126f7c611dd5843c1f2"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11820,7 +11902,7 @@
         "kind": "game",
         "id": "ghost-recon-wildlands"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11830,7 +11912,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11838,11 +11920,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "550f1396bb4fb0dd8ad3bb7e5f5dec917443e17a00d5060be7364a98458ef124"
+        "sha256": "5f89b51b9f2c6a93d6c069a0548976343026b71364219514a9c05ff3bbba8fb3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11853,7 +11935,7 @@
         "kind": "game",
         "id": "ghostbusters"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11871,11 +11953,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1bb09153dd2a2b1358ff6b56a24e3306a701cfa6a3186e3906ac2a3e770d2209"
+        "sha256": "943fc79b3cc467974930a60c019744224565675c418406484676fb41c58a39a5"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11886,7 +11968,7 @@
         "kind": "game",
         "id": "ghostrunner"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11896,7 +11978,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11904,11 +11986,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "c77fdd43482718732a2cb21a51b73033d72ff916c1ae58726ef7bc46b12dc535"
+        "sha256": "69e67f0d51409ef84600f1ae8f6fa01fc29810e39862afaaf98f80b715467183"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11919,7 +12001,7 @@
         "kind": "game",
         "id": "ghosts"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11937,11 +12019,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a0efe6300541081fd6fb6282390d454f05fda642657494960143bd31c73411d3"
+        "sha256": "38f80664fdfefc5b2bbb301c23a986ac10859108af75a42720279499ba69a750"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -11952,7 +12034,7 @@
         "kind": "game",
         "id": "goat-simulator-3"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -11962,7 +12044,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -11970,11 +12052,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "4d84e26c501effb8f3cfffdda9606e8c291f7aceb5fa52d1038095d2c94c7061"
+        "sha256": "1f3d4e59da19de5bf797f4e0989ed171ee6d77ae11c907d2108500f6833042ef"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12003,11 +12085,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8d6653a07398101eadaeb02bb33b106b22dd66c06b27babcdd00f33c8c139904"
+        "sha256": "ece804a8cb94c9a8a069ed3c3a650efaaf5f0c7b7d04613fe4ff13e13df2da57"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12018,7 +12100,7 @@
         "kind": "game",
         "id": "grand-theft-auto"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12036,11 +12118,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2024274f8f0067d23263a2066291c5891a561afef24481fedd94dcbed4ab5e02"
+        "sha256": "7dcdcf4863f1725934d3324f4887aafb56fe6630116f8a02cc761980548fda24"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12069,11 +12151,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "467338179b0adce6bec59675e56233999ef3ba712dbddaf865db64c542e0989b"
+        "sha256": "cd852fb3ab7029e5b0006c18b315cc68ec7318751ad933120c7b5bfe8bb4bdd8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12102,11 +12184,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "53a22c8d37dfe9cba13a6ac758c77b0eb4443cdb9f9a750796fae116432be29f"
+        "sha256": "63d9e75f9489849b0ce0eb8ddeb9359475c2716d55a8198d5bfd23b7f33c00e0"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12117,7 +12199,7 @@
         "kind": "game",
         "id": "grand-theft-auto-v"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12135,11 +12217,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "dae0f72505c8e0e3f7846f39b668bdedb1366136337d3210e571f98bc0485702"
+        "sha256": "81f0e482c94ade013ed1e631beadc77749fbfd131888713cd7625f2e559c416b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12150,7 +12232,7 @@
         "kind": "game",
         "id": "gta-iv"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12160,7 +12242,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12168,11 +12250,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6423a82a51748fb0f217a94e5ed4ef3f28d0d071e49a68269f96b5e846b2acad"
+        "sha256": "de4578e3b8fec5903c3e7b7c1399050aa3017ae9d94dc94fcc13a17a3f27a25d"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12183,7 +12265,7 @@
         "kind": "game",
         "id": "gta-v"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12193,7 +12275,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12201,11 +12283,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "e27fc7a75dce29fdca905f577fea34572128c95c0f1f6265f9dbe54ea09ca9b2"
+        "sha256": "2396499250a183294da4aea0406dffc8a965972d7dc9548b956b47f62c6b8686"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12216,7 +12298,7 @@
         "kind": "game",
         "id": "gta-v-fivem-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12226,7 +12308,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12234,11 +12316,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "942fd985b49a8f80ffacce2108a9a9a886033414e75365641b3d27b475ba93aa"
+        "sha256": "1b4f55411afb355b202ce61be962b2001c2411ceb1f0fc5261bb1fe194f043cc"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12249,7 +12331,7 @@
         "kind": "game",
         "id": "gta-v-redone-fivem-optimized"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12259,7 +12341,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12267,11 +12349,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "777dfc7862cb099222692300b4404a1f4426ffa4e285026d871f678a82e4df61"
+        "sha256": "263293e285a3f8f9a80788857fdc1696ca6a366eef54bc2223e2a8fbef03eaf4"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12282,7 +12364,7 @@
         "kind": "game",
         "id": "half-life"
       },
-      "platform": "pc",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12300,11 +12382,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "415a5493693c9f56f6b0d51d5ac2cdc779f1e3f3e0ceb312c66edc9365e5ebe6"
+        "sha256": "3e54fdaab4766e040e880bdeae1535e87fa57b8146b981c0564012dba91542c6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12315,7 +12397,7 @@
         "kind": "game",
         "id": "halo-infinite"
       },
-      "platform": "switch",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12333,11 +12415,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "04f7ba9026b857c663d08ff7990a17ae2cf1f660db788422804fbf02e2a141dd"
+        "sha256": "af130597778462e7a085d3b6697ae5cc4221c12de3569f65722c6c1513acdc6e"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12348,7 +12430,7 @@
         "kind": "game",
         "id": "halo-infinite"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12358,7 +12440,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12366,11 +12448,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "73dd84d592d4e5134494babafd8069fe8835cc856bb942eb33d943148ce6f651"
+        "sha256": "d5aeca632314eda761a55ac2ea698c16cac1ac6106ec81896332693dd122ec59"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12381,7 +12463,7 @@
         "kind": "game",
         "id": "helldivers-ii"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12391,7 +12473,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12399,11 +12481,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "70df8ba5d9b2400bb29e7009502477f58b5b0db704aebdda0e7df57ee425784c"
+        "sha256": "a8a73efe91bc9deb392624d8d010fccf25afe376cdb3747f4b6dbbd4cc7efabb"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12414,7 +12496,7 @@
         "kind": "game",
         "id": "high-on-life"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12424,7 +12506,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12432,11 +12514,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "15cebd1f5565fea3914b30781193d116ba5ca8f7280a71e1bd162ab25365501e"
+        "sha256": "6b9a22985a53a68d4c8a0ce96a3220656585f5abe8671896c2389174b5649bfa"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12447,7 +12529,7 @@
         "kind": "game",
         "id": "hogwarts-legacy"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12457,7 +12539,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12465,11 +12547,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "775aa5a50504545fcec15c89f9a7755b341296cf1710171a5b38b4a18802f785"
+        "sha256": "b9231e427997f6dfd820f241059b3b8f3b50ba27bf64d4731282c8339144a9f0"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12480,7 +12562,7 @@
         "kind": "game",
         "id": "horizon-zero-dawn"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12490,7 +12572,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12498,11 +12580,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "52f959ec764a9ec9ff03f4052d5d539c432c76f3b4da6e9058bf2ae675daf7ef"
+        "sha256": "deb1aca4941e66920fa1ecead1726e68a83bdda9895b9e9980d8b563ef9a2a20"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12513,7 +12595,7 @@
         "kind": "game",
         "id": "hunt-showdown"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12523,7 +12605,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12531,11 +12613,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "48c9abdbeb8095de8da2d4307da914743bf5039b3314d474207f026069b75f41"
+        "sha256": "40c6db338a95c4e2ffd4024c930bca9aedafc7fb775ca42b337feba48fe8d248"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12546,7 +12628,7 @@
         "kind": "game",
         "id": "hytale"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12556,7 +12638,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12564,11 +12646,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "21b4dccfca27b40061da8ef6ee59aa9a83cd883a0fd292a564f9655a105a1b7d"
+        "sha256": "88d1b382ddfe2c641d5cbc7e46f01b7e89a84aa0486a7f45570fc9b84a8caef0"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12579,7 +12661,7 @@
         "kind": "game",
         "id": "indiana-jones-and-the-great-circle"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12589,7 +12671,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12597,11 +12679,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "99b6cb62921974ef9d6bd51d7e4b1c5dad1401ad228872faaa3b128f300e778f"
+        "sha256": "fdb59eaa7c456f38dbb876b57ffde185ce4ee8f1cd2721234aa086ad71eb24b9"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12612,7 +12694,7 @@
         "kind": "game",
         "id": "it-takes-two"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12622,7 +12704,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12630,11 +12712,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "7cf9dd4c30d870e8e3102e25caf363600cdf7a2e38ce671ea19405770da73752"
+        "sha256": "d502c63b7a43d325bb4e1379f52cb6e4c336aa32fc9f1aff2ab7c9428d31e624"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12645,7 +12727,7 @@
         "kind": "game",
         "id": "journey"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12663,11 +12745,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a9839a2d68d714c8860cfe366af83f98ba2f6052df3d746cd600e36d3cf32eb2"
+        "sha256": "9de4800db682e3ee00136875aa0cc8960eab0c2f96def388ac11958148a2baf1"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12678,7 +12760,7 @@
         "kind": "game",
         "id": "just-cause-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12688,7 +12770,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12696,11 +12778,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "50079047c186cf993e21250830abe0308db65459e4ecc4ca9aa85bc1230bbcbb"
+        "sha256": "9f8ab03155154be03383e01355ccc0d00ae307811ba664dff57c04b4793b6b2b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12721,7 +12803,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12729,11 +12811,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "d494adfcdac9ddd479dfae7e768ead2359746fd262f902ede23dd227a1a93989"
+        "sha256": "18e6189ee75bce8c0ab0075c7189f744492a55a282721da303ba0d42190d3717"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12744,7 +12826,7 @@
         "kind": "game",
         "id": "league-of-legends"
       },
-      "platform": "switch",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12754,7 +12836,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -12762,11 +12844,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "798feac528b3406620f33c10495c8fbfe713d3f7160dcd682d9a19c97c28e970"
+        "sha256": "d2d3149dc5317623c13a66ebdb15ef14767375ab631188be47f5a7a1b86f7fe8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12777,7 +12859,7 @@
         "kind": "game",
         "id": "league-of-legends"
       },
-      "platform": "switch",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12787,7 +12869,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -12795,11 +12877,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2ecf233a34f446fca98a62d03d76afb1f5daebb498eeaee34f962506c6430847"
+        "sha256": "d9d5e26b5e8a81a5f9c90af1b898bc64169771ecec77760b2e33d6870376d4ad"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12810,7 +12892,7 @@
         "kind": "game",
         "id": "lego-fortnite"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12820,7 +12902,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12828,11 +12910,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9ce6f9ab82f4426b8a659f54b79eb6013687778b5af4796447abbf139e776443"
+        "sha256": "ac0992631b0466711ea6081791fa64289579f1e360e0d5e327be9dbeb3b39155"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12843,7 +12925,7 @@
         "kind": "game",
         "id": "lethal-company"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12853,7 +12935,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12861,11 +12943,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "33644b1804587d95fdb7fa3da996dd797ffc13b68375e13b223b4a539640b5cd"
+        "sha256": "eaa87a71c3c0cce41a75e839b4829dd310f9ec3d7c4e45e55e24be153ee8e3d6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12894,11 +12976,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a33b272a9b3de79e0fa7d1644a6bac72d7d1efba9728959743d9810fc338ce2e"
+        "sha256": "00af41ba100b6e565f5f9163357191dbdc323e7f3d13cf0be17d4362f5bec713"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12909,7 +12991,7 @@
         "kind": "game",
         "id": "madden"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12927,11 +13009,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b05531a31236e5e40d776e315befbc931dac96a84a09fa8ca5aca57b91a2da70"
+        "sha256": "3038be9841adc6f95b496b1d55cdf21855d749b368a99925f9b9954f200f63d8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12942,7 +13024,7 @@
         "kind": "game",
         "id": "madden-18"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12952,7 +13034,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Matt Victor"
       },
       "source": {
         "type": "google-sheet",
@@ -12960,11 +13042,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b0c77d465ddc543c3c2c9c506dfef764c591da2f63095ce94e16ec57003a0761"
+        "sha256": "39703e7c00fb918f76b2187bb9579cd41971e5db438ea3831ea489bd53c19af6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -12975,7 +13057,7 @@
         "kind": "game",
         "id": "marvel-s-guardians-of-the-galaxy"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -12985,7 +13067,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -12993,11 +13075,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1d8d2161959278db4de831b021c4c2acf5bd5cb97c66f8dda5f9cf9ccca838d0"
+        "sha256": "84a7c7f1a4a8a13c4bbd5656d49076160ed36546c732374681bc04e7dec2d401"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13008,7 +13090,7 @@
         "kind": "game",
         "id": "max-payne-3"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13018,7 +13100,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13026,11 +13108,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b348d4f1754fab9a2e714bebde8d0e1ddc3a2b16b43c1f99718b28f8c97d3332"
+        "sha256": "b3a29d14b310989bd8b86c5318586c4e7ae5f5beed2147398a3f69a3b0aaf718"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13041,7 +13123,7 @@
         "kind": "game",
         "id": "metal-gear-snake-eater"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13051,7 +13133,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13059,11 +13141,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "cc94393073dd60d94560b10028d116bbf5a499fddfba34be00c45cfc1d6572bd"
+        "sha256": "7365c84845495588a9b40f72fc5aedd6671b5534ea96eedc8da38ba130262243"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13074,7 +13156,7 @@
         "kind": "game",
         "id": "microsoft-flight-simulator"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13084,7 +13166,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13092,11 +13174,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ca30e48c1951c43756a40670621144b470b381fe15145a08d30d62c480f82aaf"
+        "sha256": "9805e5ade71f1a016af2f72d743b2e6c2628ff3c57daa1b7ec6c526111f85bac"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13125,11 +13207,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b9e63c9579e5a199d584e4e26394899488b88f57c0b20e287eeca6a0291092f4"
+        "sha256": "06a185bb01a3f4850ff5d10e477159c4891b29fa15684a1410acb5c3fe0c069b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13150,7 +13232,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13158,11 +13240,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "11e5e80700168e91d1561273b213e1cdbb25ff80534e166b8a3e4c4a0993e07f"
+        "sha256": "9d99c6c0ce808c9ff0cadb4b6c8a694b066b2dcd72da3a756c4c9b77932d07b1"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13191,11 +13273,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "fb2cb3fab4063784a3d143a038636508cb3c5e7eb0527951950d6526bed90d6c"
+        "sha256": "fa38cdaee89e464966c76b9638ed957838294350d2fb9c87978a2f760f0b1b52"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13224,11 +13306,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "3e029f26b98f0007023ef02ea95fc3eca10cc1847f55a0ac5c774226491ff308"
+        "sha256": "545cfde2f013e483d5387b168a544af52233e7a8853f48ae85e34a59c80b3bfa"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13239,7 +13321,7 @@
         "kind": "game",
         "id": "mx-vs-atv-supercross-encore"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13257,11 +13339,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "fc312610fde5b63ad689e3b9df28337db61c8b3b2f06c4b80c835447e1100aa8"
+        "sha256": "5682ab0a5dce436c8e38bb8a5955b11a0eab95b94c91eea47a5cbd928b5a93d6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13272,7 +13354,7 @@
         "kind": "game",
         "id": "mx-vs-atv-unleashed"
       },
-      "platform": "playstation",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13290,11 +13372,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "3c2a1cf2894e00a0511214b0bbb1962067fe1f64bef9728c31d3f85e2a5f9927"
+        "sha256": "54bbca89f7a474a96746726efb5d513e584b5927bf455056ceb32290d3f77dbc"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13323,11 +13405,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "4afd1fe6042fb3a2aa116f85fef29faddc388e73be68ae9a8d2ef286536c9594"
+        "sha256": "c3b9af65297c4a74a8b3e104af53c5d8f39a5faa7e874bbcb358a98a85d3db2a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13338,7 +13420,7 @@
         "kind": "game",
         "id": "nba-2k15"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13356,11 +13438,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "0b0e40b5c74e0ac91e89e44d306ee41a1de182b8221e9f268227e5251b699dae"
+        "sha256": "0b480cb5da1b97f49191d918290008cbdcfd18f70f1ed2c2837d2f66a837611c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13371,7 +13453,7 @@
         "kind": "game",
         "id": "need-for-speed-heat"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13381,7 +13463,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13389,11 +13471,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "965b300fb35588036618d5d658237198e401656b0bcf92fcd2f8b430599934e0"
+        "sha256": "6e4e9dc2e772065821c8d61eae9bf015784704f381e2857bb25e2ed5e259d5c5"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13404,7 +13486,7 @@
         "kind": "game",
         "id": "need-for-speed-carbon"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13414,7 +13496,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13422,11 +13504,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6d5ef30eab27c755dd650f9db5b64777c08f0a74d223cb3c0ca2a28f84f6f2c5"
+        "sha256": "480eb83ebae58f019dd26cb41fd2e827fc965863d1353fc1d21ee70c1519014f"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13437,7 +13519,7 @@
         "kind": "game",
         "id": "ori-and-the-blind-forest"
       },
-      "platform": "playstation",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13455,11 +13537,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "50ad99b3188df515e85f622c1c41c07e8c926c80d84344f99238384bb51881f7"
+        "sha256": "32624cb0bfdd12bd8768726524cbeed3ecf3b0b45a68d1f6a8a1f9c2454905e5"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13488,11 +13570,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2433529dc47e6f7b7bac9213890580b50d7217a8973e1cd14a6a0bbaf095c23d"
+        "sha256": "23e213d2e35ee43a727b87a5e8ba83818204753c890481e26a3b11a3e339690f"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13503,7 +13585,7 @@
         "kind": "game",
         "id": "path-of-exile-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13513,7 +13595,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13521,11 +13603,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "dd1b6221df97ea7f8d2bebeed997a8efd9c40c65e12da7bd4aee31f6a4639ce0"
+        "sha256": "c3b9b7a342d93dfb1a18cb51a9d6013c0b758629ce5e7add62e16a3a655d5f54"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13536,7 +13618,7 @@
         "kind": "game",
         "id": "payday-2"
       },
-      "platform": "switch",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13546,7 +13628,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13554,11 +13636,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "62917d8bcac8c4e2e11c87a1163ecb1b7087231241fe83259d77afd57cdfcbba"
+        "sha256": "bdaae719644f16e77936868562371773a21d366d91a3f3fee194dd3bc6af68c9"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13579,7 +13661,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13587,11 +13669,44 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "03980fa90fb08d5b947950e2905a389614a1a6a549f5774a6a3c1a47edb9c10b"
+        "sha256": "aa36ba30b7ecd4fd5d3303245b1ce3463ec9ef77ff3d9c47441d4b6c8a98ef34"
+      },
+      "revision": 2,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "peak-pc-quadstick-fps-peak",
+      "title": "Peak — Peak",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "peak"
+      },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Silas P."
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1N_WljzqAtyhxy6rvES1HdY45FTVreYo6RMRxBD843Rw/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "866e1fc463b968a34675597680d1d39255703e4ee4fea01c27a346ab9fcc7fc9"
       },
       "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "createdAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13602,7 +13717,7 @@
         "kind": "game",
         "id": "planetside-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13612,7 +13727,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13620,11 +13735,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "330e1f1be345400355d9b97eec9c14b4f13dafd947829e7c65adb70ff3caf516"
+        "sha256": "7bff90f31402893e0fd043cb61fa6625db6cf6fd4892b9056e391da9c1f51d9b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13635,6 +13750,39 @@
         "kind": "game",
         "id": "police-simulator-patrol-officers"
       },
+      "platform": "pc",
+      "deviceId": "quadstick-fps",
+      "semanticStatus": "unmapped",
+      "mappings": [],
+      "tags": [
+        "community",
+        "quadstick-catalog",
+        "unmapped"
+      ],
+      "contributor": {
+        "displayName": "Silas P."
+      },
+      "source": {
+        "type": "google-sheet",
+        "url": "https://docs.google.com/spreadsheets/d/1Z9N0bPvsG24jg6h3wsrs4ps9xpJzgKKMjxbMeTkJ1s4/edit"
+      },
+      "snapshot": {
+        "file": "profile.csv",
+        "sha256": "f2b9f360f1bb8b0752fd21093e3d32ffbba0b0e491ab00716ca35669d6286884"
+      },
+      "revision": 2,
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "schemaVersion": 2,
+      "id": "portal-2-xbox-quadstick-fps-portal2x",
+      "title": "Portal 2 — portal2x",
+      "description": "Publicly listed in the official QuadStick configuration catalog. The exact workbook is preserved, every mode tab included; semantic actions remain unmapped pending target-specific review.",
+      "target": {
+        "kind": "game",
+        "id": "portal-2"
+      },
       "platform": "xbox",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
@@ -13649,15 +13797,15 @@
       },
       "source": {
         "type": "google-sheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Z9N0bPvsG24jg6h3wsrs4ps9xpJzgKKMjxbMeTkJ1s4/edit"
+        "url": "https://docs.google.com/spreadsheets/d/12chbpPU4yCuxJ3DBBDoamhGblTaLfqhrENMxsxgvM2s/edit"
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "fcce1abf6182adaecb9b577a270bc561562f580592c4a3963d8283c591348078"
+        "sha256": "d804968a6009d9fc90935b88a85e947cac14001554338365179b5a23a1fbac02"
       },
       "revision": 1,
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "createdAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13668,7 +13816,7 @@
         "kind": "game",
         "id": "portal-2"
       },
-      "platform": "pc",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13686,11 +13834,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "94d1b9e9c8e15442619cc2a583c228e04412e87a6259129989334a582cb4e1a8"
+        "sha256": "b21f954f48bfd57f54ece735a8ad38f02ac37e2304573d98611b2a5142ff15e3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13719,11 +13867,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "fad3aa134a6169fb00bc3f1a4a649231532bfb62b9440d49b94da362c77b7474"
+        "sha256": "6c925d881d845d3a3714f22cdf93959fc87337fb1ec44a6dbc4c69dda2e23f78"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13734,7 +13882,7 @@
         "kind": "game",
         "id": "project-cars"
       },
-      "platform": "playstation",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13752,11 +13900,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "06700de5634c5e007249a18883df40a0c9e48bc281d8423d42a581d89695e34e"
+        "sha256": "52fb6ebe6f43262ec85290627626e522b9fcfb04d0cd7bd72f370313e43c2df1"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13777,7 +13925,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "RockyNoHands"
       },
       "source": {
         "type": "google-sheet",
@@ -13785,11 +13933,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1f0d482088189bf568dc848ac5ad48cfa5110c58c5c14f8a68c939de6395862d"
+        "sha256": "3560eae1b999426658c0f54c1211d078db84d27b68a3d3aa253edd36a2f99d80"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13800,7 +13948,7 @@
         "kind": "game",
         "id": "raft"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13810,7 +13958,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13818,11 +13966,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8fdc14279176997f8f055467c589a813565e6ed5ecd48837e038c17a984731e6"
+        "sha256": "a1a6c0c8f1727dc87f67ffdf46054bf0f7d99c24fec3e79d2e389f5e0b501af7"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13833,7 +13981,7 @@
         "kind": "game",
         "id": "red-dead-redemption-no-fishing"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13851,11 +13999,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1b7d600660c7d91b0dab8c26ec918813f516cbdeb1dcc0562f37da913998ef96"
+        "sha256": "d654a4e0e99f43d4d4e0b61b080ffb55e0ab20059bff7eb76a6cb33887b360d6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13866,7 +14014,7 @@
         "kind": "game",
         "id": "red-dead-redemption"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13884,11 +14032,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2c11ebe89779341d4794d2fbf8c00e22e6fc92bf35ff53102c54b9f3f6fb1872"
+        "sha256": "ddc5399c5d62c348395cbf7545df5ac250b89958ea1e98f12a362f433c254333"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13899,7 +14047,7 @@
         "kind": "game",
         "id": "red-dead-redemption-2"
       },
-      "platform": "playstation",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13909,7 +14057,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13917,11 +14065,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "54dd6b8f7d1f60c7062ff98d0f72442b58796b23c0e8fb2df9d6258b3537a6e7"
+        "sha256": "c4dd3c69e410d1ce637103bb065e71b16d6dfe37626f429626818059fda7ee28"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13932,7 +14080,7 @@
         "kind": "game",
         "id": "red-dead-redemption-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13942,7 +14090,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13950,11 +14098,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "40a8a400dcbfd4911a995b656cba9b39e55810d228671803bf8927dc6b0dccbb"
+        "sha256": "cd1a5993be51bf5428ac472c5da3ce446408f24420462a62aba92edfe5846084"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13965,7 +14113,7 @@
         "kind": "game",
         "id": "red-dead-redemption-ii-redm"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -13975,7 +14123,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -13983,11 +14131,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b5164a02dc3bbe53510a02027733ca5f1f22137eb02404854f14d9d0b4570b79"
+        "sha256": "f7342eddafdf292c79ef6fb02395afd0f9de2a76f5d3e53b357357eb6498c41f"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -13998,7 +14146,7 @@
         "kind": "game",
         "id": "return-of-the-obra-dinn"
       },
-      "platform": "switch",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14008,7 +14156,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -14016,11 +14164,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "93859aab84bf4e93d6f4ebd25d91bc116d5e91d4399454d9d6733ab5708bd619"
+        "sha256": "cf7f3939fb633e93c6cc75c9bb8f8d59ba340aa2742267bd02aee1adb03a8ecc"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14031,7 +14179,7 @@
         "kind": "game",
         "id": "rocket-league"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14049,11 +14197,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "deb6a771d6d012f090a76eaebb0725a52a0abc0839f27cec30061f7c52a75831"
+        "sha256": "6435668e42603dda059edb490ff8f77b93ba0731ce89cd7b26b6d79041bb18a1"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14064,7 +14212,7 @@
         "kind": "game",
         "id": "satisfactory"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14074,7 +14222,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14082,11 +14230,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9db9887445908a558747e0ca72ad1b56fe534d32832f18f87bee377f66c3cb3b"
+        "sha256": "7857fd668cd02814f3c9af29fe3e5a85ae3271ebb891a6409cd3586c438acec3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14097,7 +14245,7 @@
         "kind": "game",
         "id": "schedule-i"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14107,7 +14255,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14115,11 +14263,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8db4092ff7bab7d64d0a82067bd2966beffd5c5fc8eb561cf884fd2b5ad1a873"
+        "sha256": "ac08e31c0ceb4ffedcd6e03b535999ed65f5aa7cee7a8fae31b95481974611a3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14130,7 +14278,7 @@
         "kind": "game",
         "id": "sea-of-thieves"
       },
-      "platform": "xbox",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14148,11 +14296,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b41cd3a8f5ce20948616c85cb998e0849503734cac058ad945ee471fdf26e00b"
+        "sha256": "8a6fad5f799f0b86cdd7bfd1c274ecc5670485610e0a1ca8d78870a18a3518e3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14163,7 +14311,7 @@
         "kind": "game",
         "id": "sea-of-thieves"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14173,7 +14321,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14181,11 +14329,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "7c432a379029310c1e65de59d46f6a9fdb100a6315a9e6025620fb3c994342c7"
+        "sha256": "9e302ddbfd22ec56280e8560e9ae3f3033107481828343a24278348aac084604"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14214,11 +14362,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "af120616c1ab3bb5eea52424a08bdc228040227199c61fdf7b28f0a156358d28"
+        "sha256": "6b870852faa5081b1dadfa86aed1c27be101b6ac8914a8aa3df24f2644a61e3d"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14229,7 +14377,7 @@
         "kind": "game",
         "id": "shadow-of-mordor"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14247,11 +14395,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8c22b800f2f7a6fa797b8fbb66277456c33700f384f5d0cdd21ce0373d9dcdb9"
+        "sha256": "62e968ac1653046b09509ec124ab37a458f4a905ae396b07a471619bfe23d738"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14262,7 +14410,7 @@
         "kind": "game",
         "id": "shadow-warrior-3"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14272,7 +14420,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14280,11 +14428,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ef00116ed60dbeed8c297c5ad40f76c7eea2f75a1e60b1311dad0c716f9403eb"
+        "sha256": "26e8f210d5cb4001951325a3470348c9424072c61816644b1463819b20cd969d"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14295,7 +14443,7 @@
         "kind": "game",
         "id": "shatterlinepc"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14305,7 +14453,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14313,11 +14461,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "03d2eaabbbcf27315f3470dafce1e3fe31b637da8777465e9beadd72873149c9"
+        "sha256": "4417a4ac13aee3b38986ff8327768aa8ec18abf97f367fdf23c547e2f177d2a6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14328,7 +14476,7 @@
         "kind": "game",
         "id": "six-days-in-fallujah"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14338,7 +14486,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14346,11 +14494,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "35a886d349147dae649da5abe2430f56b791bd755883c16173d7432dfeb5963a"
+        "sha256": "536a78b323be77217d169b0117e4fc6b595756d883638c644010f7a9ac566ea4"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14361,7 +14509,7 @@
         "kind": "game",
         "id": "skate"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14371,7 +14519,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14379,11 +14527,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9fcc5fcf4b023982107ba9c27cace2a1dbd797f27711139aff3fe081ac9ba133"
+        "sha256": "d2ae11acb0def4806c0a9a3380b1ef0dbd5dbd0317d99a5959b2df14012dd121"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14394,7 +14542,7 @@
         "kind": "game",
         "id": "sleeping"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14412,11 +14560,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "e6f1254fd9b537b57a63df99b0fa43e46276a85153dc8f29f0352117c6128b8c"
+        "sha256": "bf1c729ce4fef0fe5a9bf0f0d5ba94324e38515266c1df307d37205f1e6e07c5"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14427,7 +14575,7 @@
         "kind": "game",
         "id": "sniper-elite-3"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14437,7 +14585,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14445,11 +14593,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "40bb63c122dbd598bdbbea1ab46f68fb2ea5c96f2cf77cf9f39b3caa5df809d2"
+        "sha256": "56e313d66e46e2b68a8fd88851b4b5fd80daf46ece000f9c006fe24990c101a6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14460,7 +14608,7 @@
         "kind": "game",
         "id": "sniper-elite-4"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14470,7 +14618,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14478,11 +14626,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "c00f279c6ef52278df1674184e68dfcdbb3d8145e1015c7f0664ede8b867bdbc"
+        "sha256": "034f7893b738a2cdd28f825f4100a8802e6a3f7e6e332b31f44472edf4a0a5fa"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14493,7 +14641,7 @@
         "kind": "game",
         "id": "sniper-elite-5"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14503,7 +14651,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14511,11 +14659,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ed3b5984840b72fece2c72a5bde32d369e373e36a294ad0eb1056f4143b96c05"
+        "sha256": "cdb0f3acb72899e67ac89d59ca9d2767355455c0dfb636fec306d2bc883730aa"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14526,7 +14674,7 @@
         "kind": "game",
         "id": "sniper-ghost-warrior-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14536,7 +14684,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14544,11 +14692,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "2853fe27c9a33ec247789ce30e92449569f96acea65110e61ae14f89a40eb858"
+        "sha256": "d4d9b8b652241003face034e6610341ccdb0d4ddea874154366aa079c740236c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14559,7 +14707,7 @@
         "kind": "game",
         "id": "spindle"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14569,7 +14717,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14577,11 +14725,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "cb6baad2e5b1682bcb8fde8bf4d152ed5fcaa1e2fcc6c6c66ef38d00cfe86acf"
+        "sha256": "1863ca70156ccb369d5e9386a4667021ac0567d95230c5f9841b9237fcd8f45c"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14592,7 +14740,7 @@
         "kind": "game",
         "id": "split-fiction"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14602,7 +14750,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14610,11 +14758,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "cafbf2d19f05d8f49b2b6f67abfd46b4fcd0e47aec0354927f6cd08d3415a719"
+        "sha256": "95d8d3ee008d2accf345b87d3988ae790b0508f975f1c881a0ef77df06958b32"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14625,7 +14773,7 @@
         "kind": "game",
         "id": "splitgate"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14635,7 +14783,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14643,11 +14791,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "7ef33ae87b97870d85b84c27d9cf26636f664d380f4d1457ac6fd43809ac2def"
+        "sha256": "ba47fd2032443427cae89f0ded502caf0647f5038b1c6b9d5f1bf43e46ff3641"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14658,7 +14806,7 @@
         "kind": "game",
         "id": "star-citizen"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14668,7 +14816,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14676,11 +14824,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "69dfc8974af9eebb9c345a3c914d6e25c36d8640aca91db6e8935e72e2f44bb3"
+        "sha256": "9f98e01c6b4b4ef61bc2e7e848ea438c011bd5c6fea9b64469847d0c7dca6649"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14691,7 +14839,7 @@
         "kind": "game",
         "id": "star-wars-battlefront"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14709,11 +14857,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "7fd19f311d8776e1efd884c9def9aa8be722bce0aaa38cd80a7657331a6eb411"
+        "sha256": "90249f6c516f291adf9a30d121de4fd930d1c3a5c84e51e6a6acd2c997781b15"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14742,11 +14890,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "9a6907615a7f0d42676ff430576068ab024bffccf886d8f6e8be14d294c482b7"
+        "sha256": "a016b0e16e8c4c4aecad5ef964ebf8bd3c6c20903eed000bbf563fedc89623d8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14757,7 +14905,7 @@
         "kind": "game",
         "id": "star-wars-jedi-fallen-order"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14767,7 +14915,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14775,11 +14923,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "c31cc62f0994b1ae88b4f6eea08639b27a2a1994cc77d0554bb307bde748e96a"
+        "sha256": "77cd68aecae6886206fc8ae110aa593152452f97afcd99a62ebb2a0c984a3fe3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14790,7 +14938,7 @@
         "kind": "game",
         "id": "starcraft-ii"
       },
-      "platform": "switch",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14808,11 +14956,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "5d7218e62a098049dd8419b74fc268b6e97162fc4c57d3795295fedd81fecf63"
+        "sha256": "5eeec40c7654a02eb66f768b0c26388de4bdd40c7634cb8ab9bc2e61d8a53e5a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14823,7 +14971,7 @@
         "kind": "game",
         "id": "starfield"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14833,7 +14981,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14841,11 +14989,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "07232856e43d0fa5d126efef15892f54c915605ea9a85a07e7f2deea0ab303bb"
+        "sha256": "40a9f1b2399f2f9edd43455e9f2b3e6b241cf64d44067727e7d9d5597adcaaa6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14874,11 +15022,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6910215aa5ab56707a316fcaf90df1c28b8c7cec635c8661a7cc739e2c4f4165"
+        "sha256": "9d065eccc5f8c1ed5914a9ca0d95f8aa8e14e05b21c3a715d55cf2b0943d7db6"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14889,7 +15037,7 @@
         "kind": "game",
         "id": "super-mario-odyssey"
       },
-      "platform": "xbox",
+      "platform": "switch",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14907,11 +15055,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "c2e0ebf48511bb40384e1831bc19e46efeae63d84437205c99ce0f187eb29d1b"
+        "sha256": "48877f445ebe8b39348552da0e8f8b2a0f62d3f4ed2d2d4a2bb913d869af93da"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14922,7 +15070,7 @@
         "kind": "game",
         "id": "the-crew"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -14940,11 +15088,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ec193bc707bb47f753f86bc62bb90f91e0d5cb3a4743ddd0fc6608ccaa08dac6"
+        "sha256": "4051356eb39963d1f867aab3879a2d671f32899511abfdecd6066a7181a45710"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -14965,7 +15113,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -14973,11 +15121,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "bb270a56b8147f8e0c274eb065e4710f08ada3f861f63c21b140e50442979f9a"
+        "sha256": "52b6946656d211d0b253b5a437ea1e8718f150155b18791b1eb9c5f9fb1d12ea"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15006,11 +15154,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "55a9402ce7ee92845ec6a5242ce4e58647cfbe61d3f84a3c8fd961e76b1f4e9b"
+        "sha256": "91ab89c0c8372d33d42299eccd8869032c6d8a44ebc37a276bd169a0fc828630"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15021,7 +15169,7 @@
         "kind": "game",
         "id": "the-last-of-us"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15031,7 +15179,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15039,11 +15187,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "cc6a42454a4e02ba9feb2f57a2efddca53ae08b5b369e053944ca30c78b223c2"
+        "sha256": "cfb59d5c425f8244a200573594e659801f57145dbbb172db938bbb1f0f92ae2a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15054,7 +15202,7 @@
         "kind": "game",
         "id": "the-last-of-us-part-ii"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15064,7 +15212,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15072,11 +15220,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "4e66138f337fa4297bcab50955e82db639a17eaa72248566a0f42ab7ef030cf3"
+        "sha256": "530f99099db8fd595230b7705c1196394c2b428ee000918aca60780eb80b32d2"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15087,7 +15235,7 @@
         "kind": "game",
         "id": "the-legend-of-zelda-breath-of-the-wild"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15097,7 +15245,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15105,11 +15253,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "6523d832f29e9ad74c64ae669f14772fab1346f0028e0c48a8fe8a629f52384c"
+        "sha256": "9419e49c3a5a71cb3caf169a6c7e3f158596b89e4b37c99c1aee9c1fa3fc8463"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15120,7 +15268,7 @@
         "kind": "game",
         "id": "the-legend-of-zelda-breath-of-the-wild"
       },
-      "platform": "xbox",
+      "platform": "switch",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15138,11 +15286,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ae87d3ce5f7aefe2f5beb4a17f2379c65a8a16026a81bc5a72acc7b62a2a8e76"
+        "sha256": "bd07b18265f2f7da317ca1522b3ef06431d688e0c1a3407d18ab9f87b301e27b"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15153,7 +15301,7 @@
         "kind": "game",
         "id": "the-witcher-3-wild-hunt"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15163,7 +15311,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15171,11 +15319,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "f4a9c26f57b42eb39b03d77ac759e7c3a6914232b9b2967e51276ae49a6f7522"
+        "sha256": "f96a0447a67afa2de6f311b95a88b2285bf4579ff6686b9d598cead533806e76"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15186,7 +15334,7 @@
         "kind": "game",
         "id": "thehunter-call-of-the-wild"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15196,7 +15344,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15204,11 +15352,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8e942baf649598089fed92e7b506b13d5475fcf3de8299bf48627cb5bb117c5f"
+        "sha256": "6772fc7c3cf2494a1f2a5976f8fb960b2604062093665baa2efe35b38d0a1020"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15219,7 +15367,7 @@
         "kind": "game",
         "id": "tiny-tina-s-wonderlands"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15229,7 +15377,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15237,11 +15385,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "53875ca0986f37d529aad5bfc71e50fc5607a65c398cf77f62a3c65557b3b094"
+        "sha256": "77dd29c289e32aa429f9e43abca80a4f4888f8a2c87ef1d16a990e90818c0d65"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15252,7 +15400,7 @@
         "kind": "game",
         "id": "titanfall-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15262,7 +15410,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15270,11 +15418,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "cf17340b01862b18df12bb75d779f1aa3459760e33f92665313eaa3e5ae7757d"
+        "sha256": "334c3e657158e131e61abf30a20d464a115d43d218d7cca5512835de29e72af1"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15285,7 +15433,7 @@
         "kind": "game",
         "id": "tomb-raider"
       },
-      "platform": "playstation",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15295,7 +15443,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Matt Victor"
       },
       "source": {
         "type": "google-sheet",
@@ -15303,11 +15451,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "e0a593dc1cba6896673a16a8c0063267a1094cf1ab2423eaf9f8655b3140eafc"
+        "sha256": "db01678a8e44e6f736e7cfaf84b0fba74bcf0adf845e03085eca9ed39776dbe8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15318,7 +15466,7 @@
         "kind": "game",
         "id": "tomb-raider-1"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15328,7 +15476,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15336,11 +15484,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "1aa83582f09d6892a51a746c23d578076e93b5af19667f67be79fc54e2eff001"
+        "sha256": "a2dd757cef70543994d96ba6ce8be5ba0b99d255edffc93aa1a8bb6f4d7c2846"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15351,7 +15499,7 @@
         "kind": "game",
         "id": "tomb-raider-2-rise-of-the-tomb-raider"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15361,7 +15509,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15369,11 +15517,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "8346457e04e4f6af3ad5574c6a0ddfa40006f768d820de27d148e5db08ba8598"
+        "sha256": "e255b69799a1b8d34e082af7a0c434403cf6e27ce70f8eeae73fd3c92e127c17"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15384,7 +15532,7 @@
         "kind": "game",
         "id": "tomb-raider-3-shadow-of-the-tomb-raider"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15394,7 +15542,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15402,11 +15550,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "d9e3eb56eba19e2a4e14b15625fdce5396eea39236e786fb831120eda04f9982"
+        "sha256": "68aaf736bf8ae5c864d309adfa308f3046f7b2a663dbcc76fb4cab38db85be6a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15417,7 +15565,7 @@
         "kind": "game",
         "id": "tony-hawk"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15427,7 +15575,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15435,11 +15583,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b2a0fcececb230d59ec8cf0301ea9064d7c1951e9646861a2af0e6dedc59e95d"
+        "sha256": "f06c41d72c51273aa57bfebe5f353139641bc4e6d6c28d32815620dc30c2825f"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15450,7 +15598,7 @@
         "kind": "game",
         "id": "trepang-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15460,7 +15608,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15468,11 +15616,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "a344e28af6969784d72e2fee2fec952ef45c57b2e49250c8d1c468d120df1fdf"
+        "sha256": "25bb3110adf467035143d9ed901780874ee967c719be671c2c8cefd23fc11fc2"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15483,7 +15631,7 @@
         "kind": "game",
         "id": "tunic"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15493,7 +15641,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15501,11 +15649,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "138ff27bdff8c3086283dfee5e7f0a1b17ad6df0ed51084cd8ff5ff445a8b431"
+        "sha256": "914653e487c6b9dca6fcb27846f31290dc9e4db4332c3d5695371fc76ad6685a"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15534,11 +15682,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ea9995d406b25299c3731cafd8fb400df2f6d0dc8f870646f0c6d82706a36334"
+        "sha256": "bb24f7f42f10826baad0d635b51787a831869956873088e6e6ae94d44d2a5b55"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15549,7 +15697,7 @@
         "kind": "game",
         "id": "valheim"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15559,7 +15707,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15567,11 +15715,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "b8dc711ca9fd17dad8ed8a3cf6bae7e75e332f15fc92eb395d784030719be28a"
+        "sha256": "9cf3fb51d70ce1b6a2b2c4cb82d4610187ee0671a6c0b4c5340085f194af9629"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15600,11 +15748,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "276b4c0f191a85cbd0ee92b9cb1c76588723c6fc7cee4c50757665644abe48d4"
+        "sha256": "93e00fda93574d28b45490980e2b2ca337d0a763859b10c1c5d7997f96a68730"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15615,7 +15763,7 @@
         "kind": "game",
         "id": "warhammer-40-000-darktide"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15625,7 +15773,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15633,11 +15781,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "836854787633d68ddef78c0348cd2f6e518edda9d8eb2868425aaccad5d2bb1a"
+        "sha256": "3823bf8002e6dd9769637c387db0aca90773ef399c65c217d009853033ff8af8"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15648,7 +15796,7 @@
         "kind": "game",
         "id": "warhammer-40-000-space-marine-2"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15658,7 +15806,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15666,11 +15814,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "18bbd19342e12e5bc11348bea31a08740946ac27db08cd8485e47ca173542957"
+        "sha256": "e2f142a37d3bc002c639be61fc998e1aafb1daaea05222fd417ab74f3be17ca0"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15681,7 +15829,7 @@
         "kind": "game",
         "id": "way-of-the-hunter"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15691,7 +15839,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15699,11 +15847,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "3a92e291606837f5666ba616c8a677ce5aca1d5e02175b6086095ff7598be9c9"
+        "sha256": "de5f9625297c12400def99af8eddc1cc0293fcfa506d6757d76e1bfce369a586"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15732,11 +15880,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "d23bed74ce229025439b20cee986e4b66de7f200501840728a686c03abb60110"
+        "sha256": "a62fd4a8684698dea03ae69c1a37e9ad88af2fd2fccb60642861b62e4a7b1961"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15747,7 +15895,7 @@
         "kind": "game",
         "id": "world-of-tanks"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15757,7 +15905,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15765,11 +15913,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ea22f6135c17ae28c6172b9a7c1fd19707c88dbbbafb2d5c897e04ed0bfe6b81"
+        "sha256": "ff3f4ec14d094606f85f31e37e50678fdbb4a2491b434c1f02693453a7f83bbb"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15780,7 +15928,7 @@
         "kind": "game",
         "id": "world-of-tanks"
       },
-      "platform": "pc",
+      "platform": "unspecified",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15798,11 +15946,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "7f8747263530d426210bd0e72b22f75964eb9fe8ab8244d2fe917740e0960c08"
+        "sha256": "334126c299f951945ad0103295ee3cb38be0f34b75caebebcc6cdf02084b2ee3"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15823,7 +15971,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Dan NH"
       },
       "source": {
         "type": "google-sheet",
@@ -15831,11 +15979,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ba4636e4589074168dc4d09eba0c9b600eae348efa9a75768a862035526d7eee"
+        "sha256": "18b9f97bbf2b38dee60ceb92067ccb6b374f9f878c93f09786026d8987f4b94e"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15856,7 +16004,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Heiko"
       },
       "source": {
         "type": "google-sheet",
@@ -15864,11 +16012,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "ebac7bf2fb9b1dd095a6a0d1a72e7ce16a00b38d5bcad210f4ff6af84e90470a"
+        "sha256": "1fa68ac35a139004c7f63828363835c8049a4538b64e4e001f1617d102db03db"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     },
     {
       "schemaVersion": 2,
@@ -15879,7 +16027,7 @@
         "kind": "game",
         "id": "xdefiant"
       },
-      "platform": "xbox",
+      "platform": "pc",
       "deviceId": "quadstick-fps",
       "semanticStatus": "unmapped",
       "mappings": [],
@@ -15889,7 +16037,7 @@
         "unmapped"
       ],
       "contributor": {
-        "displayName": "Unknown contributor"
+        "displayName": "Silas P."
       },
       "source": {
         "type": "google-sheet",
@@ -15897,11 +16045,11 @@
       },
       "snapshot": {
         "file": "profile.csv",
-        "sha256": "5e363f449a2c5ba2c0a0f65793f1f724e34999401b8e007a727bdc336ffa29e6"
+        "sha256": "05ab925d91537b75a74c2d2b73fd4108dfda1d0436c7e13f457b9ea53232d044"
       },
-      "revision": 1,
+      "revision": 2,
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-10-02"
     }
   ]
 }

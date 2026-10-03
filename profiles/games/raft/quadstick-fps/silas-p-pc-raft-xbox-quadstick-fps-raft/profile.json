@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "raft"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8fdc14279176997f8f055467c589a813565e6ed5ecd48837e038c17a984731e6"
+    "sha256": "a1a6c0c8f1727dc87f67ffdf46054bf0f7d99c24fec3e79d2e389f5e0b501af7"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

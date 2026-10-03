@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "enshrouded"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "26012c047db391234f5e8078955958bbf78657c2fffc856c6bdfc90bbcd1694c"
+    "sha256": "d15f76fdc05b5e1e245f01a4a03648eea61df67118f5fd6ea7d8d57e21d0acc2"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

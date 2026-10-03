@@ -13,7 +13,6 @@
   "platforms": [
     "pc",
     "playstation",
-    "switch",
     "xbox"
   ],
   "actions": [

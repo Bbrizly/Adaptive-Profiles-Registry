@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "fpv-freerider"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "e45800554c125e36e11d62015a7878bffaf24517bf05567cc346d54358f4b448"
+    "sha256": "b7bdf64a2f2d1eed33ce0bc3fe4fa7ce90b5283e44b58b5e6a9eea746284231d"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

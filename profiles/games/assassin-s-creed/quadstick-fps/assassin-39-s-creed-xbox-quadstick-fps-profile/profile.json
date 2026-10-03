@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "assassin-s-creed"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "7f0b052f21f2a9a6a3bf0c3b4f2d3e043f706cca3a59174fb71b20f6cbf8a311"
+    "sha256": "59d5a9c4a8d934a2ec3ebd96189d07b89bb3e98972eeee59905540f615b553fc"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

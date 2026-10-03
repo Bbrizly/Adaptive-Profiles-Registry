@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "alan-wake-ii"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "beb209dd85995fba14e8f5125903d29285a535f9ed6543ad68e7f5646f0bb8f2"
+    "sha256": "a8585b72a84372411b4d15c8cfaa8570a6e34fa30a32b562dceef10621858f4c"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

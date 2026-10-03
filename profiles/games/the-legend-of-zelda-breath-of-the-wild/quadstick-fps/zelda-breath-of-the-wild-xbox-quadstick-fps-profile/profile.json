@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "the-legend-of-zelda-breath-of-the-wild"
   },
-  "platform": "xbox",
+  "platform": "switch",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "ae87d3ce5f7aefe2f5beb4a17f2379c65a8a16026a81bc5a72acc7b62a2a8e76"
+    "sha256": "bd07b18265f2f7da317ca1522b3ef06431d688e0c1a3407d18ab9f87b301e27b"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

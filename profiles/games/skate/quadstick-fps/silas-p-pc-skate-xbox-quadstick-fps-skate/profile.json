@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "skate"
   },
-  "platform": "xbox",
+  "platform": "pc",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -17,7 +17,7 @@
     "unmapped"
   ],
   "contributor": {
-    "displayName": "Unknown contributor"
+    "displayName": "Silas P."
   },
   "source": {
     "type": "google-sheet",
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "9fcc5fcf4b023982107ba9c27cace2a1dbd797f27711139aff3fe081ac9ba133"
+    "sha256": "d2ae11acb0def4806c0a9a3380b1ef0dbd5dbd0317d99a5959b2df14012dd121"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }

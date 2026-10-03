@@ -7,7 +7,7 @@
     "kind": "game",
     "id": "bioshock"
   },
-  "platform": "playstation",
+  "platform": "unspecified",
   "deviceId": "quadstick-fps",
   "semanticStatus": "unmapped",
   "mappings": [],
@@ -25,9 +25,9 @@
   },
   "snapshot": {
     "file": "profile.csv",
-    "sha256": "8ae7960405666167cc9ce3d2f75a35fa9528ea325e691f4cf551d3fc640352b7"
+    "sha256": "785fe20a77c3d64d30cdedb7e04f1992f70c4d4fa626f62fd3ffc57da10db2e1"
   },
-  "revision": 1,
+  "revision": 2,
   "createdAt": "2026-09-18",
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-10-02"
 }
